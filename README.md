@@ -6,6 +6,8 @@ In this project, we are proposing a tool to generate ‘friendships’ based on 
 
 In this repository you will find the following directories:
 1. SpotifyDataScraping: includes a python script which reads a csv file with spotify playlist links, and scrapes the data using the Spotify API ans spotypy library. It also includes the csv with the links. 
+1.1 Get_track_info_per_playlist.ipynb
+1.2 PlaylistCollection.csv
 
 2. Models: includes 4 different python files for the 4 different models that we developed for clustering the data. Each file includes preprocessing steps. 
   2.1 K-means script
