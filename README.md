@@ -1,4 +1,4 @@
-# CS539-Final-Project
+# CS539-Final-Project-Spotability
 
 ## Project Scope
  
