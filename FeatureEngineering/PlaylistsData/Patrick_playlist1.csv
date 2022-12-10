@@ -1,0 +1,64 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Bad Bunny,DÁKITI,DÁKITI,47EiUVwUp4C9fGccaPuUCS,0.731,0.573,4,-10.059,0,0.0544,5.22e-05,0.113,0.145,109.928,205090,4,Pmejia,Spanish,Patrick
+Anuel AA,Emmanuel,Hasta Que Dios Diga,06s3QtMJVXw1AJX3UfvZG1,0.691,0.765,8,-4.727,1,0.111,3.29e-06,0.203,0.855,174.021,246000,4,Pmejia,Spanish,Patrick
+Paulo Londra,Adan y Eva,Adan y Eva,6FyRXC8tJUh863JCkyWqtk,0.767,0.709,1,-4.47,1,0.336,0.0,0.0676,0.72,171.993,258639,4,Pmejia,Spanish,Patrick
+Daddy Yankee,Adictiva,Adictiva,6MJUCumnQsQEKbCy28tbCP,0.788,0.771,4,-3.206,0,0.0563,5.62e-05,0.172,0.701,99.038,207853,4,Pmejia,Spanish,Patrick
+Shakira,El Dorado,Chantaje (feat. Maluma),6mICuAdrwEjh6Y6lroV2Kg,0.852,0.773,8,-2.921,0,0.0776,3.05e-05,0.159,0.907,102.034,195840,4,Pmejia,Spanish,Patrick
+Nio Garcia,Now Or Never,Te Boté - Remix,3X5M53Xi5k1SijRtZMM3TA,0.903,0.675,11,-3.445,0,0.214,1.29e-05,0.0595,0.442,96.507,417920,4,Pmejia,Spanish,Patrick
+Anuel AA,Emmanuel,China,0KkIkfsLEJbrcIhYsCL7L5,0.786,0.808,7,-3.702,1,0.0881,0.000289,0.0822,0.608,105.029,301714,4,Pmejia,Spanish,Patrick
+Bad Bunny,MIA (feat. Drake),MIA (feat. Drake),116H0KvKr2Zl4RPuVBruDO,0.817,0.539,6,-6.349,0,0.0621,0.000496,0.099,0.158,97.062,210368,4,Pmejia,Spanish,Patrick
+Daddy Yankee,Con Calma,Con Calma,5w9c2J52mkdntKOmRLeM2m,0.737,0.86,8,-2.652,0,0.0593,1.94e-06,0.0574,0.656,93.989,193227,4,Pmejia,Spanish,Patrick
+Ozuna,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",Baila Baila Baila - Remix,7mWFF4gPADjTQjC97CgFVt,0.785,0.572,2,-7.504,1,0.123,0.0,0.218,0.49,100.016,235284,4,Pmejia,Spanish,Patrick
+DJ Snake,Carte Blanche,Loco Contigo (feat. J. Balvin & Tyga),6osaMSJh9NguagEDQcZaKx,0.694,0.758,11,-2.986,1,0.218,1.34e-06,0.102,0.371,192.091,185195,4,Pmejia,Spanish,Patrick
+DJ Snake,Carte Blanche,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",0KoiMHhqKLoL4xM54rcWYY,0.842,0.801,8,-4.167,0,0.228,4.82e-06,0.0642,0.617,95.881,212500,4,Pmejia,Spanish,Patrick
+Luis Fonsi,Calypso,Calypso,4178A5NkEjcsGc64jpBO6d,0.866,0.859,1,-3.087,0,0.0587,0.0,0.401,0.923,109.972,200347,4,Pmejia,Spanish,Patrick
+CNCO,Hey DJ,Hey DJ,209gZgcfLq2aUuu51vOWBl,0.792,0.819,5,-5.418,1,0.0867,0.0,0.389,0.433,89.98,205520,4,Pmejia,Spanish,Patrick
+J Balvin,Mi Gente,Mi Gente,2rb5MvYT7ZIxbKW5hfcHx8,0.543,0.677,11,-4.915,0,0.0993,6.21e-06,0.13,0.294,103.809,189440,4,Pmejia,Spanish,Patrick
+Banda Reggaeton,Los Mas Grandes Éxitos Del Reggaeton,"Lo Que Paso, Paso",6WDrVKtjb3ECdyE62L5zxC,0.829,0.755,8,-6.509,0,0.0394,0.0,0.246,0.867,97.007,209640,4,Pmejia,Spanish,Patrick
+Marc Anthony,3.0,Vivir Mi Vida,3QHMxEOAGD51PDlbFPHLyJ,0.656,0.877,0,-3.231,0,0.0342,0.0,0.349,0.894,105.018,252347,4,Pmejia,Spanish,Patrick
+Ozuna,Nibiru,Baila Baila Baila,5PXsZaT8cOxb4mXrA20PMQ,0.837,0.626,11,-5.674,0,0.152,0.0,0.252,0.592,99.987,158760,4,Pmejia,Spanish,Patrick
+Bad Bunny,Callaita,Callaita,2TH65lNHgvLxCKXM3apjxI,0.61,0.624,2,-4.773,1,0.309,2.12e-06,0.243,0.244,176.169,250534,4,Pmejia,Spanish,Patrick
+J Balvin,OASIS,LA CANCIÓN,0fea68AdmYNygeTGI4RC18,0.754,0.646,7,-5.795,1,0.317,1.85e-05,0.108,0.429,176.089,242573,4,Pmejia,Spanish,Patrick
+Bad Bunny,X 100PRE,La Romana,1khmgu0pveJbkbpbkyvcQv,0.655,0.725,0,-5.497,1,0.188,0.00264,0.0611,0.326,125.8,300579,4,Pmejia,Spanish,Patrick
+Aventura,Volví,Volví,2vmfvSoZBFAt9hhRoEByLi,0.725,0.86,1,-3.726,1,0.182,0.000284,0.0674,0.791,175.896,230125,4,Pmejia,Spanish,Patrick
+Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,TE MUDASTE,5RubKOuDoPn5Kj5TLVxSxY,0.811,0.637,10,-4.835,0,0.0591,0.000572,0.118,0.471,92.025,130014,4,Pmejia,Spanish,Patrick
+Bad Bunny,X 100PRE,Si Estuviésemos Juntos,35wvL50xvKpCHEJPxLOLPI,0.672,0.594,1,-6.813,0,0.0789,5.14e-05,0.152,0.158,171.854,169248,4,Pmejia,Spanish,Patrick
+Bad Bunny,Yonaguni,Yonaguni,2JPLbjOn0wPCngEot2STUS,0.644,0.648,1,-4.601,1,0.118,0.0,0.135,0.44,179.951,206710,4,Pmejia,Spanish,Patrick
+Lunay,Épico,Soltera - Remix,4t9a07PAghtQMRAIP9FQ7Z,0.795,0.783,5,-4.271,1,0.0432,0.0,0.437,0.799,92.01,266087,4,Pmejia,Spanish,Patrick
+KAROL G,Tusa,Tusa,7k4t7uLgtOxPwTpFmtJNTY,0.803,0.715,2,-3.28,1,0.298,0.000134,0.0574,0.574,101.085,200960,4,Pmejia,Spanish,Patrick
+Rauw Alejandro,Tattoo (Remix with Camilo),Tattoo - Remix with Camilo,4ZRrLHqzhGRXYj2qcB4s5S,0.848,0.637,9,-5.132,1,0.156,0.0,0.0521,0.698,96.988,222680,4,Pmejia,Spanish,Patrick
+Ozuna,Caramelo (Remix),Caramelo - Remix,2uu2aGqA2UblCg581Q7l1g,0.754,0.796,3,-3.743,0,0.139,8.6e-05,0.204,0.62,168.045,233160,4,Pmejia,Spanish,Patrick
+La Pantera,"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",0Bv7O6fmZk3GrNQFYJaXPn,0.672,0.745,5,-5.269,0,0.3,9.29e-06,0.0699,0.739,173.974,413111,4,Pmejia,Spanish,Patrick
+Omy de Oro,MOOD (Remix),MOOD - Remix,65wccjJxugGBsPKZcsHG49,0.724,0.52,6,-6.055,0,0.424,2.23e-06,0.322,0.779,171.887,226047,4,Pmejia,Spanish,Patrick
+Rauw Alejandro,De Cora <3,De Cora <3,3NRXhjpQA40exOujS2Q7sT,0.811,0.683,11,-2.028,0,0.241,4.75e-05,0.128,0.571,176.037,190101,4,Pmejia,Spanish,Patrick
+Bad Bunny,X 100PRE,Otra Noche en Miami,4vCAzANUWDE24URV6wQ4ra,0.514,0.646,1,-8.833,1,0.275,2.3e-05,0.0958,0.297,88.661,233128,4,Pmejia,Spanish,Patrick
+Bakermat,Baianá,Baianá,3iCO0ZekWPK6rmLnDjejLB,0.564,0.723,2,-6.983,0,0.0702,0.672,0.543,0.466,121.97,180843,4,Pmejia,Spanish,Patrick
+Anuel AA,Ella Quiere Beber (Remix),Ella Quiere Beber - Remix,3f5lA8nnc4YYF1qf78WpHw,0.75,0.665,8,-3.083,1,0.124,0.0,0.0515,0.697,95.239,219357,4,Pmejia,Spanish,Patrick
+MC Kevinho,Olha a Explosão,Olha a Explosão,52SZqPgS9L8uUNZeGSsU7o,0.754,0.637,6,-2.945,1,0.117,0.0,0.0596,0.375,90.015,162074,4,Pmejia,Spanish,Patrick
+Daddy Yankee,LEGENDADDY,X ÚLTIMA VEZ,48AJSd42lXpicsGqcgopof,0.812,0.855,7,-3.725,1,0.0554,0.000167,0.108,0.573,90.04,192477,4,Pmejia,Spanish,Patrick
+Reykon,"Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]","Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",2RcvZFouLOTFZbQHr3nhOj,0.797,0.709,0,-7.609,1,0.0495,0.0,0.0838,0.542,93.029,252903,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Me Porto Bonito,6Sq7ltF9Qa7SNFBsV5Cogx,0.911,0.712,1,-5.105,0,0.0817,2.68e-05,0.0933,0.425,92.005,178567,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Yo No Soy Celoso,5kVZxyMY1gfdCLiChsfjn1,0.872,0.588,0,-6.276,1,0.0492,0.0,0.17,0.93,142.004,230704,4,Pmejia,Spanish,Patrick
+Lunay,Épico,Aventura,37zdqI4r1gswIzczSBkRon,0.729,0.726,5,-3.208,1,0.0422,0.0,0.101,0.876,92.025,217130,4,Pmejia,Spanish,Patrick
+Daddy Yankee,Dura (Remix),Dura - Remix,6U2NuJILEOEpW2tVCuqKHb,0.772,0.803,1,-3.035,1,0.0468,0.0,0.434,0.853,94.981,242160,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Moscow Mule,6Xom58OOXk2SoU711L2IXO,0.804,0.674,5,-5.453,0,0.0333,1.18e-06,0.115,0.292,99.968,245940,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Party,4tYFy8ALRjIZvnvSLw5lxN,0.829,0.799,9,-5.389,1,0.0897,0.000543,0.242,0.471,97.013,227629,4,Pmejia,Spanish,Patrick
+Anitta,Envolver,Envolver,3IAfUEeaXRX9s9UdKOJrFI,0.812,0.736,4,-5.421,0,0.0833,0.00254,0.0914,0.396,91.993,193806,4,Pmejia,Spanish,Patrick
+Maluma,PAPI JUANCHO,Hawái,1yoMvmasuxZfqHEipJhRbp,0.783,0.727,6,-3.454,0,0.389,2.46e-05,0.0626,0.558,180.067,199112,4,Pmejia,Spanish,Patrick
+Dímelo Flow,Qué Me Contás,Qué Me Contás,06WTESRQbdQE1AQQdtEnWd,0.744,0.783,4,-4.192,1,0.0951,0.000285,0.509,0.754,176.0,209840,4,Pmejia,Spanish,Patrick
+Dímelo Flow,Pártela,Pártela,1v3vYDQDYdv4MHuY8azKKg,0.841,0.782,1,-4.206,0,0.135,0.000147,0.0308,0.677,95.02,216840,4,Pmejia,Spanish,Patrick
+Polimá Westcoast,ULTRA SOLO REMIX,ULTRA SOLO REMIX,6wtZPYBIXUvCpXwVjMCJBf,0.909,0.824,1,-4.627,1,0.0797,0.00387,0.0638,0.585,109.97,322347,4,Pmejia,Spanish,Patrick
+Duki,Antes de Perderte,Antes de Perderte,4RtPruLRZbyirtJGqYHPQm,0.812,0.925,5,-3.092,0,0.113,0.0,0.115,0.614,110.031,176727,4,Pmejia,Spanish,Patrick
+Jay Wheeler,Suelta,Suelta,7kN7u1ZDOrNBKcEEGwGeDY,0.859,0.553,9,-5.726,0,0.0456,0.00011,0.109,0.338,122.048,243934,4,Pmejia,Spanish,Patrick
+CKay,CKay The First,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,0.727,0.739,8,-3.805,1,0.0411,0.00137,0.161,0.533,93.005,145800,4,Pmejia,Spanish,Patrick
+Bad Bunny,Un Verano Sin Ti,Ojitos Lindos,3k3NWokhRRkEPhCzPmV8TW,0.647,0.686,3,-5.745,0,0.0413,1.34e-06,0.528,0.268,79.928,258299,4,Pmejia,Spanish,Patrick
+Sech,Otro Trago (Remix),Otro Trago - Remix,4bTZeO72FwMa6wKOiqoynL,0.725,0.79,0,-2.331,1,0.197,1.14e-06,0.0602,0.763,175.988,287773,4,Pmejia,Spanish,Patrick
+Jay Wheeler,"La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]","La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",7LE1K0lZyRFZjSlrnm7lfD,0.841,0.674,2,-5.35,1,0.0962,0.0,0.131,0.761,90.007,382555,4,Pmejia,Spanish,Patrick
+Tainy,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,0.639,0.703,4,-6.33,0,0.0794,1.78e-06,0.0865,0.138,169.888,207301,4,Pmejia,Spanish,Patrick
+Alex Rose,Me Odias?,Me Odias?,5I31UVARw4Di9SooJGN9el,0.786,0.581,1,-6.387,0,0.197,0.0,0.0859,0.33,131.874,234550,4,Pmejia,Spanish,Patrick
+Wisin,Fiel (Remix),Fiel - Remix,43qcs9NpJhDxtG91zxFkj7,0.839,0.711,6,-4.733,0,0.0473,2.02e-06,0.118,0.573,97.99,349547,4,Pmejia,Spanish,Patrick
+Farruko,El Incomprendido,El Incomprendido,493Rk3iS7rs8uPfpnfm95u,0.754,0.841,11,-3.19,1,0.135,0.0,0.466,0.541,128.019,267547,4,Pmejia,Spanish,Patrick
+Rauw Alejandro,DIME QUIÉN????,DIME QUIÉN????,2WtLhvwJX3czRVuFtUgZ6i,0.56,0.773,11,-3.14,0,0.134,0.0,0.458,0.587,170.05,163000,4,Pmejia,Spanish,Patrick
+Wizkid,Money & Love,Money & Love,3nIj7jkWVKKmmKPdhgrddu,0.791,0.813,2,-5.018,1,0.0762,0.000341,0.487,0.845,97.016,191505,4,Pmejia,Spanish,Patrick
+Ozuna,Odisea,El Farsante,5EId1m4DNwTf3at31w8bPJ,0.735,0.703,6,-4.249,1,0.0611,0.0,0.259,0.323,120.007,233827,4,Pmejia,Spanish,Patrick

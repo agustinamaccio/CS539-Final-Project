@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Five Finger Death Punch,AfterLife,Welcome To The Circus,1linrfCmITmQHs4enAxTUY,0.489,0.987,11,-4.57,0,0.0806,0,0.788,0.297,139.982,256742,4,Spotify,Hard Rock,Omkar Bharambe
+Saliva,High on Me,High on Me,4foH9ND72k3puEzoiHb1z8,0.53,0.872,5,-6.203,0,0.0704,0.00231,0.294,0.46,95.038,182526,4,Spotify,Hard Rock,Omkar Bharambe
+Papa Roach,Ego Trip,Kill The Noise,2DyDyOW1hRYFFaMhBCAHJ9,0.533,0.865,0,-5.469,0,0.0601,8.83e-05,0.283,0.605,94.969,188127,4,Spotify,Hard Rock,Omkar Bharambe
+Alter Bridge,This Is War,This is War,4K4budASa3lo3sBlfUT7Ex,0.376,0.932,3,-5.342,1,0.0984,2.13e-05,0.318,0.319,163.956,243622,4,Spotify,Hard Rock,Omkar Bharambe
+Disturbed,Unstoppable,Unstoppable,6KrxqNJFgdSrJTnfDnPT82,0.529,0.988,1,-1.914,1,0.0768,0.0278,0.336,0.336,121.0,238110,4,Spotify,Hard Rock,Omkar Bharambe
+Halestorm,Mine,Mine,3238Ck8nZUFvTqh4fKv8cY,0.486,0.891,11,-3.804,0,0.0469,0,0.702,0.226,138.014,259551,4,Spotify,Hard Rock,Omkar Bharambe
+Mammoth WVH,Mammoth WVH (Deluxe Edition),Goodbye,4vSnZR2POAHKIbE7B362Wd,0.274,0.929,2,-3.153,1,0.154,0.002,0.178,0.448,196.062,260132,4,Spotify,Hard Rock,Omkar Bharambe
+I Prevail,TRUE POWER,Self-Destruction,4UhMvTR5tHf2ecfoz0KV92,0.423,0.975,7,-5.21,1,0.397,0,0.346,0.387,172.046,146177,4,Spotify,Hard Rock,Omkar Bharambe
+Bad Omens,THE DEATH OF PEACE OF MIND,Just Pretend,1H4Y9uW4N0LsxJUz0VnaPJ,0.457,0.834,5,-4.674,0,0.0817,0.00125,0.1,0.201,140.032,204677,4,Spotify,Hard Rock,Omkar Bharambe
+Pierce The Veil,Emergency Contact,Emergency Contact,5xJlzQiPLYkvlqkRPKzBwD,0.541,0.826,3,-4.214,1,0.0361,0,0.711,0.402,113.03,240000,4,Spotify,Hard Rock,Omkar Bharambe
+Beartooth,Riptide,Riptide,6FqBQIRLJMluO10YtDbETv,0.477,0.934,6,-2.884,0,0.0803,0,0.243,0.55,128.037,211119,4,Spotify,Hard Rock,Omkar Bharambe
+Unlike Pluto,Best at Being the Worst,Best at Being the Worst,5icnQhZE9x54UqAxBK9po3,0.31,0.58,2,-8.018,1,0.0685,2.74e-05,0.109,0.26,184.238,240204,4,Spotify,Hard Rock,Omkar Bharambe
+Pigs Pigs Pigs Pigs Pigs Pigs Pigs,Mr Medicine,Mr Medicine,48tHXTsLgLIU4fJNv13LIy,0.168,0.836,0,-8.16,1,0.0679,0.00979,0.104,0.508,154.262,146667,4,Spotify,Hard Rock,Omkar Bharambe
+✝✝✝ (Crosses),Vivien,Vivien,4GPYVJUBEXr0WfhozDhvfr,0.411,0.749,10,-5.159,0,0.0898,0.00727,0.0859,0.164,179.993,233351,4,Spotify,Hard Rock,Omkar Bharambe
+The Smashing Pumpkins,Beguiled,Beguiled,6rBiMyaGB1ZJQnxb01FkPG,0.698,0.611,2,-6.542,1,0.0281,0.295,0.0937,0.449,116.997,238143,4,Spotify,Hard Rock,Omkar Bharambe
+Godsmack,Surrender,Surrender,4tYDiMb5vYQ2YlhuS9I0Ig,0.563,0.949,0,-4.568,1,0.13,2.06e-06,0.335,0.724,170.022,220839,4,Spotify,Hard Rock,Omkar Bharambe
+Muse,Will Of The People,You Make Me Feel Like It’s Halloween,4k0hvjglHbcZI203QI4pF7,0.514,0.935,1,-3.331,1,0.0605,0.000764,0.386,0.53,123.032,180302,4,Spotify,Hard Rock,Omkar Bharambe
+L.S. Dunes,Permanent Rebellion,Permanent Rebellion,2Ot85xcajHDvU7cD2BdR2M,0.355,0.989,1,-2.752,1,0.0539,0.956,0.455,0.231,176.924,193976,4,Spotify,Hard Rock,Omkar Bharambe
+Anti-Flag,MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage),MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage),2fPKdiqwKvEdhtytC0kDED,0.364,0.982,10,-3.955,0,0.163,0.00435,0.253,0.325,168.026,216000,4,Spotify,Hard Rock,Omkar Bharambe
+Amaranthe,Find Life,Find Life,0GJfvZyqNIzNC47NZh5O5u,0.524,0.954,7,-6.204,1,0.0873,1.32e-05,0.0688,0.374,139.948,184347,4,Spotify,Hard Rock,Omkar Bharambe
+A Day To Remember,Miracle,Miracle,2ah5gOCogw00A62XBoepmc,0.463,0.917,7,-3.776,1,0.13,1.8e-05,0.0872,0.369,160.028,243978,4,Spotify,Hard Rock,Omkar Bharambe
+Iggy Pop,Frenzy,Frenzy,0D0fJnHN5Tj7QTa3rEbLTT,0.391,0.985,8,-2.806,1,0.158,0,0.115,0.199,75.013,180586,4,Spotify,Hard Rock,Omkar Bharambe
+Fame on Fire,Welcome to the Chaos,Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills),1lk2MrlN6AEdDwWH4WxTPe,0.458,0.948,5,-4.759,1,0.0901,0,0.194,0.502,160.033,208979,4,Spotify,Hard Rock,Omkar Bharambe
+Lamb of God,Omens,Ditch,0IcUCRcLXR9S8OGFt0iT1L,0.495,0.958,7,-4.855,1,0.0935,0.321,0.48,0.443,75.005,217607,4,Spotify,Hard Rock,Omkar Bharambe
+Frank Carter & The Rattlesnakes,Parasite,Parasite,4Wsst7bJEVKRWI1vef1S7R,0.458,0.936,8,-3.017,0,0.0549,0,0.146,0.368,164.921,182346,4,Spotify,Hard Rock,Omkar Bharambe
+WILLOW,<COPINGMECHANISM>,ur a <stranger>,4OvlUfaJKuZ9aJVAJWmwyE,0.578,0.911,7,-9.796,1,0.0389,0.0689,0.0712,0.528,122.075,125902,4,Spotify,Hard Rock,Omkar Bharambe
+Polyphia,Ego Death (feat. Steve Vai),Ego Death (feat. Steve Vai),0Qj7PB41b6XgkApKPwDy1r,0.655,0.763,2,-5.202,0,0.0526,0.678,0.0703,0.445,128.028,350086,4,Spotify,Hard Rock,Omkar Bharambe
+Parkway Drive,Glitch,Glitch,35i03ZqMFb5Q3O9TAQ7XLB,0.551,0.871,1,-3.998,1,0.0477,0.0968,0.286,0.367,106.043,261812,4,Spotify,Hard Rock,Omkar Bharambe
+The Standstills,Motherlode,Motherlode,50lNoDOWVxhdWbmgvecuXa,0.448,0.963,0,-4.366,0,0.0921,0.112,0.254,0.487,134.961,182444,3,Spotify,Hard Rock,Omkar Bharambe
+Eva Under Fire,"Love, Drugs & Misery",Coming For Blood (feat. From Ashes To New),2C2EBs0E8Jq9IgiH6eEK4w,0.499,0.913,1,-3.877,1,0.125,0,0.319,0.549,159.97,209201,4,Spotify,Hard Rock,Omkar Bharambe
+Electric Callboy,TEKKNO,Arrow of Love,6IkcTpdDbL4OVg7skLdUyF,0.45,0.863,4,-7.284,0,0.0649,0,0.358,0.62,75.028,222867,4,Spotify,Hard Rock,Omkar Bharambe
+Clutch,Sunrise on Slaughter Beach,Skeletons on Mars,70mqWI6J3BseJrWA81EVkk,0.504,0.953,4,-5.74,0,0.0871,0.845,0.352,0.539,119.983,250011,4,Spotify,Hard Rock,Omkar Bharambe
+Pop Evil,Paranoid (Crash & Burn),Paranoid (Crash & Burn),0BeWU3xxG2plP1lhphj660,0.491,0.93,6,-5.757,1,0.0977,0.00239,0.135,0.4,95.041,235737,4,Spotify,Hard Rock,Omkar Bharambe
+Icon For Hire,The Reckoning,Gatekeepers,63pBzNTtzByif59lsK3dou,0.537,0.856,9,-3.984,1,0.217,0,0.843,0.518,168.085,208360,4,Spotify,Hard Rock,Omkar Bharambe
+STARSET,Waiting On The Sky To Change,Waiting On The Sky To Change,5qMSuD0mfQVQSA0CjifBi0,0.369,0.933,5,-4.441,1,0.117,0,0.348,0.307,168.059,244136,4,Spotify,Hard Rock,Omkar Bharambe
+The Retaliators,"The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]","The Retaliators Theme (21 Bullets) (feat. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New)",3iEmgajStVBooooNaltdOv,0.435,0.942,4,-4.727,0,0.096,0,0.814,0.19,166.17,242336,4,Spotify,Hard Rock,Omkar Bharambe
+10 Years,The Optimist,The Optimist,55ET0bFCVKpGJOXATqLe0x,0.401,0.905,8,-6.145,1,0.3,0.000703,0.33,0.53,198.093,178415,4,Spotify,Hard Rock,Omkar Bharambe
+Arch Enemy,Deceivers,The Watcher,7wwFeAgaC2pGqJaTuCVFAw,0.174,0.979,5,-7.269,0,0.0872,0.886,0.394,0.126,93.352,298000,4,Spotify,Hard Rock,Omkar Bharambe
+Rammstein,Zeit,Dicke Titten,5KTBaWu8IOczQ0sPWzZ7MY,0.63,0.823,6,-4.857,1,0.0496,0.00458,0.0377,0.565,117.048,218593,4,Spotify,Hard Rock,Omkar Bharambe
+Falling In Reverse,Voices In My Head,Voices In My Head,5XUuldRjPXcP5QxyEN4IXT,0.546,0.898,2,-3.067,0,0.162,0,0.129,0.639,173.17,191415,4,Spotify,Hard Rock,Omkar Bharambe
+Volbeat,Servant Of The Mind (Deluxe),Temple Of Ekur,1SsCpBXMHUYlrHR7Hozgvu,0.43,0.923,0,-7.385,1,0.0494,0.00031,0.633,0.57,168.009,259173,4,Spotify,Hard Rock,Omkar Bharambe
+Skid Row,Time Bomb,Time Bomb,4kco9GEeZq1UYDvIR62MdR,0.479,0.911,0,-5.894,1,0.0652,0.0552,0.37,0.343,170.992,254508,4,Spotify,Hard Rock,Omkar Bharambe
+Bullet For My Valentine,No More Tears To Cry,No More Tears To Cry,11beGBTthT9XhdQXYFkajZ,0.428,0.939,11,-4.917,0,0.089,2.89e-05,0.13,0.454,94.972,221433,3,Spotify,Hard Rock,Omkar Bharambe
+Architects,when we were young,when we were young,5wTfzzRW8ddRdgW2kASbox,0.443,0.938,8,-3.01,1,0.106,5.71e-06,0.32,0.439,169.995,193886,4,Spotify,Hard Rock,Omkar Bharambe
+Metallica,Master of Puppets (Remastered Deluxe Box Set),Master of Puppets (Remastered),54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0,0.035,0.421,0.154,0.562,105.25,515387,4,Spotify,Hard Rock,Omkar Bharambe
+Seether,What Would You Do?,What Would You Do? [Feat. Gavin Rossdale],61bvjHRHHFB0gNab4kKqCK,0.546,0.798,11,-4.812,1,0.0354,0.0368,0.111,0.233,123.001,290302,4,Spotify,Hard Rock,Omkar Bharambe
+Bush,More Than Machines,More Than Machines,1y1l61KJCj8EDE35iS4ZgC,0.505,0.84,6,-3.903,1,0.107,1.84e-05,0.047,0.728,92.966,201541,4,Spotify,Hard Rock,Omkar Bharambe
+Ghost,Seven Inches Of Satanic Panic,Mary On A Cross,2HZLXBOnaSRhXStMLrq9fD,0.466,0.9,11,-4.469,1,0.0447,0.00104,0.103,0.561,130.02,244804,4,Spotify,Hard Rock,Omkar Bharambe
+Korn,Requiem,Start The Healing,3DRSkg7t5Jpa86TPIFGxBr,0.468,0.95,9,-3.366,1,0.264,0.326,0.282,0.412,149.968,208053,4,Spotify,Hard Rock,Omkar Bharambe
+Turnstile,GLOW ON,HOLIDAY,1dB0NylVkpjdOe8DiekIs7,0.537,0.858,10,-7.743,1,0.0428,0.658,0.0716,0.323,154.996,172021,4,Spotify,Hard Rock,Omkar Bharambe

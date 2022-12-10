@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+David Guetta,I'm Good (Blue),I'm Good (Blue),4uUG5RXrOk84mYEfFvj3cK,0.561,0.965,7,-3.673,0,0.0343,7.07e-06,0.371,0.304,128.04,175238,4,Spotify,Pumped Pop,Public 10
+Meghan Trainor,Takin' It Back,Made You Look,0QHEIqNKsMoOY5urbzN48u,0.838,0.525,10,-3.562,1,0.0665,1.92e-06,0.0771,0.884,144.981,134256,4,Spotify,Pumped Pop,Public 10
+Nicki Minaj,Super Freaky Girl,Super Freaky Girl,4C6Uex2ILwJi9sZXRdmqXp,0.95,0.891,2,-2.653,1,0.241,1.77e-05,0.309,0.912,133.01,170977,4,Spotify,Pumped Pop,Public 10
+Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4,Spotify,Pumped Pop,Public 10
+Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,Spotify,Pumped Pop,Public 10
+Lizzo,About Damn Time,About Damn Time,1PckUlxKqWQs3RlWXVBLw3,0.836,0.743,10,-6.305,0,0.0656,0.0,0.335,0.722,108.966,191822,4,Spotify,Pumped Pop,Public 10
+Ed Sheeran,=,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,0.807,0.893,11,-3.745,0,0.0347,2.79e-05,0.366,0.537,126.011,230747,4,Spotify,Pumped Pop,Public 10
+ROSALÍA,MOTOMAMI +,DESPECHÁ,53tfEupEzQRtVFOeZvk7xq,0.914,0.622,7,-6.538,1,0.0892,1.68e-05,0.0632,0.77,130.04,156788,4,Spotify,Pumped Pop,Public 10
+BLACKPINK,BORN PINK,Shut Down,0ARKW62l9uWIDYMZTUmJHF,0.82,0.686,0,-5.102,1,0.038,0.0,0.184,0.668,110.058,175889,3,Spotify,Pumped Pop,Public 10
+Tiësto,The Motto,The Motto,18asYwWugKjjsihZ0YvRxO,0.754,0.763,7,-4.627,0,0.0435,2.23e-05,0.0901,0.464,117.953,164819,4,Spotify,Pumped Pop,Public 10
+Avicii,True,Wake Me Up,0nrRP2bk19rLc0orkWPQk2,0.532,0.783,2,-5.697,1,0.0523,0.0012,0.161,0.643,124.08,247427,4,Spotify,Pumped Pop,Public 10
+Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),INDUSTRY BABY (feat. Jack Harlow),27NovPIUIRrOZoCHxABJwK,0.736,0.704,3,-7.409,0,0.0615,0.0,0.0501,0.894,149.995,212000,4,Spotify,Pumped Pop,Public 10
+LF SYSTEM,Afraid To Feel,Afraid To Feel,40SBS57su9xLiE1WqkXOVr,0.578,0.912,1,-3.929,1,0.114,0.00362,0.273,0.68,127.87,177525,4,Spotify,Pumped Pop,Public 10
+Alesso,Words (feat. Zara Larsson),Words (feat. Zara Larsson),1bgKMxPQU7JIZEhNsM1vFs,0.739,0.586,10,-5.079,0,0.0472,0.000252,0.308,0.444,124.026,142677,4,Spotify,Pumped Pop,Public 10
+Lizzo,Special,2 Be Loved (Am I Ready),2rmwqU7yzTvzkiaRV53DpT,0.721,0.769,7,-4.111,1,0.105,0.0,0.0817,0.915,155.932,187108,4,Spotify,Pumped Pop,Public 10
+David Guetta,Crazy What Love Can Do,Crazy What Love Can Do,1WCEAGGRD066z2Q89ObXTq,0.601,0.713,4,-3.758,0,0.0449,0.0,0.158,0.464,122.872,169756,4,Spotify,Pumped Pop,Public 10
+The Weeknd,Save Your Tears (Remix),Save Your Tears (with Ariana Grande) (Remix),37BZB0z9T8Xu7U3e65qxFy,0.65,0.825,0,-4.645,1,0.0325,2.44e-05,0.0936,0.593,118.091,191014,4,Spotify,Pumped Pop,Public 10
+Alok,Deep Down (feat. Never Dull),Deep Down (feat. Never Dull),7MIhUdNJtaOnDmC5nBC1fb,0.687,0.818,0,-4.221,1,0.0778,0.0,0.248,0.886,125.952,165753,4,Spotify,Pumped Pop,Public 10
+Jack Harlow,Come Home The Kids Miss You,First Class,0wHFktze2PHC5jDt3B17DC,0.902,0.582,5,-5.902,0,0.109,3.18e-06,0.111,0.332,107.005,173948,4,Spotify,Pumped Pop,Public 10
+Tiësto,Hot In It,Hot In It,3Z7CaxQkqbIs1rewKi6v4W,0.748,0.841,7,-5.08,1,0.177,1.33e-06,0.0413,0.717,123.045,129817,4,Spotify,Pumped Pop,Public 10
+Nathan Dawe,21 Reasons (feat. Ella Henderson),21 Reasons (feat. Ella Henderson),1RF02Cf80mTaeNXG2P2boR,0.621,0.785,6,-4.499,1,0.11,5.92e-06,0.0512,0.779,123.96,155253,4,Spotify,Pumped Pop,Public 10
+Macklemore & Ryan Lewis,The Heist,Can't Hold Us (feat. Ray Dalton),3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0786,0.0,0.0862,0.847,146.078,258343,4,Spotify,Pumped Pop,Public 10
+Calvin Harris,This Is What You Came For,This Is What You Came For,0azC730Exh71aQlOt9Zj3y,0.631,0.927,9,-2.787,0,0.0332,0.119,0.148,0.465,123.962,222160,4,Spotify,Pumped Pop,Public 10
+DNCE,DNCE,Cake By The Ocean,76hfruVvmfQbw0eYn1nmeC,0.774,0.753,4,-5.446,0,0.0517,0.0,0.0371,0.896,119.002,219147,4,Spotify,Pumped Pop,Public 10
+Jax Jones,Where Did You Go (feat. MNEK),Where Did You Go? (feat. MNEK),3sa06xVNmLLYIxdNNmVQN8,0.763,0.782,7,-4.541,0,0.0346,7.08e-06,0.293,0.502,127.034,177689,4,Spotify,Pumped Pop,Public 10
+NEIKED,Better Days (NEIKED x Mae Muller x Polo G),Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,0.717,0.671,0,-5.077,0,0.0337,2.54e-06,0.0921,0.699,110.054,160657,4,Spotify,Pumped Pop,Public 10
+Ava Max,Heaven & Hell,Kings & Queens,7a53HqqArd4b9NF4XAmlbI,0.637,0.69,1,-4.057,0,0.0405,0.0,0.124,0.457,129.857,162399,4,Spotify,Pumped Pop,Public 10
+Selena Gomez & The Scene,When The Sun Goes Down,Love You Like A Love Song,0laYHRpNTS6i8FXdupHkJ4,0.858,0.678,1,-3.87,0,0.0469,0.0,0.0741,0.922,117.009,188453,4,Spotify,Pumped Pop,Public 10
+Tiësto,The Business,The Business,6f3Slt0GbA2bPZlz0aIFXN,0.798,0.62,8,-7.079,0,0.232,0.0192,0.112,0.235,120.031,164000,4,Spotify,Pumped Pop,Public 10
+Kesha,Animal (Expanded Edition),TiK ToK,0HPD5WQqrq7wPWR7P7Dw1i,0.755,0.837,2,-2.718,0,0.142,0.0,0.289,0.714,120.028,199693,4,Spotify,Pumped Pop,Public 10
+ROSALÍA,MOTOMAMI,BIZCOCHITO,4kXxEhuatrvwrTQycA7s9B,0.93,0.774,1,-4.203,1,0.0744,0.0238,0.12,0.781,116.972,109120,4,Spotify,Pumped Pop,Public 10
+Beyoncé,BREAK MY SOUL,BREAK MY SOUL,2KukL7UlQ8TdvpaA7bY3ZJ,0.687,0.887,1,-5.04,0,0.0826,2.21e-06,0.27,0.853,114.941,278282,4,Spotify,Pumped Pop,Public 10
+Pitbull,Global Warming: Meltdown (Deluxe Version),Timber (feat. Ke$ha),3cHyrEgdyYRjgJKSOiOtcS,0.581,0.963,11,-4.087,1,0.0981,0.0,0.139,0.788,129.992,204160,4,Spotify,Pumped Pop,Public 10
+Nelly Furtado,Loose,Maneater,4wH4dJgrsxONID6KS2tDQM,0.796,0.777,6,-4.81,1,0.0397,0.000358,0.121,0.787,132.722,258893,4,Spotify,Pumped Pop,Public 10
+Spice Girls,Spice,Wannabe,1Je1IMUlBXcx1Fz0WE7oPT,0.768,0.864,11,-6.145,1,0.0324,0.0,0.162,0.891,110.008,173027,4,Spotify,Pumped Pop,Public 10
+Tiësto,10:35,10:35,6BePGk3eCan4FqaW2X8Qy3,0.696,0.793,8,-5.733,1,0.097,3.78e-06,0.18,0.698,120.003,172253,4,Spotify,Pumped Pop,Public 10
+Conan Gray,Kid Krow,Maniac,6KfoDhO4XUWSbnyKjNp9c4,0.628,0.639,8,-5.46,1,0.0435,0.0,0.354,0.493,108.045,185773,4,Spotify,Pumped Pop,Public 10
+Taio Cruz,The Rokstarr Hits Collection,Dynamite,2CEgGE6aESpnmtfiZwYlbV,0.751,0.783,4,-3.724,1,0.0859,0.0,0.036,0.816,119.975,202613,4,Spotify,Pumped Pop,Public 10
+Jason Derulo,Acapulco,Acapulco,3eJH2nAjvNXdmPfBkALiPZ,0.774,0.792,10,-4.021,1,0.0523,0.0,0.155,0.507,122.062,139672,4,Spotify,Pumped Pop,Public 10
+Rihanna,Good Girl Gone Bad: Reloaded,Don't Stop The Music,0ByMNEPAPpOR5H69DVrTNy,0.835,0.669,6,-5.582,0,0.0643,6.92e-05,0.0535,0.542,122.668,267080,4,Spotify,Pumped Pop,Public 10
+Calvin Harris,18 Months,Feel So Close - Radio Edit,1gihuPhrLraKYrJMAEONyc,0.707,0.924,7,-2.842,1,0.031,0.00703,0.204,0.919,127.937,206413,4,Spotify,Pumped Pop,Public 10
+Zedd,The Middle,The Middle,09IStsImFySgyp0pIQdqAc,0.753,0.657,7,-3.061,1,0.0449,0.0,0.112,0.437,107.01,184732,4,Spotify,Pumped Pop,Public 10
+Becky Hill,Remember,Remember,4laAKIq9ZxBCwf99rauPYb,0.612,0.862,8,-2.903,1,0.037,0.0,0.0907,0.354,123.849,160766,4,Spotify,Pumped Pop,Public 10
+Alesso,When I’m Gone (with Katy Perry),When I’m Gone (with Katy Perry),5902W4uHWzhtOff1UK7the,0.685,0.886,0,-4.179,1,0.034,0.0,0.481,0.615,125.034,161267,4,Spotify,Pumped Pop,Public 10
+Miley Cyrus,Plastic Hearts,Prisoner (feat. Dua Lipa),2Oycxb8QbPkpHTo8ZrmG0B,0.781,0.67,3,-3.912,0,0.0452,0.0,0.0761,0.595,127.99,169333,4,Spotify,Pumped Pop,Public 10
+Nicki Minaj,Pink Friday (Complete Edition),Super Bass,3hlksXnvbKogFdPbpO9vel,0.723,0.86,11,-4.357,1,0.203,4.56e-06,0.598,0.667,126.979,200013,4,Spotify,Pumped Pop,Public 10
+Britney Spears,Blackout,Gimme More,6ic8OlLUNEATToEFU3xmaH,0.788,0.844,2,-3.131,1,0.0334,0.000678,0.0723,0.382,113.324,251240,4,Spotify,Pumped Pop,Public 10
+Martin Garrix,In the Name of Love,In the Name of Love,23L5CiUhw2jV1OIMwthR3S,0.501,0.519,4,-5.88,0,0.0409,0.0,0.454,0.168,133.99,195707,4,Spotify,Pumped Pop,Public 10
+Leah Kate,10 Things I Hate About You,10 Things I Hate About You,6Jkm5kUldvIqxzI1Pa7nXH,0.544,0.786,8,-2.97,1,0.0501,0.0,0.169,0.446,153.967,157138,4,Spotify,Pumped Pop,Public 10
+Dua Lipa,Don't Start Now,Don't Start Now,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0,0.0842,0.0,0.0952,0.677,123.941,183290,4,Spotify,Pumped Pop,Public 10
+Kygo,Woke Up in Love,Woke Up in Love,21H0pUV2uPIPcFnFhgTBjo,0.643,0.585,2,-5.994,1,0.0369,0.0,0.0927,0.188,106.015,216873,4,Spotify,Pumped Pop,Public 10
+Taylor Swift,Lover,The Man,3RauEVgRgj1IuWdJ9fDs70,0.777,0.658,0,-5.191,1,0.054,0.0,0.0901,0.633,110.048,190360,4,Spotify,Pumped Pop,Public 10
+Galantis,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),5K6Ssv4Z3zRvxt0P6EKUAP,0.595,0.784,1,-4.878,1,0.102,0.0,0.0608,0.479,124.111,183726,4,Spotify,Pumped Pop,Public 10
+Doja Cat,Hot Pink,Say So,3Dv1eDb0MEgF93GpLXlucZ,0.787,0.673,11,-4.583,0,0.159,3.35e-06,0.0904,0.779,110.962,237893,4,Spotify,Pumped Pop,Public 10
+Jennifer Lopez,Love?,On The Floor,3C0nOe05EIt1390bVABLyN,0.73,0.777,3,-5.194,0,0.0496,0.000478,0.0691,0.575,130.0,284867,4,Spotify,Pumped Pop,Public 10
+Ava Max,Million Dollar Baby,Million Dollar Baby,3pPN20syOYvbUuEiBpbenI,0.667,0.858,2,-2.268,0,0.0926,1.47e-05,0.325,0.641,133.039,184295,4,Spotify,Pumped Pop,Public 10
+Cardi B,Invasion of Privacy,I Like It,58q2HKrzhC3ozto2nDdN4z,0.816,0.726,5,-3.998,0,0.129,0.0,0.372,0.65,136.048,253390,4,Spotify,Pumped Pop,Public 10
+Swedish House Mafia,Paradise Again,Heaven Takes You Home (feat. Connie Constance),3nEHrvNNtgLv9rneTAYVr4,0.665,0.738,0,-5.931,0,0.0379,0.00598,0.0923,0.0389,125.037,214071,4,Spotify,Pumped Pop,Public 10
+will.i.am,#willpower,Scream & Shout,2iJuuzV8P9Yz0VSurttIV5,0.772,0.685,5,-6.849,1,0.0696,8.96e-05,0.131,0.501,130.033,283400,4,Spotify,Pumped Pop,Public 10
+Katy Perry,PRISM,Roar,27tNWlhdAryQY04Gb2ZhUI,0.671,0.771,7,-4.821,0,0.0316,7.28e-06,0.354,0.436,90.003,223546,4,Spotify,Pumped Pop,Public 10
+Rihanna,Talk That Talk,We Found Love,6qn9YLKt13AGvpq9jfO8py,0.734,0.766,1,-4.485,1,0.0383,0.00138,0.108,0.6,127.986,215227,4,Spotify,Pumped Pop,Public 10
+Pitbull,Global Warming: Meltdown (Deluxe Version),Feel This Moment (feat. Christina Aguilera),0Hf4aIJpsN4Os2f0y0VqWl,0.673,0.758,7,-3.632,1,0.158,0.0,0.341,0.542,135.956,229507,4,Spotify,Pumped Pop,Public 10
+MARINA,Electra Heart (Deluxe),Bubblegum Bitch,6IbnUaczZBT34DhaD6S18F,0.495,0.856,0,-5.123,0,0.0311,0.0,0.103,0.609,158.024,154667,4,Spotify,Pumped Pop,Public 10
+Doja Cat,Boss Bitch,Boss Bitch,78qd8dvwea0Gosb6Fe6j3k,0.707,0.955,10,-4.593,0,0.222,0.0,0.202,0.575,125.989,134240,4,Spotify,Pumped Pop,Public 10
+Ava Max,Maybe You’re The Problem,Maybe You’re The Problem,0sb8ClU3CLoNblxkpmOKzA,0.53,0.835,9,-3.69,1,0.11,0.0,0.0637,0.471,166.02,190319,4,Spotify,Pumped Pop,Public 10
+Dua Lipa,Levitating (feat. DaBaby),Levitating (feat. DaBaby),463CkQjx2Zk1yXoBuierM9,0.702,0.825,6,-3.787,0,0.0601,0.0,0.0674,0.915,102.977,203064,4,Spotify,Pumped Pop,Public 10
+Latto,Big Energy,Big Energy,6Zu3aw7FfjAF9WA0fA81Oq,0.935,0.807,11,-3.838,0,0.114,0.0,0.349,0.813,106.017,173182,4,Spotify,Pumped Pop,Public 10
+Camila Cabello,Don't Go Yet,Don't Go Yet,1058fW9H3fZA6QjYCdOBad,0.666,0.796,10,-6.967,0,0.103,0.0,0.0442,0.61,110.108,164842,4,Spotify,Pumped Pop,Public 10
+Lauv,I met you when I was 18. (the playlist),I Like Me Better,0EcQcdcbQeVJn9fknj44Be,0.753,0.505,9,-7.621,1,0.255,2.58e-06,0.104,0.419,91.972,197437,4,Spotify,Pumped Pop,Public 10
+Ava Max,Heaven & Hell,My Head & My Heart,1KixkQVDUHggZMU9dUobgm,0.614,0.934,9,-3.709,0,0.07,0.0,0.121,0.436,116.001,174760,4,Spotify,Pumped Pop,Public 10
+Ariana Grande,My Everything (Deluxe),Break Free,12KUFSHFgT0XCoiSlvdQi4,0.687,0.702,7,-5.324,0,0.0455,4.35e-05,0.204,0.284,129.956,214840,4,Spotify,Pumped Pop,Public 10
+Miley Cyrus,Plastic Hearts,Midnight Sky,4i2qxFEVVUi8yOYoxB8TCX,0.699,0.805,4,-5.535,0,0.0345,0.00177,0.249,0.232,109.976,223280,4,Spotify,Pumped Pop,Public 10
+Jonas Blue,Don’t Wake Me Up,Don’t Wake Me Up,3LEgGAl9zLcQWGTp7ptqtQ,0.621,0.747,11,-5.084,1,0.0337,0.000194,0.147,0.426,124.015,188894,4,Spotify,Pumped Pop,Public 10
+Kygo,Higher Love,Higher Love,6oJ6le65B3SEqPwMRNXWjY,0.693,0.678,8,-7.159,1,0.0324,5.71e-06,0.101,0.404,103.952,228267,4,Spotify,Pumped Pop,Public 10
+Lady Gaga,The Fame,Poker Face,5R8dQOPq8haW94K7mgERlO,0.851,0.806,4,-4.62,1,0.0787,1.64e-06,0.121,0.787,118.999,237200,4,Spotify,Pumped Pop,Public 10

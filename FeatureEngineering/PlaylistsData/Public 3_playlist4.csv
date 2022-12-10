@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Taylor Swift,Midnights (3am Edition),Bigger Than The Whole Sky,0BiqmkasE5FdrChwKfVp8X,0.422,0.235,6,-12.379,1,0.0568,0.00648,0.115,0.068,165.71,218503,4,Spotify,sad hour,Public 3
+Haley Joelle,Two Places at Once,Something To Do,1kWboh3AQlWKzSGSd6Jaep,0.355,0.42,4,-9.12,1,0.0538,1.25e-05,0.101,0.569,156.808,193423,4,Spotify,sad hour,Public 3
+Joji,SMITHEREENS,Die For You,26hOm7dTtBi0TdpDGl141t,0.472,0.518,8,-7.379,1,0.051,0.127,0.289,0.154,147.805,211667,4,Spotify,sad hour,Public 3
+d4vd,Romantic Homicide,Romantic Homicide,1xK59OXxi2TAAAbmZK0kBL,0.571,0.544,6,-10.613,1,0.0299,0.00805,0.322,0.216,132.052,132631,4,Spotify,sad hour,Public 3
+Zach Bryan,Something in the Orange,Something in the Orange,3WMj8moIAXJhHsyLaqIIHI,0.369,0.192,4,-12.151,0,0.04,8.35e-06,0.0954,0.148,175.212,228013,3,Spotify,sad hour,Public 3
+Omar Apollo,Ivory,Evergreen (You Didn’t Deserve Me At All),2TktkzfozZifbQhXjT6I33,0.697,0.336,9,-10.395,1,0.0424,0.00528,0.107,0.31,82.029,216680,3,Spotify,sad hour,Public 3
+Dean Lewis,How Do I Say Goodbye,How Do I Say Goodbye,5hnGrTBaEsdukpDF6aZg8a,0.4,0.641,8,-6.303,1,0.0674,0.0,0.0656,0.393,81.552,163603,4,Spotify,sad hour,Public 3
+Selena Gomez,My Mind & Me,My Mind & Me,0XER3HPMx223xWaAgNKp4Y,0.6,0.389,9,-5.727,1,0.0337,0.0,0.0826,0.244,143.577,147597,4,Spotify,sad hour,Public 3
+Lewis Capaldi,Forget Me,Forget Me,5uSFGgIfHMT3osrAd9n9ym,0.669,0.742,1,-3.518,0,0.0441,0.0,0.355,0.716,101.982,203472,4,Spotify,sad hour,Public 3
+Nessa Barrett,young forever,lovebomb,6g5ToBz8mGURaauPqfyYvU,0.595,0.174,7,-15.64,1,0.0341,1.8e-05,0.12,0.161,113.087,189000,4,Spotify,sad hour,Public 3
+Billie Eilish,Happier Than Ever,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,0.332,0.225,0,-8.697,1,0.0348,0.00349,0.128,0.297,81.055,298899,3,Spotify,sad hour,Public 3
+Becky Hill,Remember (Versions),Remember - Acoustic,1EL27Y8YRofgvgIyhRD5JS,0.629,0.39,3,-8.576,1,0.0382,0.0,0.18,0.589,119.139,178627,4,Spotify,sad hour,Public 3
+Conan Gray,Kid Krow,Heather,4xqrdfXkTW4T0RauPLv3WA,0.357,0.425,5,-7.301,1,0.0333,0.0,0.322,0.27,102.078,198040,3,Spotify,sad hour,Public 3
+Sydney Rose,This Kind of Thing Doesn’t Last,Too Fast,3d4PNHZ9nOuZzfvRrRaIWI,0.747,0.493,2,-9.495,1,0.0546,0.000223,0.13,0.284,122.036,236963,4,Spotify,sad hour,Public 3
+Coldplay,Parachutes,Sparks,7D0RhFcb3CrfPuTJ0obrod,0.371,0.268,1,-10.506,1,0.0281,0.0517,0.104,0.165,102.617,227093,3,Spotify,sad hour,Public 3
+Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,0.532,0.623,5,-9.208,1,0.0331,7.28e-05,0.0925,0.403,89.937,261923,4,Spotify,sad hour,Public 3
+Benson Boone,In The Stars,In The Stars,1ei3hzQmrgealgRKFxIcWn,0.362,0.54,10,-6.031,1,0.0528,0.0,0.139,0.3,78.007,216410,3,Spotify,sad hour,Public 3
+Joji,BALLADS 1,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,0.515,0.479,3,-7.458,1,0.0261,0.00598,0.191,0.284,88.964,209274,4,Spotify,sad hour,Public 3
+Billie Eilish,Guitar Songs,TV,3GYlZ7tbxLOxe6ewMNVTkw,0.412,0.236,4,-15.159,0,0.0379,0.00653,0.147,0.119,140.214,281381,4,Spotify,sad hour,Public 3
+Olivia Rodrigo,SOUR,favorite crime,5JCoSi02qi3jJeHdZXMmR8,0.369,0.272,9,-10.497,1,0.0364,0.0,0.147,0.218,172.929,152667,4,Spotify,sad hour,Public 3
+Harry Styles,Harry's House,Matilda,6uvh0In7u1Xn4HgxOfAn8O,0.507,0.294,2,-10.0,1,0.04,1.97e-05,0.0966,0.386,114.199,245964,4,Spotify,sad hour,Public 3
+Adele,Easy On Me,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,0.604,0.366,5,-7.519,1,0.0282,0.0,0.133,0.13,141.981,224695,4,Spotify,sad hour,Public 3
+Taylor Swift,Red (Taylor's Version),All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,0.631,0.518,0,-8.771,1,0.0303,0.0,0.088,0.205,93.023,613027,4,Spotify,sad hour,Public 3
+Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,Spotify,sad hour,Public 3
+Giveon,TAKE TIME,Heartbreak Anniversary,3FAJ6O0NOHQV8Mc5Ri6ENp,0.449,0.465,0,-8.964,1,0.0791,1.02e-06,0.303,0.543,89.087,198371,3,Spotify,sad hour,Public 3
+Bailey Zimmerman,Rock and A Hard Place,Rock and A Hard Place,4686eQ81DEswHa90bcdlC9,0.582,0.568,1,-7.3,1,0.0275,0.0,0.105,0.394,121.991,207541,3,Spotify,sad hour,Public 3
+Julia Michaels,Inner Monologue Part 1,What A Time (feat. Niall Horan),5WtfUKzXircvW8l5aaVZWT,0.516,0.467,0,-6.184,1,0.0302,0.0,0.0853,0.386,132.861,173307,4,Spotify,sad hour,Public 3
+Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,161DnLWsx1i3u1JT05lzqU,0.498,0.59,1,-4.721,0,0.032,0.0,0.107,0.0784,145.867,217867,4,Spotify,sad hour,Public 3
+Selena Gomez,Rare,Lose You To Love Me,4l0Mvzj72xxOpRrp6h8nHi,0.488,0.343,4,-8.985,1,0.0436,0.0,0.21,0.0978,102.819,206459,4,Spotify,sad hour,Public 3
+Harry Styles,Fine Line,Falling,1ZMiCix7XSAbfAJlEZWMCp,0.567,0.267,4,-6.502,1,0.0299,1.46e-06,0.089,0.0592,110.011,240133,4,Spotify,sad hour,Public 3
+The 1975,Being Funny In A Foreign Language,About You,1fDFHXcykq4iw8Gg7s5hG9,0.416,0.762,2,-7.385,1,0.0279,0.804,0.0559,0.461,95.967,326491,4,Spotify,sad hour,Public 3
+James Arthur,Back from the Edge,Train Wreck,55Am8neGJkdj2ADaM3aw5H,0.311,0.485,6,-5.726,0,0.0365,0.0,0.0726,0.225,77.355,208827,4,Spotify,sad hour,Public 3
+Billie Eilish,Guitar Songs,The 30th,5SHpuW2qjkQtFRpE6P9Nks,0.387,0.135,7,-14.398,1,0.051,0.0,0.0948,0.21,82.987,216448,4,Spotify,sad hour,Public 3
+Lauren Spencer Smith,Fingers Crossed,Fingers Crossed,3yMC1KsTwh0ceXdIe4QQAQ,0.56,0.473,5,-7.23,1,0.0533,0.0,0.31,0.441,109.414,175345,4,Spotify,sad hour,Public 3
+Calum Scott,Only Human (Deluxe),Dancing On My Own,2BOqDYLOJBiMOXShCV1neZ,0.681,0.174,1,-8.745,1,0.0315,3.35e-05,0.0983,0.231,112.672,260285,4,Spotify,sad hour,Public 3
+Noah Cyrus,THE END OF EVERYTHING,July,6J2LdBN97cDWn0MLxYh9HB,0.708,0.186,9,-8.953,0,0.042,0.0,0.0779,0.322,72.541,156106,4,Spotify,sad hour,Public 3
+Taylor Swift,folklore,exile (feat. Bon Iver),4pvb0WLRcMtbPGmtejJJ6y,0.298,0.38,6,-8.426,1,0.0287,5.62e-05,0.11,0.152,75.602,285634,4,Spotify,sad hour,Public 3
+Conan Gray,Superache,Family Line,0iNZGC211wst3VjtobNnC5,0.326,0.397,6,-8.145,1,0.0461,0.0,0.0979,0.276,153.713,216095,3,Spotify,sad hour,Public 3
+Post Malone,Stoney (Deluxe),I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,0.556,0.538,8,-5.408,0,0.0382,0.0,0.196,0.291,143.95,223347,4,Spotify,sad hour,Public 3
+Madison Beer,Reckless,Reckless,5ajjAnNRh8bxFvaVHzpPjh,0.386,0.426,3,-6.642,1,0.0363,0.0,0.14,0.261,180.104,203385,3,Spotify,sad hour,Public 3
+Lauren Spencer Smith,Flowers,Flowers,6Z165JvPnS8PYvGW8oLGLc,0.684,0.449,3,-9.738,1,0.611,0.0,0.0881,0.341,66.165,157373,4,Spotify,sad hour,Public 3
+Olivia Rodrigo,SOUR,"1 step forward, 3 steps back",4wcBRRpIfesgcyUtis7PEg,0.473,0.203,2,-12.627,1,0.102,0.0,0.126,0.419,168.884,163587,4,Spotify,sad hour,Public 3
+SLANDER,Love Is Gone (Acoustic),Love Is Gone - Acoustic,7F1CiKqrY44kh5cDqwHOnx,0.541,0.153,6,-10.654,1,0.0303,1.66e-06,0.16,0.359,139.644,176972,4,Spotify,sad hour,Public 3
+Alec Benjamin,Narrated For You,Water Fountain,4IhKLu7Vk3j2TLmnFPl6To,0.723,0.504,8,-5.572,1,0.0392,7.4e-05,0.087,0.551,133.975,218893,4,Spotify,sad hour,Public 3
+Shawn Mendes,It'll Be Okay,It'll Be Okay,2KnLkZ3z7PO3kgVGHGqDpD,0.398,0.286,7,-11.881,1,0.033,0.000146,0.0912,0.0666,78.262,222800,4,Spotify,sad hour,Public 3
+charlieonnafriday,Enough,Enough,4vuVzf7BIZhDAFm3TB0Tzy,0.745,0.543,7,-8.137,1,0.0396,0.0,0.174,0.242,139.964,185267,4,Spotify,sad hour,Public 3
+Lord Huron,Strange Trails,The Night We Met,0QZ5yyl6B6utIWkxeBDxQN,0.545,0.366,2,-9.51,1,0.0378,0.267,0.641,0.1,86.997,208212,3,Spotify,sad hour,Public 3
+Coldplay,Music Of The Spheres,Let Somebody Go,4cGqn0E8JCSY9gQllQj4Mf,0.592,0.342,0,-8.93,1,0.0339,0.00245,0.11,0.155,130.953,241595,4,Spotify,sad hour,Public 3
+girl in red,October Passed Me By,October Passed Me By,0AjcdGri5vhJsmZnduCEqd,0.445,0.367,0,-13.086,1,0.0452,0.075,0.0987,0.202,155.675,165592,4,Spotify,sad hour,Public 3
+Nessa Barrett,die first,die first,21szgNA72iLwvBxHQLgwBh,0.444,0.669,8,-6.727,0,0.125,0.0,0.124,0.44,183.441,177109,4,Spotify,sad hour,Public 3
+Clinton Kane,I GUESS I'M IN LOVE,I GUESS I'M IN LOVE,1is8gU4RVcN4J8xItxWoOY,0.422,0.34,0,-6.577,1,0.0351,1.77e-05,0.149,0.223,77.213,204094,4,Spotify,sad hour,Public 3
+Jeremy Zucker,brent,you were good to me,4CxFN5zON70B3VOPBYbd6P,0.561,0.0848,2,-15.099,1,0.0404,2.62e-05,0.112,0.206,102.128,219147,4,Spotify,sad hour,Public 3
+Sadie Jean,Locksmith,Locksmith,4HcARAxzsbIB3MqiEkejM6,0.566,0.348,1,-10.726,1,0.0458,7.66e-06,0.113,0.374,98.734,164082,4,Spotify,sad hour,Public 3
+Ashe,Moral of the Story,Moral of the Story,2nC3QhMI9reBIOWutbU3Tj,0.572,0.406,10,-8.624,1,0.0427,4.48e-06,0.102,0.265,119.812,201084,4,Spotify,sad hour,Public 3
+Dylan Conrique,Birthday Cake,Birthday Cake,7dDrR6vMK1JAwZZ5MIWgme,0.436,0.255,3,-8.623,1,0.0364,3.28e-05,0.106,0.15,113.265,205280,4,Spotify,sad hour,Public 3
+Sara Kays,Remember That Night?,Remember That Night?,1nYzjrdVQ8RpF93M0jPFW7,0.679,0.61,7,-10.936,0,0.0305,9.51e-05,0.156,0.554,123.978,227186,4,Spotify,sad hour,Public 3
+Sarah Cothran,As the World Caves In,As the World Caves In,2xXNLutYAOELYVObYb1C1S,0.422,0.25,0,-6.836,1,0.0351,0.0,0.35,0.246,124.026,161613,4,Spotify,sad hour,Public 3
+Lorde,Melodrama,Liability,6Kkt27YmFyIFrcX3QXFi2o,0.587,0.229,10,-11.254,0,0.128,0.0,0.1,0.379,75.67,171728,4,Spotify,sad hour,Public 3
+Jessie Murph,How Could You,How Could You,7fkxcbBBsV7keJPnNfNf2L,0.573,0.17,11,-10.576,1,0.0555,3.08e-06,0.108,0.28,146.749,187813,3,Spotify,sad hour,Public 3
+Celeste,Not Your Muse (Deluxe),Strange,7sq2z9oX2S0CvgTqCZ0ko4,0.286,0.0847,2,-9.883,1,0.0397,6.94e-06,0.121,0.112,70.743,255987,4,Spotify,sad hour,Public 3
+Dean Lewis,Hurtless,Hurtless,6HJizCbaqaEQG1eLjn341Z,0.37,0.559,0,-5.589,1,0.0526,0.0,0.121,0.316,162.816,180274,4,Spotify,sad hour,Public 3
+Lauren Spencer Smith,Narcissist,Narcissist,23oYG6HAbahMQEtjk0M7GK,0.58,0.485,3,-5.438,1,0.0312,0.0,0.0959,0.158,113.797,172878,4,Spotify,sad hour,Public 3
+Avril Lavigne,I’m a Mess (with YUNGBLUD),I’m a Mess (with YUNGBLUD),1yvArCvZLTHiawRdWKSAWj,0.467,0.667,1,-4.386,1,0.0315,0.0,0.155,0.399,91.057,187794,4,Spotify,sad hour,Public 3
+Gracie Abrams,minor,"I miss you, I’m sorry",4nyF5lmSziBAt7ESAUjpbx,0.445,0.455,7,-6.405,1,0.0575,1.47e-06,0.124,0.151,109.885,167538,5,Spotify,sad hour,Public 3
+Sam Smith,In The Lonely Hour (Drowning Shadows Edition),Make It To Me,2uCMaUojwuqr8CRGsLoPa6,0.456,0.379,1,-8.573,1,0.0685,3.1e-06,0.0983,0.225,149.967,162732,4,Spotify,sad hour,Public 3
+Conan Gray,People Watching,People Watching,4JeOesjcWWlprTAvucDSJX,0.53,0.593,5,-7.286,1,0.0545,0.0,0.314,0.538,125.723,158537,4,Spotify,sad hour,Public 3
+Jessie Murph,While You're At It,While You're At It,0hfHF0FsMNyLoaqsvJmqfq,0.64,0.425,7,-6.99,1,0.0586,0.000522,0.177,0.14,141.995,127293,4,Spotify,sad hour,Public 3
+Anson Seabra,Peter Pan Was Right,Peter Pan Was Right,2At18rPHOuTEjGEppwGV0A,0.661,0.517,5,-7.74,1,0.0406,0.0,0.116,0.241,84.014,192498,4,Spotify,sad hour,Public 3
+Katie Gregson-MacLeod,complex (demo),complex (demo),1ovZe7upcqycTuPFfOg6kB,0.384,0.167,0,-9.92,1,0.0375,0.0,0.118,0.258,95.102,256108,4,Spotify,sad hour,Public 3
+NIKI,Oceans & Engines,Oceans & Engines,3vZk7OAUjMtVDNC852aNqi,0.395,0.309,1,-8.919,1,0.033,2.17e-05,0.0931,0.0673,142.012,336001,3,Spotify,sad hour,Public 3
+Ed Sheeran,Visiting Hours,Visiting Hours,44V6EzbUSYgyfsNiP0FrlA,0.471,0.396,8,-6.654,1,0.0336,0.0,0.0729,0.263,149.609,215507,4,Spotify,sad hour,Public 3
+Conan Gray,Astronomy,Astronomy,0KmgJyW4GDgonqsoyx0CZ3,0.471,0.335,4,-8.767,0,0.0273,2.11e-05,0.297,0.111,145.252,243907,3,Spotify,sad hour,Public 3
+Gracie Abrams,Difficult,Difficult,3JiaA3hvuKu4Fjf6AWwVMX,0.599,0.59,2,-9.135,1,0.0645,6.54e-06,0.397,0.402,146.022,257882,4,Spotify,sad hour,Public 3
+Madeline The Person,MEAN!,MEAN!,0KQRhak4Irr2CKxgQ9U6ay,0.502,0.416,7,-9.504,1,0.433,0.0,0.0934,0.433,175.191,143960,3,Spotify,sad hour,Public 3
+Tate McRae,feel like shit,feel like shit,2EBnvom1dTybtm75a3Xh1T,0.508,0.378,7,-7.158,1,0.0473,0.0,0.119,0.161,144.962,204315,4,Spotify,sad hour,Public 3
+FINNEAS,Blood Harmony (Deluxe),Break My Heart Again,0DGh73t9eaZA3X3ZXHf4Qe,0.402,0.151,4,-14.228,0,0.04,0.0,0.0941,0.489,144.071,238013,4,Spotify,sad hour,Public 3
+Lewis Capaldi,Spotify Singles,drivers license - Spotify Singles,10wk4XQdba4QpHgFb28Ktk,0.543,0.23,4,-12.532,1,0.0417,0.0,0.11,0.307,127.357,262544,4,Spotify,sad hour,Public 3
+Frawley,"If I Don't Laugh, I'll Cry","If I Don't Laugh, I'll Cry",7a4YwlUER1m7rkWJjYJRAD,0.674,0.595,4,-5.18,1,0.0365,0.0,0.146,0.207,81.045,198010,4,Spotify,sad hour,Public 3
+Lexi Jayde,closer to closure,drunk text me,5gukv8x9eP58gFy2OcZEBQ,0.534,0.493,0,-6.818,1,0.0316,0.0,0.0889,0.232,79.97,213133,4,Spotify,sad hour,Public 3
+Ashley Kutcher,One Eighty,Love You From a Distance,4bpyaPa1xruVgE2GtsYbIW,0.333,0.538,4,-8.653,1,0.0325,0.0,0.0977,0.63,149.377,204000,4,Spotify,sad hour,Public 3
+JVKE,this is what ____ feels like (Vol. 1-4),this is what sadness feels like,5GpYt1p4z2EPVKv5t7XDof,0.483,0.321,10,-10.401,0,0.0719,0.000107,0.128,0.148,141.28,191831,3,Spotify,sad hour,Public 3
+Tate McRae,chaotic,chaotic,2bdqU7C4softKNcMYDFi96,0.412,0.382,2,-7.023,0,0.0497,0.0,0.0931,0.318,81.493,178721,3,Spotify,sad hour,Public 3
+Nessa Barrett,young forever,dear god,39HJJEgUFZcnhH4ziSqomg,0.534,0.373,2,-12.43,0,0.0574,0.000292,0.125,0.351,98.132,132107,4,Spotify,sad hour,Public 3
+Noah Kahan,I Was / I Am,Someone Like You (feat. Joy Oladokun),0hiHNxqKGf3GZgVTIOAiiK,0.614,0.526,5,-7.492,1,0.0603,0.0,0.0939,0.366,177.913,186552,4,Spotify,sad hour,Public 3
+Jessie Murph,I Would've,I Would've,54obxWf8kRI8TGtbX52YyJ,0.601,0.264,2,-9.559,1,0.0573,4.86e-05,0.173,0.285,149.926,150583,4,Spotify,sad hour,Public 3
+Thomas Day,not my job anymore,not my job anymore,4i7mcbkECX4kqRvfjbBGQz,0.534,0.441,11,-7.071,1,0.0362,0.0,0.258,0.113,140.137,188074,4,Spotify,sad hour,Public 3
+Lauren Spencer Smith,Back to Friends,Back to Friends,2Obwg8XE4sWXLpJSDlxn1r,0.749,0.319,2,-9.946,1,0.0771,0.0,0.0993,0.216,116.828,215981,4,Spotify,sad hour,Public 3
+Joshua Bassett,would you love me now?,would you love me now?,2PKKGrBkNB8bV8Vv4hwB2j,0.544,0.365,0,-7.286,1,0.0368,0.0,0.186,0.322,126.916,205647,4,Spotify,sad hour,Public 3
+Anson Seabra,Walked Through Hell,Walked Through Hell,6c7N5N7amAOpeMykjlovjI,0.508,0.404,10,-11.092,1,0.0788,0.0,0.104,0.129,81.713,216865,4,Spotify,sad hour,Public 3
+Haley Joelle,Memory Lane,Memory Lane,1KMEDSIl2j1NwYa9mgvMyg,0.488,0.103,1,-12.009,1,0.0522,0.0,0.107,0.326,120.141,154000,4,Spotify,sad hour,Public 3
+Jonah Kagen,broken,broken,3JE04xcSOB8zuUzzazuaDj,0.495,0.351,1,-11.966,1,0.0626,0.0,0.104,0.237,83.365,195402,4,Spotify,sad hour,Public 3
+Paravi,Angry,Angry,46yC5Rfbg3x7AfrZb03c6N,0.683,0.547,7,-6.282,1,0.0377,0.0,0.133,0.192,119.97,170671,4,Spotify,sad hour,Public 3
+Zach Hood,never knew a heart could break itself,never knew a heart could break itself,4d2ZJ9W7dkQuITwUCTuD5n,0.579,0.454,9,-7.264,1,0.0427,0.0,0.0997,0.461,78.949,155223,4,Spotify,sad hour,Public 3
+Blake Rose,Gone,Gone,2dPT9UxyHm71quNyj3C4YE,0.317,0.545,11,-6.439,0,0.0468,0.0,0.116,0.14,139.014,205462,5,Spotify,sad hour,Public 3
+Sasha Alex Sloan,when was it over? (feat. Sam Hunt),when was it over? (feat. Sam Hunt),779UN3kabApm2zfqX549vf,0.626,0.453,7,-9.295,1,0.0306,1.91e-06,0.0904,0.494,129.958,218093,4,Spotify,sad hour,Public 3
+JP Saxe,A Little Bit Yours,A Little Bit Yours,00cBcYOlnHoXX9ver3cmdE,0.598,0.295,1,-8.553,1,0.0276,0.0,0.107,0.314,87.025,225680,4,Spotify,sad hour,Public 3
+Tom Odell,Best Day of My Life,Just Another Thing We Don't Talk About,2FjX5cfe8tBV4Qd6ELhUNf,0.361,0.174,9,-12.847,1,0.0337,0.0654,0.11,0.136,143.936,219020,4,Spotify,sad hour,Public 3
+Haley Joelle,Two Places at Once (Part I),Two Places at Once,0l8p1TkaVgcwIUS0xwm6Y5,0.497,0.278,2,-9.959,1,0.0464,0.0,0.308,0.237,104.84,199395,5,Spotify,sad hour,Public 3
+Anson Seabra,Keep Your Head Up Princess,Keep Your Head Up Princess,19pChrR4hwdINqoOFUo2Hj,0.689,0.143,6,-17.374,1,0.264,0.0,0.109,0.528,85.398,198220,4,Spotify,sad hour,Public 3
+FINNEAS,Blood Harmony,I Lost a Friend,5v1sPD1lu2wiPzi07tW8zm,0.453,0.208,11,-11.917,1,0.22,0.0,0.119,0.218,169.326,237020,4,Spotify,sad hour,Public 3

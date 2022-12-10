@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Lord Huron,Strange Trails,The Night We Met,0QZ5yyl6B6utIWkxeBDxQN,0.545,0.366,2,-9.51,1,0.0378,0.267,0.641,0.1,86.997,208212,3,Spotify,Heartbreaker,Public 14
+Adele,21,Someone Like You,1zwMYTA5nlNjZxYrvBB2pV,0.556,0.319,9,-8.251,1,0.0281,0.0,0.0996,0.294,135.187,285240,4,Spotify,Heartbreaker,Public 14
+Lewis Capaldi,Breach,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,0.501,0.405,1,-5.679,1,0.0319,0.0,0.105,0.446,109.891,182161,4,Spotify,Heartbreaker,Public 14
+Freya Ridings,Freya Ridings,Lost Without You,3cWI6Hj9LQ0MfMuhw9uSMc,0.386,0.136,6,-9.267,1,0.0458,0.0,0.0653,0.0976,67.016,225853,3,Spotify,Heartbreaker,Public 14
+Passenger,All The Little Lights,Let Her Go,1KxwZYyzWNyZSRyErj2ojT,0.479,0.545,7,-7.346,1,0.0688,0.0,0.0963,0.243,74.897,252733,4,Spotify,Heartbreaker,Public 14
+Rihanna,Unapologetic (Edited Version),Stay - Album Version (Edited),789CxjEOtO76BVD1A9yJQH,0.621,0.31,9,-10.164,0,0.0283,6.12e-05,0.117,0.125,111.893,240707,4,Spotify,Heartbreaker,Public 14
+James Arthur,Back from the Edge,Say You Won't Let Go,5uCax9HTNlzGybIStD3vDh,0.358,0.557,10,-7.398,1,0.059,0.0,0.0902,0.494,85.043,211467,4,Spotify,Heartbreaker,Public 14
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Bruises,4Of7rzpRpV1mWRbhp5rAqG,0.736,0.308,4,-7.83,1,0.0677,0.0,0.186,0.361,111.202,220492,4,Spotify,Heartbreaker,Public 14
+gnash,us,"i hate u, i love u (feat. olivia o'brien)",7vRriwrloYVaoAe3a9wJHe,0.492,0.275,6,-13.4,0,0.3,0.0,0.101,0.18,92.6,251034,4,Spotify,Heartbreaker,Public 14
+Lauren Spencer Smith,Fingers Crossed,Fingers Crossed,3yMC1KsTwh0ceXdIe4QQAQ,0.56,0.473,5,-7.23,1,0.0533,0.0,0.31,0.441,109.414,175345,4,Spotify,Heartbreaker,Public 14
+Ed Sheeran,x (Deluxe Edition),Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,0.614,0.379,4,-10.48,1,0.0476,0.000464,0.0986,0.201,107.989,258987,4,Spotify,Heartbreaker,Public 14
+Dean Lewis,Be Alright,Be Alright,3EPXxR3ImUwfayaurPi3cm,0.553,0.586,11,-6.319,1,0.0362,0.0,0.0813,0.443,126.684,196373,4,Spotify,Heartbreaker,Public 14
+Labrinth,Jealous - EP,Jealous,4G92yYrUs0cvY7G41YRI0z,0.439,0.153,1,-8.95,1,0.0479,0.0,0.107,0.104,116.76,287693,3,Spotify,Heartbreaker,Public 14
+James Bay,Chaos And The Calm,Let It Go,13HVjjWUZFaWilh2QUJKsP,0.546,0.311,1,-10.396,1,0.0288,1.65e-05,0.107,0.246,147.464,260533,4,Spotify,Heartbreaker,Public 14
+Adele,25,When We Were Young,7GgWAITsYJaRM3r50rfh5w,0.376,0.595,3,-5.936,1,0.0496,0.0,0.095,0.265,144.361,290900,4,Spotify,Heartbreaker,Public 14
+Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,0.522,0.385,0,-7.355,1,0.0288,0.0,0.135,0.236,89.792,207520,4,Spotify,Heartbreaker,Public 14
+X Ambassadors,VHS,Unsteady,7lGKEWMXVWWTt3X71Bv44I,0.389,0.665,0,-6.169,1,0.0644,0.000732,0.116,0.199,117.055,193547,4,Spotify,Heartbreaker,Public 14
+A Great Big World,Is There Anybody Out There?,Say Something,6Vc5wAMmXdKIAM7WUoEb7N,0.407,0.147,2,-8.822,1,0.0355,2.89e-06,0.0913,0.0765,141.284,229400,3,Spotify,Heartbreaker,Public 14
+Bruno Mars,Unorthodox Jukebox,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0.0,0.088,0.387,72.795,213827,4,Spotify,Heartbreaker,Public 14
+Benson Boone,GHOST TOWN,GHOST TOWN,135Lf4Q0CzlMNfOxbEUsLH,0.391,0.335,0,-10.064,1,0.0763,0.0,0.102,0.116,174.185,193733,3,Spotify,Heartbreaker,Public 14
+Birdy,Birdy,Skinny Love,4RL77hMWUq35NYnPLXBpih,0.379,0.29,4,-8.485,1,0.051,0.00106,0.118,0.169,166.467,201080,4,Spotify,Heartbreaker,Public 14
+Jasmine Thompson,Like I'm Gonna Lose You,Like I'm Gonna Lose You,2pV8RpdLemcyMWko8dASVt,0.398,0.174,0,-11.16,1,0.0364,4.16e-06,0.158,0.153,172.152,232339,3,Spotify,Heartbreaker,Public 14
+Christina Perri,lovestrong.,Jar of Hearts,0HZhYMZOcUzZKSFwPOti6m,0.349,0.348,3,-6.142,1,0.0316,0.0,0.12,0.0886,74.541,246587,4,Spotify,Heartbreaker,Public 14
+Dean Lewis,A Place We Knew,Half A Man,1ugQtcwmKOXvKAYzhjncmv,0.507,0.204,0,-11.575,1,0.0504,0.0,0.143,0.343,77.765,179120,4,Spotify,Heartbreaker,Public 14
+Olivia Rodrigo,SOUR,drivers license,5wANPM4fQCJwkGd4rN57mH,0.561,0.431,10,-8.81,1,0.0578,1.42e-05,0.106,0.137,143.875,242013,4,Spotify,Heartbreaker,Public 14
+Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,3VlbOrM6nYPprVvzBZllE5,0.681,0.372,5,-8.237,1,0.0432,0.0,0.169,0.476,91.873,201000,4,Spotify,Heartbreaker,Public 14
+OneRepublic,Dreaming Out Loud,Apologize,1NrJYpdAi7uosDRPmSYrsG,0.593,0.74,8,-6.12,1,0.0339,2.22e-05,0.102,0.502,118.008,208107,4,Spotify,Heartbreaker,Public 14
+Calum Scott,Only Human (Deluxe),Dancing On My Own,2BOqDYLOJBiMOXShCV1neZ,0.681,0.174,1,-8.745,1,0.0315,3.35e-05,0.0983,0.231,112.672,260285,4,Spotify,Heartbreaker,Public 14
+Snow Patrol,Eyes Open,Chasing Cars,5hnyJvgoWiQUYZttV4wXy6,0.56,0.595,9,-4.53,1,0.0274,6.47e-05,0.132,0.144,104.011,267960,4,Spotify,Heartbreaker,Public 14
+Mimi Webb,Good Without,Good Without,15OCqNPYoLziEAsbVnqRj5,0.616,0.576,11,-5.495,0,0.0532,0.0,0.375,0.269,89.962,182121,4,Spotify,Heartbreaker,Public 14
+The Fray,How To Save A Life,How to Save a Life,5fVZC9GiM4e8vu99W0Xf6J,0.64,0.743,10,-4.08,1,0.0379,0.0,0.101,0.361,122.035,262533,4,Spotify,Heartbreaker,Public 14
+Sam Smith,In The Lonely Hour,I'm Not The Only One,7795WJLVKJoAyVoOtCWqXN,0.677,0.485,5,-5.795,1,0.0361,2.04e-05,0.0766,0.493,82.001,239317,4,Spotify,Heartbreaker,Public 14
+Clean Bandit,I Miss You (feat. Julia Michaels) [Acoustic],I Miss You (feat. Julia Michaels) - Acoustic,2HfKpWYPx4Os46z1K7yE4k,0.556,0.31,3,-9.33,1,0.0302,0.0,0.0793,0.492,104.776,216294,4,Spotify,Heartbreaker,Public 14
+Michael Schulte,Wide Awake,You Said You'd Grow Old With Me,41WTP0gosjYD74B06uS2tL,0.531,0.347,0,-7.044,1,0.0345,0.0,0.0935,0.289,114.441,224743,4,Spotify,Heartbreaker,Public 14
+Little Mix,Get Weird (Expanded Edition),Love Me or Leave Me,1n73Qe6oEprLsUNHXET2pb,0.437,0.351,6,-6.823,0,0.0313,0.0,0.0888,0.383,68.659,206494,4,Spotify,Heartbreaker,Public 14
+Beyoncé,I AM...SASHA FIERCE,If I Were a Boy,26NX1wPt1TRCH536yocd6i,0.632,0.518,6,-6.126,1,0.0313,0.0,0.354,0.427,90.007,249147,4,Spotify,Heartbreaker,Public 14
+Dean Lewis,A Place We Knew,Waves,6w8pFOKn42O418qwcQElZ3,0.518,0.729,11,-7.193,0,0.0452,0.0,0.0643,0.343,156.879,240013,4,Spotify,Heartbreaker,Public 14
+The Script,The Script,Breakeven,285hMzLhJwHVLe9QT9qilk,0.63,0.696,10,-4.501,1,0.0242,0.0,0.0835,0.491,94.034,261427,4,Spotify,Heartbreaker,Public 14
+Tom Odell,Long Way Down (Deluxe),Another Love,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4,Spotify,Heartbreaker,Public 14
+One Direction,Take Me Home (Expanded Edition),Little Things,0TAmnCzOtqRfvA38DDLTjj,0.709,0.22,7,-11.856,1,0.0327,0.0,0.175,0.53,110.076,219040,4,Spotify,Heartbreaker,Public 14
+Paloma Faith,A Perfect Contradiction (Outsiders' Expanded Edition),Only Love Can Hurt Like This,62ke5zFUJN6RvtXZgVH0F8,0.566,0.885,8,-4.528,1,0.0818,9.97e-05,0.334,0.304,90.99,232893,4,Spotify,Heartbreaker,Public 14
+Beyoncé,I AM...SASHA FIERCE,Broken-Hearted Girl,31acMiV67UgKn1ScFChFxo,0.336,0.424,5,-7.203,1,0.0353,0.0,0.273,0.159,82.149,277627,4,Spotify,Heartbreaker,Public 14
+James TW,Chapters,When You Love Someone,0TXNKTzawI6VgLoA9UauRp,0.681,0.453,7,-6.09,1,0.0278,0.0,0.0543,0.348,125.772,216560,4,Spotify,Heartbreaker,Public 14
+Nina Nesbitt,"The Sun Will Come up, The Seasons Will Change",The Best You Had,3i0VfLdOUCks9DmAht65XI,0.69,0.582,5,-6.259,0,0.0333,0.0,0.0776,0.448,122.02,176853,4,Spotify,Heartbreaker,Public 14
+Ne-Yo,In My Own Words,So Sick,6brl7bwOHmGFkNw3MBqssT,0.452,0.574,6,-8.336,1,0.31,0.0,0.189,0.58,92.791,207187,4,Spotify,Heartbreaker,Public 14
+Rihanna,A Girl Like Me,Unfaithful,13xxBnXOuiBxVxJI458B0i,0.588,0.391,0,-8.607,0,0.0334,0.0,0.227,0.349,144.069,226973,4,Spotify,Heartbreaker,Public 14
+JP Cooper,Raised Under Grey Skies (Deluxe),September Song - Guitar Acoustic,7bMkcxifc4EjIQKw49EC7h,0.593,0.394,0,-8.946,0,0.029,0.0,0.121,0.543,94.909,212153,4,Spotify,Heartbreaker,Public 14
+Joel Adams,Please Don't Go,Please Don't Go,3cNjgVBKTJ1SvKhunrCdVy,0.513,0.768,4,-4.868,0,0.0587,1.94e-05,0.294,0.235,84.264,210580,4,Spotify,Heartbreaker,Public 14
+Camila Cabello,Camila,Consequences,7sTtHHrD0zDpmzQzH3zegz,0.455,0.292,0,-6.792,1,0.0563,0.0,0.106,0.43,84.339,178467,5,Spotify,Heartbreaker,Public 14
+Dan Owen,Stay Awake with Me (acoustic),Made to Love You,7xNQMVeEgXQf0xUsTlcpMP,0.361,0.153,0,-10.296,1,0.0332,0.0,0.0918,0.128,80.794,207867,4,Spotify,Heartbreaker,Public 14

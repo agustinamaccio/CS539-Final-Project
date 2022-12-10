@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Linkin Park,Hybrid Theory (Bonus Edition),One Step Closer,3K4HG9evC7dg3N0R9cYqk4,0.492,0.969,9,-4.419,1,0.0491,1.32e-06,0.0787,0.538,95.136,157333,4,Spotify,Adrenaline Workout,Public 10
+Limp Bizkit,Significant Other,Break Stuff,5cZqsjVs6MevCnAkasbEOX,0.432,0.884,8,-6.659,1,0.13,0.000527,0.166,0.624,108.948,166707,4,Spotify,Adrenaline Workout,Public 10
+Mötley Crüe,Dr. Feelgood (Deluxe Version),Kickstart My Heart,6imjJij6aCM0IbbODUzJQn,0.465,0.977,7,-3.839,0,0.175,0.00298,0.201,0.233,89.535,284027,4,Spotify,Adrenaline Workout,Public 10
+Slipknot,Vol. 3: The Subliminal Verses,Before I Forget,6wqJeItl3Vc3az4ZicSQAB,0.291,0.974,6,-2.997,0,0.171,5.44e-06,0.886,0.348,134.724,278600,4,Spotify,Adrenaline Workout,Public 10
+Rob Zombie,Hellbilly Deluxe,Dragula,6Nm8h73ycDG2saCnZV8poF,0.591,0.963,0,-6.489,0,0.0531,0.000107,0.0781,0.609,125.03,222827,4,Spotify,Adrenaline Workout,Public 10
+Avenged Sevenfold,Hail to the King,Hail to the King,5anCkDvJ17aznvK5TED5uo,0.58,0.916,3,-4.358,0,0.0387,0.0259,0.126,0.683,118.004,305907,4,Spotify,Adrenaline Workout,Public 10
+Deftones,Around the Fur,My Own Summer (Shove It),1158ckiB5S4cpsdYHDB9IF,0.443,0.781,1,-4.277,1,0.0377,0.205,0.166,0.372,71.841,214760,4,Spotify,Adrenaline Workout,Public 10
+Disturbed,The Sickness,Down with the Sickness,40rvBMQizxkIqnjPdEWY1v,0.695,0.876,3,-4.262,0,0.0553,6.89e-06,0.106,0.941,89.954,279213,4,Spotify,Adrenaline Workout,Public 10
+Falling In Reverse,Popular Monster,Popular Monster,4GssB27iJeqmfGxS94Tfij,0.461,0.897,3,-3.982,0,0.092,0.0,0.0965,0.358,165.107,220537,4,Spotify,Adrenaline Workout,Public 10
+Drowning Pool,Sinner,Bodies,7CpbhqKUedOIrcvc94p60Y,0.656,0.932,4,-3.405,0,0.0708,0.00147,0.144,0.544,130.936,201960,4,Spotify,Adrenaline Workout,Public 10
+Linkin Park,Hybrid Theory (Bonus Edition),Papercut,1Vej0qeQ3ioKwpI6FUbRv1,0.524,0.939,9,-3.994,1,0.113,0.0,0.623,0.661,150.184,184867,4,Spotify,Adrenaline Workout,Public 10
+Korn,See You On the Other Side,Coming Undone,3o7TMr6RmIusYH7Kkg7ujR,0.687,0.677,2,-4.172,1,0.0508,0.000137,0.0564,0.545,75.052,199773,4,Spotify,Adrenaline Workout,Public 10
+Pantera,Vulgar Display of Power,Walk,7fcfNW0XxTWlwVlftzfDOR,0.43,0.704,1,-8.008,0,0.0804,0.00221,0.0933,0.703,118.242,315120,4,Spotify,Adrenaline Workout,Public 10
+Motionless In White,Disguise,Another Life,0YZEYxd1oiqZRFhnnmTKKi,0.39,0.939,4,-3.828,0,0.0787,0.0,0.0968,0.495,161.997,205394,4,Spotify,Adrenaline Workout,Public 10
+Skillet,Unleashed,Feel Invincible,0i8JFpqe9cKwnrcvoNgl1L,0.603,0.886,5,-3.777,0,0.0837,0.0,0.26,0.395,126.025,229933,4,Spotify,Adrenaline Workout,Public 10
+Bad Omens,THE DEATH OF PEACE OF MIND,Just Pretend,1H4Y9uW4N0LsxJUz0VnaPJ,0.457,0.834,5,-4.674,0,0.0817,0.00125,0.1,0.201,140.032,204677,4,Spotify,Adrenaline Workout,Public 10
+Rammstein,Sehnsucht,Du hast,6uEvFCaOqXyEidoO8BZbyh,0.64,0.922,9,-6.283,0,0.0385,0.055,0.332,0.716,125.105,234227,4,Spotify,Adrenaline Workout,Public 10
+Hollywood Undead,Swan Songs,Undead,5wBLDkxVvclanSitx5jq8e,0.512,0.943,2,-5.185,0,0.106,0.0,0.261,0.485,163.128,265053,4,Spotify,Adrenaline Workout,Public 10
+Mudvayne,Lost and Found,Happy?,0INUE1K7cEiE8VH63Rv5RJ,0.546,0.97,5,-2.661,0,0.097,2.08e-05,0.275,0.383,100.065,216427,4,Spotify,Adrenaline Workout,Public 10
+Three Days Grace,EXPLOSIONS,So Called Life,1QTQ3VNzabl4yF5GJE6hhK,0.505,0.909,2,-4.316,1,0.0622,0.0,0.0922,0.457,160.051,206640,4,Spotify,Adrenaline Workout,Public 10
+Limp Bizkit,Significant Other,Nookie,1TEZWG1FdjzDdercCguTwj,0.573,0.929,11,-5.996,1,0.082,0.0723,0.718,0.284,97.57,289560,4,Spotify,Adrenaline Workout,Public 10
+Pantera,Cowboys from Hell,Cowboys from Hell,2SgbR6ttzoNlCRGQOKjrop,0.415,0.908,2,-9.701,1,0.0765,0.0345,0.082,0.437,114.816,243533,4,Spotify,Adrenaline Workout,Public 10
+Volbeat,Beyond Hell / Above Heaven,A Warrior's Call,4o6k1XHlrIZay8v1m5VU83,0.373,0.903,10,-4.49,1,0.083,5.86e-06,0.244,0.43,109.121,263080,3,Spotify,Adrenaline Workout,Public 10
+Slipknot,We Are Not Your Kind,Nero Forte,56fiFTRrSiHHH3gBeaTg2P,0.336,0.978,7,-2.358,1,0.0846,0.000525,0.138,0.496,129.842,315177,4,Spotify,Adrenaline Workout,Public 10
+Bullet For My Valentine,Fever,Your Betrayal,25GC50HslaaruyrKjdu0lP,0.569,0.883,2,-4.41,0,0.0748,7.74e-05,0.0883,0.373,134.001,291427,4,Spotify,Adrenaline Workout,Public 10
+I Prevail,TRAUMA,Hurricane,2GFwwTIVLjnOrtP7m9luHC,0.389,0.885,6,-5.063,0,0.0551,0.000311,0.202,0.187,164.989,223173,4,Spotify,Adrenaline Workout,Public 10
+Dope,Life,Die MF Die,5bU4KX47KqtDKKaLM4QCzh,0.657,0.96,5,-3.524,0,0.07,0.000997,0.109,0.567,126.02,186067,4,Spotify,Adrenaline Workout,Public 10
+Powerman 5000,Tonight The Stars Revolt,When Worlds Collide,6aF5JtQSrh7wNrkDE9B0My,0.56,0.903,11,-4.77,1,0.0754,0.0,0.291,0.581,143.821,177960,4,Spotify,Adrenaline Workout,Public 10
+Architects,For Those That Wish To Exist,Animals,5ofoB8PFmocBXFBEWVb6Vz,0.532,0.759,1,-3.842,0,0.0319,0.02,0.073,0.293,95.01,244365,4,Spotify,Adrenaline Workout,Public 10
+Five Finger Death Punch,Got Your Six (Deluxe),Jekyll and Hyde,5MjkeHk6I0JA0q13eqtnJP,0.544,0.96,3,-4.681,0,0.106,1.99e-05,0.0531,0.718,154.966,206903,4,Spotify,Adrenaline Workout,Public 10
+Alter Bridge,One Day Remains,Metalingus,3UULkHdmLDqBDPmBYltoRE,0.496,0.981,8,-3.268,1,0.108,0.0,0.0958,0.163,109.905,259960,4,Spotify,Adrenaline Workout,Public 10
+Stone Sour,"House of Gold & Bones, Part 1",Absolute Zero,14EORgkbXqIx5K4Haucmnb,0.552,0.988,1,-2.555,0,0.0787,0.309,0.846,0.619,139.941,229840,4,Spotify,Adrenaline Workout,Public 10
+We Came As Romans,Black Hole,Black Hole,4Y7eqYTpV7fQxpYj1isN2F,0.48,0.958,5,-4.241,0,0.0664,0.0,0.52,0.385,110.05,179182,4,Spotify,Adrenaline Workout,Public 10
+I Prevail,TRUE POWER,Self-Destruction,4UhMvTR5tHf2ecfoz0KV92,0.423,0.975,7,-5.21,1,0.397,0.0,0.346,0.387,172.046,146177,4,Spotify,Adrenaline Workout,Public 10
+Ghost,Prequelle,Dance Macabre,1E2WTcYLP1dFe1tiGDwRmT,0.619,0.696,7,-6.269,0,0.0315,0.00555,0.38,0.727,125.986,219720,4,Spotify,Adrenaline Workout,Public 10
+Beartooth,Disgusting,In Between,03jdl5GTBhKsgB1Yw8mVPh,0.462,0.972,7,-2.642,0,0.138,0.0,0.666,0.449,128.092,213576,4,Spotify,Adrenaline Workout,Public 10
+Slipknot,All Hope Is Gone,Psychosocial,2MvIMgtWyK88OiPi0J8Dg3,0.576,0.989,2,-1.909,1,0.112,0.0032,0.0243,0.352,135.093,283400,4,Spotify,Adrenaline Workout,Public 10
+Godsmack,Awake,Awake,6xXlurslWqFuyqTCBlErzX,0.395,0.756,7,-4.12,1,0.0544,0.00665,0.319,0.475,112.092,304373,4,Spotify,Adrenaline Workout,Public 10
+Metallica,"Garage, Inc.",Whiskey In The Jar,3ZpWy5rBZv2aLQAldnmTsP,0.511,0.972,10,-3.751,1,0.0413,0.00101,0.19,0.532,132.97,304893,4,Spotify,Adrenaline Workout,Public 10
+Bring Me The Horizon,Parasite Eve,Parasite Eve,5OxclJsdFESni44YlpNpkR,0.589,0.797,9,-5.464,1,0.15,4.35e-06,0.383,0.232,102.489,291813,4,Spotify,Adrenaline Workout,Public 10
+Gojira,Magma,Stranded,60fUDmIWuKhngaeBIVhqIV,0.513,0.88,7,-4.69,0,0.0309,0.00614,0.0824,0.495,92.358,269533,4,Spotify,Adrenaline Workout,Public 10
+Staind,Dysfunction,Mudshovel,6264zKFgXM13JuRBX4MMyD,0.328,0.826,6,-5.085,1,0.0362,0.000944,0.0818,0.341,106.606,282093,4,Spotify,Adrenaline Workout,Public 10
+Shinedown,ATTENTION ATTENTION,DEVIL,2hEYslbdYWFSIA6JboUvnR,0.354,0.942,7,-3.245,1,0.237,6.36e-06,0.431,0.242,119.992,207987,4,Spotify,Adrenaline Workout,Public 10
+Five Finger Death Punch,Got Your Six (Deluxe),Wash It All Away,05QquCUFrpkKTHz5Sy09nc,0.486,0.984,4,-3.619,1,0.0717,0.0,0.28,0.277,123.64,225706,4,Spotify,Adrenaline Workout,Public 10
+Godsmack,When Legends Rise,Bulletproof,6w7ily4cFWEPO0XWFQYeUO,0.39,0.91,5,-3.268,0,0.133,0.0,0.156,0.644,162.253,177048,4,Spotify,Adrenaline Workout,Public 10
+Machine Head,Is There Anybody Out There?,Is There Anybody Out There?,5aeIj88MLdekYvObw5Yisk,0.408,0.953,7,-3.883,1,0.226,0.0,0.338,0.291,177.94,272666,4,Spotify,Adrenaline Workout,Public 10
+Volbeat,Seal The Deal & Let's Boogie,The Devil's Bleeding Crown,79M3Eq1q61lkeQJ1OCVEdZ,0.32,0.909,7,-4.612,1,0.0412,0.139,0.0443,0.21,109.649,238653,3,Spotify,Adrenaline Workout,Public 10
+Amaranthe,MASSIVE ADDICTIVE,Drop Dead Cynical,5VToMJACRoeT0YZNs5CYyp,0.286,0.914,7,-3.929,1,0.0905,0.000255,0.0838,0.485,140.042,197853,4,Spotify,Adrenaline Workout,Public 10
+TOOL,Lateralus,Parabola,1vxu8vMNshg5J8z3oA7QJZ,0.314,0.929,9,-6.238,1,0.105,0.516,0.139,0.285,100.935,363680,4,Spotify,Adrenaline Workout,Public 10
+Skillet,Victorious,Legendary,2pYaGdqXBrl8MdvuwgtBb7,0.548,0.924,11,-4.48,0,0.0689,1.42e-05,0.162,0.242,124.031,244538,4,Spotify,Adrenaline Workout,Public 10
+System Of A Down,Protect The Land / Genocidal Humanoidz,Protect The Land,11ajcVj3qSyyMPUpTJUP3y,0.432,0.886,8,-3.991,1,0.0341,4.74e-05,0.338,0.248,76.04,307645,4,Spotify,Adrenaline Workout,Public 10
+Rammstein,Mutter,Feuer frei!,73JZKk0nb1WOUmh1Eo3Unc,0.491,0.966,3,-3.974,1,0.0463,0.346,0.153,0.223,95.141,188600,4,Spotify,Adrenaline Workout,Public 10
+Godsmack,The Oracle (Deluxe Edition),Cryin' Like A Bitch!!,4a9i7rCLfPjbS1sNamZeQN,0.543,0.808,10,-5.484,1,0.0407,0.00336,0.114,0.472,95.19,201667,4,Spotify,Adrenaline Workout,Public 10
+Breaking Benjamin,Ember,Blood,7gQ7DfSSc3b8e4cHtFnDxu,0.478,0.971,7,-2.729,1,0.0858,2.77e-05,0.295,0.284,90.526,189120,4,Spotify,Adrenaline Workout,Public 10
+A Day To Remember,Bad Vibrations (Deluxe Edition),Paranoia,3HhaSocKwTptze7PySNZlW,0.409,0.992,3,-2.803,0,0.108,2.03e-06,0.1,0.344,149.859,200677,4,Spotify,Adrenaline Workout,Public 10
+TOOL,"10,000 Days",Jambi,2gbPu2QNqhnnqtfK3yyeZ0,0.475,0.831,9,-7.419,0,0.0505,0.854,0.346,0.521,110.42,448613,3,Spotify,Adrenaline Workout,Public 10
+I Prevail,Lifelines,Come And Get It,44M12pkcMqqdbNNooHCZ6C,0.567,0.987,4,-4.069,1,0.0765,2.38e-05,0.371,0.383,107.974,181427,4,Spotify,Adrenaline Workout,Public 10
+Trivium,The Sin and the Sentence,The Heart from Your Hate,5yDJpu0xh0d1w13gXaE3lS,0.582,0.928,10,-4.659,0,0.0635,5.03e-06,0.297,0.565,113.043,243853,4,Spotify,Adrenaline Workout,Public 10
+Motionless In White,Disguise,Brand New Numb,0vPkRB52RENZMpHybpFKYK,0.566,0.886,0,-3.63,1,0.0902,0.0,0.494,0.619,130.066,222461,4,Spotify,Adrenaline Workout,Public 10
+Fozzy,Judas,Judas,2QQDH8gt4nyxFu2XX6bhG8,0.418,0.907,0,-3.675,1,0.0584,0.000433,0.346,0.473,99.17,250793,4,Spotify,Adrenaline Workout,Public 10
+Wage War,Manic,Circle The Drain,37LTDJrNmWco1qHO1AuZ1r,0.448,0.969,5,-3.309,0,0.11,0.000135,0.0771,0.387,92.512,215347,4,Spotify,Adrenaline Workout,Public 10
+Godsmack,When Legends Rise,When Legends Rise,1Si7crvw1M6Kgz9XiAtMiJ,0.44,0.916,4,-4.222,0,0.266,1.94e-05,0.0897,0.401,124.099,172826,4,Spotify,Adrenaline Workout,Public 10
+Bring Me The Horizon,Teardrops,Teardrops,3aniWcwiiYKHpm3F5TdeKD,0.497,0.916,7,-3.323,1,0.108,0.0,0.36,0.401,96.051,215004,4,Spotify,Adrenaline Workout,Public 10
+Parkway Drive,Reverence,Prey,7lMFAK8dv0QkWpIlZcWQlJ,0.27,0.964,6,-4.545,1,0.0866,0.0247,0.525,0.325,99.731,255231,3,Spotify,Adrenaline Workout,Public 10
+AC/DC,Ballbreaker,Hard as a Rock,1gij27s31tFKcTHa8f1u4g,0.481,0.724,4,-5.642,1,0.0324,0.177,0.11,0.2,116.322,271000,4,Spotify,Adrenaline Workout,Public 10
+A Perfect Circle,Thirteenth Step,Pet,27msmgcdSRniJHfocEf6EH,0.542,0.806,8,-4.973,1,0.0482,0.436,0.291,0.333,140.155,274333,4,Spotify,Adrenaline Workout,Public 10
+Bad Wolves,Dear Monsters,If Tomorrow Never Comes,0OzYhueF403FBct7orzGEg,0.359,0.928,11,-4.915,0,0.147,0.000687,0.114,0.265,163.976,188769,4,Spotify,Adrenaline Workout,Public 10
+In This Moment,Ritual,Black Wedding (feat. Rob Halford),3zUwwYcmob803s2Bkck8GY,0.54,0.967,1,-4.174,0,0.162,0.0,0.683,0.293,136.896,247373,4,Spotify,Adrenaline Workout,Public 10
+Rammstein,Deutschland,Deutschland,1T8IRUJBga0JXioJZvxjBR,0.521,0.895,7,-5.242,1,0.0442,0.349,0.0985,0.237,120.117,322340,4,Spotify,Adrenaline Workout,Public 10
+Escape the Fate,I Am Human,Broken Heart,5LV0oQV98daZAUoWnQEW6N,0.528,0.861,2,-4.309,1,0.0518,0.0,0.268,0.591,95.02,187372,4,Spotify,Adrenaline Workout,Public 10
+Hollywood Undead,Five,Whatever It Takes,2ouOVzQTzSsLa2OH1Zxhvu,0.686,0.862,7,-3.426,1,0.034,1.12e-05,0.148,0.472,87.48,187654,4,Spotify,Adrenaline Workout,Public 10
+Architects,when we were young,when we were young,5wTfzzRW8ddRdgW2kASbox,0.443,0.938,8,-3.01,1,0.106,5.71e-06,0.32,0.439,169.995,193886,4,Spotify,Adrenaline Workout,Public 10
+Beast In Black,Dark Connection,Hardcore,1kKzLv3w7I5NXzEtWkSzi4,0.462,0.935,6,-5.215,0,0.0417,0.0415,0.111,0.721,139.961,214134,4,Spotify,Adrenaline Workout,Public 10
+Beartooth,Aggressive,Hated,2NRa4W3rH4e5GKQMN5Qwyr,0.458,0.99,8,-3.717,1,0.183,0.000893,0.454,0.46,166.904,211430,4,Spotify,Adrenaline Workout,Public 10
+Adelitas Way,Notorious,Notorious,5PZo9NMyNLxOlpEFoYo611,0.53,0.967,0,-2.108,1,0.0657,0.205,0.0786,0.642,99.962,170177,4,Spotify,Adrenaline Workout,Public 10
+Amaranthe,PvP,PvP,46HFTyFqLMzSye98Arqa98,0.436,0.963,7,-6.861,1,0.0826,0.0,0.138,0.515,169.921,179093,4,Spotify,Adrenaline Workout,Public 10
+Trivium,Vengeance Falls (Special Edition),Strife,15zUfY9L1p7bN9JsgaTAP0,0.461,0.987,1,-1.711,0,0.108,8.48e-05,0.359,0.309,142.031,269266,4,Spotify,Adrenaline Workout,Public 10
+Gojira,Fortitude,Amazonia,1GWtUkDQk7XC35r7kTPfqx,0.382,0.954,9,-4.831,1,0.0417,0.776,0.244,0.513,181.933,300783,4,Spotify,Adrenaline Workout,Public 10
+Fear Factory,Digimortal,Linchpin,4qjvr0qMFUo26SxwC4VygS,0.693,0.871,0,-3.389,1,0.0844,2.01e-05,0.11,0.533,111.989,204853,4,Spotify,Adrenaline Workout,Public 10
+Five Finger Death Punch,And Justice for None (Deluxe),Sham Pain,1YLxrvfvFivQj7eh3Y5yxA,0.555,0.938,11,-4.901,0,0.0533,2.69e-06,0.139,0.401,96.504,209703,4,Spotify,Adrenaline Workout,Public 10
+Three Days Grace,Outsider,Infra-Red,6oe2HcrgnNU66Eyq8BY45Z,0.568,0.907,5,-4.641,0,0.0488,0.0,0.0982,0.337,112.037,230933,4,Spotify,Adrenaline Workout,Public 10
+Limp Bizkit,Gold Cobra (Deluxe),Gold Cobra,2PDdjoIa7fHriNPkqu055e,0.457,0.98,6,-2.497,1,0.253,0.00152,0.076,0.66,173.997,233533,4,Spotify,Adrenaline Workout,Public 10
+Polaris,The Mortal Coil,The Remedy,63GJDO5mxiFP1ZQEpdUWRd,0.356,0.995,4,-3.366,0,0.172,0.000196,0.403,0.167,183.985,243913,4,Spotify,Adrenaline Workout,Public 10
+Atreyu,Lead Sails Paper Anchor,Becoming the Bull,2MMrjobPrVLrozyfFXsFJx,0.488,0.936,1,-3.431,1,0.0699,1e-05,0.106,0.398,95.009,220600,4,Spotify,Adrenaline Workout,Public 10
+Memphis May Fire,Remade In Misery,Misery,2SVbjw7sdiNjAvGpQ4eEai,0.431,0.899,1,-2.88,1,0.135,0.000432,0.346,0.553,85.019,192176,4,Spotify,Adrenaline Workout,Public 10
+Disturbed,Evolution (Deluxe Edition),No More,2xECSFHPgCyElhTVRaHVYP,0.53,0.988,7,-2.406,1,0.121,0.0,0.222,0.521,101.28,232640,3,Spotify,Adrenaline Workout,Public 10
+Parkway Drive,Reverence,The Void,5znIVOv7RucpCHGkbonySq,0.571,0.954,2,-3.399,0,0.0464,0.0014,0.058,0.53,123.051,233080,4,Spotify,Adrenaline Workout,Public 10
+Skillet,Victorious,Save Me,4REoG68IFlZyqVAaUwmUl0,0.556,0.888,1,-3.985,0,0.0377,0.0,0.214,0.446,96.033,223241,4,Spotify,Adrenaline Workout,Public 10
+Bullet For My Valentine,Gravity,Letting You Go,7rGN3oqzCpG2mLcwoPwDQm,0.459,0.903,5,-4.649,0,0.0673,0.0,0.168,0.364,76.185,223655,4,Spotify,Adrenaline Workout,Public 10
+Shinedown,Threat to Survival,Asking for It,3Tp7y0bLogDQsIO5tTTOH4,0.449,0.971,10,-3.66,1,0.0476,0.0,0.141,0.414,144.031,210707,4,Spotify,Adrenaline Workout,Public 10
+Pop Evil,Pop Evil,Waking Lions,1VMSib83ZkffP22T64hxot,0.507,0.973,6,-2.905,1,0.176,0.0329,0.346,0.706,143.075,231963,4,Spotify,Adrenaline Workout,Public 10
+Disturbed,Evolution,Are You Ready,4zvqMZ6g4wKZaPpOQvoBpP,0.392,0.976,7,-2.189,1,0.107,0.0,0.271,0.521,199.888,261680,4,Spotify,Adrenaline Workout,Public 10
+Solence,Good F**King Music,Good F**King Music,75zbw2JGazrTzrJ5r36Af3,0.507,0.723,8,-5.747,1,0.175,0.0,0.195,0.706,142.935,206434,4,Spotify,Adrenaline Workout,Public 10
+Metallica,Hardwired…To Self-Destruct,Hardwired,7myke8Id4WyKFlWcRBJdIF,0.13,0.991,11,-3.126,1,0.0604,0.00412,0.225,0.505,185.364,191332,4,Spotify,Adrenaline Workout,Public 10
+A Day To Remember,Resentment,Resentment,57yI1u6t6cFXbjgjQcRHug,0.496,0.955,9,-3.607,0,0.196,9.64e-05,0.0549,0.143,122.956,227267,4,Spotify,Adrenaline Workout,Public 10
+Soil,Scars (Expanded Edition),Halo,1QixTwDZCcfBzA7QMyont0,0.529,0.92,3,-4.168,1,0.0649,0.00202,0.0582,0.438,111.132,195653,4,Spotify,Adrenaline Workout,Public 10
+Light The Torch,Revival,Calm Before the Storm,3dhDN3hilhqEursIIg8Xko,0.377,0.975,2,-4.31,0,0.171,0.00344,0.268,0.311,163.168,235013,4,Spotify,Adrenaline Workout,Public 10
+The Plot In You,FEEL NOTHING (RESET),FEEL NOTHING - RESET,54otdw8MmYNz2ewGHzmaTP,0.34,0.887,4,-4.54,0,0.0898,2.72e-06,0.0622,0.215,144.081,220689,4,Spotify,Adrenaline Workout,Public 10
+Atreyu,Warrior,Warrior,0KBRMpZVUTxrU8blRUBfm3,0.477,0.824,1,-3.888,0,0.0826,2.97e-06,0.333,0.278,154.673,167035,4,Spotify,Adrenaline Workout,Public 10
+Trivium,Silence in the Snow (Special Edition),Until the World Goes Cold,1hPKSQuvfLlPeIu8xhRyTf,0.517,0.887,10,-7.637,0,0.0732,0.00258,0.151,0.531,166.008,321162,4,Spotify,Adrenaline Workout,Public 10

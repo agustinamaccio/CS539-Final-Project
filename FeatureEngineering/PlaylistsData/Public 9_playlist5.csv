@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+The Weeknd,After Hours,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,0.514,0.73,1,-5.934,1,0.0598,9.54e-05,0.0897,0.334,171.005,200040,4,Spotify,Feeling Accomplished,Public 9
+Beyoncé,B'Day,Upgrade U (feat. Jay-Z),6V1nOgkrGmr6Wx1x4RQ6Bc,0.474,0.683,7,-5.585,1,0.397,0.000123,0.309,0.509,169.51,272707,4,Spotify,Feeling Accomplished,Public 9
+Missy Elliott,The Cookbook,Lose Control (feat. Ciara & Fat Man Scoop),0UaMYEvWZi0ZqiDOoHU3YI,0.904,0.813,4,-7.105,0,0.121,0.00697,0.0471,0.81,125.461,226864,4,Spotify,Feeling Accomplished,Public 9
+Nicki Minaj,The Pinkprint (Deluxe),Anaconda,794F99D5BQHS5ZGRXAs7I5,0.964,0.605,9,-6.223,1,0.179,7.78e-06,0.214,0.646,129.994,260240,4,Spotify,Feeling Accomplished,Public 9
+Saweetie,Tap In,Tap In,4Hpib09wXgD84w4uwTPnYD,0.954,0.696,10,-7.117,0,0.204,0.000498,0.0754,0.432,100.036,139413,4,Spotify,Feeling Accomplished,Public 9
+Cardi B,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),4Oun2ylbjFKMPTiaSbbCih,0.935,0.454,1,-7.509,1,0.375,0.0,0.0824,0.357,133.073,187541,4,Spotify,Feeling Accomplished,Public 9
+Ariana Grande,"thank u, next",7 rings,6ocbgoVGwYJhOv1GgI9NsF,0.778,0.317,1,-10.732,0,0.334,0.0,0.0881,0.327,140.048,178627,4,Spotify,Feeling Accomplished,Public 9
+21 Savage,Without Warning,Ric Flair Drip (with Metro Boomin),7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,9,-8.28,1,0.206,5.05e-05,0.114,0.333,100.007,172800,4,Spotify,Feeling Accomplished,Public 9
+Post Malone,Hollywood's Bleeding,Wow.,7xQAfvXzm3AkraOtGPWIZg,0.829,0.539,11,-7.359,0,0.208,1.78e-06,0.103,0.388,99.96,149547,4,Spotify,Feeling Accomplished,Public 9
+Remy Ma,There's Something About Remy-Based On A True Story (Explicit),Conceited (There's Something About Remy),2OcBwebjQsdJy76zWvLQvn,0.668,0.577,11,-7.808,1,0.447,0.0,0.156,0.564,99.565,219560,4,Spotify,Feeling Accomplished,Public 9
+French Montana,Jungle Rules,Unforgettable,3B54sVLJ402zGa6Xm4YGNe,0.726,0.769,6,-5.043,1,0.123,0.0101,0.104,0.733,97.985,233902,4,Spotify,Feeling Accomplished,Public 9
+Nelly Furtado,Loose,Maneater,4wH4dJgrsxONID6KS2tDQM,0.796,0.777,6,-4.81,1,0.0397,0.000358,0.121,0.787,132.722,258893,4,Spotify,Feeling Accomplished,Public 9
+Rihanna,Good Girl Gone Bad: Reloaded,Disturbia,2VOomzT6VavJOGBeySqaMc,0.707,0.813,11,-4.515,0,0.0571,0.0,0.168,0.722,124.921,238627,4,Spotify,Feeling Accomplished,Public 9
+Timbaland,Shock Value,The Way I Are,2bLqfJjuC5syrsgDsZfGmn,0.731,0.807,3,-6.492,0,0.1,0.751,0.319,0.765,114.759,179120,4,Spotify,Feeling Accomplished,Public 9
+Britney Spears,Blackout,Gimme More,6ic8OlLUNEATToEFU3xmaH,0.788,0.844,2,-3.131,1,0.0334,0.000678,0.0723,0.382,113.324,251240,4,Spotify,Feeling Accomplished,Public 9
+Mustard,Perfect Ten,Ballin' (with Roddy Ricch),3QzAOrNlsabgbMwlZt7TAY,0.809,0.545,7,-6.678,1,0.0735,0.0,0.151,0.244,97.008,180435,4,Spotify,Feeling Accomplished,Public 9
+Cardi B,Invasion of Privacy,I Like It,58q2HKrzhC3ozto2nDdN4z,0.816,0.726,5,-3.998,0,0.129,0.0,0.372,0.65,136.048,253390,4,Spotify,Feeling Accomplished,Public 9
+Post Malone,beerbongs & bentleys,Better Now,7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.04,0.0,0.135,0.341,145.038,231267,4,Spotify,Feeling Accomplished,Public 9
+Doja Cat,Boss Bitch,Boss Bitch,78qd8dvwea0Gosb6Fe6j3k,0.707,0.955,10,-4.593,0,0.222,0.0,0.202,0.575,125.989,134240,4,Spotify,Feeling Accomplished,Public 9
+Migos,Culture II,Stir Fry,2UVbBKQOdFAekPTRsnkzcf,0.817,0.816,2,-5.402,1,0.269,0.0,0.159,0.508,181.982,190288,4,Spotify,Feeling Accomplished,Public 9
+Ariana Grande,"thank u, next","break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,0.726,0.554,5,-5.29,0,0.0917,0.0,0.106,0.335,169.999,190440,4,Spotify,Feeling Accomplished,Public 9
+JAY-Z,The Blueprint 3,Run This Town,7LR85XLWw2yXqKBSI5brbG,0.632,0.924,1,-1.802,1,0.29,0.0,0.263,0.441,86.844,267520,4,Spotify,Feeling Accomplished,Public 9
+M.I.A.,Kala,Paper Planes,1ixbwbeBi5ufN4noUKmW5a,0.447,0.848,2,-6.175,1,0.222,7.46e-05,0.65,0.485,172.253,205200,4,Spotify,Feeling Accomplished,Public 9
+Drake,So Far Gone,Best I Ever Had,3QLjDkgLh9AOEHlhQtDuhs,0.395,0.922,1,-2.176,1,0.375,0.0,0.134,0.558,162.361,257690,4,Spotify,Feeling Accomplished,Public 9
+A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",4X5f3vT8MRuXF68pfjNte5,0.853,0.693,1,-6.87,1,0.275,0.0,0.11,0.662,95.967,233787,4,Spotify,Feeling Accomplished,Public 9
+Wiz Khalifa,The Thrill,The Thrill,4wqzOaLxiCRy2Et8tRyNSX,0.817,0.775,10,-4.767,0,0.108,0.0,0.108,0.806,126.984,234334,4,Spotify,Feeling Accomplished,Public 9
+Nelly,Country Grammar,Ride Wit Me,3Gf5nttwcX9aaSQXRWidEZ,0.85,0.7,7,-6.49,1,0.0478,1.8e-06,0.244,0.722,101.875,291782,4,Spotify,Feeling Accomplished,Public 9
+Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,0yvPEnB032fojLfVluFjUv,0.706,0.643,11,-6.929,0,0.234,0.0,0.262,0.885,143.931,203760,4,Spotify,Feeling Accomplished,Public 9
+Kanye West,Graduation,Good Life,4ZPdLEztrlZqbJkgHNw54L,0.439,0.808,1,-6.881,1,0.346,0.0,0.439,0.487,82.962,207000,4,Spotify,Feeling Accomplished,Public 9
+Cassie,Cassie (U.S. Version),Me & U,7k6IzwMGpxnRghE7YosnXT,0.803,0.454,8,-4.802,0,0.0294,0.0,0.0655,0.739,99.99,192213,4,Spotify,Feeling Accomplished,Public 9
+Flo Rida,R.O.O.T.S. (Route of Overcoming the Struggle),Right Round,3GpbwCm3YxiWDvy29Uo3vP,0.72,0.672,7,-6.852,1,0.0551,0.0,0.232,0.705,124.986,204640,4,Spotify,Feeling Accomplished,Public 9
+Drake,Take Care (Deluxe),Headlines,6LxSe8YmdPxy095Ux6znaQ,0.636,0.566,6,-7.16,0,0.106,0.000353,0.0917,0.425,151.894,235987,4,Spotify,Feeling Accomplished,Public 9
+Doja Cat,Hot Pink,Like That (feat. Gucci Mane),4EivmOT13NMpNSfTKn9p4s,0.879,0.498,4,-6.027,0,0.18,0.0,0.0967,0.405,106.044,163173,4,Spotify,Feeling Accomplished,Public 9
+Fetty Wap,679 (feat. Remy Boyz),679 (feat. Remy Boyz),5NQbUaeTEOGdD6hHcre0dZ,0.618,0.717,7,-5.738,1,0.318,0.0,0.625,0.603,190.05,196693,4,Spotify,Feeling Accomplished,Public 9
+A$AP Ferg,Still Striving,Plain Jane,4dVpf9jZjcORqGTLUaeYj9,0.797,0.844,11,-5.482,1,0.275,0.0,0.087,0.52,170.142,173600,4,Spotify,Feeling Accomplished,Public 9
+Rihanna,Bitch Better Have My Money,Bitch Better Have My Money,0NTMtAO2BV4tnGvw9EgBVq,0.781,0.728,1,-4.981,1,0.0621,1.94e-06,0.257,0.395,102.99,219306,4,Spotify,Feeling Accomplished,Public 9
+Nelly,Nellyville,Hot In Herre,04KTF78FFg8sOHC1BADqbY,0.956,0.745,11,-4.753,0,0.12,0.0,0.0615,0.912,107.075,228240,4,Spotify,Feeling Accomplished,Public 9
+50 Cent,The Massacre,Disco Inferno,69bHJ9qs5FrUJbKP8xU8uZ,0.925,0.659,3,-4.763,1,0.231,7.88e-05,0.279,0.71,97.018,214227,4,Spotify,Feeling Accomplished,Public 9
+Kanye West,Yeezus,Black Skinhead,722tgOgdIbNe3BEyLnejw4,0.766,0.809,1,-6.123,1,0.279,0.0,0.168,0.325,130.127,188013,4,Spotify,Feeling Accomplished,Public 9
+Jack Harlow,Sweet Action,I WANNA SEE SOME ASS (feat. jetsonmade),2aWVaW1p2kUc5yuKwBmRJi,0.899,0.691,0,-7.554,1,0.0497,0.000451,0.135,0.865,107.951,125302,4,Spotify,Feeling Accomplished,Public 9
+Ja Rule,Pain Is Love,Always On Time,4hrae8atte6cRlSC9a7VCO,0.839,0.706,5,-6.104,0,0.199,0.0,0.242,0.839,96.673,245133,4,Spotify,Feeling Accomplished,Public 9
+Usher,Raymond v Raymond (Expanded Edition),OMG (feat. will.i.am),1bM50INir8voAkVoKuvEUI,0.781,0.745,4,-5.81,0,0.0332,1.14e-05,0.36,0.326,129.998,269493,4,Spotify,Feeling Accomplished,Public 9
+Doja Cat,Amala (Deluxe Version),Tia Tamera (feat. Rico Nasty),1uNePI826aqh9uC9pgbeHU,0.822,0.654,0,-4.623,1,0.132,0.0,0.233,0.421,119.884,211013,4,Spotify,Feeling Accomplished,Public 9
+Fetty Wap,Fetty Wap (Deluxe),Trap Queen,2d8JP84HNLKhmd6IYOoupQ,0.746,0.873,7,-3.803,1,0.128,0.0,0.354,0.817,148.075,222093,4,Spotify,Feeling Accomplished,Public 9
+Chlöe,Have Mercy,Have Mercy,5SixeLvPsYpk7qq9lo5xYg,0.903,0.535,9,-6.434,1,0.0742,0.0,0.345,0.508,130.022,148779,4,Spotify,Feeling Accomplished,Public 9
+T-Pain,Epiphany (Expanded Edition),Bartender (feat. Akon),1RGIjMFMgJxkZHMDXVYzOJ,0.832,0.391,8,-8.504,1,0.0628,0.0,0.224,0.436,104.961,238800,4,Spotify,Feeling Accomplished,Public 9
+Pitbull,Globalization,Fireball (feat. John Ryan),4Y7XAxTANhu3lmnLAzhWJW,0.761,0.933,10,-5.38,1,0.056,8.53e-05,0.0607,0.836,122.959,236200,4,Spotify,Feeling Accomplished,Public 9
+Tinashe,Aquarius,2 On (feat. ScHoolboy Q),3jVtllWS5CFFWLQng8sKsr,0.742,0.595,9,-7.51,1,0.107,0.0,0.111,0.431,101.013,227000,4,Spotify,Feeling Accomplished,Public 9
+Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),5iUQMwxUPdJBFeGkePtM66,0.836,0.67,5,-6.907,0,0.23,0.000355,0.0837,0.556,107.018,305350,4,Spotify,Feeling Accomplished,Public 9
+Cardi B,Money,Money,2GGMabyHXnJmjY6CXhhB2e,0.95,0.59,8,-6.508,0,0.29,0.0,0.11,0.219,130.003,183527,4,Spotify,Feeling Accomplished,Public 9

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+My Chemical Romance,The Black Parade / Living with Ghosts (The 10th Anniversary Edition),Teenagers,78OBZL4Z6QHdwwloWIh0Lt,0.463,0.857,4,-3.063,1,0.0632,0,0.184,0.856,111.647,161920,4,Spotify,Pop Punk Powerhouses,Public 3
+The Offspring,"Rise And Fall, Rage And Grace","You're Gonna Go Far, Kid",6TfBA04WJ3X1d1wXhaCFVT,0.55,0.917,0,-3.159,1,0.0638,0,0.197,0.601,126.115,177827,4,Spotify,Pop Punk Powerhouses,Public 3
+Green Day,Dookie,Basket Case,6L89mwZXSOwYl76YXfX13s,0.442,0.943,3,-3.205,1,0.0602,8.71e-06,0.091,0.781,85.064,181533,4,Spotify,Pop Punk Powerhouses,Public 3
+Jimmy Eat World,Bleed American,The Middle,6GG73Jik4jUlQCkKg9JuGO,0.643,0.849,2,-5.428,1,0.0526,0,0.058,0.903,162.152,165853,4,Spotify,Pop Punk Powerhouses,Public 3
+Fall Out Boy,From Under The Cork Tree,"Sugar, We're Goin Down",2TfSHkHiFO4gRztVIkggkE,0.494,0.842,7,-4.784,1,0.0843,0,0.122,0.574,162.011,229093,4,Spotify,Pop Punk Powerhouses,Public 3
+Paramore,Riot!,Misery Business,6SpLc7EXZIPpy0sVko0aoU,0.517,0.906,1,-3.677,1,0.0735,9.26e-06,0.113,0.731,172.977,211520,4,Spotify,Pop Punk Powerhouses,Public 3
+The Offspring,Americana,The Kids Aren't Alright,4EchqUKQ3qAQuRNKmeIpnf,0.523,0.943,1,-4.203,1,0.0337,3.81e-05,0.0579,0.766,99.607,180160,4,Spotify,Pop Punk Powerhouses,Public 3
+All Time Low,"So Wrong, It's Right","Dear Maria, Count Me In",0JJP0IS4w0fJx01EcrfkDe,0.459,0.895,2,-3.126,1,0.0805,0,0.206,0.572,181.04,182827,4,Spotify,Pop Punk Powerhouses,Public 3
+My Chemical Romance,Three Cheers for Sweet Revenge,I'm Not Okay (I Promise),7lRlq939cDG4SzWOF4VAnd,0.21,0.94,9,-3.427,1,0.123,0,0.269,0.255,179.722,186480,4,Spotify,Pop Punk Powerhouses,Public 3
+blink-182,Take Off Your Pants And Jacket,First Date,1fJFuvU2ldmeAm5nFIHcPP,0.579,0.928,0,-4.344,1,0.0411,0,0.18,0.882,95.594,171533,4,Spotify,Pop Punk Powerhouses,Public 3
+The Red Jumpsuit Apparatus,Don't You Fake It,Face Down,4wzjNqjKAKDU82e8uMhzmr,0.545,0.932,7,-2.189,0,0.0399,0,0.127,0.464,92.956,192000,4,Spotify,Pop Punk Powerhouses,Public 3
+Green Day,Dookie,When I Come Around,1Dr1fXbc2IxaK1Mu8P8Khz,0.531,0.909,11,-4.236,1,0.034,0,0.231,0.814,97.546,178000,4,Spotify,Pop Punk Powerhouses,Public 3
+Sum 41,"All Killer, No Filler",In Too Deep,1HNE2PX70ztbEl6MLxrpNL,0.568,0.844,9,-5.875,1,0.0505,0,0.0607,0.766,116.046,207093,4,Spotify,Pop Punk Powerhouses,Public 3
+Fall Out Boy,From Under The Cork Tree,"Dance, Dance",0a7BloCiNzLDD9qSQHh5m7,0.622,0.961,11,-3.198,0,0.154,0,0.0854,0.449,114.452,180267,4,Spotify,Pop Punk Powerhouses,Public 3
+Panic! At The Disco,A Fever You Can't Sweat Out,I Write Sins Not Tragedies,4bPQs0PHn4xbipzdPfn6du,0.569,0.83,9,-4.106,0,0.14,0,0.114,0.609,170.094,186635,4,Spotify,Pop Punk Powerhouses,Public 3
+Good Charlotte,The Young and The Hopeless,The Anthem,0BRHnOFm6sjxN1i9LJrUDu,0.494,0.939,1,-3.127,1,0.126,0,0.139,0.893,177.751,175093,4,Spotify,Pop Punk Powerhouses,Public 3
+The Offspring,Americana,Why Don't You Get A Job,0sNKiz82ATCvT3f3XVVUUj,0.766,0.882,5,-4.478,1,0.0719,2.3e-06,0.281,0.544,107.932,172467,4,Spotify,Pop Punk Powerhouses,Public 3
+Yellowcard,Ocean Avenue,Ocean Avenue,23oxJmDc1V9uLUSmN2LIvx,0.486,0.904,6,-3.751,0,0.0638,2.83e-05,0.0947,0.786,173.734,198267,4,Spotify,Pop Punk Powerhouses,Public 3
+Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Blitzkrieg Bop - 2016 Remaster,4KcH1ZRV2W1q7Flq0QqC76,0.385,0.783,9,-2.533,1,0.233,0.47,0.108,0.902,176.701,134467,4,Spotify,Pop Punk Powerhouses,Public 3
+Lit,A Place In The Sun,My Own Worst Enemy,33iv3wnGMrrDugd7GBso1z,0.494,0.946,4,-2.757,1,0.0637,0,0.398,0.741,103.408,169027,4,Spotify,Pop Punk Powerhouses,Public 3
+Sum 41,"All Killer, No Filler",Fat Lip,4KacUpvbA3Mfo05gttTjhN,0.402,0.914,9,-5.215,1,0.142,0,0.065,0.626,196.505,178267,4,Spotify,Pop Punk Powerhouses,Public 3
+Simple Plan,"No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",I'm Just a Kid,6otiaV2fagE3s8IvP6WkwG,0.527,0.834,1,-5.531,1,0.0447,0.000102,0.0993,0.422,110.065,198333,4,Spotify,Pop Punk Powerhouses,Public 3
+AFI,DECEMBERUNDERGROUND,Miss Murder,0Ti2dlF2xLjXblvdU5fCxM,0.308,0.873,8,-4.542,1,0.0533,0.000729,0.0974,0.686,143.519,206587,4,Spotify,Pop Punk Powerhouses,Public 3
+The All-American Rejects,Move Along,Dirty Little Secret,5lDriBxJd22IhOH9zTcFrV,0.465,0.954,10,-4.251,1,0.044,5.38e-06,0.573,0.458,143.85,193653,4,Spotify,Pop Punk Powerhouses,Public 3
+Bowling For Soup,A Hangover You Don't Deserve,1985,5oQcOu1omDykbIPSdSQQNJ,0.606,0.887,4,-4.404,1,0.0598,0,0.337,0.903,119.974,193000,4,Spotify,Pop Punk Powerhouses,Public 3
+Lustra,Left for Dead,Scotty Doesn't Know,1LkoYGxmYpO6QSEvY5C0Zl,0.317,0.887,0,-4.525,1,0.0472,9.23e-06,0.363,0.544,174.009,175200,4,Spotify,Pop Punk Powerhouses,Public 3
+The Offspring,Smash,Come Out and Play,5JJDu0Z5DKe7mR31MGksSg,0.519,0.77,7,-8.788,1,0.0809,3.48e-06,0.0762,0.921,158.29,197800,4,Spotify,Pop Punk Powerhouses,Public 3
+Good Charlotte,The Young and The Hopeless,Lifestyles of the Rich & Famous,2g2a5kDeZexbUTD8abcvm6,0.62,0.93,1,-3.685,1,0.0374,0,0.0686,0.609,106.22,190173,4,Spotify,Pop Punk Powerhouses,Public 3
+Paramore,Brand New Eyes,Ignorance,47No93LxERvV6MtOAmQzHS,0.522,0.964,11,-2.645,0,0.095,0.000389,0.0387,0.51,170.944,218627,4,Spotify,Pop Punk Powerhouses,Public 3
+We The Kings,We The Kings,"Check Yes, Juliet",0wVluBsVAVzBKrqspuCcwR,0.352,0.912,7,-4.253,1,0.0725,0,0.193,0.351,166.795,220147,4,Spotify,Pop Punk Powerhouses,Public 3
+Ramones,Road to Ruin (40th Anniversary Deluxe Edition),I Wanna Be Sedated,5NoQvINZLBV1wMYPdNmReL,0.56,0.965,11,-2.341,1,0.0409,6.23e-06,0.169,0.964,162.825,149787,4,Spotify,Pop Punk Powerhouses,Public 3
+blink-182,Dude Ranch,Dammit,6WkSUgo1VdpzgtiXKlFPcY,0.426,0.972,0,-5.122,1,0.0954,0,0.171,0.341,111.221,165373,4,Spotify,Pop Punk Powerhouses,Public 3
+Jimmy Eat World,Bleed American,Sweetness,429IbFR4yp2J81CeTwF5iY,0.487,0.898,5,-4.436,1,0.038,0,0.26,0.597,135.331,220027,4,Spotify,Pop Punk Powerhouses,Public 3
+The All-American Rejects,The All-American Rejects,"Swing, Swing",003FTlCpBTM4eSqYSWPv4H,0.553,0.717,7,-5.857,1,0.0318,0.128,0.0385,0.318,127.947,233267,4,Spotify,Pop Punk Powerhouses,Public 3
+Taking Back Sunday,Tell All Your Friends (Remastered),Cute Without The 'E' (Cut From The Team) - Remastered,6OyKBwLzq4h15XmxeWf5n4,0.398,0.89,1,-2.248,0,0.0473,0,0.0472,0.572,95.095,212938,4,Spotify,Pop Punk Powerhouses,Public 3
+The Ataris,"So Long, Astoria",The Boys of Summer,5BmagRD7Thki6O1zZwbxBy,0.251,0.954,6,-2.879,1,0.0691,0.000132,0.0975,0.264,191.059,258000,4,Spotify,Pop Punk Powerhouses,Public 3
+Paramore,Riot!,crushcrushcrush,3VA4sjTMSTTF02hFGmlpJh,0.631,0.793,1,-4.086,0,0.0468,5.65e-05,0.0976,0.648,136.96,189373,4,Spotify,Pop Punk Powerhouses,Public 3
+Rise Against,Appeal To Reason,Savior,3asFGFY3uLjMDmML1p0tYm,0.339,0.931,5,-3.425,0,0.062,0.000142,0.425,0.467,112.548,242280,4,Spotify,Pop Punk Powerhouses,Public 3
+Story Of The Year,Page Avenue,Until the Day I Die,0DKNNR9iDjwfCEpMiFXMJq,0.597,0.931,11,-4.591,0,0.0984,0,0.0504,0.534,92.003,235200,4,Spotify,Pop Punk Powerhouses,Public 3
+All Time Low,Nothing Personal (Deluxe Version),Weightless,0aZJGkkXR3DgaFqo5sB8ot,0.497,0.923,2,-4.512,1,0.138,0,0.158,0.663,181.074,198000,4,Spotify,Pop Punk Powerhouses,Public 3
+Green Day,American Idiot (Deluxe),American Idiot,45zvStEMsXp8z45OQRhWFJ,0.381,0.984,1,-2.42,1,0.0638,6.91e-05,0.27,0.81,186.081,174320,4,Spotify,Pop Punk Powerhouses,Public 3
+New Found Glory,Sticks And Stones,My Friends Over You,4pImG3RdbaGfanzQOTFgyr,0.404,0.98,2,-4.038,1,0.107,0,0.0742,0.433,177.793,220200,4,Spotify,Pop Punk Powerhouses,Public 3
+Buzzcocks,Love Bites,Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version,5YUJMvTg4AWHKjqQidTsGK,0.266,0.831,4,-9.07,1,0.0453,0,0.0555,0.778,175.514,163693,4,Spotify,Pop Punk Powerhouses,Public 3
+American Hi-Fi,American Hi-Fi,Flavor Of The Weak,1UkMAtLU8NxsddE7j4zXGO,0.39,0.967,10,-1.946,1,0.0644,1.74e-05,0.302,0.488,151.944,188840,4,Spotify,Pop Punk Powerhouses,Public 3
+Sum 41,Does This Look Infected?,Still Waiting,2OMqSRS11ly56zg9u5za6c,0.431,0.95,7,-4.918,1,0.26,3.63e-05,0.272,0.56,191.936,158733,4,Spotify,Pop Punk Powerhouses,Public 3
+Panic! At The Disco,A Fever You Can't Sweat Out,Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off,5eB7w8UZJKjL5XmnC6Pctg,0.66,0.8,8,-4.644,1,0.0992,0,0.154,0.476,125.966,200227,4,Spotify,Pop Punk Powerhouses,Public 3
+Rancid,...And Out Come The Wolves,Time Bomb,41kg2RvdwBuIv0OPpvBS4v,0.646,0.962,9,-4.862,1,0.0536,0,0.471,0.961,164.79,144333,4,Spotify,Pop Punk Powerhouses,Public 3
+Sugarcult,Palm Trees and Power Lines,Memory,0ChpoNjXfJPjMvCIN6so6J,0.449,0.864,1,-3.892,1,0.0352,0,0.108,0.713,167.154,226080,4,Spotify,Pop Punk Powerhouses,Public 3
+Goldfinger,Hang-Ups,Superman,4X3qGigyU6ARi3HP4lWD95,0.429,0.937,2,-3.986,1,0.0573,0.0002,0.0807,0.894,194.838,185027,4,Spotify,Pop Punk Powerhouses,Public 3
+Millencolin,Pennybridge Pioneers,No Cigar,3KLkRy9l3us98SIp6mmxkk,0.383,0.986,9,-2.796,1,0.0617,0,0.179,0.578,157.871,163227,4,Spotify,Pop Punk Powerhouses,Public 3

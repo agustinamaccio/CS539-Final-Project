@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Aerosmith,AEROSMITH,Dream On,3tAQNhm1o0kzldsI5QkrB1,0.393,0.433,5,-10.045,0,0.0255,8.41e-05,0.234,0.238,79.588,267307,4,Spotify,Rock Mix,Omkar Bharambe
+Creedence Clearwater Revival,Willy And The Poor Boys (Expanded Edition),Fortunate Son,4BP3uh0hFLFRb5cjsgLqDh,0.64,0.663,0,-7.516,1,0.0374,0.00806,0.152,0.663,132.77,140773,4,Spotify,Rock Mix,Omkar Bharambe
+KISS,Dynasty,I Was Made For Lovin' You,07q0QVgO56EorrSGHC48y3,0.768,0.852,4,-6.215,1,0.038,7.36e-05,0.0723,0.867,128.373,271240,4,Spotify,Rock Mix,Omkar Bharambe
+Steppenwolf,Steppenwolf,Born To Be Wild,63OFKbMaZSDZ4wtesuuq6f,0.438,0.71,2,-12.412,1,0.0919,0.537,0.221,0.53,145.928,210373,4,Spotify,Rock Mix,Omkar Bharambe
+Guns N' Roses,Appetite For Destruction,Paradise City,3YBZIN3rekqsKxbJc9FZko,0.273,0.952,11,-8.762,1,0.0843,0.0111,0.142,0.472,100.271,405640,4,Spotify,Rock Mix,Omkar Bharambe
+Deep Purple,Machine Head (Remastered),Smoke On The Water - Remastered 2012,5MMnwYs0hIxkENRsbkWJ2G,0.598,0.676,0,-9.211,1,0.0279,0.225,0.112,0.805,114.169,340742,4,Spotify,Rock Mix,Omkar Bharambe
+Aerosmith,Toys In The Attic,Walk This Way,5SZ6zX4rOrEQferfFC2MfP,0.653,0.73,5,-10.613,1,0.043,1.03e-05,0.0754,0.894,108.705,220400,4,Spotify,Rock Mix,Omkar Bharambe
+Black Sabbath,Paranoid (2009 Remastered Version),Paranoid,1jzDzZWeSDBg5fhNc3tczV,0.429,0.631,4,-11.514,0,0.0769,0.00411,0.175,0.376,162.734,168440,4,Spotify,Rock Mix,Omkar Bharambe
+Led Zeppelin,Led Zeppelin II (1994 Remaster),Whole Lotta Love - 1990 Remaster,0hCB0YR03f6AmQaHbwWDe8,0.412,0.902,9,-11.6,1,0.405,0.131,0.405,0.422,89.74,333893,4,Spotify,Rock Mix,Omkar Bharambe
+ZZ Top,Tres Hombres (Expanded 2006 Remaster),La Grange - 2005 Remaster,70YvYr2hGlS01bKRIho1HM,0.545,0.64,4,-9.937,0,0.224,0.0304,0.196,0.606,80.544,230480,4,Spotify,Rock Mix,Omkar Bharambe
+Scorpions,Love At First Sting,Rock You Like A Hurricane,58XWGx7KNNkKneHdprcprX,0.482,0.617,4,-12.931,0,0.0458,0.000146,0.284,0.718,125.697,252493,4,Spotify,Rock Mix,Omkar Bharambe
+Bon Jovi,Crush,It's My Life,0v1XpBHnsbkCn7iJ9Ucr1l,0.551,0.913,0,-4.063,0,0.0466,1.35e-05,0.347,0.544,119.992,224493,4,Spotify,Rock Mix,Omkar Bharambe
+Audioslave,Out of Exile,Be Yourself,3zwmW1gM4E8FlHXV5nE16u,0.423,0.845,11,-3.509,0,0.0559,5.07e-06,0.213,0.317,116.602,278973,4,Spotify,Rock Mix,Omkar Bharambe
+R.E.M.,Out Of Time (25th Anniversary Edition),Losing My Religion,31AOj9sFz2gM0O3hMARRBx,0.666,0.855,9,-5.051,0,0.0295,1.2e-06,0.0987,0.803,125.639,268427,4,Spotify,Rock Mix,Omkar Bharambe
+Pink Floyd,The Wall,"Another Brick in the Wall, Pt. 2",4gMgiXfqyzZLMhsksGmbQV,0.693,0.394,0,-15.882,1,0.0428,0.000694,0.247,0.721,104.114,238747,4,Spotify,Rock Mix,Omkar Bharambe
+Van Halen,1984 (Remastered),Panama - 2015 Remaster,05RgAMGypEvqhNs5hPCbMS,0.526,0.978,8,-5.436,1,0.108,4.75e-05,0.0744,0.451,141.167,210227,4,Spotify,Rock Mix,Omkar Bharambe
+AC/DC,Back In Black,Shoot to Thrill,0C80GCp0mMuBzLf3EAXqxv,0.457,0.904,2,-5.303,1,0.0747,0.0879,0.396,0.48,141.038,317427,4,Spotify,Rock Mix,Omkar Bharambe
+Led Zeppelin,Led Zeppelin III (Remaster),Immigrant Song - Remaster,78lgmZwycJ3nzsdgmPPGNx,0.564,0.932,11,-10.068,1,0.0554,0.169,0.349,0.619,112.937,146250,4,Spotify,Rock Mix,Omkar Bharambe
+Heart,Little Queen,Barracuda,4KfSdst7rW39C0sfhArdrz,0.548,0.691,4,-13.553,0,0.0369,0.106,0.144,0.667,137.145,261933,4,Spotify,Rock Mix,Omkar Bharambe
+The Rolling Stones,Tattoo You (2009 Re-Mastered),Start Me Up - Remastered 2009,7HKez549fwJQDzx3zLjHKC,0.631,0.932,5,-4.142,1,0.0354,0.137,0.0918,0.971,122.429,213067,4,Spotify,Rock Mix,Omkar Bharambe
+Metallica,Master Of Puppets (Remastered),Master Of Puppets,2MuWTIM3b0YEAskbeeFE1i,0.543,0.836,4,-9.11,0,0.0353,0.431,0.153,0.56,105.173,515387,4,Spotify,Rock Mix,Omkar Bharambe
+Bon Jovi,Slippery When Wet,Livin' On A Prayer,37ZJ0p5Jm13JPevGcx4SkF,0.532,0.887,0,-3.757,1,0.0335,0.000214,0.294,0.795,122.511,249293,4,Spotify,Rock Mix,Omkar Bharambe
+Aerosmith,Get A Grip,Crazy,74irxdVWstNlEQjsvArITq,0.37,0.866,6,-3.879,0,0.0384,0.0,0.137,0.427,162.086,316693,3,Spotify,Rock Mix,Omkar Bharambe
+Alice Cooper,Trash,Poison,5XcZRgJv3zMhTqCyESjQrF,0.28,0.908,2,-5.509,0,0.109,8.85e-06,0.18,0.26,118.698,270080,4,Spotify,Rock Mix,Omkar Bharambe
+Scorpions,Crazy World,Wind Of Change,3ovjw5HZZv43SxTwApooCM,0.452,0.524,0,-10.108,1,0.0351,0.0,0.103,0.246,151.505,312360,4,Spotify,Rock Mix,Omkar Bharambe
+AC/DC,Highway to Hell,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.00158,0.156,0.423,115.728,208400,4,Spotify,Rock Mix,Omkar Bharambe
+Creed,Weathered,One Last Breath,42T2QQv3xgBlpQxaSP7lnK,0.386,0.677,2,-5.83,1,0.0346,0.00366,0.341,0.195,126.602,238240,4,Spotify,Rock Mix,Omkar Bharambe
+Alice In Chains,Facelift,Man in the Box,6gZVQvQZOFpzIy3HblJ20F,0.355,0.791,8,-7.565,1,0.0453,0.0,0.0969,0.758,106.392,285200,4,Spotify,Rock Mix,Omkar Bharambe
+Twisted Sister,Stay Hungry,I Wanna Rock,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,1,0.0738,0.0123,0.355,0.671,106.244,179760,4,Spotify,Rock Mix,Omkar Bharambe
+Metallica,Metallica,Enter Sandman,5sICkBXVmaCQk5aISGR3x1,0.577,0.828,6,-8.691,0,0.0298,0.0114,0.0581,0.604,123.257,331267,4,Spotify,Rock Mix,Omkar Bharambe
+Scorpions,Comeblack,No One Like You,5hVepr5CHiTGtJY5bP4i5n,0.601,0.928,7,-4.38,0,0.0481,0.000113,0.151,0.625,115.999,246533,4,Spotify,Rock Mix,Omkar Bharambe
+Aerosmith,I Don't Want To Miss A Thing EP,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",6lEuFGrUqR9Yc6hSsHPnYP,0.39,0.649,2,-5.163,1,0.0345,0.0,0.216,0.144,121.16,299760,4,Spotify,Rock Mix,Omkar Bharambe
+AC/DC,Back In Black,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.00965,0.0828,0.763,188.386,255493,4,Spotify,Rock Mix,Omkar Bharambe
+Skid Row,Skid Row,I Remember You,4ZpXHlV2vQVfPXUvbDSZ92,0.345,0.531,0,-12.708,1,0.0305,7.28e-06,0.14,0.49,176.302,313693,4,Spotify,Rock Mix,Omkar Bharambe
+Van Halen,Balance,Can't Stop Lovin' You,72hpTHMLFrO4ErhSQl2FhZ,0.592,0.898,9,-5.194,1,0.0358,2.29e-06,0.229,0.537,118.006,247467,4,Spotify,Rock Mix,Omkar Bharambe
+Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Heart-Shaped Box,11LmqTE2naFULdEP94AUBa,0.256,0.641,1,-10.283,1,0.0552,0.0329,0.0853,0.382,203.006,281160,4,Spotify,Rock Mix,Omkar Bharambe
+The Who,Who's Next (Deluxe Edition),Behind Blue Eyes,0cKk8BKEi7zXbdrYdyqBP5,0.394,0.622,4,-8.258,0,0.0336,4.45e-05,0.0892,0.342,126.844,221427,4,Spotify,Rock Mix,Omkar Bharambe
+Guns N' Roses,Use Your Illusion I,Don't Cry (Original),2N2yrmodOnVF10mKvItC9P,0.456,0.59,11,-8.638,1,0.0327,0.00379,0.104,0.243,124.635,283733,4,Spotify,Rock Mix,Omkar Bharambe
+Aerosmith,Toys In The Attic,Sweet Emotion,24NwBd5vZ2CK8VOQVnqdxr,0.38,0.76,9,-10.961,1,0.0378,0.0294,0.104,0.491,99.437,274133,4,Spotify,Rock Mix,Omkar Bharambe
+Skid Row,Skid Row,18 and Life,0qgrrDnUUhyxpxbBznUnzg,0.466,0.648,1,-11.101,0,0.028,1.49e-05,0.112,0.305,90.435,229960,4,Spotify,Rock Mix,Omkar Bharambe
+The Rolling Stones,Aftermath,"Paint It, Black",63T7DJ1AFDD6Bn8VzG6JE8,0.464,0.795,1,-9.267,1,0.0926,0.00244,0.399,0.612,158.691,202267,4,Spotify,Rock Mix,Omkar Bharambe
+AC/DC,Back In Black,Hells Bells,69QHm3pustz01CJRwdo20z,0.389,0.873,4,-4.768,0,0.0475,0.0055,0.273,0.303,106.767,312293,4,Spotify,Rock Mix,Omkar Bharambe
+Scorpions,Comeblack,Still Loving You,0RdUX4WE0fO30VnlUbDVL6,0.282,0.605,6,-4.916,0,0.0294,0.00144,0.103,0.0783,103.929,403453,4,Spotify,Rock Mix,Omkar Bharambe
+KISS,Creatures Of The Night,I Love It Loud,7yDrKl1J4VWNbR4aLU3qJ7,0.414,0.897,5,-6.406,0,0.0538,1.85e-06,0.0809,0.263,170.916,255427,4,Spotify,Rock Mix,Omkar Bharambe
+Foo Fighters,One By One (Expanded Edition),Times Like These,67vYdAAM3oGsEImCRfbtsF,0.376,0.908,4,-3.793,0,0.0879,1.4e-05,0.241,0.266,144.581,265560,4,Spotify,Rock Mix,Omkar Bharambe
+Creed,Weathered,My Sacrifice,2VSbEXqs6NbNiZSTcHlIDR,0.32,0.88,2,-6.035,1,0.0504,4.31e-06,0.076,0.257,146.349,294600,4,Spotify,Rock Mix,Omkar Bharambe
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,Rock Mix,Omkar Bharambe
+Van Halen,Van Halen (Remastered),You Really Got Me - 2015 Remaster,0upLyFR8Rr52ZpMp5esQoq,0.454,0.946,1,-5.978,0,0.13,0.0,0.173,0.647,138.18,156147,4,Spotify,Rock Mix,Omkar Bharambe
+Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Rape Me,5Rizj5FLb2AyNKu9esjYY6,0.42,0.746,8,-10.628,1,0.0467,0.0,0.0661,0.229,111.886,170000,4,Spotify,Rock Mix,Omkar Bharambe
+Warrant,Cherry Pie (Expanded Edition),Cherry Pie,18ESXa5mEm1V4Pkt5GSXWx,0.407,0.955,2,-4.164,1,0.164,0.0,0.347,0.508,177.48,201107,4,Spotify,Rock Mix,Omkar Bharambe

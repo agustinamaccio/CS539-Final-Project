@@ -1,0 +1,100 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Brantley Gilbert,So Help Me God,Heaven By Then,4GVVc4W9u4ZXemCmru5orO,0.456,0.841,2,-5.083,1,0.0475,0,0.109,0.559,155.864,182973,4,Spotify,New Boots,Public 5
+Ashley Cooke,getting into,getting into,0tabwXMEh3t7MkeKa95oIp,0.461,0.769,0,-5.547,1,0.0389,0,0.495,0.429,83.678,169629,4,Spotify,New Boots,Public 5
+Justin Moore,"You, Me, And Whiskey","You, Me, And Whiskey",2BLlpdGCv0IErmH3OBGHYJ,0.555,0.88,0,-4.351,0,0.0535,0,0.174,0.422,144.076,187941,4,Spotify,New Boots,Public 5
+Dylan Schneider,Ain't Missin' You,Ain't Missin' You,3XCsnZP8tL6fAbYofj9O0M,0.592,0.796,6,-5.59,1,0.0284,0,0.103,0.512,132.029,176372,4,Spotify,New Boots,Public 5
+Morgan Wade,The Night Part 1 & 2,The Night (Part 2),4GVIjpSUWDTv2vLGetJAuF,0.67,0.539,6,-6.15,0,0.0333,3.35e-06,0.149,0.453,80.039,200989,4,Spotify,New Boots,Public 5
+Parmalee,Girl In Mine,Girl In Mine,2DPqR0kuZVjrOF5oxIRYPy,0.459,0.682,8,-4.235,1,0.0464,0,0.11,0.887,201.831,155120,4,Spotify,New Boots,Public 5
+Dustin Lynch,Blue In The Sky,Stars Like Confetti,5wtPc1OQ7g1H8FBkwWqbhh,0.623,0.874,10,-3.058,1,0.0329,0,0.143,0.961,109.97,194267,4,Spotify,New Boots,Public 5
+Danielle Bradbery,A Special Place,A Special Place,1xk2TQgJNtH3FErgICPgmb,0.485,0.645,0,-4.367,1,0.0274,0,0.24,0.705,82.93,174193,4,Spotify,New Boots,Public 5
+Tyler Hubbard,Dancin' In The Country,Dancin’ In The Country,6Z1bV93BP95h4YjIavrQPf,0.655,0.869,7,-4.807,1,0.0633,0,0.104,0.541,114.984,179645,4,Spotify,New Boots,Public 5
+Kelsea Ballerini,SUBJECT TO CHANGE,"YOU'RE DRUNK, GO HOME",0XVBahLtPyfg5m1LxPxRTd,0.477,0.928,8,-3.709,1,0.218,1.39e-06,0.951,0.629,157.781,175230,4,Spotify,New Boots,Public 5
+James Barker Band,Wastin' Whiskey,Wastin' Whiskey,3h10bRUpzMu0Umm2iXleYb,0.54,0.82,11,-3.055,1,0.0388,0,0.139,0.699,76.038,190160,4,Spotify,New Boots,Public 5
+Ella Langley,Damn You,Damn You,2DvOwcQd7RB5IV7MdlwpvN,0.58,0.881,4,-3.004,1,0.042,0,0.106,0.384,76.989,183413,4,Spotify,New Boots,Public 5
+Nate Smith,I Found You,I Found You,5XSwZlJnAceZ0Gb057vbol,0.524,0.594,0,-5.077,1,0.0319,0,0.13,0.229,141.893,206356,4,Spotify,New Boots,Public 5
+Steve Moakler,Make A Little Room,Make A Little Room,62yXckrKNy9Sylka6oifst,0.758,0.722,1,-6.252,1,0.0511,6.5e-06,0.106,0.66,146.031,180493,4,Spotify,New Boots,Public 5
+Avery Anna,what made you think?,what made you think?,3IkCyX2KnQIyuAYQiT1wtR,0.564,0.469,5,-5.648,1,0.0297,0,0.107,0.186,124.041,221107,3,Spotify,New Boots,Public 5
+Chayce Beckham,Keeping Me Up All Night,Keeping Me Up All Night,3IjDghaXh385kOYVTQJ7rr,0.506,0.909,9,-4.428,1,0.0469,0,0.0892,0.389,129.969,209467,4,Spotify,New Boots,Public 5
+Kassi Ashton,I Don't Go Back,I Don't Go Back,55Y4hbXnw8DZDGxwVFr6Xp,0.634,0.628,10,-4.318,1,0.037,8.82e-05,0.105,0.369,128.028,200573,4,Spotify,New Boots,Public 5
+Morgan Evans,Over For You,Over For You,3RF00zOzrrWKKoU7aIBaTS,0.629,0.36,4,-8.969,1,0.025,0.000104,0.111,0.426,91.067,185681,4,Spotify,New Boots,Public 5
+Rodell Duff,Red Dirt Cursed,Just In Case,0YXTxxhAcbshkZ6n4QO30H,0.56,0.776,10,-6.032,1,0.0356,0,0.202,0.846,95.005,178124,4,Spotify,New Boots,Public 5
+Bailey Zimmerman,Where It Ends,Where It Ends,7lNezbnIXBbgNmFOa9dt1c,0.431,0.837,9,-5.067,1,0.0432,0,0.0879,0.648,170.041,179294,4,Spotify,New Boots,Public 5
+Kat & Alex,We Bought a House,We Bought a House,4KY8593My9sn9Vp2EbQLD4,0.389,0.585,10,-5.959,1,0.028,0,0.123,0.422,156.049,184882,4,Spotify,New Boots,Public 5
+Dylan Scott,Amen To That,Amen To That,7yNI84vfJ6O86F1S1l6iKD,0.569,0.862,6,-5.182,1,0.0457,0,0.146,0.552,107.991,172973,4,Spotify,New Boots,Public 5
+Brooke Eden,Left You For Me,Left You For Me,2c6RxNOmFQ5Vfnay17glsh,0.6,0.758,3,-5.967,0,0.0339,0,0.151,0.364,105.52,230633,4,Spotify,New Boots,Public 5
+Riley Green,Hell Of A Way To Go,Hell Of A Way To Go,4vfTyv3PkLAac4zTn5P82d,0.481,0.74,6,-4.672,1,0.0277,0,0.157,0.669,150.053,166134,4,Spotify,New Boots,Public 5
+Adam Doleac,Barstool Whiskey Wonderland,Til Dawn Do Us Part,4sfaT2rRLuWHtvm0bLDjZN,0.535,0.72,8,-4.825,1,0.0282,0,0.0736,0.464,90.02,178640,4,Spotify,New Boots,Public 5
+Peytan Porter,In My Head,Why We Broke Up,5QFHXkGErG7fwmN64AA0RL,0.614,0.597,4,-6.615,1,0.0277,1.3e-06,0.103,0.358,111.968,176868,4,Spotify,New Boots,Public 5
+Chase Matthew,Born for This,We Had It Good,7HQIudswhHicyidL1V4iiO,0.583,0.81,4,-7.416,0,0.0328,1.12e-06,0.0874,0.34,119.999,212000,4,Spotify,New Boots,Public 5
+Tyler Rich,Thinkin' We're In Love,Thinkin' We're In Love,1dQYswRaULYA9XfPc02FF1,0.509,0.741,0,-5.702,1,0.036,0,0.25,0.197,88.076,228038,4,Spotify,New Boots,Public 5
+Tanner Adell,Love You a Little Bit,Love You a Little Bit,0JlPeDabMkPpmC9W7TI3BM,0.61,0.868,1,-4.098,0,0.0351,0,0.121,0.765,137.943,210813,4,Spotify,New Boots,Public 5
+Noah Thompson,One Day Tonight,One Day Tonight,45MQs7EiPglAvyYg9fkjzA,0.62,0.524,1,-7.613,1,0.0294,0,0.161,0.599,108.87,165509,4,Spotify,New Boots,Public 5
+Erin Kinsey,Vegas,Vegas,4eUddSnDzVwdEOAJrgUJTc,0.506,0.667,1,-3.601,1,0.0331,0,0.12,0.651,134.749,193878,4,Spotify,New Boots,Public 5
+Johnny Dailey,Got Married,Got Married,2rokTN8Gw11ibwE04au8Gs,0.587,0.552,5,-6.79,1,0.0325,0,0.131,0.4,149.928,178600,4,Spotify,New Boots,Public 5
+Redferrin,Tell 'Em Why,Tell 'Em Why,4hnK6Q3JSfSxnYIpxmxoOj,0.578,0.767,0,-3.894,1,0.0495,0,0.147,0.583,175.926,166989,4,Spotify,New Boots,Public 5
+Zach Bryan,Summertime Blues,Oklahoma Smokeshow,0OWhKvvsHptt6vnnNUSM9a,0.544,0.573,8,-5.694,1,0.0356,0,0.104,0.233,122.977,211739,4,Spotify,New Boots,Public 5
+Tenille Townes,The Last Time,The Last Time,2JiEzw012NnQ3PoW6VWM1P,0.532,0.575,2,-6.369,1,0.031,0.000244,0.124,0.315,78.104,210631,4,Spotify,New Boots,Public 5
+Dalton Dover,Hear About a Girl,Hear About a Girl,7aItjCZJYW1fkCUmVZOw8U,0.523,0.836,10,-3.947,1,0.0331,0,0.113,0.401,138.122,187853,4,Spotify,New Boots,Public 5
+CHASE WRIGHT,Hurt No More,Hurt No More,5UDX3jJn9vXGxE5h0sNRCy,0.45,0.855,6,-3.475,1,0.0379,0,0.135,0.552,180.0,176781,4,Spotify,New Boots,Public 5
+Priscilla Block,Off The Deep End,Off The Deep End,1w6LAczpJiuGAQSaVP99ek,0.656,0.752,10,-5.555,0,0.0659,0,0.335,0.854,81.996,196500,4,Spotify,New Boots,Public 5
+Kyle Clark,Hope It's Hot Out,Hope It's Hot Out,4CH3ynSZbUWlQO9n1P8j3V,0.627,0.827,8,-6.223,1,0.0511,0,0.209,0.709,126.066,167346,4,Spotify,New Boots,Public 5
+Dallas Smith,One Too,One Too,2wgCb69kASEz1uOUp4zjOi,0.457,0.523,0,-7.176,1,0.039,0,0.0997,0.341,84.664,201128,4,Spotify,New Boots,Public 5
+Meghan Patrick,My Left Hand,My Left Hand,4xvjIj6hR1HNv5G0ooi0CG,0.539,0.596,2,-4.227,1,0.0321,0,0.154,0.381,153.936,187360,4,Spotify,New Boots,Public 5
+Randy Houser,Note to Self,Note To Self,7ETfVO4Njvmf3oNPJy33zF,0.616,0.622,1,-6.493,1,0.0333,0.000812,0.112,0.187,84.978,195217,4,Spotify,New Boots,Public 5
+Jon Pardi,Mr. Saturday Night,Your Heart Or Mine,7ETjhPaIU4UmHOiimJBZz9,0.639,0.713,5,-4.368,0,0.0337,0,0.102,0.717,86.1,161200,4,Spotify,New Boots,Public 5
+Ian Munsick,More Than Me,More Than Me,3rwKMppuXXBCgiUX5oXVI6,0.495,0.746,10,-5.317,1,0.0266,0,0.176,0.463,145.879,210427,4,Spotify,New Boots,Public 5
+Lindsay Ell,Right On Time,Right On Time,3JF3flDpns4Djyjw7qkLlX,0.632,0.808,5,-4.759,1,0.0397,2.01e-05,0.0833,0.597,93.982,186094,4,Spotify,New Boots,Public 5
+Travis Denning,Buy A Girl A Drink,Buy A Girl A Drink,3WXWxyUcD9HQBQcNaFN6xd,0.543,0.747,3,-6.006,1,0.0321,0,0.0938,0.492,76.993,196416,3,Spotify,New Boots,Public 5
+Abby Anderson,Be That Girl,Where Did All The Cowboys Go,2P5yyV1EA4CCqRhjXKro5p,0.612,0.16,4,-11.204,1,0.044,0,0.083,0.388,80.976,195874,4,Spotify,New Boots,Public 5
+Warren Zeiders,Up To No Good,Up To No Good,1ONzSL8Plw5xoFmmDPl0zA,0.516,0.873,8,-4.605,1,0.0451,0.000352,0.127,0.751,156.133,133629,4,Spotify,New Boots,Public 5
+Josh Ross,First Taste of Gone,First Taste of Gone,1ynN7dkkujotC2rL31qX48,0.647,0.374,0,-7.175,1,0.0264,0,0.103,0.406,106.05,172783,4,Spotify,New Boots,Public 5
+Hannah Ellis,Country Can,Country Can,23h3c9x2ApofnkxHteQJDU,0.448,0.76,9,-4.403,1,0.043,0,0.0898,0.337,170.002,173254,4,Spotify,New Boots,Public 5
+HARDY,here lies country music,here lies country music,4I3OejPxtFzZK7HGCXhVSu,0.322,0.669,7,-4.764,1,0.0298,0,0.101,0.17,70.36,221000,4,Spotify,New Boots,Public 5
+David J,Before You,Before You,5nPt2lxfI2Q3IIU6Fry25R,0.615,0.415,8,-7.457,1,0.0268,0,0.114,0.59,73.002,172120,4,Spotify,New Boots,Public 5
+Chris Young,Everybody Needs a Song,Everybody Needs a Song,75vHaYeWPXNSEytZzxIFXw,0.524,0.858,10,-4.154,1,0.0437,0,0.246,0.685,143.941,183107,4,Spotify,New Boots,Public 5
+Jake Owen,Up There Down Here,Up There Down Here,1116cRlf1zVJXVI2fUUwFD,0.517,0.901,4,-3.51,1,0.039,0,0.317,0.567,150.033,200400,4,Spotify,New Boots,Public 5
+Robyn Ottolini,Say It,Say It,0KRIVhkwM3cP4etnY9Qm0o,0.562,0.727,2,-5.455,1,0.0359,0,0.0397,0.325,108.081,185428,4,Spotify,New Boots,Public 5
+Kameron Marlowe,We Were Cowboys,We Were Cowboys,6VgPKxrBypLQDu7lQWLEoW,0.45,0.609,1,-5.956,1,0.043,0,0.0708,0.093,76.055,219920,4,Spotify,New Boots,Public 5
+Florida Georgia Line,Life,Life,5ta8NyQiixodcCinI6jjS6,0.485,0.663,7,-5.759,1,0.0338,0,0.129,0.38,142.921,232465,4,Spotify,New Boots,Public 5
+Ingrid Andress,Good Person,Feel Like This,4QWXSTeUHFzU0INh7SNqSU,0.536,0.605,7,-5.292,1,0.0338,0,0.0614,0.341,130.053,196163,4,Spotify,New Boots,Public 5
+Jon Langston,Give You My All,Give You My All,1wbGNtxz7WcTpXxmsdMdpn,0.638,0.549,11,-6.202,1,0.0268,0,0.0914,0.548,142.966,171067,3,Spotify,New Boots,Public 5
+Georgia Webster,Chapter 1: Things We're Not Saying,X's,0xgXEMA62AEMPSM0inCuLy,0.491,0.692,7,-4.818,1,0.0736,0,0.107,0.591,184.14,154606,4,Spotify,New Boots,Public 5
+Jordan Davis,Next Thing You Know,Next Thing You Know,2lNTHWu2I5Tcz9ukWsV5Jj,0.557,0.597,5,-8.296,1,0.048,0,0.0974,0.414,78.526,175238,4,Spotify,New Boots,Public 5
+Patrick Murphy,Momentum,Momentum,2Km7p52eJt51AsLoizZsXz,0.552,0.799,7,-4.433,0,0.0348,0,0.0949,0.599,146.036,201916,4,Spotify,New Boots,Public 5
+Easton Corbin,Marry That Girl,Marry That Girl,5fJguEwoiu8bgePqAWMNRm,0.7,0.402,4,-7.097,1,0.0262,0.000187,0.159,0.415,87.976,191133,4,Spotify,New Boots,Public 5
+Taylor Edwards,Born in July (The Album),Girl Wonder,3hNFCHrMfOpjwE6p517XX4,0.545,0.813,5,-3.833,1,0.0525,0,0.0834,0.592,88.118,182326,4,Spotify,New Boots,Public 5
+Kane Brown,Go Around,Go Around,344682dEszsdZqQS4vYuUr,0.563,0.762,4,-5.687,0,0.0324,0,0.0425,0.373,124.03,203667,4,Spotify,New Boots,Public 5
+Elle King,Try Jesus,Try Jesus,0rSuM2IqezwEBOOadZkX1D,0.535,0.921,0,-3.16,1,0.0393,0.000633,0.338,0.528,106.007,186920,4,Spotify,New Boots,Public 5
+Scotty McCreery,Same Truck,It Matters To Her,4aSRUXfKuBbmje0eXNukuL,0.516,0.752,7,-5.09,1,0.0333,3.78e-05,0.251,0.482,105.007,171880,4,Spotify,New Boots,Public 5
+Ray Fulcher,All Gas No Brakes,All Gas No Brakes,6YamUqnUQTLWPjDhgoZTkM,0.638,0.831,10,-6.157,1,0.0318,0,0.0924,0.852,115.994,191591,4,Spotify,New Boots,Public 5
+Kylie Morgan,Bridesmaids,Bridesmaids,6qrJ2kxNvGey8ZEWii5teB,0.615,0.865,3,-2.073,1,0.0283,0,0.324,0.892,94.039,170267,4,Spotify,New Boots,Public 5
+Kip Moore,If I Was Your Lover,If I Was Your Lover,2zWbXUgWEWwubCja3ArCTu,0.605,0.865,2,-5.771,1,0.0364,6.69e-06,0.0929,0.461,116.027,220307,4,Spotify,New Boots,Public 5
+Corey Kent,How You Know You Made It,How You Know You Made It,0TdzyXMNPMDkDAFB2O3Cwl,0.468,0.714,5,-4.296,1,0.0334,1.83e-06,0.105,0.451,151.968,217787,4,Spotify,New Boots,Public 5
+Restless Road,Sundown Somewhere,Sundown Somewhere,3sT4lmGZF9Gy6XaLYvwH7A,0.602,0.892,11,-4.394,1,0.0333,1.03e-06,0.172,0.709,114.034,162842,4,Spotify,New Boots,Public 5
+Jessie James Decker,I Still Love You,I Still Love You,1OcrmjcHuoTw1O5QHOpTc2,0.697,0.518,0,-5.894,1,0.0294,0,0.11,0.604,129.974,224150,4,Spotify,New Boots,Public 5
+Conner Smith,Orange And White,Orange And White,1VuBxXWxRfWGOZAg6ysqgX,0.53,0.82,4,-3.235,1,0.0374,0,0.298,0.552,140.0,209560,4,Spotify,New Boots,Public 5
+Koe Wetzel,Hell Paso,Money Spent,1HxcB2FgfYVhkbqNMCmq1O,0.548,0.773,2,-6.31,1,0.0305,0.000696,0.152,0.181,87.465,156610,4,Spotify,New Boots,Public 5
+Zac Brown Band,Wild Palomino,Wild Palomino,4VUbHweLoFPdVoKUQrTmZ0,0.624,0.391,1,-8.479,1,0.0439,0,0.0992,0.192,120.222,198515,4,Spotify,New Boots,Public 5
+Maddie & Tae,Spring Cleaning,Spring Cleaning,5k4wuPtknk9Eea6Lc8zq85,0.553,0.913,9,-3.838,1,0.096,0,0.646,0.709,144.127,152387,4,Spotify,New Boots,Public 5
+Sacha,We Did,Pretty Please,0aWiHUPSkPGYe36Iqjg9p4,0.461,0.618,3,-6.126,1,0.0391,0,0.111,0.247,155.79,212420,4,Spotify,New Boots,Public 5
+Drew Baldridge,Imma,Imma,62F0GlumkjqJPAJMLTI2ci,0.543,0.842,5,-5.203,1,0.0299,0,0.494,0.815,80.994,174947,4,Spotify,New Boots,Public 5
+Niko Moon,I CAN'T WAIT TO LOVE YOU,I CAN'T WAIT TO LOVE YOU (feat. Anna Moon),43IWK3QYSxvuE4aHoUlgrs,0.484,0.405,5,-9.48,1,0.0555,0,0.121,0.336,88.206,196013,4,Spotify,New Boots,Public 5
+Chase Rice,Way Down Yonder,Way Down Yonder,418ve8CTLM3XbeGWSq8fA6,0.476,0.818,6,-4.259,0,0.0388,1.24e-05,0.13,0.626,144.131,218213,4,Spotify,New Boots,Public 5
+BRELAND,Cross Country,Good For You,1efGCNUZ93dHWMoS2kK4Wi,0.708,0.3,2,-7.444,1,0.0293,0,0.107,0.198,114.996,182503,3,Spotify,New Boots,Public 5
+Lily Rose,Whatcha Know About That,Whatcha Know About That,4sl7urnvv4gI7BtjGby7y0,0.577,0.815,9,-3.868,1,0.035,0,0.108,0.547,115.944,168804,4,Spotify,New Boots,Public 5
+Mitchell Tenpenny,Good and Gone,Good and Gone,5le2qyZpf6XHdHCgwdFUiZ,0.644,0.855,2,-4.577,1,0.0589,0,0.0907,0.49,122.058,198147,4,Spotify,New Boots,Public 5
+Blake Shelton,No Body,No Body,3knS4WXNNRBd3zkx2v78cx,0.739,0.72,4,-6.695,1,0.026,0.00267,0.23,0.892,102.997,187640,4,Spotify,New Boots,Public 5
+Luke Bryan,Prayin' In A Deer Stand,Prayin' In A Deer Stand,6udBM5TJkTp1uupH4Y5ReF,0.435,0.836,2,-3.523,1,0.0454,0,0.111,0.575,157.989,204921,4,Spotify,New Boots,Public 5
+Madeline Edwards,Crashlanded,The Wolves,2v71B92AHjGB0FgfIB4bch,0.507,0.659,1,-4.068,0,0.0294,0,0.197,0.382,79.032,174511,4,Spotify,New Boots,Public 5
+Jimmie Allen,Tulip Drive,be alright,3dpkmgWLr1g3rckqY4Vdrk,0.541,0.624,1,-4.822,1,0.0358,0,0.0949,0.505,170.018,174733,4,Spotify,New Boots,Public 5
+Mickey Guyton,Somethin' Bout You,Somethin' Bout You,2hsarLx1u2OgOmkcJ8ejBm,0.667,0.826,4,-3.412,1,0.0266,0,0.151,0.665,112.041,156906,4,Spotify,New Boots,Public 5
+Ben Burgess,Tears the Size of Texas,Tears the Size of Texas,3dty7RRoFfyFTylgKAAy2V,0.527,0.521,2,-6.093,1,0.0262,2.3e-05,0.105,0.327,131.905,238177,3,Spotify,New Boots,Public 5
+Ryan Hurd,Pelago,Pass It On,4NPQb5305qkdRARfAEaOle,0.709,0.692,7,-5.489,1,0.052,0,0.293,0.785,76.992,179107,4,Spotify,New Boots,Public 5
+Lainey Wilson,Watermelon Moonshine,Watermelon Moonshine,6KaKmX6EIu3x2057HoZwQF,0.739,0.413,1,-6.709,1,0.0282,2.51e-05,0.131,0.649,139.921,208853,4,Spotify,New Boots,Public 5
+Drake Milligan,Drake Milligan - EP,Sounds Like Something I'd Do,5QAwDaUIcFOEYfsepGk0Fd,0.487,0.892,7,-5.557,1,0.0449,3.96e-06,0.212,0.684,160.897,146778,4,Spotify,New Boots,Public 5
+Spencer Crandall,Western,Our Forever,3fq5h4eWQNP3fBqXZRyC5F,0.544,0.772,5,-5.929,1,0.0463,0,0.256,0.518,147.962,199606,4,Spotify,New Boots,Public 5
+Shania Twain,Waking Up Dreaming,Waking Up Dreaming,5cc1GqkadgfMlLszRXqdhM,0.567,0.737,1,-3.642,0,0.118,0,0.0894,0.543,91.827,198802,4,Spotify,New Boots,Public 5
+Muscadine Bloodline,Me On You,Me On You,16IHzMTYzM3VKDJK0syV22,0.72,0.798,11,-5.42,0,0.0359,0,0.181,0.949,97.918,167267,4,Spotify,New Boots,Public 5
+Gary LeVox,Get Down Like That,Get Down Like That,21bbVtRMzyv5rnM1LGI345,0.407,0.97,4,-3.443,1,0.107,0,0.319,0.679,178.025,186771,4,Spotify,New Boots,Public 5
+Sam Hunt,Water Under The Bridge,Water Under The Bridge,4viFAHmivkYQKkwLvwKOgg,0.635,0.866,5,-2.695,1,0.0473,0,0.0955,0.853,133.889,169760,4,Spotify,New Boots,Public 5
+Carrie Underwood,Denim & Rhinestones,Hate My Heart,4oGCfTHN1hmXGy5mqmJVc3,0.524,0.923,7,-3.53,1,0.085,0,0.102,0.318,149.972,183573,4,Spotify,New Boots,Public 5

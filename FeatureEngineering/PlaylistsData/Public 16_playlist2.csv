@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+The Weeknd,Starboy,Die For You,2Ch7LmS7r2Gy2kc64wv3Bz,0.582,0.525,1,-7.163,0,0.0627,0,0.134,0.51,133.249,260253,4,Spotify,All The Feels,Public 16
+Bryson Tiller,T R A P S O U L,Don't,3pXF1nA74528Edde4of9CC,0.765,0.356,11,-5.556,0,0.195,0,0.0963,0.189,96.991,198293,4,Spotify,All The Feels,Public 16
+Kendrick Lamar,DAMN.,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.0924,0,0.153,0.779,126.058,213400,4,Spotify,All The Feels,Public 16
+Giveon,When It's All Said And Done,Stuck On You,53Nwlr3hxsGsu9eWU5EYjq,0.599,0.45,7,-7.431,1,0.0519,3.29e-05,0.112,0.144,157.969,205116,3,Spotify,All The Feels,Public 16
+Doja Cat,Hot Pink,Streets,60ynsPSSKe6O3sfwRnIBRf,0.749,0.463,11,-8.433,1,0.0842,0.0382,0.338,0.189,90.035,226987,4,Spotify,All The Feels,Public 16
+Miguel,All I Want Is You,Sure Thing,0JXXNGljqupsJaZsgSbMZV,0.684,0.607,11,-8.127,0,0.1,0.000307,0.191,0.498,81.001,195373,4,Spotify,All The Feels,Public 16
+Drake,More Life,Teenage Fever,6n3HGiq4v35D6eFOSwqYuo,0.766,0.283,8,-10.33,0,0.0846,0.0172,0.115,0.144,97.04,219692,4,Spotify,All The Feels,Public 16
+Jayson Lyric,Outer Body Experience,Self Love,5jT6jENoyDH8YwvKT2NlnC,0.642,0.383,0,-8.416,0,0.189,0,0.0916,0.412,81.158,159231,4,Spotify,All The Feels,Public 16
+Frank Ocean,Novacane,Novacane,4osgfFTICMkcGbbigdsa53,0.762,0.508,3,-9.112,1,0.0919,0.00126,0.16,0.37,93.51,302347,4,Spotify,All The Feels,Public 16
+Lucky Daye,Over,Over,1DOgkaR5Gqa8JtPEIbQORC,0.677,0.541,6,-6.057,0,0.0571,0,0.125,0.379,103.369,205276,4,Spotify,All The Feels,Public 16
+Daniel Caesar,Freudian,Best Part (feat. H.E.R.),1RMJOxR6GRPsBHL8qeC2ux,0.524,0.364,7,-10.209,1,0.0367,0,0.1,0.436,75.24,209831,4,Spotify,All The Feels,Public 16
+Post Malone,Stoney (Deluxe),I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,0.556,0.538,8,-5.408,0,0.0382,0,0.196,0.291,143.95,223347,4,Spotify,All The Feels,Public 16
+SZA,I Hate U,I Hate U,5dXWFMwD7I7zXsInONVl0H,0.535,0.388,7,-9.805,0,0.155,0,0.11,0.412,106.703,174000,5,Spotify,All The Feels,Public 16
+Khalid,American Teen,Location,152lZdxL1OR0ZMW6KquMif,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,Spotify,All The Feels,Public 16
+H.E.R.,I Used To Know Her,Could've Been (feat. Bryson Tiller),6oEVnWKgPqIEPc53OYDNqG,0.45,0.352,1,-11.733,0,0.267,3.8e-06,0.249,0.408,102.679,252747,4,Spotify,All The Feels,Public 16
+Frank Ocean,channel ORANGE,Thinkin Bout You,7DfFc7a6Rwfi3YQMRbDMau,0.721,0.339,0,-11.195,1,0.0532,0.00153,0.0973,0.2,129.83,200747,4,Spotify,All The Feels,Public 16
+Summer Walker,Over It,Playing Games (with Bryson Tiller) - Extended Version,2xyx0o4xNOLLjBSbOOdcbA,0.726,0.408,11,-6.606,0,0.0614,0,0.225,0.459,115.918,143227,4,Spotify,All The Feels,Public 16
+Drake,Nothing Was The Same,From Time,0GaBIpyHvytM1UBYmqXu08,0.739,0.491,1,-9.726,0,0.413,0,0.126,0.448,94.391,322160,4,Spotify,All The Feels,Public 16
+Jeremih,Late Nights: The Album,oui,0PJIbOdMs3bd5AT8liULMQ,0.418,0.724,5,-3.724,1,0.0964,0,0.112,0.604,78.521,238320,5,Spotify,All The Feels,Public 16
+Daniel Caesar,Get You - Single,Get You (feat. Kali Uchis),6N3qHjcwly8ZuhE4bPYJAX,0.659,0.295,11,-8.528,0,0.0322,6.95e-05,0.0795,0.36,74.037,277297,4,Spotify,All The Feels,Public 16
+Brent Faiyaz,Poison,Poison,5NijSs5dAwaIybq1GaRTIe,0.689,0.394,2,-10.102,0,0.065,0.000905,0.0859,0.382,117.489,212992,3,Spotify,All The Feels,Public 16
+Bryson Tiller,T R A P S O U L,Right My Wrongs,5rgrBsAFYMun6yhtnLKRPz,0.543,0.449,1,-8.065,1,0.0463,0,0.157,0.29,132.609,249320,4,Spotify,All The Feels,Public 16
+Drake,Views,Feel No Ways,3cjF2OFRmip8spwZYQRKxP,0.582,0.677,7,-7.081,1,0.172,6.6e-06,0.122,0.205,193.818,240653,4,Spotify,All The Feels,Public 16
+Russ,There's Really A Wolf,Losin Control,4cxMGhkinTocPSVVKWIw0d,0.759,0.245,6,-6.545,1,0.138,0.000154,0.102,0.209,96.992,237507,4,Spotify,All The Feels,Public 16
+Kehlani,While We Wait,Nights Like This (feat. Ty Dolla $ign),6ZRuF2n1CQxyxxAAWsKJOy,0.61,0.725,8,-5.131,1,0.15,0,0.154,0.291,146.163,201788,4,Spotify,All The Feels,Public 16
+The Weeknd,Trilogy,Wicked Games,6VwBbL8CzPiC4QV66ay7oR,0.658,0.591,9,-5.197,1,0.0309,5.27e-06,0.325,0.326,114.078,323747,4,Spotify,All The Feels,Public 16
+6LACK,East Atlanta Love Letter,Pretty Little Fears (feat. J. Cole),4at3d5QWnlibMVN75ECDrp,0.61,0.458,9,-11.336,1,0.36,0.000103,0.0852,0.246,192.099,240342,4,Spotify,All The Feels,Public 16
+Mario,Let Me Love You,Let Me Love You,3ibKnFDaa3GhpPGlOUj7ff,0.656,0.578,7,-8.97,0,0.0922,0,0.118,0.556,94.514,256733,4,Spotify,All The Feels,Public 16
+Ella Mai,Ella Mai,Trip,6CTWathupIiDs7U4InHnDA,0.477,0.61,11,-5.628,0,0.144,0,0.107,0.358,79.882,213993,4,Spotify,All The Feels,Public 16
+Drake,If You're Reading This It's Too Late,Jungle,7JXZq0JgG2zTrSOAgY8VMC,0.697,0.235,7,-8.651,1,0.0534,0.000144,0.107,0.378,99.947,320400,4,Spotify,All The Feels,Public 16
+Mariah the Scientist,Buckles Laboratories Presents: The Intermission,Spread Thin,4MbzauKV2ydtZZjLsPcuTF,0.621,0.411,6,-8.261,0,0.0333,0,0.0816,0.357,110.113,202520,4,Spotify,All The Feels,Public 16
+Khalid,American Teen,Coaster,39KG4kom3enSx4GTThuDGt,0.441,0.219,8,-14.586,1,0.0419,0,0.115,0.244,94.021,199120,4,Spotify,All The Feels,Public 16
+Sonder,Nobody But You,Nobody But You,6VFKuuqSbA1GpMEosUgTwQ,0.637,0.299,7,-11.314,1,0.0366,0,0.359,0.364,83.872,213214,4,Spotify,All The Feels,Public 16
+Montell Fish,JAMIE,Talk 2 Me,6pPLhloHxLWiMlAT5Xn1gw,0.464,0.126,11,-16.383,1,0.0647,3.67e-06,0.559,0.181,103.176,139806,4,Spotify,All The Feels,Public 16
+RealestK,Love Me,Love Me,4qgMPzf9QOETWQFUcFkHD4,0.569,0.325,7,-9.66,0,0.0376,0,0.141,0.274,122.051,207547,3,Spotify,All The Feels,Public 16
+Jhené Aiko,Trip,While We're Young,4mL59LVbKgOpEACxraGYdr,0.649,0.791,2,-6.013,1,0.193,1.97e-06,0.108,0.811,128.023,236160,4,Spotify,All The Feels,Public 16
+Bruno Major,A Song For Every Moon,Easily,0RnxpSzxzwZgFQ0NahQr9K,0.773,0.256,7,-8.545,0,0.0481,0.00612,0.144,0.357,118.893,210240,3,Spotify,All The Feels,Public 16
+PARTYNEXTDOOR,PARTYPACK,PERSIAN RUGS,02UJ1sCanP94fS2MdsWafh,0.768,0.428,1,-8.156,0,0.0459,0.000491,0.105,0.147,110.478,174307,4,Spotify,All The Feels,Public 16
+Russ,ZOO,Missin You Crazy,4ve2uzqdwnHr20G5YgMMqr,0.716,0.729,5,-6.313,1,0.117,0,0.0842,0.276,131.975,226693,4,Spotify,All The Feels,Public 16
+Kiana Ledé,Selfless,Wicked Games,0TYhf0MgEj4YJaKwo5c4Km,0.789,0.435,1,-7.042,0,0.0599,0,0.135,0.456,72.973,181267,3,Spotify,All The Feels,Public 16
+Daniel Caesar,Please Do Not Lean,Please Do Not Lean (feat. BADBADNOTGOOD),5uXO1sjZ7VbNKexKaFRna3,0.67,0.41,1,-13.444,1,0.0381,8.55e-06,0.167,0.46,127.972,240938,4,Spotify,All The Feels,Public 16
+Giveon,TAKE TIME,Favorite Mistake,4rHIfYRQw6ittRQXAlurk0,0.535,0.409,7,-9.517,0,0.0855,0,0.129,0.138,170.123,172907,4,Spotify,All The Feels,Public 16
+Pink Sweat$,PINK PLANET,Honesty,19gCnDoMbugHhF7eMpLpe1,0.66,0.139,6,-16.339,0,0.0323,1.1e-05,0.105,0.312,79.975,189000,4,Spotify,All The Feels,Public 16
+Kehlani,It Was Good Until It Wasn't,Can I,0uDdI4fAXCuNhQbmxENdsO,0.574,0.791,1,-3.752,1,0.11,0,0.0982,0.612,119.537,167810,4,Spotify,All The Feels,Public 16
+Drake,Take Care (Deluxe),Doing It Wrong,4eSGSqP2TZvvX0kadZZttM,0.397,0.172,6,-15.698,0,0.0445,6.78e-05,0.108,0.123,101.275,265120,4,Spotify,All The Feels,Public 16
+Childish Gambino,Kauai,Sober,6YuFv5d7iGeNnFMu6xphZl,0.701,0.591,0,-6.646,1,0.0301,2.53e-05,0.551,0.423,98.056,252013,4,Spotify,All The Feels,Public 16
+Jorja Smith,Lost & Found,Blue Lights,1It1TxBK3xIQAB4xJkPevn,0.692,0.57,7,-8.077,1,0.185,0,0.107,0.309,91.917,250454,4,Spotify,All The Feels,Public 16
+The Weeknd,Starboy,True Colors,1oGdVdYjeQvojGKDddxLQQ,0.624,0.424,1,-8.237,1,0.24,0,0.173,0.584,76.671,206013,4,Spotify,All The Feels,Public 16
+Mac Ayres,Drive Slow,Easy,58dSdjfEYNSxte1aNVxuNf,0.722,0.282,5,-7.484,1,0.106,0.00557,0.147,0.217,91.367,314358,4,Spotify,All The Feels,Public 16
+Inayah,S.O.L.A.R.,Best Thing,4pqYf5eVYFpesyKlrFGNTE,0.712,0.469,8,-5.616,0,0.0405,0,0.125,0.383,93.04,188839,4,Spotify,All The Feels,Public 16
+Giveon,Give Or Take,Lie Again,2OTRqsDes7OYRRwbF2JXsa,0.576,0.36,7,-9.321,1,0.0352,0.000103,0.161,0.166,126.836,182440,3,Spotify,All The Feels,Public 16
+Saweetie,Back to the Streets (feat. Jhené Aiko),Back to the Streets (feat. Jhené Aiko),3MEruRteiUZXkStfTlZqRn,0.865,0.792,4,-4.207,1,0.0677,1.46e-05,0.107,0.562,101.985,189496,4,Spotify,All The Feels,Public 16
+Vince Staples,"Yo Love (From ""Queen & Slim: The Soundtrack"")","Yo Love - From ""Queen & Slim: The Soundtrack""",3Vj8RQkFwOmDvUrwu6MtQZ,0.703,0.573,0,-9.032,1,0.0724,3.13e-06,0.0987,0.491,147.038,143830,4,Spotify,All The Feels,Public 16
+Kali Uchis,fue mejor (feat. SZA),fue mejor (feat. SZA),1CrPPsibP3uTc3DSI5vQC5,0.769,0.384,5,-7.414,0,0.0353,0.000227,0.0762,0.23,106.002,230965,4,Spotify,All The Feels,Public 16
+Marc E. Bassy,Groovy People,Morning,54Yappwod1fELR5zb2gDBn,0.462,0.438,10,-8.227,1,0.0953,0,0.181,0.342,107.364,206080,3,Spotify,All The Feels,Public 16
+Chance the Rapper,Coloring Book,Juke Jam (feat. Justin Bieber & Towkio),3eze1OsZ1rqeXkKStNfTmi,0.505,0.397,5,-9.349,1,0.324,0,0.0853,0.558,95.063,219683,1,Spotify,All The Feels,Public 16
+Bryson Tiller,A N N I V E R S A R Y,Inhale,0ycIrEpkyb4lrqE7M1emju,0.498,0.705,9,-8.088,0,0.392,0.000441,0.414,0.571,156.519,171173,4,Spotify,All The Feels,Public 16
+Snoh Aalegra,"- Ugh, those feels again",Whoa,38EhHqsV5NX9JrC2D2qXNI,0.509,0.514,10,-11.283,1,0.123,0.00144,0.104,0.476,188.019,199179,4,Spotify,All The Feels,Public 16
+Jazmine Sullivan,Heaux Tales,Girl Like Me (feat. H.E.R.),2sXydP9vPEYUH4uAWotuGu,0.5,0.638,6,-4.007,0,0.0756,0,0.366,0.698,81.145,224880,4,Spotify,All The Feels,Public 16
+SiR,Chasing Summer,You Can't Save Me,5LKzqs734Xs528hqK8bGS1,0.622,0.584,0,-7.891,1,0.122,0.000152,0.119,0.545,158.276,174947,4,Spotify,All The Feels,Public 16
+Summer Walker,Still Over It,4th Baby Mama,3WSBP6JEf4Y2aKD2swQ8AG,0.874,0.348,9,-9.643,1,0.0767,8.6e-06,0.116,0.151,111.98,225000,4,Spotify,All The Feels,Public 16
+FLO,Immature,Immature,5Gp0BMl8A4obJTIpd0qWox,0.346,0.571,10,-5.724,0,0.0762,0,0.135,0.463,82.67,173106,4,Spotify,All The Feels,Public 16
+Omar Apollo,Want U Around (feat. Ruel),Want U Around (feat. Ruel),5vprsDWNcHMEMH95sbJkH2,0.571,0.443,0,-6.76,1,0.0451,6.95e-06,0.101,0.621,143.923,247720,3,Spotify,All The Feels,Public 16
+Brent Faiyaz,Lost,Around Me,7dQeS4ErW1iWvnKdrtKwKr,0.595,0.18,1,-12.516,1,0.0659,4.56e-05,0.097,0.119,75.067,183022,4,Spotify,All The Feels,Public 16
+Mahalia,Letter To Ur Ex,Letter To Ur Ex,2GoXtcbzgBUrvYv6ac7zA9,0.69,0.494,6,-7.41,0,0.0378,0.00068,0.129,0.283,79.955,134627,4,Spotify,All The Feels,Public 16
+UMI,Lullaby,Lullaby,1K1b1rPjbbam1NXUPg4VrK,0.849,0.19,7,-9.628,1,0.0447,0.00229,0.102,0.203,113.955,200880,3,Spotify,All The Feels,Public 16
+Alex Isley,Good & Plenty,Good & Plenty,1VAKnb1btGrQXcVZVSRkPe,0.658,0.619,9,-7.316,0,0.0772,0.0667,0.0951,0.354,136.077,204706,4,Spotify,All The Feels,Public 16
+Jessie Reyez,YESSIE,MUTUAL FRIEND,6PFyd6Gmp2LZHI1IpkZGgy,0.537,0.349,11,-7.818,1,0.0358,0,0.094,0.388,99.762,206720,3,Spotify,All The Feels,Public 16
+Tone Stith,Still FWM,Do I Ever (feat. Chris Brown),4rvzmiYWfzfQ3tnXEt1KQv,0.453,0.461,1,-6.387,1,0.0533,0,0.142,0.414,98.172,190056,4,Spotify,All The Feels,Public 16
+Majid Jordan,A Place Like This,Her,6GatnDEhYQLOdRzdVbJaky,0.675,0.5,1,-6.6,1,0.0516,0.00268,0.114,0.0709,90.029,300729,4,Spotify,All The Feels,Public 16
+Summer Walker,Life On Earth - EP,My Affection (with PARTYNEXTDOOR),2aSM4sbNN7cSmpYOG0sf46,0.632,0.495,7,-8.335,1,0.143,0,0.0941,0.233,77.083,213933,4,Spotify,All The Feels,Public 16
+Snoh Aalegra,TEMPORARY HIGHS IN THE VIOLET SKIES,LOST YOU,26aJMMLBSOQmiC4JenVjjl,0.445,0.468,5,-8.106,0,0.0702,0.000849,0.112,0.444,87.803,177720,4,Spotify,All The Feels,Public 16
+dvsn,Morning After,Think About Me,4LkLfPYc3yjOta7Gk8FDRB,0.547,0.294,7,-10.202,1,0.0482,0.786,0.0933,0.11,105.027,246240,4,Spotify,All The Feels,Public 16
+Zeina,Give Me Time,Give Me Time,2Dc1QaoJm4RXo4QZXKGIK6,0.66,0.648,10,-6.339,0,0.0854,0,0.164,0.309,145.909,154702,4,Spotify,All The Feels,Public 16
+Khalid,This Way (From SUPERFLY - Original Soundtrack),This Way - From SUPERFLY - Original Soundtrack,6fbYL76UWbHdYq4B91TPQi,0.62,0.282,5,-10.533,0,0.0464,0,0.119,0.193,124.609,211205,3,Spotify,All The Feels,Public 16
+H.E.R.,H.E.R.,Losing,20E9JE3J8dHNDj9saOeNgu,0.441,0.31,4,-13.487,0,0.257,0.000433,0.108,0.145,172.677,225773,3,Spotify,All The Feels,Public 16
+Always Never,Always Never,Wylin',3BymIH6QBGllSijMm3sQiR,0.497,0.489,4,-7.849,0,0.0413,0.00167,0.0912,0.0348,163.814,269268,4,Spotify,All The Feels,Public 16
+Kehlani,blue water road,more than i should (feat. jessie reyez),20jLHaXVhMFjwHs1JPjL4S,0.591,0.597,0,-6.769,0,0.141,0,0.1,0.552,143.948,200639,4,Spotify,All The Feels,Public 16
+Dreamville,Revenge Of The Dreamers III,Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy),4nw0S8MtvcLSpXCS9M8ciL,0.664,0.61,7,-6.432,0,0.339,0,0.097,0.472,76.024,284040,4,Spotify,All The Feels,Public 16
+rum.gold,aiMless,Waiting For (feat. Jamila Woods),02nZeTbm2dRHisH6qsUM5E,0.738,0.379,2,-11.644,0,0.084,1.1e-05,0.0806,0.598,122.042,200215,4,Spotify,All The Feels,Public 16
+Trey Songz,"Passion, Pain & Pleasure (Deluxe Version)",Can't Be Friends,4iMDkH8t3Sooaj3uCzpYP2,0.451,0.586,11,-7.975,0,0.193,0,0.171,0.337,171.842,220373,4,Spotify,All The Feels,Public 16
+Alina Baraz,More Than Enough,More Than Enough,1NjQZi2ajwmJsfnimLr41I,0.648,0.531,2,-5.886,0,0.0345,0.000897,0.12,0.253,143.008,151462,4,Spotify,All The Feels,Public 16
+CHIKA,ONCE UPON A TIME,"CINDERELLA, Pt. 2",1NsoJ2lSWD61hD4hRY5Qby,0.58,0.317,6,-10.769,1,0.137,3.45e-06,0.112,0.338,176.959,130882,3,Spotify,All The Feels,Public 16
+Ne-Yo,Don't Love Me,Don't Love Me,1hUhr4K3DD2iva88RMVAyY,0.793,0.538,1,-6.308,1,0.0343,1.57e-06,0.104,0.412,115.001,167020,4,Spotify,All The Feels,Public 16
+Jhené Aiko,Chilombo (Deluxe),Summer 2020,0t2q2c43AATY4z1GI883Be,0.401,0.485,6,-10.787,0,0.216,0.000292,0.0907,0.54,169.949,196000,4,Spotify,All The Feels,Public 16
+Muni Long,Public Displays Of Affection: The Album,Time Machine,37S1u9dpiGeBO80Lk9msLy,0.662,0.516,2,-5.143,0,0.0375,0.0003,0.134,0.181,87.099,222096,4,Spotify,All The Feels,Public 16
+Teyana Taylor,Wake Up Love,Wake Up Love,2KkNkv6ciB6bt2hvHtOrin,0.583,0.766,11,-4.743,0,0.405,1.79e-06,0.159,0.203,131.374,215329,3,Spotify,All The Feels,Public 16
+Rory,Not Me,Not Me,2l1XKxwgWjMVZU4L0IKDUC,0.61,0.478,2,-7.648,0,0.32,0.000898,0.0963,0.477,171.881,222284,4,Spotify,All The Feels,Public 16
+Charlotte Day Wilson,Take Care of You / Summertime,Take Care of You (feat. Syd),2ENxOXbxhfJ3lfItO0MFDv,0.666,0.535,4,-9.033,0,0.112,0.0228,0.202,0.259,127.029,214438,4,Spotify,All The Feels,Public 16
+Dreamville,D-Day: A Gangsta Grillz Mixtape,Coming Down (with Ari Lennox),3p2HpO3ZgvFs97L15hGZOn,0.813,0.6,9,-6.769,0,0.0602,1.34e-05,0.159,0.622,125.981,156944,4,Spotify,All The Feels,Public 16
+Muni Long,Pain,Pain,51Q4Pn44Ys7D8GCNzVLDmg,0.805,0.731,1,-4.111,0,0.225,0,0.162,0.326,126.873,153227,4,Spotify,All The Feels,Public 16
+Jex Nwalor,Don't Say,Don't Say,3zpV1pF29S3jPGNY1J8HZo,0.772,0.39,7,-8.862,0,0.0586,0.00181,0.121,0.609,72.993,155491,4,Spotify,All The Feels,Public 16
+Justine Skye,What A Lie,What A Lie,1VI7GQmBBgdslV3tQRvsRD,0.636,0.567,1,-7.344,1,0.0745,1.4e-05,0.131,0.282,125.457,228562,4,Spotify,All The Feels,Public 16
+Mahalia,Letter To Ur Ex,Letter To Ur N(ex)t,4LjOVLoj6OrrNJktFTYPGK,0.49,0.296,2,-10.989,0,0.0985,0.000141,0.106,0.0971,105.829,134279,4,Spotify,All The Feels,Public 16
+Masati,Intoxicated Truth,Intoxicated Truth,52iaQGkgAtc4bwr1iAiVaq,0.685,0.669,1,-6.126,1,0.0355,8.81e-05,0.112,0.38,110.003,176727,4,Spotify,All The Feels,Public 16
+Sinéad Harnett,Be the One (Remix) (feat. Col3trane),Be the One - Remix,63BNGz21SvLvqmcPLXPDqr,0.576,0.426,3,-6.367,0,0.102,6.03e-06,0.173,0.389,102.246,191237,4,Spotify,All The Feels,Public 16
+Tinashe,Songs For You,Touch & Go,2raG6AhTGBLSHhCFGG3ZDs,0.663,0.506,8,-10.873,0,0.0461,1.01e-05,0.104,0.214,132.03,255455,4,Spotify,All The Feels,Public 16
+PARTYNEXTDOOR,Come and See Me (feat. Drake),Come and See Me (feat. Drake),5KdhJG3BXUmLoO4JdycCPw,0.807,0.346,2,-10.275,1,0.0613,2.55e-06,0.087,0.0608,84.98,235477,4,Spotify,All The Feels,Public 16
+Tink,Goofy,Goofy,1A5hxo3hCF6FxBunEoKWcS,0.734,0.415,5,-9.227,0,0.189,0,0.135,0.0718,57.723,201592,4,Spotify,All The Feels,Public 16
+Ashanti,235 (2:35 I Want You),235 (2:35 I Want You),5yGAyupR8TXCUq3MPb7xiK,0.607,0.677,11,-5.858,0,0.175,0,0.302,0.211,139.974,231429,4,Spotify,All The Feels,Public 16

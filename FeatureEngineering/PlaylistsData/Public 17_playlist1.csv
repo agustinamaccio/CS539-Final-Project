@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Gala,Come Into My Life (The Album),Freed From Desire,3u5N55tHf7hXATSQrjBh2q,0.704,0.861,2,-4.221,0,0.0493,0.0615,0.0992,0.636,128.99,213394,4,Spotify,Dance Classics,Public 17
+Daft Punk,Discovery,One More Time,0DiWol3AO6WpXZgp0goxAV,0.613,0.697,2,-8.618,1,0.133,0.0,0.332,0.476,122.746,320357,4,Spotify,Dance Classics,Public 17
+Alice Deejay,Who Needs Guitars Anyway?,Better Off Alone,5XVjNRubJUW0iPhhSWpLCj,0.671,0.882,8,-6.149,0,0.0552,0.667,0.285,0.787,136.955,214883,4,Spotify,Dance Classics,Public 17
+Gigi D'Agostino,L'Amour Toujours,L'Amour Toujours,52LJ3hyknOijCrE5gCD0rE,0.638,0.877,7,-4.449,1,0.0302,0.0221,0.364,0.743,139.052,242053,4,Spotify,Dance Classics,Public 17
+Eric Prydz,Call on Me (Radio Mix),Call on Me - Radio Mix,1xNcBAoUw8Hz6LqK2jt4Ff,0.597,0.837,10,-6.518,1,0.375,0.00115,0.839,0.447,126.342,171360,4,Spotify,Dance Classics,Public 17
+Robert Miles,Children (Dance Vault Mixes),Children,4wtR6HB3XekEengMX17cpc,0.604,0.755,0,-10.761,1,0.0337,0.817,0.0625,0.387,137.064,243267,4,Spotify,Dance Classics,Public 17
+Stardust,Music Sounds Better With You,Music Sounds Better With You - Radio Edit,1mv4lh1rW1K6xhxhJmEezy,0.729,0.662,5,-7.191,0,0.337,0.208,0.305,0.359,124.149,260907,4,Spotify,Dance Classics,Public 17
+Daft Punk,Homework,Around the World,1pKYYY0dkg23sQQXi0Q5zN,0.956,0.795,7,-5.311,1,0.15,0.889,0.0906,0.841,121.294,429533,4,Spotify,Dance Classics,Public 17
+Nightcrawlers,Push The Feeling On,Push The Feeling On - Mk Dub Revisited Edit,1EWsVHU4FNAdtN4R8FETag,0.793,0.5,6,-13.108,0,0.0319,1.96e-05,0.186,0.833,123.017,243160,4,Spotify,Dance Classics,Public 17
+Eric Prydz,Pjanoo,Pjanoo - Radio Edit,0F2BxpbxH8Yc3pLub48hrb,0.605,0.874,7,-4.949,0,0.0295,0.812,0.112,0.836,125.99,157432,4,Spotify,Dance Classics,Public 17
+Ida Corr,Singled Out,Let Me Think About It,4LjfIjS8iweFCPdKxLnEoV,0.762,0.754,0,-3.425,0,0.046,0.0665,0.146,0.715,129.026,151983,4,Spotify,Dance Classics,Public 17
+Benny Benassi,Hypnotica (Benny Benassi Presents The Biz),Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,1n7omixiROWs5q6xpWiQuL,0.793,0.698,11,-3.626,1,0.104,0.145,0.0745,0.339,130.017,285571,4,Spotify,Dance Classics,Public 17
+Agnes,Dance Love Pop (The Love Love Love Edition),Release Me,4LiJE6pqgsTX3FtukW6bNh,0.621,0.923,2,-3.124,0,0.0321,7.28e-05,0.108,0.716,127.973,256213,4,Spotify,Dance Classics,Public 17
+Daft Punk,Discovery,"Harder, Better, Faster, Stronger",5W3cjX2J3tjhG8zb6u0qHn,0.817,0.716,6,-8.898,0,0.144,0.00263,0.358,0.692,123.474,224693,4,Spotify,Dance Classics,Public 17
+The Chemical Brothers,Surrender,Hey Boy Hey Girl,7kXmJwrZGIhDaLT9sNo3ut,0.632,0.92,2,-4.976,1,0.0531,0.508,0.114,0.363,127.001,290493,4,Spotify,Dance Classics,Public 17
+DJ Sammy,Heaven,Heaven,72SpPFrMYCXLB3Fbw9tEgf,0.571,0.953,8,-5.601,1,0.0548,0.000606,0.226,0.601,137.965,233600,4,Spotify,Dance Classics,Public 17
+ATB,Movin' Melodies,9Pm (Till I Come),1CgbwsrNDlFrRuk2ebQ7zr,0.672,0.941,9,-6.427,0,0.0494,0.926,0.149,0.754,130.218,193880,4,Spotify,Dance Classics,Public 17
+Example,Playing In The Shadows,Changed the Way You Kiss Me - Radio Edit,1PAYgOjp1c9rrZ2kVQg2vN,0.578,0.857,4,-3.78,0,0.041,0.00162,0.0948,0.188,126.979,195467,4,Spotify,Dance Classics,Public 17
+David Guetta,Pop Life,Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix,2MGRnjJc7C0z3EOEWRqcMw,0.773,0.813,4,-4.609,0,0.0797,3.77e-05,0.192,0.707,127.93,199387,4,Spotify,Dance Classics,Public 17
+Yeah Yeah Yeahs,Heads Will Roll,Heads Will Roll - A-Trak Remix Radio Edit,0vBpyfpW2lARGh3AZFtWRi,0.671,0.805,8,-3.232,0,0.081,0.0547,0.237,0.866,132.051,203920,4,Spotify,Dance Classics,Public 17
+Alex Gaudino,Destination Calabria,Destination Calabria - UK Radio Edit,7pGboneNRAZ5zwT7M3WayC,0.626,0.933,9,-7.681,1,0.0516,0.00621,0.0636,0.291,128.078,181947,4,Spotify,Dance Classics,Public 17
+Eiffel 65,Blue (Da Ba Dee),Blue (Da Ba Dee) - Gabry Ponte Video Edit,7lMIJ4EFWRVoAIPDpeGyM3,0.829,0.965,7,-11.498,0,0.0598,0.000122,0.466,0.729,127.999,219618,4,Spotify,Dance Classics,Public 17
+T2,Heartbroken,Heartbroken - Edit,5Yaw45Q7W0irDbTVN5LOVs,0.716,0.757,11,-5.438,0,0.0329,0.00392,0.16,0.877,139.986,178614,4,Spotify,Dance Classics,Public 17
+INNA,I Am the Club Rocker,Sun Is Up,1TtteYFQeZfSU8AmfIAOvu,0.803,0.885,0,-3.664,0,0.049,0.312,0.0503,0.654,127.985,224531,4,Spotify,Dance Classics,Public 17
+Kid Cudi,Day 'N' Nite (Crookers Remix),Day 'N' Nite - Crookers Remix,6ouTGbETM7ZdID1eMXZJde,0.751,0.641,11,-6.967,0,0.0461,0.0626,0.0557,0.965,129.993,281080,4,Spotify,Dance Classics,Public 17
+Shannon,Let the Music Play,Let the Music Play,6b9hm8mvZ2KH7Fl7LLA5ct,0.709,0.687,10,-10.462,0,0.0519,0.000151,0.092,0.765,114.717,214379,4,Spotify,Dance Classics,Public 17
+Tiësto,Just Be,Adagio For Strings,3Q2M6sNKDwoqZGBvwdFqZr,0.604,0.939,10,-7.49,0,0.0544,0.698,0.0723,0.205,139.975,443427,4,Spotify,Dance Classics,Public 17
+Orbital,Orbital 2,Halcyon and On and On,5xcunlfaZvD9BDQsLONI7A,0.577,0.729,11,-14.376,0,0.0319,0.928,0.184,0.177,126.988,567107,4,Spotify,Dance Classics,Public 17
+4 Strings,Believe,Take Me Away (Into The Night) - Vocal Radio Mix,0EcH1iItB5rVIZaaiQMbsG,0.617,0.79,3,-6.983,0,0.0365,0.0455,0.159,0.267,138.001,190427,4,Spotify,Dance Classics,Public 17
+Cosmic Gate,Exploration of Space,Exploration of Space,0P2sfcfRD0lWw4b8eXegmR,0.631,0.912,9,-7.591,0,0.0362,0.539,0.0729,0.329,138.043,216360,4,Spotify,Dance Classics,Public 17
+Madison Avenue,Don't Call Me Baby,Don't Call Me Baby,4fazGt0v2v2zkzddQOcDZD,0.808,0.982,3,-6.588,0,0.0311,0.00689,0.35,0.961,124.999,228140,4,Spotify,Dance Classics,Public 17
+David Guetta,Pop Life,Baby When the Light (feat. Cozi),5bJ3imTI0ErWNsFWEgi5F8,0.588,0.749,0,-7.621,1,0.035,0.0,0.139,0.248,129.959,208027,4,Spotify,Dance Classics,Public 17
+Bob Sinclar,Western Dream,"World, Hold On",6yeO8fapOJGqL8Hr0Da2l3,0.727,0.889,8,-3.277,0,0.093,3.42e-05,0.198,0.656,127.011,401360,4,Spotify,Dance Classics,Public 17
+ATB,Movin' Melodies,Don't Stop,0ygoI3HcoGScxt879A23Uk,0.711,0.937,10,-5.314,1,0.0351,0.763,0.324,0.57,134.21,221160,4,Spotify,Dance Classics,Public 17
+Tiësto,Just Be,Traffic - Radio Edit,4dFsZLGVr40S9veNWXBCoe,0.714,0.642,8,-10.241,0,0.0868,0.887,0.186,0.102,137.834,177027,4,Spotify,Dance Classics,Public 17
+David Guetta,Guetta Blaster,The World Is Mine,0TBaFEx7WENZgqLXWErD0b,0.682,0.93,11,-4.036,0,0.0846,0.0123,0.0481,0.46,127.867,219947,4,Spotify,Dance Classics,Public 17
+David Guetta,One Love (Deluxe),When Love Takes Over (feat. Kelly Rowland),77FULy278MulVvGWS8BfK7,0.675,0.862,11,-4.614,1,0.0253,0.000427,0.169,0.498,129.967,191000,4,Spotify,Dance Classics,Public 17
+Kaskade,Strobelite Seduction,I Remember,62h4GYm6aTqS0dsfJtKYIX,0.672,0.592,11,-7.189,0,0.0311,0.00346,0.113,0.489,127.974,283040,4,Spotify,Dance Classics,Public 17
+Morgan Page,The Longest Road,The Longest Road - deadmau5 Remix Edit,77w8cBOdasP7aNcPD9Dec8,0.699,0.737,1,-6.724,1,0.0368,0.000471,0.0392,0.543,124.981,239213,4,Spotify,Dance Classics,Public 17
+Booka Shade,Movements,In White Rooms,2gtWTDbAq2i2oqs0ldX7bn,0.8,0.64,10,-9.428,0,0.0637,0.801,0.277,0.0938,125.008,326835,4,Spotify,Dance Classics,Public 17
+Moby,Moby,Go,0e8C9dPERvvARURkNOFrrC,0.675,0.868,4,-9.118,0,0.0572,0.909,0.0875,0.539,125.843,217240,4,Spotify,Dance Classics,Public 17
+iio,Rapture (feat. Nadia Ali) [Armin Van Buuren Remix Remastered],Rapture (Armin Van Burren Remix Remastered - Made Radio Edit) [feat. Nadia Ali],4RQGig0Vhr4GXmqfklCCyK,0.541,0.931,10,-9.687,0,0.0552,0.129,0.325,0.148,128.584,189701,4,Spotify,Dance Classics,Public 17
+Paul Oakenfold,Bunkka,Starry Eyed Surprise,6A4Kuy7JL0Znab3Skgloiv,0.721,0.794,4,-6.134,1,0.132,0.00013,0.283,0.562,103.211,228493,4,Spotify,Dance Classics,Public 17
+Gabriel & Dresden,"Mixed For Feet, Vol. 1",Beautiful Things,3SbCWIF7UaSewGfGHkFEI2,0.693,0.665,4,-8.111,0,0.0255,0.118,0.347,0.616,130.998,199320,4,Spotify,Dance Classics,Public 17
+Armin van Buuren,"The Sound of Goodbye, Pt. 2",The Sound of Goodbye - Above & Beyond UK Edit,1GMw17BGY1vDWNJ4xVo9V6,0.67,0.945,6,-6.721,1,0.0365,0.686,0.0572,0.806,135.972,199133,4,Spotify,Dance Classics,Public 17
+September,Cry For You,Cry For You,4s3CHmungRHAI5ho2edqXb,0.776,0.878,9,-3.377,1,0.0304,0.000204,0.0574,0.96,130.022,211600,4,Spotify,Dance Classics,Public 17
+David Guetta,One Love (Deluxe),Gettin' Over You (feat. Fergie & LMFAO),6FbGlkHKGkYqpSCuBgurn3,0.615,0.913,10,-5.077,0,0.0816,0.0,0.0773,0.45,129.944,188000,4,Spotify,Dance Classics,Public 17
+Fragma,Toca Me (twoloud Remix),Toca Me - twoloud Radio Edit,62JXnYxY7u5JVLtpTbnOKw,0.607,0.852,4,-5.106,0,0.0347,0.603,0.364,0.718,127.996,193530,4,Spotify,Dance Classics,Public 17
+Steve Angello,Show Me Love,Show Me Love - Radio Edit,6hL8PxitrG9hSXUmgWkG3N,0.654,0.856,5,-4.197,1,0.0586,0.0,0.128,0.574,129.928,184846,4,Spotify,Dance Classics,Public 17
+Paul Oakenfold,Bunkka,Ready Steady Go - Extended Mix,595nqFsvxhQ6CO2YG65W2D,0.556,0.944,1,-5.556,0,0.0296,0.0295,0.209,0.341,128.012,253933,4,Spotify,Dance Classics,Public 17
+Kaskade,Strobelite Seduction,Move For me,3GhICQNsmPCPgG7RyHAV8q,0.529,0.747,1,-6.087,1,0.0344,0.00127,0.0957,0.195,128.014,237293,4,Spotify,Dance Classics,Public 17
+Various Artists,90s 100 Hits,Insomnia - Radio Edit,7gWc0QEt2hoIkMv3XxPY1T,0.71,0.757,7,-10.636,1,0.0302,0.00306,0.138,0.492,127.107,213547,4,Spotify,Dance Classics,Public 17
+Robyn,Robyn,With Every Heartbeat,53SqGkNJAYLss9AgbduTqQ,0.501,0.869,4,-4.103,0,0.0395,0.000308,0.255,0.352,120.859,255187,3,Spotify,Dance Classics,Public 17
+Nicola Fasano,"75, Brazil Street (Nicola Fasano Vs Pat-Rich)","75, Brazil Street (Radio Mix) - Nicola Fasano Vs Pat-Rich",2RSxUNaF8EZI3B7guqXAPk,0.898,0.593,9,-6.211,0,0.0615,0.904,0.276,0.419,127.013,187402,4,Spotify,Dance Classics,Public 17
+Calvin Harris,Ready For The Weekend,Flashback,541lUjNUJ8NIQiduDf4Ue9,0.265,0.948,9,-5.661,0,0.0494,0.00113,0.0832,0.198,128.0,229200,4,Spotify,Dance Classics,Public 17
+Tiësto,Elements Of Life,In The Dark,3GQmTjG7lCwEiujCanfRQI,0.574,0.901,5,-6.49,0,0.0278,0.00079,0.117,0.483,134.987,276000,4,Spotify,Dance Classics,Public 17
+Ian van Dahl,Castles In The Sky,Castles In The Sky - Peter Luts Radio Edit,2EhlTKxStybQpKktuuanws,0.658,0.947,0,-6.922,0,0.0445,0.13,0.142,0.412,139.997,199680,4,Spotify,Dance Classics,Public 17
+Cascada,Perfect Day,What Hurts The Most,2rVa6UVT2f95l3bGcMGCWQ,0.579,0.981,9,-7.433,1,0.0994,3.22e-05,0.515,0.276,142.025,218586,4,Spotify,Dance Classics,Public 17
+Planet Perfecto Knights,ResuRection,ResuRection - Paul Oakenfold Full On Fluoro Mix,6aMbSmv99DETtr97inIrJ4,0.526,0.935,4,-5.015,0,0.04,0.77,0.925,0.0581,138.048,236522,4,Spotify,Dance Classics,Public 17
+Hardrive,Strictly Hardrive,Deep Inside,1EYYoG6P9cQdYXG6Nv5mXu,0.794,0.901,11,-4.652,0,0.0698,0.00997,0.139,0.794,123.67,392669,4,Spotify,Dance Classics,Public 17
+Late Night Alumni,Empty Streets (Remixes),Empty Streets - Haji & Emanuel Remix,12lTG2CsivVTCJH21qgkVz,0.678,0.896,2,-8.017,0,0.0395,0.79,0.664,0.678,126.001,501213,4,Spotify,Dance Classics,Public 17
+Tiësto,Just Be,Love Comes Again,23x1l5fneuI3tfw52NftWH,0.677,0.687,8,-8.209,1,0.0515,0.322,0.157,0.315,135.993,489373,4,Spotify,Dance Classics,Public 17
+Sylvia Tosun,Underlying Feeling,Underlying Feeling - Adam K & Soha Radio Edit,3RaCcyWwRIdczuefF10UCb,0.698,0.852,6,-7.204,0,0.07,0.156,0.0446,0.158,126.02,224843,4,Spotify,Dance Classics,Public 17
+Lasgo,Smile,Gone,1QfJwbwcWUHheqVo3yRfpd,0.703,0.848,0,-5.41,1,0.0363,0.000248,0.358,0.502,138.033,178495,4,Spotify,Dance Classics,Public 17
+Paul Oakenfold,25 Years Of Perfecto Records (Mixed by Paul Oakenfold),Cafe Del Mar - Radio Edit,4LIbYKwuUBMKmqyZZC7XVg,0.509,0.904,0,-7.045,1,0.0405,0.843,0.653,0.153,132.009,270965,4,Spotify,Dance Classics,Public 17
+The Shapeshifters,Lola's Theme,Lola's Theme - Radio Edit,2o7V26rsF1ukcRI005S0LL,0.739,0.663,5,-10.396,0,0.0458,0.000694,0.136,0.736,123.928,205107,4,Spotify,Dance Classics,Public 17
+Freemasons,Believer (feat. Wynter Gordon) [Club Mixes],Believer (feat. Wynter Gordon) - Radio Edit,56kdmEz12GpKkEzxhtHdl7,0.662,0.881,5,-4.202,0,0.0357,0.000825,0.132,0.732,126.986,189388,4,Spotify,Dance Classics,Public 17
+Axwell,Together,Together - Radio Edit,4PQCrz4sk00dIEmkwmmJCr,0.64,0.939,4,-6.844,1,0.0463,0.483,0.0867,0.311,126.036,211533,4,Spotify,Dance Classics,Public 17
+Various Artists,Basement Boys Anthology,Gypsy Woman,2jBQYMPjY0UspZAVyYPRUG,0.774,0.7,0,-9.332,1,0.0375,0.196,0.0719,0.22,119.98,581227,4,Spotify,Dance Classics,Public 17
+Dirty South,It's Too Late,It's Too Late - Dirty South Radio Edit,2WMur8xCATjMHLgpPHdosc,0.648,0.691,8,-8.917,0,0.0386,0.00441,0.126,0.389,130.014,181230,4,Spotify,Dance Classics,Public 17
+David Guetta,Pop Life,Everytime We Touch (with Steve Angello & Sebastian Ingrosso),7nuPjNAEL3qcEUcZre7rJF,0.708,0.471,9,-7.667,1,0.0354,0.00839,0.179,0.356,125.019,220640,4,Spotify,Dance Classics,Public 17
+Tiësto,Just Be,Just Be,6SDy0CHEvHB591MeizBrqY,0.62,0.832,9,-9.651,0,0.0335,0.438,0.128,0.39,134.959,524933,4,Spotify,Dance Classics,Public 17
+The Mackenzie,I Am Free,I Am Free - Radio Edit,1cSOchpDSHvJjtBHLVrxT1,0.73,0.719,0,-13.856,1,0.0369,0.719,0.109,0.144,139.876,207067,4,Spotify,Dance Classics,Public 17
+UMEK,Army Of Two,Army Of Two - Radio Version,4HolTVfZ37wQTg0eO29J3k,0.83,0.676,0,-9.153,0,0.069,0.935,0.283,0.602,128.042,187500,4,Spotify,Dance Classics,Public 17
+Various Artists,Worldwide Dance Hits,Another Place,6FrchQ8NDHUI8ucAvz5zha,0.398,0.827,6,-5.41,0,0.05,0.00703,0.682,0.41,127.975,217500,4,Spotify,Dance Classics,Public 17
+Sébastien Léger,"Carry Me Away , Pt. 1",Carry Me Away (feat. Emma Hewitt) - Radio Edit,3vVdNuzFHL0hmT8Xq4vbhY,0.698,0.897,0,-7.583,1,0.0608,0.396,0.671,0.387,126.014,205920,4,Spotify,Dance Classics,Public 17
+Kim Sozzi,Feel Your Love,Feel Your Love - Radio Edit with Intro,3gB5UMJqzC8Mt6ZBvGH8sP,0.555,0.783,10,-5.593,0,0.0433,0.000501,0.359,0.614,129.954,200187,4,Spotify,Dance Classics,Public 17
+Flanders,Behind,Behind - Callea Radio Mix,58ma0p0GQqxfbe5vNFraUs,0.685,0.615,3,-8.146,0,0.0539,5.64e-05,0.0838,0.167,125.988,220238,4,Spotify,Dance Classics,Public 17
+DJ Mog Feat Sarah Lynn,Somewhere (feat. Sarah Lynn),Somewhere (feat. Sarah Lynn) - Radio Edit,35cYPqBXqob7yitjk4Cx3M,0.418,0.724,4,-8.32,0,0.0386,0.0019,0.129,0.526,127.908,235867,3,Spotify,Dance Classics,Public 17
+Ferry Corsten,L.E.F.,Fire,1lJUIg0FtOqApq4XPQqjrk,0.504,0.77,10,-9.047,1,0.0252,0.798,0.0943,0.694,132.022,271587,4,Spotify,Dance Classics,Public 17
+Ercola Feat Daniella,Every Word,Every Word (feat. Daniella) - Wendel Kos Radio Edit,0X7ELV6fLyjynJ3MexWh4X,0.65,0.967,9,-5.674,1,0.13,0.19,0.779,0.319,127.995,213173,4,Spotify,Dance Classics,Public 17
+Alter Ego,Transphormer,Rocker,4oNm4AlbUo8XEDayfLxoup,0.689,0.456,7,-7.558,0,0.0632,0.57,0.0823,0.575,129.97,288053,4,Spotify,Dance Classics,Public 17
+Robbie Rivera,Girlfriend 2008,Girlfriend - 2008 Remix,71kHGcF4NcAqKUopKqdtm7,0.781,0.536,10,-5.228,1,0.0543,0.667,0.0643,0.282,129.997,437538,4,Spotify,Dance Classics,Public 17
+Gregor Salto,Toys Are Nuts Remixes,Toys Are Nuts - Hardwell & Rehab Remix,7fvkfIQ4AsdNxDd45yR02F,0.736,0.812,1,-8.153,1,0.244,0.88,0.638,0.379,127.945,306000,4,Spotify,Dance Classics,Public 17
+Fedde Le Grand,Put Your Hands Up For Detroit,Put Your Hands Up For Detroit - Club Mix,3fbGgsysR0OKzsdr20HD4T,0.908,0.931,1,-5.93,1,0.174,0.798,0.0626,0.265,128.016,393333,4,Spotify,Dance Classics,Public 17
+Various Artists,Ultra Weekend 5 (Jason Nevins Presents),Infinity - Klaas Vocal Mix,6ZTdvFWrzZc7CUEaVV0NmO,0.556,0.883,7,-5.046,0,0.0718,0.0252,0.272,0.49,128.109,226480,4,Spotify,Dance Classics,Public 17
+Morgan Page,Fight For You,Fight For You - Sultan & Ned Shephard Remix Radio Edit,2YdJ7ZnaXUMZcGe46eCiER,0.64,0.952,7,-5.645,0,0.059,0.00276,0.163,0.284,127.941,236707,4,Spotify,Dance Classics,Public 17
+Kaskade,Sorry,Sorry - Dirty South Radio Edit,0t2xiLKPyfwxpuwmTKaiZ3,0.704,0.807,0,-7.292,1,0.0746,0.00924,0.301,0.588,127.039,210000,4,Spotify,Dance Classics,Public 17
+Ron Reeser,Everything,Everything - Radio Edit,42bWEclg5KT9KUbJYblSR5,0.742,0.876,3,-5.394,0,0.0641,0.0,0.338,0.466,128.032,228501,4,Spotify,Dance Classics,Public 17
+Various Artists,Vocal Trance Hits - The Anthems,Find Yourself,3pVwawYlhHg9cLKWpeaN3l,0.567,0.599,7,-5.616,1,0.0305,0.000315,0.168,0.366,134.98,151621,4,Spotify,Dance Classics,Public 17
+M'Black,Heartbreak,Heartbreak - Radio Edit,2D7KdXI212C2evy5hh1tI5,0.482,0.831,4,-4.611,0,0.117,0.0,0.121,0.46,128.079,221493,4,Spotify,Dance Classics,Public 17
+Traffic Signs,I Like Your Booty / The Big Fake,The Big Fake,67nOnSiH1QRUiYihmLBmwI,0.812,0.696,9,-11.057,1,0.0629,0.939,0.127,0.331,124.95,384734,4,Spotify,Dance Classics,Public 17
+Paul van Dyk,For An Angel,For An Angel - Radio Mix 09,3Gm5H7qzEctu0lDt2a4Kdt,0.595,0.833,7,-6.761,1,0.034,0.868,0.0763,0.554,132.007,181818,4,Spotify,Dance Classics,Public 17
+Various Artists,"50 Trance Tunes, Vol. 28",Tracking Treasure Down,65UKBA32AVBzthOGP62D2U,0.561,0.766,8,-5.058,0,0.0478,0.000117,0.141,0.28,135.075,189067,4,Spotify,Dance Classics,Public 17
+AnnaGrace,Ready to Dare,You Make Me Feel,5yjKR9RIBWixx9Cjz6FUft,0.753,0.844,11,-6.053,1,0.0446,0.00467,0.34,0.825,130.022,186586,4,Spotify,Dance Classics,Public 17
+The Chemical Brothers,Further,Swoon,2drOnGxH4NvagDjre7GXCd,0.492,0.773,2,-5.845,0,0.0369,0.835,0.305,0.197,123.974,365080,4,Spotify,Dance Classics,Public 17
+Kaskade,Strobelite Seduction,Step One Two,13qQorfXRk2aktlkK1WUXj,0.741,0.762,11,-7.005,0,0.0464,0.0146,0.113,0.561,127.976,200320,4,Spotify,Dance Classics,Public 17
+Ferry Corsten,L.E.F.,Beautiful,3BBioBvGxikn3mVT2hhrEm,0.504,0.856,7,-10.508,1,0.042,0.277,0.121,0.404,134.999,354613,4,Spotify,Dance Classics,Public 17
+JES,Disconnect (Platinum Edition),Imagination - Tiësto Radio Edit,091jue13VJFSl0OAJG6BJH,0.58,0.92,1,-5.026,0,0.0521,0.00497,0.327,0.476,135.015,225400,4,Spotify,Dance Classics,Public 17
+Various Artists,Nervous Rewind 2008,Only One (Radio Edit),1Dj7hbBEco5ZT0DqY7Q2IV,0.683,0.678,9,-6.756,1,0.0332,2.27e-05,0.822,0.45,126.988,160627,4,Spotify,Dance Classics,Public 17

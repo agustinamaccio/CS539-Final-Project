@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Meadow Park,Without A Song,Without A Song,1nsMASRDWwUwlBMmOuh80d,0.475,0.138,5,-17.099,0,0.0424,0.884,0.0971,0.123,118.338,236785,4,Spotify,Jazz in the Background,Public 12
+Madeleine West,Sometime Ago,Sometime Ago,6HZgxhesyOy8jkTiAFfQmR,0.538,0.14,9,-17.368,0,0.0393,0.893,0.324,0.195,86.259,160919,3,Spotify,Jazz in the Background,Public 12
+Al Fowler Trio,Prelude To A Kiss,Prelude To A Kiss,4Csbgu7LMDGPLjhPgHfQmZ,0.629,0.152,9,-18.659,0,0.04,0.904,0.109,0.0966,116.833,275743,4,Spotify,Jazz in the Background,Public 12
+Mayfare Trio,Autumn In New York,Autumn In New York,62FrtiVepyS9UGfcTPhu7W,0.546,0.152,7,-17.08,0,0.0368,0.931,0.3,0.144,124.562,259680,4,Spotify,Jazz in the Background,Public 12
+Magpie Jazz Trio,Love To Be Happy,Love To Be Happy,3wMe1lySKxJeH9iMWXDqgx,0.466,0.0718,6,-19.581,1,0.0336,0.916,0.11,0.214,105.252,195276,4,Spotify,Jazz in the Background,Public 12
+Garry Cooper Trio,My Fortune,My Fortune,0jXPKgpfyYXEWNHVBSCJ4P,0.401,0.156,1,-16.993,1,0.0473,0.881,0.121,0.198,117.411,271128,4,Spotify,Jazz in the Background,Public 12
+Norris Walker Trio,In The Normal World,In The Normal World,1ZmQ6hnTsXicbT8DnOmdBi,0.463,0.0917,0,-17.759,1,0.0402,0.973,0.0952,0.0909,80.902,220728,4,Spotify,Jazz in the Background,Public 12
+Hara Noda,The Beauty of Everyday Things,The Beauty of Everyday Things,3jiTehDiPwfIxr9MHfPUvb,0.643,0.28,10,-13.774,1,0.0332,0.867,0.107,0.0865,108.046,203097,4,Spotify,Jazz in the Background,Public 12
+Gottfried Barber Trio,What A Little Moonlight Can Do,What A Little Moonlight Can Do,33sW1w6GqKgSolhokSdhpd,0.335,0.203,8,-16.864,1,0.0331,0.94,0.201,0.202,173.515,153061,3,Spotify,Jazz in the Background,Public 12
+Michael Stylez & Co,Love Will Last Forever,Love Will Last Forever,3AqqDd9zm7ZG8AFaveWYIm,0.576,0.0928,5,-18.404,1,0.0343,0.745,0.0937,0.155,103.03,215918,4,Spotify,Jazz in the Background,Public 12
+6th Street Jazz,Lola and Kirby,Like Jazz or Something,3DQ9gWQyeGFpQeURdSEXik,0.419,0.19,0,-17.842,0,0.0303,0.939,0.111,0.15,102.025,205333,4,Spotify,Jazz in the Background,Public 12
+Mandevilla,Views Of Dawn,Views Of Dawn,3XCyhZ9xWZyF1Rn9lZJqCZ,0.599,0.153,0,-17.978,1,0.0402,0.846,0.103,0.0682,67.423,293750,4,Spotify,Jazz in the Background,Public 12
+Piper Williamson,Black Ice,Black Ice,2vLmNEKsbw9sjl7PFzmar3,0.48,0.122,10,-17.03,0,0.0412,0.472,0.107,0.166,101.985,228629,4,Spotify,Jazz in the Background,Public 12
+Three Four Trio,A Simple Book,Evening Silence,3ObWIAbtVhxTPguDsHT9vf,0.432,0.137,8,-16.853,1,0.0318,0.906,0.121,0.111,89.117,267893,4,Spotify,Jazz in the Background,Public 12
+William Adams,Witchcraft,Witchcraft,66aAqXbtPixOM1WDoEuhHb,0.403,0.112,5,-18.53,1,0.0335,0.935,0.0933,0.13,84.813,182995,3,Spotify,Jazz in the Background,Public 12
+Sodermalm Strand,Someone Elses Love,Someone Elses Love,0NVDCHyEn5eLwfcxx2QFC6,0.576,0.121,7,-18.888,0,0.041,0.667,0.102,0.125,105.872,223525,4,Spotify,Jazz in the Background,Public 12
+Bill Charlap Trio,Street Of Dreams,Day Dream,5Smmg9SpxnawbuYPKSNcmx,0.432,0.0951,1,-23.511,1,0.0388,0.89,0.117,0.093,100.265,373840,4,Spotify,Jazz in the Background,Public 12
+Rudy Winston,The Very Thought Of You,The Very Thought Of You,5QTHfZ4IKRREnuK7LKwoZS,0.515,0.132,5,-18.161,0,0.0372,0.939,0.109,0.143,48.731,244579,4,Spotify,Jazz in the Background,Public 12
+Herman Fred Trio,Small Steps,Small Steps,4OpfAngpSybDsNk7TTaO1B,0.611,0.0705,10,-22.523,1,0.0446,0.94,0.103,0.156,118.028,212364,4,Spotify,Jazz in the Background,Public 12
+Wildflower Trio,The Wind,The Wind,3ssyhOkzW2tfNCiR7qihx4,0.609,0.162,3,-17.65,1,0.0375,0.791,0.112,0.123,106.051,237679,4,Spotify,Jazz in the Background,Public 12
+Gene Hart Trio,I'm Glad There's You,Pensativa,1QVNZXoguyS3bBzMldMn7i,0.503,0.148,9,-18.948,0,0.0453,0.817,0.111,0.0585,118.315,287480,4,Spotify,Jazz in the Background,Public 12
+The Collective,All My Love,All My Love,7ncpKFg4IUzVIjnSPTD98y,0.365,0.13,4,-16.568,0,0.0425,0.867,0.0942,0.216,77.683,238114,3,Spotify,Jazz in the Background,Public 12
+John B. Stewart,In A Sentimental Mood,In A Sentimental Mood,0GLnrfMwiuJEqeb6IDsUMO,0.438,0.144,2,-16.114,0,0.0365,0.718,0.0916,0.379,101.439,242623,4,Spotify,Jazz in the Background,Public 12
+Pimm's Trio,Miles and Miles,Miles and Miles,6EjkHR4gYfNQjWwoyiCTbh,0.456,0.194,5,-16.661,0,0.0359,0.948,0.111,0.0957,112.755,271278,4,Spotify,Jazz in the Background,Public 12
+Moonside Trio,Sweet Apple,Juliana,54qfiHthTAtNrhaW7mT9tS,0.523,0.18,10,-17.033,0,0.0343,0.945,0.0967,0.0606,110.313,220450,4,Spotify,Jazz in the Background,Public 12
+The Headliner Trio,As Time Goes By,As Time Goes By,2FgLhm6EwB0Ix8XLHABFkC,0.631,0.167,0,-16.305,0,0.0408,0.919,0.119,0.196,127.529,250541,4,Spotify,Jazz in the Background,Public 12
+Trio Del Norte,Early Morning Thoughts,Early Morning Thoughts,4QUlDSxJVMTYKaz3xBQ8F9,0.457,0.141,6,-18.76,1,0.0357,0.905,0.105,0.0922,93.872,404107,4,Spotify,Jazz in the Background,Public 12
+Andy Goodman,Nimble,Nimble,1zu9xkOabMyxkXvGutY0Tf,0.409,0.183,5,-12.934,0,0.0426,0.163,0.0964,0.256,162.262,213750,3,Spotify,Jazz in the Background,Public 12
+Andy Luma Trio,Follow Me Till the End of Time,Follow Me Till the End of Time,52nDbEu1rxpAIjy3h00Wfo,0.579,0.125,0,-17.38,1,0.0426,0.947,0.0957,0.24,112.917,178822,4,Spotify,Jazz in the Background,Public 12
+Lee Davis,Windless Waters,Windless Waters,7FMsiew09v6ICDI5MU1Jc5,0.376,0.0945,2,-21.011,1,0.0346,0.933,0.142,0.14,101.631,210508,4,Spotify,Jazz in the Background,Public 12
+Jaden Berry,Bewitched,Bewitched,7va480wmDj33F0PRpINgkD,0.322,0.152,8,-16.765,1,0.0388,0.899,0.127,0.203,177.73,207206,3,Spotify,Jazz in the Background,Public 12
+Karl-Erik Trio,I Still Think of Us,I Still Think of Us,6NGBhgNVFaqrzGgZH0h9pl,0.436,0.208,7,-17.502,0,0.043,0.938,0.187,0.144,126.475,179506,4,Spotify,Jazz in the Background,Public 12
+Flatland Park,Bring Some Lovin',Bring Some Lovin',0V3X52LW5ERZOOWS8HnJjr,0.505,0.166,0,-17.446,1,0.0361,0.915,0.0794,0.187,61.558,189477,4,Spotify,Jazz in the Background,Public 12
+Felix McCoy Quartet,The Boy Next Door,The Boy Next Door,0A3gD0jTXt9p3Nnc8cCUsI,0.342,0.202,10,-16.265,1,0.0415,0.67,0.119,0.292,56.378,190980,3,Spotify,Jazz in the Background,Public 12
+Carlton Maison Quartet,W 52nd Street,W 52nd Street,37UFqtGPmHXElXarXjFtn5,0.504,0.199,0,-14.996,1,0.0411,0.878,0.106,0.248,118.596,223617,4,Spotify,Jazz in the Background,Public 12
+Green Trio,Little Bell,Little Bell,1AQHHWxWaCZrMsqrdDTNng,0.561,0.133,2,-16.71,0,0.0436,0.938,0.135,0.181,110.493,210960,4,Spotify,Jazz in the Background,Public 12
+Dee Burton,What A Difference A Day Makes,What A Difference A Day Makes,38c3Ad0TqWEwnUPH2NdTWm,0.523,0.119,0,-17.945,0,0.0367,0.918,0.089,0.224,98.137,246745,3,Spotify,Jazz in the Background,Public 12
+Courtney Salas Group,Constantly Changing,Constantly Changing,51mO5KysnUohGZS49sH3OM,0.509,0.154,1,-18.927,1,0.041,0.936,0.115,0.241,121.049,197273,4,Spotify,Jazz in the Background,Public 12
+Gottfried Barber Trio,Hometown Again,Hometown Again,5ElOUNrMJQYJu9VmTivrAn,0.414,0.154,0,-17.81,1,0.0442,0.892,0.107,0.119,117.049,275960,4,Spotify,Jazz in the Background,Public 12
+Jean-Baptiste Rees,Crystal Blue,Crystal Blue,2xlbRcpwbECTrkzRD975lb,0.486,0.174,8,-15.54,1,0.0382,0.983,0.105,0.237,118.207,168774,4,Spotify,Jazz in the Background,Public 12
+Kristian Hart Trio,When We Were Young,When We Were Young,509DJTmdSrynAqzm5c1m3K,0.479,0.224,8,-17.95,1,0.0353,0.968,0.138,0.278,94.031,179825,3,Spotify,Jazz in the Background,Public 12
+Neil Chapman Green,Witness of Love,Witness of Love,7zqAzOXMRtmlf0GQBtRDqJ,0.535,0.204,10,-18.598,1,0.0342,0.856,0.0998,0.137,109.313,200721,3,Spotify,Jazz in the Background,Public 12
+Clover Post,A Knock On The Door,A Knock On The Door,1lKkIBFCcsUOG14fPmvbhw,0.488,0.155,0,-17.297,1,0.0388,0.944,0.0997,0.114,82.002,207915,3,Spotify,Jazz in the Background,Public 12
+Tim Franks Trio,Windows,Windows,7k8NabcxMk5x0Mro6nfm29,0.499,0.213,8,-16.067,0,0.0392,0.913,0.113,0.151,146.315,267747,3,Spotify,Jazz in the Background,Public 12
+Tore Lundblad,A Few Odd Jobs,A Few Odd Jobs,3iqhWCI6anGEfsGuHgTOCm,0.352,0.233,0,-15.868,0,0.0405,0.924,0.0966,0.159,113.895,192808,4,Spotify,Jazz in the Background,Public 12
+Carla Anderson,Amble,Amble,5mqn7zmKnNjHvmsg1OSgnq,0.402,0.144,8,-16.281,1,0.0403,0.177,0.128,0.209,168.293,252843,3,Spotify,Jazz in the Background,Public 12
+Foster Davies,Tell Me,Tell Me,05VtTtYxedMwnMJiysMpJW,0.534,0.122,5,-20.22,1,0.0325,0.599,0.0932,0.0808,97.06,264127,4,Spotify,Jazz in the Background,Public 12
+Jon Belle,Here's That Rainy Day,Here's That Rainy Day,4LNApTGS4bL5DrTEKMiyTH,0.546,0.1,7,-18.472,1,0.0431,0.923,0.115,0.23,96.902,249398,3,Spotify,Jazz in the Background,Public 12
+Astoria Three,Life In The Deepest Blue,Life In The Deepest Blue,7xVV4ujd2zDDJeyxcBR4i0,0.474,0.125,9,-18.888,1,0.0346,0.913,0.105,0.155,94.863,173835,4,Spotify,Jazz in the Background,Public 12
+Midtown Trio,Clear Sight,Clear Sight,6LLyyfz8BYrHtd3yPkrPad,0.576,0.127,10,-16.564,1,0.0376,0.915,0.196,0.169,77.629,167114,3,Spotify,Jazz in the Background,Public 12
+Bill Walton,A Sleepin' Bee,A Sleepin' Bee,6JbvbDMUh0X2seQPxx0Y2n,0.408,0.119,8,-18.142,1,0.0514,0.69,0.303,0.159,63.079,222228,4,Spotify,Jazz in the Background,Public 12
+Willowdale,Pristine,Pristine,4wZIBxMTZYbSGzWEAqIwKF,0.471,0.13,10,-15.769,0,0.0382,0.0024,0.13,0.223,115.133,236725,4,Spotify,Jazz in the Background,Public 12
+The Central Park North,For Theodora,For Theodora,782yLVaT5RonpqxonaqbNu,0.405,0.16,5,-15.782,1,0.0419,0.89,0.0953,0.202,120.531,188355,4,Spotify,Jazz in the Background,Public 12
+Benjamine Leroy Quartet,Could It Be You,Could It Be You,0g27tgo8UmdZBECgdglKi6,0.551,0.178,10,-14.976,1,0.0302,0.923,0.113,0.305,83.456,222844,3,Spotify,Jazz in the Background,Public 12
+Grace Carey,Alice In Wonderland,Alice In Wonderland,3I7ITtodK56QgpwLT7bMd2,0.46,0.0879,0,-18.601,1,0.0389,0.821,0.354,0.227,75.114,244946,3,Spotify,Jazz in the Background,Public 12
+John B. Stewart,You're My Everything,You're My Everything,6PQTALunXWR81WZE5IjCzq,0.537,0.151,9,-16.416,0,0.0321,0.761,0.0954,0.234,112.706,219486,4,Spotify,Jazz in the Background,Public 12
+CMC 3,Autumn Once Again,Autumn Once Again,3FFYuymUtI8DihGhLMHggW,0.529,0.147,7,-17.834,1,0.0442,0.936,0.35,0.0665,114.08,284439,4,Spotify,Jazz in the Background,Public 12
+Martin Landström,Maze of Tranquility,Maze of Tranquility,06henIQqvVk2vAKj1yQtTp,0.488,0.134,7,-17.904,1,0.0327,0.219,0.0826,0.0507,112.892,262708,4,Spotify,Jazz in the Background,Public 12
+Kristian Hart Trio,When We Were Young,Waltz For Ola,01Lv5YnZl96AjZju2KWu63,0.526,0.11,10,-16.949,0,0.0407,0.971,0.127,0.286,89.346,134488,3,Spotify,Jazz in the Background,Public 12
+Eddie Harper,Déjà vu,Déjà vu,4LJuCbx2qKSBOK3xpuZ2Pq,0.414,0.125,3,-16.162,1,0.0339,0.865,0.306,0.13,107.612,228595,4,Spotify,Jazz in the Background,Public 12
+Norris Walker Trio,Mancuso's Joint,Mancuso's Joint,5bVT6a3fLBhW0969fn40lo,0.409,0.192,7,-18.611,0,0.0422,0.93,0.0978,0.109,121.079,258837,4,Spotify,Jazz in the Background,Public 12
+Motor City Trio,Tap on my Door,Tap on my Door,4ezJCCD1FWm2VcCH8HM3zA,0.404,0.176,5,-16.281,1,0.0412,0.919,0.0862,0.199,78.666,214504,4,Spotify,Jazz in the Background,Public 12
+Bill Parker,It's Always You,It's Always You,2i7sJAA8we9WPS4TzDazRQ,0.438,0.259,10,-16.151,0,0.0574,0.604,0.367,0.209,75.416,219000,4,Spotify,Jazz in the Background,Public 12
+Nouveau Jazz Trio,Sweet And Lovely,Sweet And Lovely,2CWgW8oWE5Ec1CvMvawwQ6,0.501,0.116,5,-17.453,1,0.0385,0.943,0.28,0.194,129.83,184992,4,Spotify,Jazz in the Background,Public 12
+Magpie Jazz Trio,Love To Be Happy,Crystal City,4QyN9jRW7fg9JDr3qFpz62,0.35,0.133,9,-19.343,1,0.0286,0.95,0.158,0.164,101.231,178523,4,Spotify,Jazz in the Background,Public 12
+The Uptown Players,Solitude,Solitude,3UeNIqq0ujRBtJOrqxJcMj,0.427,0.0841,5,-20.033,0,0.0319,0.962,0.0995,0.159,105.973,150598,4,Spotify,Jazz in the Background,Public 12
+The Sweetgreens,All Or Nothing At All,All Or Nothing At All,4F7ntTleUNgTm6FBTcxgoP,0.501,0.156,2,-16.696,0,0.0359,0.871,0.0857,0.176,115.044,228542,4,Spotify,Jazz in the Background,Public 12
+Long Island Quartet,Northwood Hills,Northwood Hills,1V67XyPGFveCOfgSCkyJkV,0.47,0.201,1,-15.96,0,0.0335,0.919,0.111,0.226,115.444,194001,4,Spotify,Jazz in the Background,Public 12
+Mike Coen,Easy To Love,Easy To Love,5p5CfayA88AVKc76DcwK5e,0.396,0.169,9,-19.164,0,0.0382,0.94,0.137,0.126,177.236,203480,3,Spotify,Jazz in the Background,Public 12
+Charlie Regan Three,More Than You Know,More Than You Know,3AyHmUPu0wL0jKCxAkMALo,0.418,0.14,0,-17.924,1,0.0409,0.886,0.123,0.149,120.69,261895,4,Spotify,Jazz in the Background,Public 12
+Reuben Plays,You Left Your Mark On Me,You Left Your Mark On Me,5sIXcPEq8AfCiwIWBJakA7,0.396,0.185,5,-18.038,1,0.0379,0.922,0.115,0.0946,116.779,224216,4,Spotify,Jazz in the Background,Public 12
+Mark Roswell Trio,Stars Fell On Alabama,Stars Fell On Alabama,6V9XxCoJ9Ujckla3A0aUYL,0.578,0.131,0,-17.228,1,0.042,0.855,0.342,0.15,131.994,244915,4,Spotify,Jazz in the Background,Public 12
+Astoria Three,Blue Room,Blue Room,5zKKV21UiQK7lSLEZCm7NS,0.425,0.194,5,-17.149,1,0.0384,0.88,0.123,0.339,100.582,158481,4,Spotify,Jazz in the Background,Public 12
+The Jazz Cultivators,Long Ago And Far Away,Long Ago And Far Away,4E8iJLPtZiIHvquh0rf0f5,0.555,0.203,5,-15.877,1,0.0493,0.888,0.306,0.222,59.177,205377,4,Spotify,Jazz in the Background,Public 12
+Cecil Andrews,Nancy (WIth The Laughing Face),Nancy (WIth The Laughing Face),7jQriEubeC9KTClyfJtthT,0.574,0.137,0,-16.285,0,0.0365,0.927,0.132,0.152,130.654,245041,4,Spotify,Jazz in the Background,Public 12
+Lennie Weston,Quietude,Quietude,5AEe4vHNK8A1nkaxcAUD82,0.386,0.0576,3,-24.843,1,0.0342,0.958,0.1,0.128,61.697,254000,4,Spotify,Jazz in the Background,Public 12
+Lachlan Wright Trio,The Flow of Your Way,You're Just Full of Inspiration,2Y79E6uTFHlZWhF6m2tYyO,0.334,0.157,2,-18.238,1,0.0349,0.905,0.158,0.203,173.995,144573,3,Spotify,Jazz in the Background,Public 12
+Piper Williamson,Eternal Maze,I Will Wait For You,6oKlgwa71syBWyiFyGdmkR,0.54,0.176,2,-14.678,0,0.0383,0.0187,0.139,0.279,109.727,239003,4,Spotify,Jazz in the Background,Public 12
+Urskogen Jazz,Moonrays,Moonrays,6akhlCuFUh7zxQ1UnEjZaK,0.478,0.0815,10,-19.1,1,0.0411,0.893,0.143,0.143,115.732,168742,4,Spotify,Jazz in the Background,Public 12
+Loft Trio,Midday Walk,Midday Walk,1rgG63Kci1aVlCCxFjQ4ci,0.456,0.141,2,-16.493,1,0.0422,0.87,0.117,0.112,74.205,211348,3,Spotify,Jazz in the Background,Public 12
+Eric Rowland,I Got It Bad,I Got It Bad,7mAaoHCzBBjj3tYb1l25OH,0.544,0.129,4,-18.747,0,0.0373,0.802,0.0968,0.121,116.863,266768,4,Spotify,Jazz in the Background,Public 12
+Old Town Trio,Don't Go To Strangers,Don't Go To Strangers,5n3Fi4f7VJyQQrFlfA9F9f,0.51,0.134,7,-19.383,1,0.0334,0.956,0.375,0.182,98.751,242168,4,Spotify,Jazz in the Background,Public 12
+Alec Taylor Trio,I Remember You,I Remember You,1k2KhAnHidiCUsTyOiJtr2,0.472,0.137,5,-17.511,1,0.0373,0.916,0.111,0.15,98.095,182027,4,Spotify,Jazz in the Background,Public 12
+Jonas Olofsson,Never Let Me Go,Never Let Me Go,2ymdJ1hcMKjzuWHek3ym3U,0.591,0.16,8,-16.039,1,0.0387,0.88,0.375,0.0791,112.317,176938,4,Spotify,Jazz in the Background,Public 12
+The Blue Green,It's You Or No One,It's You Or No One,3CewMyxVNsiu94v6Vm0SS2,0.52,0.157,7,-19.608,0,0.0419,0.914,0.185,0.134,118.252,214799,4,Spotify,Jazz in the Background,Public 12
+James Jackson Jazz Trio,I Dream of a Sound,Thoughtful Proposal,4upT0MOhQioDcN2eX2fScs,0.408,0.103,8,-18.356,1,0.0315,0.843,0.0999,0.125,81.916,194771,4,Spotify,Jazz in the Background,Public 12
+We Three Trio,Focus,Focus,2FMEXHtflVVAZqvBx1TvIL,0.529,0.127,4,-15.468,1,0.0431,0.816,0.0856,0.153,115.575,167483,4,Spotify,Jazz in the Background,Public 12
+Tribute Trio,These Foolish Things,These Foolish Things,73LXSkZdpjWC4XUDTju8LK,0.449,0.142,10,-18.201,1,0.0421,0.914,0.111,0.131,112.211,290710,4,Spotify,Jazz in the Background,Public 12
+Louie Hobbs Trio,Down the Pawn Shop,Down the Pawn Shop,1WmMwuEQqOM3VU7aQghrFI,0.294,0.233,8,-18.092,1,0.0425,0.908,0.145,0.128,171.241,206078,3,Spotify,Jazz in the Background,Public 12
+Reuben Plays,Polkadots And Moonbeams,Polkadots And Moonbeams,1zXfSEEkoSsMNuoUSre4R5,0.474,0.172,5,-16.617,1,0.037,0.949,0.106,0.116,113.353,222558,4,Spotify,Jazz in the Background,Public 12
+Annie Berenson,Railroads,Railroads,5psq4yZ6YgYMIWoBRbHyAJ,0.51,0.187,9,-16.762,0,0.0393,0.956,0.0956,0.203,113.673,210487,4,Spotify,Jazz in the Background,Public 12
+James Jackson Jazz Trio,Stars in Your Eyes,Stillness is a Gift,4cPz5Fm127FenLUfTJ6G2l,0.488,0.155,1,-16.736,1,0.0341,0.799,0.11,0.132,96.262,255897,3,Spotify,Jazz in the Background,Public 12
+Eduard Landings,After Hours,After Hours,3RoPN08vWMKxViEhdoqeuW,0.548,0.184,2,-14.006,0,0.0493,0.031,0.136,0.351,117.85,212795,4,Spotify,Jazz in the Background,Public 12
+Japari Park,I Still See You In My Dreams,I Still See You In My Dreams,0zBUB6TUdZNOeWrQphEP6J,0.417,0.158,7,-15.212,0,0.0354,0.555,0.0749,0.0794,119.304,197472,4,Spotify,Jazz in the Background,Public 12
+Hermie,A Time For Love,A Time For Love,5hlXjAmHmvbLNR169UW394,0.53,0.155,10,-13.298,1,0.0442,0.000609,0.125,0.22,132.825,228750,3,Spotify,Jazz in the Background,Public 12
+Benjamine Leroy Quartet,Poor Butterfly,Poor Butterfly,2vyuIth7SkLbbfx0wX8KsC,0.508,0.199,8,-14.856,1,0.0334,0.728,0.103,0.159,130.979,216861,4,Spotify,Jazz in the Background,Public 12
+Wendy Marcini,October Blue,Bring Me Yesterday,0jGhhONiu7NOpOqrnTBh8d,0.572,0.166,9,-18.533,0,0.0315,0.573,0.119,0.073,107.749,203082,4,Spotify,Jazz in the Background,Public 12
+Bladverk Band,Varenne,Varenne,3KPiGdRDaJHCQcuv3m7PG8,0.437,0.0872,10,-18.543,1,0.0392,0.749,0.176,0.188,50.415,224327,4,Spotify,Jazz in the Background,Public 12
+Odo Lefebvre,The Night We Called It A Day,The Night We Called It A Day,6ltEJhAuJ2ofBl63qbHVN0,0.522,0.255,7,-15.862,1,0.031,0.819,0.115,0.255,77.563,212994,4,Spotify,Jazz in the Background,Public 12
+Carla Anderson,Silent Thunder,Silent Thunder,6yY6hRz9VNEhaRyWEHTezV,0.439,0.172,2,-14.971,1,0.0365,0.162,0.371,0.158,98.688,279750,4,Spotify,Jazz in the Background,Public 12

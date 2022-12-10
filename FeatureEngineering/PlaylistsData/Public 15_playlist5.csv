@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+The Beatles,Abbey Road (Remastered),Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,0.557,0.54,9,-10.484,1,0.0347,0.00248,0.179,0.394,129.171,185733,4,Spotify,Classic Acoustic,Public 15
+George Harrison,All Things Must Pass (Remastered 2014),My Sweet Lord - Remastered 2014,0qdQUeKVyevrbKhAo0ibxS,0.537,0.701,1,-8.913,0,0.0335,0.0,0.0832,0.583,120.919,281227,4,Spotify,Classic Acoustic,Public 15
+Elton John,Honky Chateau,"Rocket Man (I Think It's Going To Be A Long, Long Time)",3gdewACMIVMEWVbyb8O9sY,0.601,0.532,10,-9.119,1,0.0286,6.25e-06,0.0925,0.341,136.571,281613,4,Spotify,Classic Acoustic,Public 15
+John Lennon,Imagine,Imagine - Remastered 2010,7pKfPomDEeI4TPT6EOYjn9,0.547,0.257,0,-12.358,1,0.0252,0.183,0.0935,0.169,75.752,187867,4,Spotify,Classic Acoustic,Public 15
+Eagles,Eagles (2013 Remaster),Take It Easy - 2013 Remaster,4yugZvBYaoREkJKtbG08Qr,0.575,0.67,7,-10.39,1,0.0318,4.95e-06,0.129,0.74,139.191,211578,4,Spotify,Classic Acoustic,Public 15
+Fleetwood Mac,Fleetwood Mac,Landslide,5ihS6UUlyQAfmp48eSkxuQ,0.414,0.161,7,-22.32,0,0.0318,0.000223,0.117,0.423,159.375,199493,4,Spotify,Classic Acoustic,Public 15
+Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Wild World,7mjSHL2Eb0kAwiKbvNNyD9,0.48,0.542,0,-8.51,1,0.0348,0.000609,0.113,0.567,152.853,200560,4,Spotify,Classic Acoustic,Public 15
+Pink Floyd,Wish You Were Here,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,1,0.0414,0.0114,0.832,0.375,122.861,334744,4,Spotify,Classic Acoustic,Public 15
+U2,Achtung Baby (Deluxe Edition),One,3G69vJMWsX6ZohTykad2AU,0.392,0.534,0,-8.793,1,0.0369,0.00104,0.155,0.325,181.305,276187,4,Spotify,Classic Acoustic,Public 15
+America,America,A Horse with No Name,54eZmuggBFJbV7k248bTTt,0.654,0.506,11,-17.18,0,0.0535,0.0155,0.155,0.831,123.179,252240,4,Spotify,Classic Acoustic,Public 15
+Simon & Garfunkel,Bookends,"Mrs. Robinson - From ""The Graduate"" Soundtrack",0iOZM63lendWRTTeKhZBSC,0.606,0.457,6,-14.035,0,0.0497,2.53e-05,0.0747,0.813,92.033,244027,4,Spotify,Classic Acoustic,Public 15
+The Beatles,The Beatles (Remastered),Blackbird - Remastered 2009,5jgFfDIR6FR0gvlA56Nakr,0.686,0.127,7,-14.361,1,0.0342,1.41e-05,0.0573,0.372,93.699,138387,4,Spotify,Classic Acoustic,Public 15
+Carly Simon,No Secrets,You're so Vain,2DnJjbjNTV9Nd5NOa1KGba,0.659,0.678,0,-8.18,1,0.0313,6.69e-06,0.0784,0.647,106.186,258411,4,Spotify,Classic Acoustic,Public 15
+Van Morrison,Moondance,Into the Mystic - 2013 Remaster,3lh3iiiJeiBXHSZw6u0kh6,0.608,0.524,8,-10.266,1,0.0309,0.00254,0.115,0.797,86.204,205613,4,Spotify,Classic Acoustic,Public 15
+Dolly Parton,Jolene,Jolene,2SpEHTbUuebeLkgs9QB7Ue,0.674,0.537,1,-10.971,0,0.0363,0.0,0.131,0.809,110.578,161533,4,Spotify,Classic Acoustic,Public 15
+Billy Joel,The Stranger (Legacy Edition),She's Always a Woman,5RgFlk1fcClZd0Y4SGYhqH,0.292,0.324,3,-11.996,1,0.0346,0.000473,0.12,0.384,176.631,201373,3,Spotify,Classic Acoustic,Public 15
+The Beatles,Rubber Soul (Remastered),In My Life - Remastered 2009,3KfbEIOC7YIv90FIfNSZpo,0.688,0.435,9,-11.359,1,0.0323,0.0,0.113,0.435,103.239,146333,4,Spotify,Classic Acoustic,Public 15
+Duran Duran,Duran Duran,Ordinary World,0wokCRaKD0zPNhMRXAgVsr,0.472,0.652,1,-10.171,0,0.0305,1.12e-05,0.14,0.401,140.124,340200,4,Spotify,Classic Acoustic,Public 15
+Norah Jones,Feels Like Home,Sunrise,7zkLpY72g6lKQbiHDqri1S,0.526,0.299,8,-13.797,1,0.031,0.097,0.106,0.679,156.848,200627,4,Spotify,Classic Acoustic,Public 15
+Simon & Garfunkel,"Wednesday Morning, 3 A.M.",The Sound of Silence - Acoustic Version,5y788ya4NvwhBznoDIcXwK,0.525,0.216,6,-13.551,1,0.0301,0.0,0.107,0.328,106.761,185413,4,Spotify,Classic Acoustic,Public 15
+Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Father And Son,476V2d6iA2tWXgQboKmTtA,0.495,0.326,7,-12.29,1,0.0365,8.85e-05,0.0996,0.371,136.243,221120,4,Spotify,Classic Acoustic,Public 15
+Paul Simon,Paul Simon,Me and Julio Down by the Schoolyard,6vxHp3CDNo0afgKGp2yi1E,0.626,0.816,9,-10.593,1,0.131,1.8e-06,0.104,0.798,105.307,164813,4,Spotify,Classic Acoustic,Public 15
+James Taylor,Sweet Baby James (2019 Remaster),Fire and Rain - 2019 Remaster,1oht5GevPN9t1T3kG1m1GO,0.597,0.271,5,-17.293,1,0.0394,0.0119,0.0933,0.338,76.271,203613,4,Spotify,Classic Acoustic,Public 15
+The Band,Music From Big Pink (Remastered),The Weight - Remastered 2000,0P7DoyGrr4Wp9w5TotEtUC,0.63,0.551,9,-9.28,1,0.0549,5.75e-05,0.103,0.518,143.868,274493,4,Spotify,Classic Acoustic,Public 15
+Fleetwood Mac,Rumours (Super Deluxe),Never Going Back Again - 2004 Remaster,19Shlms2uTnOjIUg50TXzd,0.654,0.336,6,-12.825,1,0.0379,0.385,0.0786,0.947,176.083,134400,4,Spotify,Classic Acoustic,Public 15
+The Beatles,Rubber Soul (Remastered),Norwegian Wood (This Bird Has Flown) - Remastered 2009,1H7gMYGykdtwZOV6s1N0by,0.425,0.369,4,-11.876,1,0.0379,0.00126,0.112,0.65,176.625,124693,3,Spotify,Classic Acoustic,Public 15
+Janis Joplin,Pearl (Legacy Edition),Me and Bobby McGee,1IqFh00G2kvvMm8pRMpehA,0.43,0.463,2,-10.96,1,0.0442,5.84e-05,0.152,0.66,93.405,271333,4,Spotify,Classic Acoustic,Public 15
+Simon & Garfunkel,Bridge Over Troubled Water,The Boxer,76TZCvJ8GitQ2FA1q5dKu0,0.439,0.488,11,-14.464,1,0.0615,0.000339,0.16,0.629,93.017,308520,4,Spotify,Classic Acoustic,Public 15
+Kate Bush,The Kick Inside,Wuthering Heights,5YSI1311X8t31PBjkBG4CZ,0.481,0.392,1,-11.381,1,0.0312,0.0452,0.124,0.52,124.572,269067,4,Spotify,Classic Acoustic,Public 15
+Don McLean,American Pie,Vincent,0VNzEY1G4GLqcNx5qaaTl6,0.419,0.085,7,-19.387,1,0.0362,5.33e-06,0.34,0.458,91.509,243493,3,Spotify,Classic Acoustic,Public 15
+Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Going to California - Remaster,70gbuMqwNBE2Y5rkQJE9By,0.503,0.265,2,-15.913,1,0.0333,0.045,0.0867,0.522,78.044,212161,4,Spotify,Classic Acoustic,Public 15
+Nick Drake,Pink Moon,Pink Moon,4KROoGIaPaR1pBHPnR3bwC,0.642,0.427,3,-8.471,1,0.0402,0.0904,0.124,0.404,82.344,124001,4,Spotify,Classic Acoustic,Public 15
+Paul Simon,Still Crazy After All These Years,50 Ways to Leave Your Lover,6Qb7gtV6Q4MnUjSbkFcopl,0.815,0.372,7,-12.814,1,0.0752,0.000116,0.0767,0.293,101.684,217347,4,Spotify,Classic Acoustic,Public 15
+Yusuf / Cat Stevens,Teaser And The Firecat (Remastered 2021),Morning Has Broken - Remastered 2021,5y8d8RHvxb0KiTa9Nq0xWp,0.443,0.365,7,-11.829,1,0.0315,0.00484,0.0886,0.398,133.156,199453,3,Spotify,Classic Acoustic,Public 15
+"Crosby, Stills & Nash","Crosby, Stills & Nash",Helplessly Hoping - 2005 Remaster,1UKobFsdqNXQb8OthimCKe,0.483,0.159,7,-13.648,1,0.0353,0.0,0.111,0.423,146.721,157893,4,Spotify,Classic Acoustic,Public 15
+Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",Homeward Bound,4Xl2PrS3DJqqSKXCo6Uhv9,0.485,0.378,3,-11.773,1,0.0337,0.0,0.103,0.528,92.928,149613,4,Spotify,Classic Acoustic,Public 15
+Tom Petty,Wildflowers,Wildflowers,2Pr1nZpt8A8WP7QYpyq6L3,0.537,0.315,5,-13.79,1,0.0271,2.29e-05,0.206,0.575,86.813,190320,4,Spotify,Classic Acoustic,Public 15
+Bob Dylan,Nashville Skyline,Girl from the North Country,4K1imZQQ0yKtJ40vGmUajS,0.607,0.142,7,-23.455,1,0.0382,0.000197,0.121,0.305,118.867,220400,4,Spotify,Classic Acoustic,Public 15
+Various Artists,Reservoir Dogs (Original Motion Picture Soundtrack),Stuck In The Middle With You,1b7LMtXCXGc2EwOIplI35z,0.795,0.564,7,-10.482,1,0.0392,0.000531,0.0631,0.961,124.166,203893,4,Spotify,Classic Acoustic,Public 15
+Yusuf / Cat Stevens,Teaser And The Firecat (Remastered 2021),The Wind - Remastered 2021,0wEo4mwfs6tXYgCem9m9wP,0.765,0.291,2,-14.456,1,0.0397,0.000446,0.149,0.806,115.751,102987,4,Spotify,Classic Acoustic,Public 15
+The Beatles,Rubber Soul (Remastered),Michelle - Remastered 2009,5By7Pzgl6TMuVJG168VWzS,0.578,0.29,5,-12.501,0,0.0341,0.0,0.105,0.666,117.403,162373,4,Spotify,Classic Acoustic,Public 15
+Jim Croce,Life & Times,"Bad, Bad Leroy Brown",1O0xeZrBDbq7HPREdmYUYK,0.697,0.676,7,-10.742,1,0.0402,0.0,0.0824,0.852,148.072,182240,4,Spotify,Classic Acoustic,Public 15
+John Denver,Rocky Mountain High,Rocky Mountain High,1ne9wOtDF2jM6Cm8WBkaER,0.455,0.437,4,-11.411,1,0.0278,0.0,0.501,0.724,81.396,283640,4,Spotify,Classic Acoustic,Public 15
+Bread,Guitar Man,Guitar Man,0gZXockVcE7rEhSf4mcGLO,0.553,0.506,4,-13.271,0,0.046,3.78e-06,0.438,0.51,143.278,226213,4,Spotify,Classic Acoustic,Public 15
+Bob Dylan,The Times They Are A-Changin',The Times They Are A-Changin',52vA3CYKZqZVdQnzRrdZt6,0.389,0.396,7,-7.999,1,0.0332,0.0,0.0828,0.585,171.86,192053,3,Spotify,Classic Acoustic,Public 15
+Bruce Springsteen,Born To Run,Thunder Road,56lhDZNQ5J47aog6mGKeGk,0.369,0.758,5,-5.871,1,0.0364,1.78e-05,0.531,0.663,140.71,288720,4,Spotify,Classic Acoustic,Public 15
+Leonard Cohen,Songs Of Leonard Cohen,Suzanne,2L93TdW2GMue1H2zlkt30F,0.409,0.172,6,-16.44,0,0.0389,0.00112,0.111,0.352,132.151,229293,4,Spotify,Classic Acoustic,Public 15
+Simon & Garfunkel,Bridge Over Troubled Water,The Only Living Boy in New York,5MbXzXGbqobR8xPVPs8OXA,0.411,0.381,11,-12.361,1,0.0286,0.257,0.132,0.524,76.963,238413,4,Spotify,Classic Acoustic,Public 15
+Eddie Vedder,Into The Wild (Music For The Motion Picture),Hard Sun,0fzCtVM9D5UEwiLqcY8Ouq,0.438,0.827,8,-6.531,1,0.0328,0.000402,0.319,0.645,143.377,322080,4,Spotify,Classic Acoustic,Public 15
+Yusuf / Cat Stevens,Teaser And The Firecat (Remastered 2021),Peace Train - Remastered 2021,4d0d2llNcQIHmaCgYTrODQ,0.594,0.682,0,-8.858,1,0.0487,4.56e-05,0.0919,0.76,82.487,253293,4,Spotify,Classic Acoustic,Public 15
+The Velvet Underground,The Velvet Underground (45th Anniversary),Pale Blue Eyes,11VwZwNF29HrqwalYUMitb,0.637,0.107,5,-18.759,1,0.0349,0.00146,0.103,0.296,82.879,339533,4,Spotify,Classic Acoustic,Public 15
+Nico,Chelsea Girl,These Days,3uCkIqD0VzQUijbs8WIizs,0.401,0.13,5,-17.638,1,0.0312,0.305,0.101,0.213,93.091,210653,4,Spotify,Classic Acoustic,Public 15
+Eric Clapton,Unplugged (Deluxe Edition) [Live],"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",3UqHlIBI771FNCiLY5MKrp,0.694,0.331,9,-13.0,1,0.0284,0.00235,0.707,0.458,79.055,280000,4,Spotify,Classic Acoustic,Public 15
+The Rolling Stones,Between The Buttons,Ruby Tuesday,4hupcimlg3UBbW1kAQ6vrT,0.524,0.553,0,-10.767,1,0.0292,0.0,0.174,0.517,104.578,196493,4,Spotify,Classic Acoustic,Public 15
+Bob Dylan,Bringing It All Back Home,Mr. Tambourine Man,3RkQ3UwOyPqpIiIvGVewuU,0.39,0.31,5,-14.545,1,0.0676,0.0,0.379,0.584,177.515,330533,4,Spotify,Classic Acoustic,Public 15
+John Mellencamp,Uh-HUH!,Pink Houses,5JKQMoGmXwDHCodn5pFVHB,0.635,0.795,7,-5.313,1,0.0269,3.08e-06,0.0751,0.628,115.23,283667,4,Spotify,Classic Acoustic,Public 15
+Linda Ronstadt,Simple Dreams,Blue Bayou,3zxklD2EGecZre9MjEEvIU,0.732,0.161,11,-12.817,1,0.0306,0.000379,0.105,0.5,95.21,239400,4,Spotify,Classic Acoustic,Public 15
+Fleetwood Mac,Rumours,The Chain - 2004 Remaster,7Dm3dV3WPNdTgxoNY7YFnc,0.522,0.755,9,-6.95,1,0.0524,6.63e-05,0.0781,0.637,151.796,269813,4,Spotify,Classic Acoustic,Public 15
+Bruce Springsteen,Human Touch,Human Touch,1o53HbxmOy5TzThJdBaDZb,0.651,0.516,0,-13.628,1,0.0277,5.93e-05,0.0973,0.453,115.154,388800,4,Spotify,Classic Acoustic,Public 15
+Jim Croce,You Don't Mess Around With Jim,Walkin' Back to Georgia,51ueZKM83MTRv9rgiDfI6Y,0.661,0.518,6,-10.061,0,0.0319,1.78e-05,0.0953,0.776,127.266,170760,4,Spotify,Classic Acoustic,Public 15
+Carole King,Tapestry,Where You Lead,0APt4t1Dab58sYmGQ4jgij,0.784,0.459,0,-10.446,1,0.0304,1.29e-06,0.0684,0.931,106.958,200147,4,Spotify,Classic Acoustic,Public 15
+Joan Baez,Diamonds & Rust,Diamonds And Rust,4O0sGJdqpHMaWz7KoVd7tb,0.506,0.343,5,-12.153,0,0.03,0.0,0.141,0.265,130.052,286107,4,Spotify,Classic Acoustic,Public 15
+Bob Dylan,Blood On The Tracks,Shelter from the Storm,3y4Uza6K58JXQ7RYya8ZI5,0.486,0.241,4,-17.337,1,0.0366,3.51e-05,0.0928,0.614,106.574,301133,4,Spotify,Classic Acoustic,Public 15
+"Peter, Paul and Mary",In the Wind,"Don't Think Twice, It's All Right",7IsXXgpowAB48crGjV1oGb,0.437,0.104,3,-22.533,1,0.0307,0.00124,0.11,0.544,101.718,196467,4,Spotify,Classic Acoustic,Public 15
+Leonard Cohen,Songs Of Love And Hate,Famous Blue Raincoat,77K5TB5KZmDZCoJCdd1NvE,0.474,0.0404,9,-22.208,0,0.0387,0.000263,0.111,0.18,119.415,310773,3,Spotify,Classic Acoustic,Public 15
+Rod Stewart,A Night on the Town,The First Cut Is the Deepest,3FeYjbIVqvAhuTcwsE6K3v,0.546,0.627,0,-9.037,1,0.0244,0.00114,0.096,0.764,81.278,271200,4,Spotify,Classic Acoustic,Public 15
+Fleetwood Mac,Rumours,Gold Dust Woman - 2004 Remaster,2w3ScXudq4aD3K5HFO5xvx,0.666,0.608,7,-9.335,1,0.0319,0.000804,0.466,0.674,123.18,295627,4,Spotify,Classic Acoustic,Public 15
+Nick Drake,Bryter Layter,One Of These Things First,0hNVjU6JKydHts0SAjHCno,0.604,0.37,4,-18.45,1,0.0362,0.346,0.0954,0.666,90.339,290733,3,Spotify,Classic Acoustic,Public 15
+Indigo Girls,Indigo Girls (Expanded Edition),Closer to Fine,7rKyITVLEwldhdXIy7P6Vw,0.54,0.677,9,-6.349,1,0.0286,0.0,0.224,0.748,98.339,241600,4,Spotify,Classic Acoustic,Public 15
+Bread,The Best of Bread,If,1Fu3gq55GH3P6OF352rEIc,0.388,0.176,9,-16.952,1,0.0299,0.000336,0.0977,0.342,97.628,155773,4,Spotify,Classic Acoustic,Public 15
+Richard Thompson,Rumor And Sigh,1952 Vincent Black Lightning,1KueOLeUZpaNRK2InckxVT,0.488,0.209,10,-19.549,1,0.0369,5.05e-06,0.103,0.362,120.63,283493,4,Spotify,Classic Acoustic,Public 15
+Richie Havens,Live At The Cellar Door and at the Santa Monica Civic Auditorium,Here Comes The Sun,0hhzJEusz6r7f0eL1Uc8kw,0.698,0.643,2,-16.985,1,0.0649,0.0799,0.704,0.714,128.22,254000,4,Spotify,Classic Acoustic,Public 15
+John Prine,Fair and Square,Clay Pigeons,5UDoMj8EIEXrQ4N0UR0nos,0.585,0.233,10,-15.949,1,0.028,0.000611,0.114,0.481,140.666,267133,4,Spotify,Classic Acoustic,Public 15
+Eagles,The Very Best of the Eagles (2013 Remaster),Hotel California - 2013 Remaster,4Vn7TykT27PIygBiZjTR2s,0.579,0.508,2,-9.484,1,0.027,0.000494,0.0575,0.609,147.125,391376,4,Spotify,Classic Acoustic,Public 15
+The Monkees,Good Times! (Deluxe Edition),Me & Magdalena,1XxRYmDKuABtbtCozx3pA2,0.738,0.43,7,-9.749,1,0.0295,1.03e-05,0.0945,0.374,114.992,213707,4,Spotify,Classic Acoustic,Public 15
+"Peter, Paul and Mary",In the Wind,Blowin' in the Wind,62Yu8QL1g9pdbvN4XL9Rah,0.381,0.0848,5,-17.77,1,0.032,0.0,0.112,0.557,155.036,177360,4,Spotify,Classic Acoustic,Public 15
+Rhiannon Giddens,Forever Young (From NBC's Parenthood),Forever Young - From NBC's Parenthood,0QYgtwYCftkAqunXmvkZtr,0.384,0.366,7,-10.65,1,0.0329,9.17e-05,0.101,0.199,138.134,261370,4,Spotify,Classic Acoustic,Public 15
+The Magnetic Fields,69 Love Songs,The Book of Love,62ZYyXIsHVX5xVUj80arVu,0.485,0.262,7,-13.286,1,0.0263,5.99e-05,0.117,0.332,98.536,162413,4,Spotify,Classic Acoustic,Public 15
+Odetta,Odetta Sings,Hit Or Miss,4YJ1KDI6tUSapyD6XTAg8i,0.796,0.375,2,-13.338,1,0.072,0.000736,0.0498,0.643,88.958,234531,4,Spotify,Classic Acoustic,Public 15
+James Taylor,Sweet Baby James (2019 Remaster),Country Road - 2019 Remaster,2OBaVeRFXblWxoZHC4sryf,0.52,0.297,2,-17.211,1,0.0449,0.000562,0.109,0.677,156.059,202267,4,Spotify,Classic Acoustic,Public 15
+Faces,The Best of Faces: Good Boys When They're Asleep,Ooh La La - 2004 Remaster,6TNNMVpOgn8K5NoDC7alG6,0.603,0.494,2,-10.27,1,0.0301,0.000171,0.0894,0.729,147.814,214960,4,Spotify,Classic Acoustic,Public 15
+John Prine,Bruised Orange,That's the Way That the World Goes 'Round,6IcU0P6Ec5CM9qVqV1U2JH,0.636,0.454,5,-16.548,1,0.0615,0.00343,0.304,0.806,155.547,200240,4,Spotify,Classic Acoustic,Public 15
+Eric Clapton,Complete Clapton,"Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",4ibOxUxg1huJ9vZTgzY6Jl,0.564,0.543,2,-9.011,0,0.0379,0.000431,0.898,0.642,93.721,279067,4,Spotify,Classic Acoustic,Public 15
+Peter Sarstedt,The Lost Album,Where Do You Go To (My Lovely) - Re-Recorded,6M665tf7ZKQzUFA5yOrUE4,0.558,0.444,2,-7.549,0,0.0345,6.56e-05,0.121,0.444,182.583,287720,3,Spotify,Classic Acoustic,Public 15
+The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. 1",Strangers - 2020 Stereo Remaster,1LH9QyMF3YIqYRoVsoXihB,0.458,0.423,0,-8.647,1,0.0321,0.00013,0.118,0.491,126.984,201022,4,Spotify,Classic Acoustic,Public 15
+John Hiatt,Terms of My Surrender,Long Time Comin',4OfCkjpcpqKgr9igYyOSHm,0.649,0.419,4,-9.583,1,0.0264,0.532,0.0833,0.264,99.018,252093,4,Spotify,Classic Acoustic,Public 15
+John Martyn,Solid Air,May You Never,6ofam9RHTG7UBUa6uO2MjP,0.673,0.168,4,-15.333,1,0.0369,0.79,0.11,0.726,124.825,220493,4,Spotify,Classic Acoustic,Public 15
+Bert Jansch,Bert Jansch,Angie - 2015 Remaster,4QTV3dLUyYu5vFPEFvA1jg,0.48,0.224,0,-18.077,0,0.0401,0.88,0.105,0.395,80.035,189406,4,Spotify,Classic Acoustic,Public 15
+Elliott Smith,Either/Or,Angeles,2uwN3PDudlRkAKE3wA0OqJ,0.53,0.0993,4,-23.548,0,0.0549,0.2,0.153,0.588,118.139,176827,4,Spotify,Classic Acoustic,Public 15
+Mary Gauthier,Mercy Now,Mercy Now,6684GUHy1jpyhJVzpz5OFr,0.583,0.262,9,-11.139,1,0.0281,0.000563,0.0993,0.332,76.028,350560,4,Spotify,Classic Acoustic,Public 15
+Emmylou Harris,Pieces of the Sky (Expanded & Remastered),Boulder to Birmingham - 2003 Remaster,05XNDab0Lhitzqk7tRpOnY,0.476,0.318,10,-10.953,1,0.0304,2e-06,0.104,0.311,126.495,213027,4,Spotify,Classic Acoustic,Public 15
+Elton John,Elton John,Your Song,7gCeodIXjhCLDWC5H1LOmT,0.551,0.27,3,-12.808,1,0.0326,7.04e-06,0.0966,0.289,128.221,244227,4,Spotify,Classic Acoustic,Public 15
+Patty Griffin,Living With Ghosts,Let Him Fly,15GiOLRhRZGM07xhEorDZ4,0.505,0.232,2,-7.75,1,0.035,0.0,0.105,0.425,112.348,191093,4,Spotify,Classic Acoustic,Public 15
+Karen Dalton,It's So Hard To Tell Who's Going To Love You The Best,Little Bit Of Rain,09g4TuWLxMmrOTt1kzS47Z,0.432,0.0554,2,-22.279,1,0.0395,0.0749,0.101,0.361,173.944,156893,3,Spotify,Classic Acoustic,Public 15
+Michael Kiwanuka,Home Again,Home Again,46EuzanXhKwIc7755wLAvS,0.524,0.321,9,-11.452,0,0.032,0.0,0.124,0.27,85.328,212373,4,Spotify,Classic Acoustic,Public 15
+Iris DeMent,Infamous Angel,Our Town,44gq8zKiyisjDCKRfcuk3N,0.714,0.268,11,-7.546,1,0.0329,5.05e-06,0.246,0.332,116.339,300933,4,Spotify,Classic Acoustic,Public 15
+Terry Callier,The New Folk Sound Of Terry Callier (Deluxe Edition),900 Miles,0zVduthKvT1FEsUGFWT9Xo,0.311,0.249,2,-16.052,1,0.0312,5.35e-05,0.108,0.0445,104.511,307880,4,Spotify,Classic Acoustic,Public 15
+George Harrison,All Things Must Pass (2020 Mix),All Things Must Pass - 2020 Mix,02fXDM2myvnYF5NyCkKPvp,0.46,0.586,9,-6.32,1,0.0281,1.74e-05,0.0831,0.489,122.014,226960,4,Spotify,Classic Acoustic,Public 15
+Marianne Faithfull,Rich Kid Blues,It's All Over Now Baby Blue,7hoWkhuHv9b3jiCbxX1kMm,0.651,0.414,2,-10.572,1,0.0301,0.00267,0.118,0.445,111.175,229960,4,Spotify,Classic Acoustic,Public 15
+Chris Isaak,San Francisco Days,San Francisco Days,5Trbt34yBAzpM59c6G8pqO,0.499,0.49,0,-10.131,1,0.0294,0.000171,0.236,0.552,134.027,178973,4,Spotify,Classic Acoustic,Public 15

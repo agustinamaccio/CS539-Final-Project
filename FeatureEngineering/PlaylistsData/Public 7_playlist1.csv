@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Chris Brown,Exclusive (Expanded Edition),Kiss Kiss (feat. T-Pain),3wKKkGVn7cVSfgPeYYIiXG,0.729,0.658,10,-3.386,0,0.225,0,0.0693,0.551,140.043,250667,3,Spotify,I Love My '00s R&B,Public 7
+Rihanna,Good Girl Gone Bad: Reloaded,Umbrella,49FYlytm3dAAraYgpoJZux,0.583,0.829,1,-4.603,1,0.134,0,0.0426,0.575,174.028,275987,4,Spotify,I Love My '00s R&B,Public 7
+Alicia Keys,The Diary Of Alicia Keys,If I Ain't Got You,3XVBdLihbNbxUwZosxcGuJ,0.609,0.444,7,-9.129,1,0.106,6.86e-06,0.104,0.166,118.402,228707,3,Spotify,I Love My '00s R&B,Public 7
+Mary J. Blige,No More Drama,Family Affair,3aw9iWUQ3VrPQltgwvN9Xu,0.911,0.551,8,-3.75,0,0.0449,4.12e-05,0.0863,0.969,92.887,265867,4,Spotify,I Love My '00s R&B,Public 7
+Chris Brown,Exclusive (Expanded Edition),Take You Down,1vwUsp52io0AGQ5yv470IC,0.387,0.64,11,-5.817,0,0.081,0,0.319,0.617,59.989,245933,4,Spotify,I Love My '00s R&B,Public 7
+Keyshia Cole,The Way It Is,Love,0W4NhJhcqKCqEP2GIpDCDq,0.688,0.519,5,-4.285,1,0.0283,0,0.1,0.318,116.714,255333,4,Spotify,I Love My '00s R&B,Public 7
+T-Pain,Epiphany (Expanded Edition),Buy U a Drank (Shawty Snappin') (feat. Yung Joc),1tkMs9wDPknQ3ZHcKDw1ES,0.693,0.549,1,-8.141,1,0.119,0,0.0677,0.605,80.028,227960,4,Spotify,I Love My '00s R&B,Public 7
+Justin Timberlake,Justified,Cry Me a River,7Lf7oSEVdzZqTA0kEDSlS5,0.624,0.654,8,-6.582,0,0.183,0,0.104,0.564,73.898,288333,4,Spotify,I Love My '00s R&B,Public 7
+Mario,Let Me Love You,Let Me Love You,3ibKnFDaa3GhpPGlOUj7ff,0.656,0.578,7,-8.97,0,0.0922,0,0.118,0.556,94.514,256733,4,Spotify,I Love My '00s R&B,Public 7
+Cassie,Cassie (U.S. Version),Long Way 2 Go,4v5kAh2wWyCSuKuhMJK8u6,0.589,0.655,8,-8.138,1,0.0488,0.000353,0.372,0.675,105.272,220640,4,Spotify,I Love My '00s R&B,Public 7
+Ashanti,Ashanti,Foolish,6zMUIb4uce1CzpbjR3vMdN,0.665,0.695,0,-5.763,1,0.0532,0,0.106,0.707,90.119,227387,4,Spotify,I Love My '00s R&B,Public 7
+Lloyd,Street Love,You,5Y77SQxEr1eiofPeUTPHxM,0.412,0.876,5,-6.008,0,0.47,0,0.297,0.703,130.159,273133,5,Spotify,I Love My '00s R&B,Public 7
+Fantasia,Fantasia,When I See U,4iuNZTcvT9diFySSzVsnVS,0.569,0.596,8,-6.486,1,0.172,7.92e-05,0.205,0.754,93.135,217347,4,Spotify,I Love My '00s R&B,Public 7
+Chris Brown,Chris Brown (Expanded Edition),Yo (Excuse Me Miss),7DFnq8FYhHMCylykf6ZCxA,0.536,0.612,4,-5.847,1,0.272,0,0.209,0.57,86.768,229040,4,Spotify,I Love My '00s R&B,Public 7
+Usher,8701,U Remind Me,2QsZVnbWVSjKMXK6K3uRBL,0.657,0.629,6,-4.938,1,0.0782,0,0.254,0.726,93.985,266893,4,Spotify,I Love My '00s R&B,Public 7
+Mariah Carey,The Emancipation of Mimi,We Belong Together,3LmvfNUQtglbTrydsdIqFU,0.837,0.462,0,-7.89,1,0.0601,0,0.09,0.762,139.986,201400,4,Spotify,I Love My '00s R&B,Public 7
+Sade,Lovers Rock,By Your Side,7H3ojI1BsVy0dEJENqMt1k,0.653,0.429,11,-10.473,1,0.0297,0.00371,0.0693,0.627,146.073,274933,4,Spotify,I Love My '00s R&B,Public 7
+Alicia Keys,Songs In A Minor,Fallin',0KQx6HOpJueiSkztcS0r7D,0.652,0.609,11,-7.519,0,0.037,0.00101,0.233,0.482,95.986,210200,3,Spotify,I Love My '00s R&B,Public 7
+Mario,Go,How Do I Breathe,174rZBKJAqD10VBnOjlQQ3,0.684,0.455,5,-8.216,1,0.0307,1.08e-06,0.263,0.487,97.956,216893,4,Spotify,I Love My '00s R&B,Public 7
+Usher,8701,U Got It Bad,7J41dYQolQJEtj3UmKLu5r,0.816,0.5,1,-4.551,1,0.03,1.53e-06,0.0733,0.649,124.037,247840,4,Spotify,I Love My '00s R&B,Public 7
+Aaliyah,Aaliyah,Rock The Boat,0qvlhVNm7L5IWabWF5hlEL,0.637,0.725,5,-5.073,1,0.0333,0.00438,0.203,0.415,92.99,274733,4,Spotify,I Love My '00s R&B,Public 7
+Toni Braxton,The Heat,He Wasn't Man Enough,7f1Dmr246cJ9uQYdbplTbh,0.739,0.947,11,-1.916,0,0.0411,3.14e-05,0.326,0.766,88.009,261933,4,Spotify,I Love My '00s R&B,Public 7
+Michael Jackson,Invincible,Heaven Can Wait,1AZXNAVDD9ZFIEKySgflFz,0.706,0.685,11,-3.669,1,0.0837,0,0.22,0.444,117.448,288533,4,Spotify,I Love My '00s R&B,Public 7
+Ashanti,Chapter II,Rock Wit U (Awww Baby),6pWzCKTrKrwbUPzY8RLCoP,0.71,0.797,4,-3.006,0,0.0582,0,0.16,0.849,94.998,209120,4,Spotify,I Love My '00s R&B,Public 7
+Mary J. Blige,The Breakthrough,Be Without You - Kendu Mix,6Y3WvyUG9iE5bQYg38SPtQ,0.726,0.7,2,-5.881,0,0.0998,0,0.262,0.673,146.559,246333,4,Spotify,I Love My '00s R&B,Public 7
+Ginuwine,The Life,Differences,0Uyh92tLyb9JawG8lmWCzJ,0.562,0.594,3,-4.578,0,0.0558,0,0.311,0.423,62.876,265533,4,Spotify,I Love My '00s R&B,Public 7
+Alicia Keys,The Diary Of Alicia Keys,You Don't Know My Name,6LGwYMXXgURfaequXipzHx,0.264,0.663,9,-8.264,1,0.187,0.00443,0.342,0.249,167.078,366733,4,Spotify,I Love My '00s R&B,Public 7
+Various Artists,Bad Boy 20th Anniversary Box Set Edition,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,2yr2HnFYl7XvqJk4fXoQBt,0.833,0.515,11,-5.0,0,0.0462,0.00156,0.116,0.4,97.007,257333,4,Spotify,I Love My '00s R&B,Public 7
+Joe,My Name Is Joe,I Wanna Know,1m2xMsxbtxv21Brome189p,0.725,0.487,8,-5.959,0,0.0368,1.09e-05,0.431,0.599,136.086,296693,4,Spotify,I Love My '00s R&B,Public 7
+Usher,Confessions (Expanded Edition),Burn,7z3N2W7Xz1t2G2sAO8wFVH,0.796,0.477,1,-7.161,1,0.108,0,0.12,0.685,119.928,231933,4,Spotify,I Love My '00s R&B,Public 7
+Erykah Badu,Mama's Gun,Didn't Cha Know,7pv80uUHfocFqfTytu1MVi,0.753,0.472,3,-9.761,0,0.121,0.0133,0.284,0.816,135.277,238733,4,Spotify,I Love My '00s R&B,Public 7
+Cherish,Unappreciated,Do It To It,6MBEjJlXQYXr8dfxDvZuoA,0.826,0.67,2,-5.559,1,0.169,0,0.495,0.794,74.007,226293,4,Spotify,I Love My '00s R&B,Public 7
+The Neptunes,The Neptunes Present... Clones,Frontin' (feat. Jay-Z) - Club Mix,0iFOG4Ki9aDmJUYUFHQlPG,0.894,0.404,9,-5.913,0,0.13,1.57e-06,0.0801,0.759,102.009,236507,4,Spotify,I Love My '00s R&B,Public 7
+Keyshia Cole,Just Like You,Let It Go,2RqZFOLOnzVmHUX7ZMcaES,0.806,0.721,10,-5.167,0,0.215,0,0.209,0.781,94.967,238333,4,Spotify,I Love My '00s R&B,Public 7
+Usher,Confessions (Expanded Edition),Confessions Part II,7wBThXx7BGZHJJ3aN3OPvv,0.845,0.467,1,-7.674,1,0.138,0,0.0694,0.702,138.007,211200,4,Spotify,I Love My '00s R&B,Public 7
+Bobby V.,Disturbing Tha Peace Presents Bobby Valentino,"Slow Down - 12"" Version",4Ilen0VxPEsVRLpnePji8P,0.568,0.732,11,-4.896,0,0.103,4.92e-06,0.401,0.626,186.048,258667,4,Spotify,I Love My '00s R&B,Public 7
+Alicia Keys,The Element Of Freedom,Un-thinkable (I'm Ready),4JOP8ELK6AaeySe7sKe996,0.596,0.505,7,-7.892,1,0.0619,1.97e-05,0.106,0.335,86.097,249240,4,Spotify,I Love My '00s R&B,Public 7
+Angie Stone,Mahogany Soul,Wish I Didn't Miss You,3tZm76otWH20xzJC7icHCk,0.856,0.755,10,-5.691,1,0.0331,0.000621,0.145,0.842,123.883,270893,4,Spotify,I Love My '00s R&B,Public 7
+J. Holiday,Back Of My Lac',Bed,6TlRNJaezOdzdECnQeRuMM,0.684,0.606,5,-7.268,0,0.0504,0,0.058,0.723,127.901,275107,4,Spotify,I Love My '00s R&B,Public 7
+Usher,Confessions (Expanded Edition),Superstar,18JosZY3HzD3lMy6iOOSAY,0.673,0.592,6,-5.196,0,0.0537,0,0.336,0.705,142.222,191573,3,Spotify,I Love My '00s R&B,Public 7
+Jamie Foxx,Intuition,Blame It,08uGhvS5MfBk7crUCpnjva,0.673,0.614,7,-5.426,1,0.103,0,0.139,0.362,176.052,289747,4,Spotify,I Love My '00s R&B,Public 7
+Trey Songz,Trey Day,Can't Help but Wait,5k3VjTwIsOjQ2woGz3Yx71,0.699,0.699,8,-5.564,0,0.0737,0,0.0912,0.611,94.977,206413,4,Spotify,I Love My '00s R&B,Public 7
+The-Dream,Love Vs Money,Rockin' That Shit,3RBGG1be9aBaSvjnw6ABkh,0.672,0.62,8,-4.865,1,0.0422,0,0.362,0.627,78.005,221920,4,Spotify,I Love My '00s R&B,Public 7
+Monica,After The Storm,So Gone,6BIcjFZIVDZxNAcofRFPx4,0.618,0.552,8,-6.863,1,0.0981,0,0.252,0.586,81.975,242773,4,Spotify,I Love My '00s R&B,Public 7
+Pretty Ricky,Bluestars,Grind With Me,3B7i9OKRRmIsSBHEbJz58Y,0.7,0.538,1,-5.952,1,0.045,0,0.105,0.189,136.518,237733,4,Spotify,I Love My '00s R&B,Public 7
+112,Part III,Peaches & Cream,2SLZ2rX5773RS16mcqBxG7,0.677,0.52,4,-6.255,0,0.334,0,0.0532,0.768,203.862,193093,4,Spotify,I Love My '00s R&B,Public 7
+Lloyd,Street Love,Get It Shawty,2a03afRiyAbNAleOByVju4,0.822,0.905,5,-4.032,0,0.241,0,0.0496,0.674,128.014,209533,4,Spotify,I Love My '00s R&B,Public 7
+Lucy Pearl,Lucy Pearl,Dance Tonight,1TwVcKR6JojvPwBGbWZT36,0.787,0.425,10,-5.692,0,0.0641,0.00169,0.196,0.711,99.225,221280,4,Spotify,I Love My '00s R&B,Public 7
+Jazmine Sullivan,Fearless,Bust Your Windows,56z2qI0gKcPthQF6l8AW3E,0.683,0.664,5,-4.233,0,0.0332,0,0.0671,0.866,106.991,266307,4,Spotify,I Love My '00s R&B,Public 7
+Beyoncé,Dangerously In Love,"Me, Myself and I",6XsT5UGfpaFeHQf5LRIy4W,0.75,0.458,1,-9.092,1,0.0803,3.25e-05,0.137,0.536,83.61,301133,4,Spotify,I Love My '00s R&B,Public 7
+Robin Thicke,The Evolution of Robin Thicke,Lost Without U,4V2F0DZrAXOWq9hkwMMG3x,0.664,0.351,0,-12.136,1,0.118,2.38e-06,0.106,0.816,113.204,254147,5,Spotify,I Love My '00s R&B,Public 7
+Tyrese,I Wanna Go There,How You Gonna Act Like That,3OUApyz3jDB3syGUNGqB1d,0.733,0.521,3,-3.657,0,0.0457,0,0.0692,0.525,112.913,294693,4,Spotify,I Love My '00s R&B,Public 7
+Ashanti,Ashanti,Happy,6CbcdeTQKj0qTaZTt0xkdk,0.727,0.515,2,-6.553,0,0.0289,3.74e-06,0.124,0.695,89.488,262227,4,Spotify,I Love My '00s R&B,Public 7
+Justin Timberlake,FutureSex/LoveSounds Deluxe Edition,Until The End Of Time (with Beyoncé),2wZTnl0pPFr3HBcyXfOaVJ,0.56,0.372,11,-6.58,0,0.0446,0,0.195,0.473,119.384,322093,4,Spotify,I Love My '00s R&B,Public 7
+The-Dream,Love/Hate,Shawty Is Da Shit,5RC9YDHON0nXKmcQrL6WV6,0.785,0.479,7,-4.956,0,0.044,0,0.0937,0.364,75.889,262773,4,Spotify,I Love My '00s R&B,Public 7
+Lloyd,Southside,Southside,7lurcq2Yw96B1K0KOJAHxg,0.688,0.404,9,-9.481,0,0.0818,0,0.0813,0.448,75.007,277840,3,Spotify,I Love My '00s R&B,Public 7
+Trey Songz,Ready (Deluxe),Say Aah (feat. Fabolous),2fQ6sBFWaLv2Gxos4igHLy,0.724,0.87,1,-3.614,0,0.113,0,0.833,0.81,93.01,207547,4,Spotify,I Love My '00s R&B,Public 7
+Destiny's Child,Destiny Fulfilled,Soldier (feat. T.I. & Lil' Wayne),4FTOpNYcGxnQdGNWSxIcio,0.878,0.417,7,-6.799,1,0.361,0,0.0833,0.904,77.49,325573,4,Spotify,I Love My '00s R&B,Public 7
+Ciara,Goodies,Oh (feat. Ludacris),7i7UIbm5E0DD7aSOYvwp2v,0.8,0.496,7,-7.135,1,0.0506,0,0.0697,0.357,128.29,256347,4,Spotify,I Love My '00s R&B,Public 7
+Truth Hurts,Truthfully Speaking,Addictive,36jSIOSE72neBbKntCthqw,0.701,0.677,11,-6.591,0,0.147,0.000162,0.187,0.367,99.271,226440,4,Spotify,I Love My '00s R&B,Public 7
+Tweet,Southern Hummingbird,Oops (Oh My) [feat. Missy Elliott],5Y0E3dOeynKuLDAXu0t0Bg,0.66,0.536,10,-8.786,0,0.29,0.00669,0.111,0.775,159.963,237800,4,Spotify,I Love My '00s R&B,Public 7
+Kelly Rowland,Motivation,Motivation,4Cv5dkUBqepa0siwGREihD,0.735,0.679,9,-5.588,0,0.0431,0.000198,0.0766,0.264,140.858,231173,4,Spotify,I Love My '00s R&B,Public 7
+Mariah Carey,The Emancipation of Mimi,Shake It Off,4VKnkoNNM6yTb4cXXX3wqD,0.777,0.493,2,-6.516,1,0.126,0,0.108,0.82,134.086,232840,4,Spotify,I Love My '00s R&B,Public 7
+Musiq Soulchild,Aijuswanaseing,Just Friends (Sunny),5jgEJXjECdlhzNgfITSTVm,0.754,0.376,0,-7.561,1,0.204,0,0.358,0.554,95.018,251427,4,Spotify,I Love My '00s R&B,Public 7
+Maxwell,BLACKsummers'night (2009),Pretty Wings - uncut,22NLm3IIR9NLG0cUYtmHMW,0.563,0.402,9,-10.496,1,0.0668,2.07e-06,0.0886,0.2,115.561,310520,4,Spotify,I Love My '00s R&B,Public 7
+Aaliyah,Aaliyah,More Than A Woman,4x2YdtTppdbL4kHPOjaunq,0.655,0.649,1,-5.653,0,0.089,0.000393,0.117,0.759,86.968,229867,4,Spotify,I Love My '00s R&B,Public 7
+Sunshine Anderson,Your Woman,Heard It All Before,0xikWgPgYN9BEes0ieZ8Co,0.697,0.925,3,-4.209,0,0.216,0,0.095,0.678,96.951,295827,4,Spotify,I Love My '00s R&B,Public 7
+Koffee Brown,Mars/Venus,After Party,5cvMzT7kEvcxcdtcJz1vQY,0.802,0.552,5,-4.796,0,0.0503,1.7e-06,0.0224,0.601,105.481,214560,4,Spotify,I Love My '00s R&B,Public 7
+Musiq Soulchild,Juslisen,Halfcrazy,3oXNIpoUMdk8qGkwCeXqGv,0.412,0.77,11,-6.057,0,0.18,1.5e-06,0.0485,0.418,101.955,254493,3,Spotify,I Love My '00s R&B,Public 7
+Destiny's Child,Destiny Fulfilled,Girl,3s2MyU2YCwNNwcSokt0jXD,0.567,0.747,6,-6.019,0,0.105,0,0.04,0.556,89.036,224147,4,Spotify,I Love My '00s R&B,Public 7
+Michael Jackson,Invincible,Butterflies,0rT9f5BSZrZ6DvzfBEckG0,0.708,0.655,8,-2.69,1,0.0883,2.1e-06,0.11,0.545,89.99,279160,4,Spotify,I Love My '00s R&B,Public 7
+Lil' Mo,4 Ever (feat. Fabolous),4Ever (feat. Fabolous),6ubNZ5edKBKH3MQKatUY3S,0.683,0.657,6,-10.668,1,0.099,4.49e-05,0.367,0.764,99.059,222947,4,Spotify,I Love My '00s R&B,Public 7
+Jennifer Hudson,Jennifer Hudson,Spotlight,02QQXgeAghpU4smdM7l7We,0.707,0.724,11,-3.887,0,0.051,0,0.072,0.659,108.984,250107,4,Spotify,I Love My '00s R&B,Public 7
+Floetry,Floetic,Say Yes,2fE4MbwX3QGMzNaMjGVhtw,0.747,0.398,5,-12.932,0,0.0743,1.42e-06,0.113,0.428,117.901,268373,1,Spotify,I Love My '00s R&B,Public 7
+Ashanti,Ashanti,Baby,6cZPfzVtkicrA3CyjqYKhu,0.567,0.58,4,-5.757,0,0.223,5.37e-06,0.0342,0.46,157.596,265707,4,Spotify,I Love My '00s R&B,Public 7
+Alicia Keys,The Diary Of Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),5dxHF4lrDimKqnI3GaZUmC,0.663,0.465,8,-9.711,0,0.0317,0.00183,0.125,0.279,127.932,284160,4,Spotify,I Love My '00s R&B,Public 7
+Case,Open Letter,Missing You,0CmXXEwul09Kf8X68lPA5l,0.612,0.579,1,-6.417,0,0.0553,0,0.0556,0.716,86.31,284667,4,Spotify,I Love My '00s R&B,Public 7
+D'Angelo,Voodoo,Untitled (How Does It Feel),4oPNN7syJYSjzDhRerF966,0.838,0.304,4,-9.975,0,0.0626,0.0267,0.0828,0.221,112.618,430800,3,Spotify,I Love My '00s R&B,Public 7
+Keyshia Cole,The Way It Is,I Should Have Cheated,5tFDgH6do20IXdSoNBAmXK,0.436,0.533,2,-4.266,0,0.0472,0,0.332,0.366,130.768,327693,4,Spotify,I Love My '00s R&B,Public 7
+112,Pleasure & Pain,U Already Know,0ahRDzkKq0KEi7FRoHb0qk,0.694,0.511,8,-9.34,1,0.0449,0,0.166,0.931,87.014,198880,4,Spotify,I Love My '00s R&B,Public 7
+Ciara,The Evolution,Promise,1pLdjo3lOBbMaoR4ZpybFH,0.697,0.629,9,-5.757,1,0.0425,3.8e-06,0.0819,0.439,123.279,267413,4,Spotify,I Love My '00s R&B,Public 7
+Amerie,All I Have,Why Don't We Fall in Love,4bnjq8zqtCnxTGxll5ezOO,0.551,0.773,11,-6.578,0,0.101,3.39e-05,0.0511,0.649,90.003,159293,4,Spotify,I Love My '00s R&B,Public 7
+Sade,Lovers Rock,Lovers Rock,77lKjGkhvWuimTzQxA4STK,0.744,0.447,2,-11.735,1,0.0437,0.00103,0.0771,0.78,145.855,253107,4,Spotify,I Love My '00s R&B,Public 7
+Omarion,21,Ice Box,5qhlC4Rzals34zxovrPzKp,0.775,0.731,8,-5.446,1,0.134,0,0.129,0.821,131.105,256427,4,Spotify,I Love My '00s R&B,Public 7
+Jazmine Sullivan,Fearless,"Lions, Tigers & Bears",7zqM7Wm2xJLZ50qAnTLoHD,0.576,0.515,6,-6.178,1,0.0295,0,0.118,0.407,95.406,251200,3,Spotify,I Love My '00s R&B,Public 7
+LeToya,Torn,Torn,6GPiKalxD23rJirHKJm00X,0.422,0.894,11,-3.507,0,0.332,0,0.142,0.636,152.17,249253,4,Spotify,I Love My '00s R&B,Public 7
+112,Part III,It's Over Now,769geiA8btidGHda4BBDOJ,0.66,0.71,1,-4.541,1,0.0409,7.01e-06,0.0736,0.233,97.988,264933,4,Spotify,I Love My '00s R&B,Public 7
+B2K,Greatest Hits,"Bump, Bump, Bump (feat. P. Diddy)",74jMwg2zsFMICzW3Wems6h,0.833,0.681,1,-6.028,0,0.215,0,0.0414,0.887,95.48,282533,4,Spotify,I Love My '00s R&B,Public 7
+Kelly Rowland,Ms. Kelly,Like This (feat. Eve),3sfydNh0QQAdnIAtDVG16H,0.676,0.73,1,-5.963,1,0.267,0,0.0627,0.489,178.117,215853,4,Spotify,I Love My '00s R&B,Public 7
+Jazmine Sullivan,Fearless,Need U Bad,0Ri0LzOMJmqi9HGZE5cRYV,0.529,0.659,7,-5.318,1,0.0629,0,0.114,0.36,138.196,257427,4,Spotify,I Love My '00s R&B,Public 7
+Mary J. Blige,No More Drama,No More Drama,7nWsh14AHpnTzq1Xejz90U,0.653,0.837,6,-6.818,0,0.124,7.12e-05,0.0784,0.64,97.914,326240,4,Spotify,I Love My '00s R&B,Public 7
+Avant,My Thoughts,My First Love,1y2wM4Qxn27EOsQnhHYA3Q,0.643,0.368,11,-8.379,0,0.033,1.35e-06,0.157,0.414,125.95,268516,4,Spotify,I Love My '00s R&B,Public 7
+Nivea,Nivea,Don't Mess With My Man (feat. Brian Casey & Brandon Casey),39YovPslPCXbFYhlYjsZ2Y,0.879,0.73,11,-4.369,0,0.164,0,0.241,0.885,99.925,213227,4,Spotify,I Love My '00s R&B,Public 7
+Ne-Yo,Because Of You,Do You,0JKjqJLo145b1mqA6MnhIl,0.588,0.614,5,-5.857,0,0.0726,0,0.321,0.59,121.299,228267,5,Spotify,I Love My '00s R&B,Public 7
+Jamie Foxx,Unpredictable,Unpredictable (feat. Ludacris) - Main,3UNrtRxBBlWE70SjxnOo02,0.734,0.599,9,-8.462,1,0.197,0,0.0555,0.772,145.185,219867,4,Spotify,I Love My '00s R&B,Public 7
+Next,Platinum & Gold Collection,Wifey,3NEzjZbeSCy72Kx1clSYgC,0.829,0.652,7,-8.693,0,0.108,0,0.0812,0.726,99.581,243159,4,Spotify,I Love My '00s R&B,Public 7
+Joe,My Name Is Joe,Stutter (feat. Mystikal) - Double Take Remix,7FWuzwapuKHTEyDJIcQOw3,0.767,0.759,6,-6.516,1,0.117,0,0.31,0.677,89.989,213027,4,Spotify,I Love My '00s R&B,Public 7
+Carl Thomas,Emotional,I Wish,3lqT89gv8p3PYwXtr3ODjv,0.736,0.666,1,-4.929,1,0.0337,3.82e-05,0.107,0.224,89.824,226760,4,Spotify,I Love My '00s R&B,Public 7
+Avant,Ecstasy,Makin' Good Love,6Q13UWFUuqXLXT7IUVkqM1,0.794,0.634,9,-3.819,0,0.0381,0,0.2,0.736,142.254,271387,4,Spotify,I Love My '00s R&B,Public 7
+Tamia,More,Officially Missing You,6CUTYJQKcDwcQ63EulINUo,0.476,0.407,4,-9.239,0,0.0368,0,0.144,0.226,178.258,242467,4,Spotify,I Love My '00s R&B,Public 7

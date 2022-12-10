@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Sunny Sweeney,Easy as Hello,Easy as Hello,5hVBphaDDDa8AOnBPy5z4w,0.548,0.894,5,-4.824,0,0.0343,0.00066,0.197,0.625,139.925,279797,4,Spotify,The Pulse of Americana,Public 17
+Plains,I Walked With You A Ways,Hurricane,2XVHVNrfeITZa9Dj9t9gc3,0.666,0.397,0,-6.835,1,0.026,2.19e-05,0.099,0.105,98.004,214653,4,Spotify,The Pulse of Americana,Public 17
+Tedeschi Trucks Band,Soul Sweet Song,Soul Sweet Song,6tvXOpoonSGwxM0R4eq8Tj,0.399,0.769,9,-7.484,1,0.0531,0.00903,0.146,0.768,165.295,235627,4,Spotify,The Pulse of Americana,Public 17
+Charley Crockett,I'm Just a Clown,I'm Just a Clown,4PHCjTOpWuaYDacBBNd7Ut,0.44,0.646,11,-8.933,0,0.0363,0.168,0.0657,0.619,94.324,253920,4,Spotify,The Pulse of Americana,Public 17
+Margo Price,Change Of Heart,Change Of Heart,68DSsSVGCUwfEMeZI6xhxW,0.354,0.845,7,-4.31,1,0.053,5.53e-06,0.0907,0.344,184.191,243587,4,Spotify,The Pulse of Americana,Public 17
+Larkin Poe,Blood Harmony,Southern Comfort,17Rlm2i1lChVzLN7aqkqlN,0.491,0.528,7,-8.662,1,0.0302,0.000383,0.306,0.254,145.776,227224,4,Spotify,The Pulse of Americana,Public 17
+Trampled by Turtles,A Lifetime to Find,Burlesque Desert Window,2VRlBQCorJfk9QNWVyCMpy,0.531,0.552,2,-7.846,1,0.0324,8.31e-06,0.109,0.816,80.945,179573,4,Spotify,The Pulse of Americana,Public 17
+Zach Bryan,Something in the Orange,Something in the Orange - Z&E's Version,3rU2QIyNDk2OWV6mAW2qQr,0.594,0.382,7,-5.432,1,0.0292,0.0,0.117,0.223,110.237,254258,4,Spotify,The Pulse of Americana,Public 17
+Vince Herman,Lost Lover's Eyes,Lost Lover's Eyes,4mrFszdYwKUgN5hlxEAfKK,0.473,0.54,2,-10.9,1,0.029,7.17e-05,0.141,0.638,157.665,203507,4,Spotify,The Pulse of Americana,Public 17
+Eddie Berman,Trouble,Trouble,4W0ymwsGpZyMRWQfikn7q9,0.689,0.315,4,-8.918,1,0.0482,1.85e-05,0.116,0.529,75.513,159747,4,Spotify,The Pulse of Americana,Public 17
+The White Buffalo,Year Of The Dark Horse,Kingdom For A Fool,2tKyv5qRq8PTp0sGJ0vu06,0.614,0.426,9,-8.215,1,0.0261,0.00197,0.237,0.563,76.01,208053,4,Spotify,The Pulse of Americana,Public 17
+Nikki Lane,First High,First High,4WG91Pt9MkJs5gMHZECKfZ,0.71,0.604,11,-6.505,0,0.0417,0.0,0.19,0.338,119.877,187867,4,Spotify,The Pulse of Americana,Public 17
+Sunny War,No Reason,No Reason,37jwU53srb7CnhdoUPjTEY,0.516,0.798,11,-4.279,1,0.0266,0.0931,0.107,0.568,79.563,159493,4,Spotify,The Pulse of Americana,Public 17
+Emily Nenni,On The Ranch,In The Mornin’,18boKjkBe0r4TLYdpVxHfo,0.759,0.719,2,-5.605,1,0.0305,0.00653,0.114,0.52,111.02,161667,4,Spotify,The Pulse of Americana,Public 17
+Town Mountain,Lines in the Levee,Unsung Heroes,0w2PDgVUMnEbrtcIOJkIXj,0.566,0.242,6,-9.24,1,0.0276,0.0,0.0902,0.256,111.69,276800,4,Spotify,The Pulse of Americana,Public 17
+The Lone Bellow,Unicorn,Gold,4FhJPRWj8OB36Jk4CDlSY4,0.606,0.778,11,-6.222,1,0.0334,0.0,0.162,0.623,140.048,202360,4,Spotify,The Pulse of Americana,Public 17
+The Cactus Blossoms,One Day,Hey Baby,6kyUPFuPaaprlnKeVaQQMS,0.886,0.566,4,-8.965,1,0.0407,0.00209,0.101,0.966,134.836,170916,4,Spotify,The Pulse of Americana,Public 17
+Allison Russell,You're Not Alone [Feat. Brandi Carlile],You're Not Alone [Feat. Brandi Carlile],4ltCYG04Xhzv5cViM6mp16,0.32,0.438,0,-7.553,1,0.089,1.26e-05,0.101,0.465,184.212,309747,4,Spotify,The Pulse of Americana,Public 17
+Jonathan Tyler,Underground Forever,Rhinestone,7dHy8LL7YpI69ZtmfmI83n,0.634,0.73,10,-5.326,1,0.0297,6.57e-06,0.125,0.891,110.004,212909,4,Spotify,The Pulse of Americana,Public 17
+Seth Avett,Laughing River,Good Morning Coffee,6ic8f1Bzdq8hYoqUobU15F,0.808,0.617,7,-7.81,1,0.267,0.0456,0.643,0.634,95.129,226372,4,Spotify,The Pulse of Americana,Public 17
+Caamp,Lavender Days,The Otter,0zesU7Cq6UM582kMYC6J3E,0.488,0.71,8,-7.954,1,0.0368,5.04e-05,0.116,0.231,103.771,178080,4,Spotify,The Pulse of Americana,Public 17
+Flatland Cavalry,Mountain Song,Mountain Song,2mDdkeVuUsyIepwzLCxuu6,0.551,0.451,11,-10.683,1,0.03,0.259,0.117,0.19,91.962,249920,4,Spotify,The Pulse of Americana,Public 17
+Amy Ray,If It All Goes South,Joy Train,4w5iyFl701rTcsw8VFenfe,0.664,0.53,9,-9.013,1,0.0268,0.11,0.107,0.655,95.408,233840,4,Spotify,The Pulse of Americana,Public 17
+The War and Treaty,Lover's Game,Lover's Game,1SFK3eoJqXkmGvcfmdzWC1,0.393,0.943,6,-4.538,0,0.112,1.02e-06,0.381,0.466,141.86,169570,4,Spotify,The Pulse of Americana,Public 17
+Daniel Tashian,Night After Night,Night After Night,5CL6QLlz3pLtZg5T0EeNbS,0.678,0.537,1,-9.137,1,0.0313,0.0067,0.132,0.56,127.031,161667,4,Spotify,The Pulse of Americana,Public 17
+John Fullbright,Paranoid Heart,Paranoid Heart,3ZUsOcc2xcgSXDMWx1zned,0.63,0.64,4,-8.422,1,0.0365,0.000513,0.192,0.62,113.015,192671,4,Spotify,The Pulse of Americana,Public 17
+Heartless Bastards,Parted Ways (Acoustic Version),Parted Ways (Acoustic Version),4Xt5uvZALmrSKxcKNySPag,0.518,0.667,9,-5.253,1,0.0279,0.0285,0.122,0.505,123.509,303837,4,Spotify,The Pulse of Americana,Public 17
+Ray LaMontagne,I Was Born To Love You,I Was Born To Love You,3PG6V5yuFfo4APiovOQoRv,0.65,0.271,9,-11.081,1,0.0314,6.9e-05,0.196,0.21,78.036,265843,4,Spotify,The Pulse of Americana,Public 17
+Courtney Marie Andrews,Satellite,Satellite,5r882UNUUII5EKZ9rlVImU,0.511,0.55,4,-8.323,1,0.0324,0.0,0.206,0.285,77.038,174540,4,Spotify,The Pulse of Americana,Public 17
+Myron Elkins,Hands To Myself,Hands To Myself,6reRI1DvoOPCWJjHSpJADD,0.822,0.558,11,-8.683,1,0.0324,0.0,0.0775,0.89,108.666,197427,4,Spotify,The Pulse of Americana,Public 17
+Dr. John,Things Happen That Way,Holy Water,3uHKEi9VopbcnCdPu3Akbk,0.694,0.419,10,-8.17,1,0.0282,7.19e-06,0.107,0.686,84.205,204800,4,Spotify,The Pulse of Americana,Public 17
+Sunny Sweeney,Married Alone (feat. Vince Gill),Married Alone (feat. Vince Gill),0zvwzNNpHS4Z4cLk1KNOzD,0.534,0.28,8,-8.88,1,0.0294,3.84e-05,0.0942,0.191,123.805,254034,3,Spotify,The Pulse of Americana,Public 17
+The Heavy Heavy,Life and Life Only,Miles And Miles - Single Version,6xG16hC00oaRLRIY28PnGr,0.564,0.946,11,-6.078,1,0.0316,0.00253,0.641,0.956,148.158,220961,4,Spotify,The Pulse of Americana,Public 17
+Jill Barber,Instant Cash for Gold,Instant Cash for Gold,5KAiIOtmYxJlW6fIkgWWsH,0.571,0.378,2,-9.96,1,0.0281,3.02e-05,0.134,0.372,130.62,187492,4,Spotify,The Pulse of Americana,Public 17
+Andrew Bird,Inside Problems,Make a Picture,0H4b4uRUjtSjI91UYA2zSz,0.66,0.443,7,-10.031,1,0.0471,0.00959,0.094,0.71,154.877,205560,4,Spotify,The Pulse of Americana,Public 17
+Robert Plant,Raise The Roof,Searching For My Love,4r7q81d4NQGRPixkZWKR7e,0.636,0.635,10,-8.057,1,0.0256,0.000479,0.1,0.91,93.675,243160,4,Spotify,The Pulse of Americana,Public 17
+Madison Cunningham,Revealer,Anywhere,11s7r8ffgXRZreqvMVPACS,0.683,0.577,11,-9.971,0,0.0431,2.48e-05,0.135,0.522,97.004,228801,4,Spotify,The Pulse of Americana,Public 17
+Brit Taylor,Cabin in the Woods,Cabin in the Woods,4RdguY01mI6MQsmCxCHwYs,0.667,0.781,9,-4.566,1,0.048,0.00144,0.296,0.725,80.408,224493,4,Spotify,The Pulse of Americana,Public 17
+Various Artists,"Something Borrowed, Something New: A Tribute to John Anderson",Years,6BSPlPR4Pxz6WnUIBlrWWQ,0.641,0.574,6,-8.071,0,0.0336,5.92e-06,0.277,0.55,146.801,179013,4,Spotify,The Pulse of Americana,Public 17
+Jake Blount,The Downward Road,The Downward Road,5C9y3R4oWlShFgvNqr6egt,0.76,0.745,10,-7.267,0,0.091,3.31e-06,0.0709,0.756,103.029,216267,4,Spotify,The Pulse of Americana,Public 17
+Daniel Tashian,Tumble and Fall,Tumble and Fall,2Uh4NCdcI7sWNbWfhxw73Q,0.667,0.447,4,-10.18,1,0.0267,1.2e-05,0.119,0.512,103.987,206040,4,Spotify,The Pulse of Americana,Public 17
+Larkin Poe,Blood Harmony,Blood Harmony,7bIJA0XRb8iysNCyaZISB3,0.363,0.544,5,-9.785,0,0.0678,0.0256,0.13,0.272,82.562,245890,4,Spotify,The Pulse of Americana,Public 17
+American Aquarium,All I Needed,All I Needed,15TlVyJLpMysa7g9FSS0No,0.583,0.789,7,-5.998,1,0.028,0.0,0.331,0.656,126.993,179288,4,Spotify,The Pulse of Americana,Public 17
+Chris Kasper,Trickaroo,Trickaroo,4yjzbksh5X1nmKQ18hnVXA,0.734,0.736,2,-7.054,0,0.0375,0.308,0.135,0.849,106.009,199309,4,Spotify,The Pulse of Americana,Public 17
+Butch Walker,Butch Walker as... Glenn,Roll Away (Like a Stone),27XhypqVeaRNo4lf3CeM1k,0.332,0.925,9,-4.293,1,0.136,0.00012,0.125,0.302,153.801,286363,4,Spotify,The Pulse of Americana,Public 17
+Dr. John,End Of The Line [Feat. Aaron Neville],End Of The Line,2IwhGWbdmfMZMZ9JE4GiDN,0.689,0.633,5,-8.08,1,0.038,5.76e-06,0.0969,0.729,139.959,252533,4,Spotify,The Pulse of Americana,Public 17
+Jack White,Entering Heaven Alive,A Tip from You to Me,26YYcaZm37TALSISgpqdO2,0.5,0.776,9,-6.093,0,0.0371,0.000583,0.0921,0.512,152.047,162858,4,Spotify,The Pulse of Americana,Public 17
+Nathaniel Rateliff & The Night Sweats,The Future,I’m On Your Side,3rBi3Y2miFgPHm8OAcLRoL,0.578,0.735,6,-4.925,1,0.0347,0.083,0.111,0.429,104.975,198973,4,Spotify,The Pulse of Americana,Public 17
+The Band Of Heathens,Take to Begin,Take to Begin,3eTdCMvLkIBpcKKbjPfDAE,0.435,0.575,6,-7.528,1,0.0285,0.0,0.0963,0.411,157.294,267644,4,Spotify,The Pulse of Americana,Public 17
+Early James,Strange Time To Be Alive,If Heaven Is A Hotel,1GxhXZons5WjLrGmiQDBhE,0.909,0.438,7,-10.027,1,0.0635,0.0,0.0879,0.846,105.671,188520,4,Spotify,The Pulse of Americana,Public 17
+Ondara,An Alien in Minneapolis,An Alien In Minneapolis - Edit,5YhOK0XMfjtW5L42FODqzK,0.624,0.325,5,-16.217,0,0.0713,0.00128,0.0816,0.189,106.252,259607,4,Spotify,The Pulse of Americana,Public 17
+Bella White,The Way I Oughta Go,The Way I Oughta Go,2Ox7xfLVrJQR84VjdIY7pU,0.635,0.763,10,-4.457,1,0.0323,1.11e-05,0.067,0.707,137.155,250695,4,Spotify,The Pulse of Americana,Public 17
+Miko Marks,One More Night,One More Night,0NwmPeStDzdgT9wKxrfTvi,0.552,0.688,9,-7.027,1,0.0344,0.000883,0.195,0.894,151.983,226711,4,Spotify,The Pulse of Americana,Public 17
+Chris Shiflett,"Long, Long Year","Long, Long Year",0pLsmdx3085wYk87iU2A8T,0.542,0.639,9,-6.018,1,0.0277,0.0,0.138,0.558,129.991,259078,4,Spotify,The Pulse of Americana,Public 17
+Various Artists,"Something Borrowed, Something New: A Tribute to John Anderson",Low Dog Blues,07Xkk56uB6HfGekcA5N8wn,0.678,0.633,4,-6.601,1,0.0347,0.00188,0.134,0.73,110.602,227347,4,Spotify,The Pulse of Americana,Public 17
+Father John Misty,Chloë and the Next 20th Century,Goodbye Mr. Blue,7ydJaSdC8Au68eYgspNznY,0.506,0.47,2,-8.787,1,0.0284,0.608,0.125,0.477,104.967,300240,4,Spotify,The Pulse of Americana,Public 17
+Amanda Shires,Take It Like A Man,Hawk For The Dove,6vbukr6UTH4aLxraGiA6Ge,0.447,0.843,9,-5.1,0,0.0726,0.000426,0.0998,0.234,145.058,227465,4,Spotify,The Pulse of Americana,Public 17
+Futurebirds,Buffet Days,Buffet Days,1Y7XrntbqWMMR2Rm6HLnG4,0.488,0.631,6,-7.843,0,0.0275,0.0156,0.056,0.657,132.435,221787,4,Spotify,The Pulse of Americana,Public 17
+Wynonna,Other Side,Other Side,19kDyB6HprmUSzBvPbpkTl,0.738,0.415,2,-12.529,1,0.0327,0.00423,0.123,0.408,115.927,253973,4,Spotify,The Pulse of Americana,Public 17
+Old Crow Medicine Show,Paint This Town,Gloryland,6l45hb9DnSSjuS9EqFyHA5,0.542,0.694,7,-5.361,1,0.0271,1.66e-06,0.289,0.736,76.679,252160,4,Spotify,The Pulse of Americana,Public 17
+Caamp,Believe,Believe,0QFGZqqB1KDpOtyL3vXMXo,0.516,0.635,3,-8.024,1,0.0347,0.00187,0.0674,0.704,150.067,195107,4,Spotify,The Pulse of Americana,Public 17
+Butch Walker,Holy Water Hangover,Holy Water Hangover,0eSwwBWKoxbAje61SkGhKn,0.545,0.731,2,-4.55,1,0.0386,0.0,0.0789,0.345,125.569,202776,4,Spotify,The Pulse of Americana,Public 17
+Sarah Shook & the Disarmers,Nightroamer,I Got This,3KMrapCsGVYo4LtT6vHjn2,0.693,0.849,7,-4.888,1,0.0263,0.0,0.456,0.917,106.012,179027,4,Spotify,The Pulse of Americana,Public 17
+Tré Burt,Know Your Demons,Know Your Demons,3AonChVGbKzTPGpkiR4Awe,0.65,0.722,10,-6.077,1,0.0299,0.0,0.132,0.811,119.349,206773,4,Spotify,The Pulse of Americana,Public 17
+First Aid Kit,Angel,Angel,0efvdBK1PLP3F1SDzf27JL,0.623,0.728,11,-4.389,0,0.0258,0.0,0.192,0.674,116.032,219405,4,Spotify,The Pulse of Americana,Public 17
+Dawes,Misadventures Of Doomscroller,Comes In Waves,4tP7SjS89hevcazxmqshtm,0.596,0.588,2,-7.517,1,0.0503,0.0223,0.218,0.684,114.484,330653,4,Spotify,The Pulse of Americana,Public 17
+Watkins Family Hour,(Remember Me) I'm the One Who Loves You,(Remember Me) I'm the One Who Loves You,4DSG3Jl9MHt7EQRR9louzF,0.581,0.439,0,-8.645,1,0.0313,7.83e-05,0.262,0.721,122.752,180173,4,Spotify,The Pulse of Americana,Public 17
+S.G. Goodman,All My Love Is Coming Back To Me,All My Love Is Coming Back To Me,3Nc53UVSUBvYjuhuNouvfi,0.549,0.725,11,-6.953,1,0.0303,0.00101,0.114,0.577,147.988,209126,4,Spotify,The Pulse of Americana,Public 17
+Will Hoge,Wings on My Shoes,John Prine's Cadillac,7qvoArGqkTh9Fi5P1orTde,0.528,0.709,9,-6.627,1,0.0401,0.0,0.0786,0.427,140.046,201923,4,Spotify,The Pulse of Americana,Public 17
+Kelsey Waldon,Simple as Love,Simple as Love,1eRGo8yog1epyUUgCU5FqP,0.64,0.348,11,-9.732,1,0.0312,1.16e-06,0.127,0.205,71.988,207321,1,Spotify,The Pulse of Americana,Public 17
+Joshua Hedley,Neon Blue,Broke Again,7etPAMAqtcun5pn5uW3zbC,0.633,0.932,5,-4.583,0,0.0624,5.24e-05,0.0507,0.966,164.046,151931,4,Spotify,The Pulse of Americana,Public 17
+Nicki Bluhm,Avondale Drive,Friends (How To Do It),0JYYCDbiTr9xgrdS0F3S1A,0.651,0.666,2,-7.812,1,0.0988,0.0,0.656,0.704,123.965,214182,4,Spotify,The Pulse of Americana,Public 17
+Kyshona,Out Loud,Out Loud,6xF4aRS6U3r7ZWIXUEkPMG,0.37,0.305,7,-9.939,1,0.0319,0.0,0.108,0.229,77.432,260413,4,Spotify,The Pulse of Americana,Public 17
+Calexico,El Mirador,Harness the Wind,3yCuPXH95r8oCucf2MRYXH,0.515,0.74,5,-7.732,1,0.0267,0.941,0.115,0.585,98.013,174093,4,Spotify,The Pulse of Americana,Public 17
+Taylor Swift,Carolina (From The Motion Picture “Where The Crawdads Sing”),Carolina - From The Motion Picture “Where The Crawdads Sing”,4axSuOg3BqsowKjRpj59RU,0.476,0.189,11,-13.777,0,0.0329,4.52e-06,0.254,0.324,115.851,264439,4,Spotify,The Pulse of Americana,Public 17
+Wilco,Falling Apart (Right Now),Falling Apart (Right Now),2ekADzomcIrK55TRhpCDVF,0.549,0.923,5,-6.555,1,0.108,0.000701,0.312,0.725,153.313,196780,4,Spotify,The Pulse of Americana,Public 17
+Mavis Staples,Carry Me Home,The Weight,2r0O6Cdu64Op0Hn0C1wddm,0.543,0.872,10,-6.848,1,0.0617,2.25e-06,0.69,0.598,75.23,356090,4,Spotify,The Pulse of Americana,Public 17
+Mary Gauthier,Dark Enough to See the Stars,Fall Apart World,4iT2uyC9Kw9BRPuixEqZxS,0.454,0.55,9,-8.791,1,0.0274,0.418,0.112,0.706,142.737,277223,4,Spotify,The Pulse of Americana,Public 17
+Arlo McKinley,To Die For,Stealing Dark from the Night Sky,11srUJtGRAudXAKhnjeSRS,0.609,0.395,9,-9.38,1,0.0252,0.008,0.0988,0.361,111.675,287166,4,Spotify,The Pulse of Americana,Public 17
+Allison Russell,Outside Child,Persephone,7m4pa6QJVZ5T4vf33pvLTm,0.585,0.404,2,-8.188,1,0.0477,6.42e-06,0.121,0.43,125.267,262680,4,Spotify,The Pulse of Americana,Public 17
+Jamestown Revival,Young Man,Slow It Down,3JqWFMXFdMXUS1mwpfOKHX,0.626,0.555,7,-7.391,1,0.0319,0.000245,0.103,0.85,145.933,222320,4,Spotify,The Pulse of Americana,Public 17
+Whiskey Myers,John Wayne,John Wayne,0gjUYiqimLvi6QxJ0Od2Dg,0.638,0.683,6,-5.889,0,0.0275,0.000645,0.178,0.615,109.051,295776,4,Spotify,The Pulse of Americana,Public 17
+Kevin Morby,This Is A Photograph,"Bittersweet, TN",0merkJ9dgvkemPaR3urDWs,0.55,0.37,0,-9.017,1,0.0272,0.00225,0.107,0.289,107.027,253888,4,Spotify,The Pulse of Americana,Public 17
+Keb' Mo',Good To Be...,Good To Be (Home Again),6Ien9KiFefrlQAQlZUruZP,0.802,0.479,9,-7.933,1,0.0531,0.00547,0.111,0.665,90.015,210800,4,Spotify,The Pulse of Americana,Public 17
+Watkins Family Hour,Hypnotized,Hypnotized,2lwVMZN6J8Isuiwv6ugxlN,0.605,0.469,6,-8.49,0,0.0586,1.74e-05,0.0891,0.342,153.122,244320,4,Spotify,The Pulse of Americana,Public 17
+Jonathan Terrell,I Know,I Know,6rYnkkiwRDrJlNnkV1jc0R,0.607,0.73,7,-7.119,1,0.0256,2.02e-05,0.0856,0.563,130.074,254402,4,Spotify,The Pulse of Americana,Public 17
+Tedeschi Trucks Band,I Am The Moon: I. Crescent,Hear My Dear,7znaTjqonnsPcuQpOcQ7nT,0.219,0.58,4,-7.579,0,0.043,0.0852,0.119,0.32,184.312,334600,3,Spotify,The Pulse of Americana,Public 17
+Aoife O'Donovan,Age of Apathy,Passengers,58GSV5f6YqrgpWOpAku2Ic,0.627,0.346,2,-15.77,1,0.0321,0.136,0.116,0.418,133.002,212256,4,Spotify,The Pulse of Americana,Public 17
+Taj Mahal,GET ON BOARD,Hooray Hooray,5kNEJJmeAV6e97ScR40e0q,0.518,0.596,7,-9.053,1,0.0304,0.000121,0.361,0.768,136.828,259947,4,Spotify,The Pulse of Americana,Public 17
+Drive-By Truckers,Welcome 2 Club XIII,Forged In Hell And Heaven Sent,4YzjGUn7KgL2w5d89DeIV0,0.493,0.698,0,-7.457,1,0.0303,1.01e-05,0.188,0.457,91.576,285867,4,Spotify,The Pulse of Americana,Public 17
+Leon Timbo,"Lovers And Fools, Vol. 2",Struggle,6SAeWIxjMvNkzElv4cz43s,0.52,0.824,11,-4.79,1,0.0805,0.0,0.636,0.667,93.086,280416,4,Spotify,The Pulse of Americana,Public 17
+John Moreland,Claim Your Prize,Claim Your Prize,6xzKyJSvApqLTlBIYDM3Jb,0.731,0.444,0,-9.709,1,0.031,0.0181,0.488,0.533,134.004,285261,4,Spotify,The Pulse of Americana,Public 17
+Shane Smith & the Saints,Hummingbird,Hummingbird,1mLZIGyDYLUtQ3HYhyYnJy,0.264,0.631,9,-7.703,1,0.0326,0.00154,0.0663,0.0594,141.547,285525,3,Spotify,The Pulse of Americana,Public 17
+Adia Victoria,In The Pines,In The Pines,4gOHmHKTn63012ROseKHvR,0.507,0.315,9,-12.005,1,0.037,0.00493,0.0989,0.119,137.905,217467,4,Spotify,The Pulse of Americana,Public 17
+Angel Olsen,Big Time,Big Time,1K2Hql13Y6fcOSy2Y15qNm,0.292,0.521,10,-5.309,1,0.0363,0.00124,0.0959,0.306,203.727,247293,3,Spotify,The Pulse of Americana,Public 17
+Parker Gispert,Golden Years,Golden Years,4fQXOpDKcxHWgYXmincsq8,0.44,0.656,7,-7.986,1,0.0313,0.0143,0.149,0.886,131.093,217893,4,Spotify,The Pulse of Americana,Public 17
+John Doe,Fables in a Foreign Land,Never Coming Back,4bg1Z7DB1mmqsTxjhoTXxR,0.47,0.717,4,-10.25,0,0.0669,2.8e-05,0.12,0.729,79.126,205151,4,Spotify,The Pulse of Americana,Public 17
+Gillian Welch,I Just Came Home To Count The Memories,I Just Came Home To Count The Memories,6dP99TIwVsyUIJOCfvGpYl,0.422,0.166,11,-12.409,1,0.0304,6.29e-05,0.12,0.352,73.661,246067,4,Spotify,The Pulse of Americana,Public 17
+Jonathan Terrell,Better For You,Better For You,0ZHstdIl6lbENFFj5A9R8C,0.437,0.34,2,-8.276,1,0.0296,3.24e-05,0.122,0.266,106.671,202631,4,Spotify,The Pulse of Americana,Public 17
+Lera Lynn,Something More Than Love,Something More Than Love,5TyRTaciFtVQE4wXwBnIpw,0.354,0.511,8,-10.298,1,0.0374,0.0506,0.185,0.147,78.948,187533,4,Spotify,The Pulse of Americana,Public 17

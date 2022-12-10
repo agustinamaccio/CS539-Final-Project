@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Guns N' Roses,November Rain / Double Talkin' Jive / You Could Be Mine,November Rain - 2022 Version,5O4Gs450ApGmBTGypjWDeQ,0.252,0.797,11,-3.877,1,0.0328,0.424,0.344,0.199,77.972,535733,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Greatest Hits Ever,Gimme Shelter,1fvNFTBmbWWxZQuN4jMseK,0.634,0.63,1,-8.277,0,0.031,0.0374,0.169,0.489,118.642,270773,4,Spotify,Rock Classics,Omkar Bharambe
+AC/DC,Back In Black,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.00965,0.0828,0.763,188.386,255493,4,Spotify,Rock Classics,Omkar Bharambe
+Radiohead,Pablo Honey,Creep,70LcF31zb1H0PyJoS1Sx1r,0.515,0.43,7,-9.935,1,0.0372,0.000133,0.129,0.104,91.844,238640,4,Spotify,Rock Classics,Omkar Bharambe
+Led Zeppelin,Led Zeppelin II (1994 Remaster),Whole Lotta Love - 1990 Remaster,0hCB0YR03f6AmQaHbwWDe8,0.412,0.902,9,-11.6,1,0.405,0.131,0.405,0.422,89.74,333893,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Rock Now,Livin' On A Prayer,0otwj1jVfc4vl7d7OSpgDt,0.527,0.89,0,-3.335,1,0.0338,0.000162,0.222,0.818,122.494,250627,4,Spotify,Rock Classics,Omkar Bharambe
+ZZ Top,Tres Hombres (Expanded 2006 Remaster),La Grange - 2005 Remaster,70YvYr2hGlS01bKRIho1HM,0.545,0.64,4,-9.937,0,0.224,0.0304,0.196,0.606,80.544,230480,4,Spotify,Rock Classics,Omkar Bharambe
+Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.000494,0.0575,0.609,147.125,391376,4,Spotify,Rock Classics,Omkar Bharambe
+Van Halen,1984 (Remastered),Hot for Teacher - 2015 Remaster,6QDbGdbJ57Mtkflsg42WV5,0.552,0.947,2,-4.671,1,0.15,0.00025,0.0637,0.465,127.631,282747,4,Spotify,Rock Classics,Omkar Bharambe
+Jimi Hendrix,Electric Ladyland,All Along the Watchtower,2aoo2jlRnM3A0NyLQqMN2f,0.438,0.805,8,-6.237,1,0.0624,5.69e-05,0.0842,0.564,113.253,240800,4,Spotify,Rock Classics,Omkar Bharambe
+KISS,Smashes Thrashes & Hits,Detroit Rock City,3uz0O62HqYoyRiWZjS61KK,0.479,0.847,0,-11.036,0,0.0984,0.000206,0.144,0.317,90.654,228560,4,Spotify,Rock Classics,Omkar Bharambe
+Pink Floyd,Wish You Were Here,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,1,0.0414,0.0114,0.832,0.375,122.861,334744,4,Spotify,Rock Classics,Omkar Bharambe
+Metallica,Master of Puppets (Remastered Deluxe Box Set),Master of Puppets (Remastered),54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0,0.035,0.421,0.154,0.562,105.25,515387,4,Spotify,Rock Classics,Omkar Bharambe
+AC/DC,Highway to Hell,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.00158,0.156,0.423,115.728,208400,4,Spotify,Rock Classics,Omkar Bharambe
+Guns N' Roses,Use Your Illusion I,Don't Cry (Original),2N2yrmodOnVF10mKvItC9P,0.456,0.59,11,-8.638,1,0.0327,0.00379,0.104,0.243,124.635,283733,4,Spotify,Rock Classics,Omkar Bharambe
+Nirvana,Nevermind (Remastered),Smells Like Teen Spirit,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,1,0.0564,0.000173,0.106,0.72,116.761,301920,4,Spotify,Rock Classics,Omkar Bharambe
+Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),I Love Rock 'N Roll,2Cdvbe2G4hZsnhNMKyGrie,0.535,0.716,4,-5.025,1,0.0431,0.0,0.659,0.901,94.379,175173,4,Spotify,Rock Classics,Omkar Bharambe
+Aerosmith,Aerosmith,Dream On,5MxNLUsfh7uzROypsoO5qe,0.307,0.433,1,-10.057,1,0.029,9.08e-05,0.332,0.224,160.9,266960,4,Spotify,Rock Classics,Omkar Bharambe
+Thin Lizzy,Jailbreak (Deluxe Edition),The Boys Are Back In Town,43DeSV93pJPT4lCZaWZ6b1,0.445,0.706,8,-9.803,1,0.0461,0.000252,0.205,0.768,80.823,266720,4,Spotify,Rock Classics,Omkar Bharambe
+Journey,Escape (Bonus Track Version),Don't Stop Believin',4bHsxqR3GMrXTxEPLuK5ue,0.5,0.748,4,-9.072,1,0.0363,0.0,0.447,0.514,118.852,250987,4,Spotify,Rock Classics,Omkar Bharambe
+The White Stripes,Elephant,Seven Nation Army,3dPQuX8Gs42Y7b454ybpMR,0.743,0.446,4,-7.807,0,0.0683,0.118,0.337,0.278,123.596,232107,4,Spotify,Rock Classics,Omkar Bharambe
+David Bowie,"""Heroes"" (2017 Remaster)",Heroes - 2017 Remaster,7Jh1bpe76CNTCgdgAdBw4Z,0.489,0.758,7,-6.491,1,0.0297,0.49,0.092,0.435,112.113,371413,4,Spotify,Rock Classics,Omkar Bharambe
+Rush,Moving Pictures (2011 Remaster),Tom Sawyer,3QZ7uX97s82HFYSmQUAN1D,0.536,0.901,9,-7.211,1,0.0374,0.0186,0.06,0.666,87.559,276880,4,Spotify,Rock Classics,Omkar Bharambe
+Lenny Kravitz,Are You Gonna Go My Way,Are You Gonna Go My Way,45Ia1U4KtIjAPPU7Wv1Sea,0.619,0.67,11,-10.322,0,0.0353,0.0109,0.331,0.777,129.269,211933,4,Spotify,Rock Classics,Omkar Bharambe
+Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),Killing In The Name,59WN2psjkt1tyaxjspN8fp,0.466,0.833,7,-4.215,1,0.304,0.0,0.0327,0.661,88.785,313573,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,NOW That's What I Call Classic Rock,Baba O'Riley,3qjs5QlCXa2b9QMGNsbSiI,0.396,0.782,5,-6.901,1,0.0401,0.102,0.406,0.149,117.168,297973,4,Spotify,Rock Classics,Omkar Bharambe
+Bruce Springsteen,The River,Hungry Heart,1KsI8NEeAna8ZIdojI3FiT,0.641,0.894,8,-7.41,1,0.0273,0.009,0.157,0.972,109.823,199453,4,Spotify,Rock Classics,Omkar Bharambe
+TOTO,Toto,Hold the Line,4aVuWgvD0X63hcOCnZtNFA,0.473,0.898,6,-4.797,0,0.0561,0.0618,0.173,0.808,96.556,235547,4,Spotify,Rock Classics,Omkar Bharambe
+Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,0G21yYKMZoHa30cYVi1iA8,0.453,0.987,8,-4.485,1,0.0889,0.283,0.268,0.316,123.544,273480,4,Spotify,Rock Classics,Omkar Bharambe
+Buffalo Springfield,Buffalo Springfield,For What It's Worth,1qRA5BS78u3gME0loMl9AA,0.653,0.519,2,-10.164,1,0.0497,0.0209,0.101,0.822,98.883,153693,4,Spotify,Rock Classics,Omkar Bharambe
+Black Sabbath,The Ultimate Collection,Paranoid,4MSqgoFS7e8LpsxeeMMVMu,0.429,0.631,4,-11.514,0,0.0769,0.00411,0.175,0.376,162.734,168440,4,Spotify,Rock Classics,Omkar Bharambe
+Queen,The Game (Deluxe Remastered Version),Another One Bites The Dust - Remastered 2011,57JVGBtBLCfHw2muk5416J,0.933,0.528,5,-6.472,0,0.162,0.329,0.163,0.756,109.975,214653,4,Spotify,Rock Classics,Omkar Bharambe
+James Gang,Rides Again,Funk #49,5h6SovHOYpIMlAkafxcbq3,0.652,0.94,2,-7.927,1,0.0776,0.782,0.0567,0.72,91.242,246293,4,Spotify,Rock Classics,Omkar Bharambe
+Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Under the Bridge,3d9DChrdc6BOeFsbrZ3Is0,0.559,0.345,4,-13.496,1,0.0459,0.000105,0.141,0.458,84.581,264307,4,Spotify,Rock Classics,Omkar Bharambe
+Foo Fighters,The Colour And The Shape,Everlong,5UWwZ5lm5PKu6eKsHAGxOk,0.413,0.881,11,-5.541,0,0.0367,0.000308,0.0805,0.364,158.066,250547,4,Spotify,Rock Classics,Omkar Bharambe
+Nirvana,Nevermind (Remastered),Something In The Way,1nFtiJxYdhtFfFtfXBv06s,0.427,0.201,8,-13.044,1,0.0317,0.263,0.109,0.0668,105.218,232147,4,Spotify,Rock Classics,Omkar Bharambe
+Foghat,Slow Ride / Save Your Loving (For Me),Slow Ride,4MYb7NWLwXNDB7bYs3HeX8,0.493,0.586,2,-13.916,1,0.046,0.00106,0.102,0.656,113.618,232533,4,Spotify,Rock Classics,Omkar Bharambe
+The Rolling Stones,Out Of Our Heads,(I Can't Get No) Satisfaction - Mono Version,2PzU4IB8Dr6mxV3lHuaG34,0.723,0.863,2,-7.89,1,0.0338,0.0317,0.128,0.931,136.302,222813,4,Spotify,Rock Classics,Omkar Bharambe
+Fleetwood Mac,Rumours (Super Deluxe),Dreams - 2004 Remaster,0ofHAoxe9vBkTCp2UQIavz,0.828,0.492,0,-9.744,1,0.0276,0.00428,0.128,0.789,120.151,257800,4,Spotify,Rock Classics,Omkar Bharambe
+Metallica,Metallica (Remastered),Enter Sandman (Remastered),3VqHuw0wFlIHcIPWkhIbdQ,0.566,0.834,6,-8.412,0,0.0298,0.008,0.0625,0.621,123.296,331560,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Classic Country Hits,Sweet Home Alabama,1jhQh6vMo4tDoa18N8Ghcq,0.614,0.724,7,-7.521,1,0.0247,0.000256,0.146,0.902,97.863,285373,4,Spotify,Rock Classics,Omkar Bharambe
+Creedence Clearwater Revival,Pendulum (Expanded Edition),Have You Ever Seen The Rain,2LawezPeJhN4AWuSB0GtAU,0.741,0.697,0,-7.028,1,0.0277,2.28e-05,0.133,0.774,116.109,160133,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Capodanno 80's Party,Every Breath You Take,3q6iKaLcyppKggDzS9RucN,0.823,0.457,1,-9.722,1,0.035,0.00488,0.0698,0.709,117.392,251760,4,Spotify,Rock Classics,Omkar Bharambe
+Twisted Sister,Stay Hungry,I Wanna Rock,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,1,0.0738,0.0123,0.355,0.671,106.244,179760,4,Spotify,Rock Classics,Omkar Bharambe
+The Kinks,BBC Sessions: 1964-1977,"You Really Got Me - Live at The Playhouse Theatre, 1964",1pUWRUAOD1aSxHWbJuDBNR,0.588,0.922,7,-6.573,1,0.0374,1.34e-06,0.0835,0.968,136.866,128173,4,Spotify,Rock Classics,Omkar Bharambe
+Rush,Moving Pictures (2011 Remaster),Limelight,0K6yUnIKNsFtfIpTgGtcHm,0.581,0.854,1,-8.485,0,0.0428,0.0013,0.111,0.788,131.18,259840,4,Spotify,Rock Classics,Omkar Bharambe
+Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Black Dog - Remaster,3qT4bUD1MaWpGrTwcvguhb,0.437,0.864,4,-7.842,0,0.0904,0.0314,0.242,0.749,81.394,295387,4,Spotify,Rock Classics,Omkar Bharambe
+The Clash,London Calling (Remastered),London Calling - Remastered,5jzma6gCzYtKB1DbEwFZKH,0.651,0.801,0,-7.34,1,0.0514,0.0,0.0825,0.776,133.769,200480,4,Spotify,Rock Classics,Omkar Bharambe
+Guns N' Roses,Appetite For Destruction,Paradise City,6eN1f9KNmiWEhpE2RhQqB5,0.268,0.98,11,-5.958,1,0.103,0.00709,0.182,0.395,100.315,405600,4,Spotify,Rock Classics,Omkar Bharambe
+The Beatles,Abbey Road (Remastered),Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,0.533,0.376,9,-11.913,0,0.0393,0.248,0.0926,0.187,165.007,259947,4,Spotify,Rock Classics,Omkar Bharambe
+The Animals,The Best Of The Animals,House Of The Rising Sun,61Q9oJNd9hJQFhSDh6Qlap,0.315,0.534,9,-7.552,0,0.031,0.108,0.101,0.283,116.891,269720,3,Spotify,Rock Classics,Omkar Bharambe
+Jimi Hendrix,Are You Experienced,Purple Haze,0wJoRiX5K5BxlqZTolB2LD,0.533,0.905,2,-5.27,1,0.0754,0.578,0.0698,0.486,108.9,170813,4,Spotify,Rock Classics,Omkar Bharambe
+Dire Straits,Dire Straits,Sultans of Swing,6cr6UDpkjEaMQ80OjWqEBQ,0.73,0.868,5,-7.325,1,0.0288,0.0661,0.318,0.923,148.217,350400,4,Spotify,Rock Classics,Omkar Bharambe
+Oasis,Wonderwall,Wonderwall,7dPd3dx4ipBe10xKuhj9eY,0.41,0.854,2,-5.609,1,0.0366,0.0,0.133,0.456,174.584,258907,4,Spotify,Rock Classics,Omkar Bharambe
+Blondie,One Way Or Another,One Way Or Another - Remastered/2001,5Th6EdNVhxp0TPX41ZLZk6,0.45,0.877,9,-6.403,1,0.0532,4.95e-05,0.0699,0.896,162.477,212707,4,Spotify,Rock Classics,Omkar Bharambe
+Blur,Blur (Special Edition),Song 2 - 2012 Remaster,1FTSo4v6BOZH9QxKc3MbVM,0.674,0.789,8,-6.903,1,0.0676,0.00708,0.0753,0.918,129.802,121160,4,Spotify,Rock Classics,Omkar Bharambe
+Nirvana,In Utero - 20th Anniversary - Deluxe Edition,Heart-Shaped Box,11LmqTE2naFULdEP94AUBa,0.256,0.641,1,-10.283,1,0.0552,0.0329,0.0853,0.382,203.006,281160,4,Spotify,Rock Classics,Omkar Bharambe
+Electric Light Orchestra,Out of the Blue,Mr. Blue Sky,2RlgNHKcydI9sayD2Df2xp,0.388,0.338,10,-10.054,1,0.0329,3.73e-06,0.248,0.478,177.765,303373,4,Spotify,Rock Classics,Omkar Bharambe
+Tom Petty,Full Moon Fever,Free Fallin',5tVA6TkbaAH9QMITTQRrNv,0.623,0.449,5,-13.333,1,0.0253,0.0,0.0613,0.572,84.383,256000,4,Spotify,Rock Classics,Omkar Bharambe
+Stevie Nicks,Bella Donna (Deluxe Edition),Edge of Seventeen - 2016 Remaster,5LNiqEqpDc8TuqPy79kDBu,0.591,0.804,0,-7.299,1,0.0454,5.98e-06,0.0818,0.658,111.457,329413,4,Spotify,Rock Classics,Omkar Bharambe
+Thin Lizzy,Jailbreak (Deluxe Edition),Jailbreak,4qbiCq2xkNPyojuZFeNeqx,0.616,0.761,3,-9.199,1,0.126,0.0025,0.374,0.708,145.074,240600,4,Spotify,Rock Classics,Omkar Bharambe
+Ramones,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Blitzkrieg Bop - 2016 Remaster,4KcH1ZRV2W1q7Flq0QqC76,0.385,0.783,9,-2.533,1,0.233,0.47,0.108,0.902,176.701,134467,4,Spotify,Rock Classics,Omkar Bharambe
+Green Day,Dookie,Basket Case,6L89mwZXSOwYl76YXfX13s,0.442,0.943,3,-3.205,1,0.0602,8.71e-06,0.091,0.781,85.064,181533,4,Spotify,Rock Classics,Omkar Bharambe
+Van Halen,The Collection,Jump - 2015 Remaster,5FqYA8KfiwsQvyBI4IamnY,0.572,0.835,0,-6.219,1,0.0317,0.000377,0.0702,0.795,129.981,241600,4,Spotify,Rock Classics,Omkar Bharambe
+Led Zeppelin,Led Zeppelin IV (Remaster),Stairway to Heaven - Remaster,0RO9W1xJoUEpq5MEelddFb,0.338,0.34,9,-12.049,0,0.0339,0.0032,0.116,0.197,82.433,482830,4,Spotify,Rock Classics,Omkar Bharambe
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Starman - 2012 Remaster,0pQskrTITgmCMyr85tb9qq,0.486,0.449,5,-10.298,1,0.0267,2.23e-06,0.54,0.549,100.456,254293,4,Spotify,Rock Classics,Omkar Bharambe
+Blue Öyster Cult,Spectres,Godzilla,6N0AnkdDFZUetw8KAGHV7e,0.373,0.869,4,-7.719,1,0.0554,7.76e-06,0.605,0.696,184.024,221400,4,Spotify,Rock Classics,Omkar Bharambe
+Prince,Purple Rain,Purple Rain,54X78diSLoUDI3joC2bjMz,0.367,0.452,10,-10.422,1,0.0307,0.00228,0.689,0.189,113.066,520787,4,Spotify,Rock Classics,Omkar Bharambe
+Queen,Queen 40 Limited Edition Collector's Box Set,Bohemian Rhapsody - Remastered 2011,2GAIycsMaDVtMtdvxzR2xI,0.392,0.402,0,-9.961,0,0.0536,0.0,0.243,0.228,143.883,354320,4,Spotify,Rock Classics,Omkar Bharambe
+The Go-Go's,Beauty And The Beat (30th Anniversary Deluxe Edition),We Got The Beat - 2011 Remaster,5o37x6LpNSec4jSfPIChsQ,0.595,0.996,2,-3.418,1,0.0599,0.0345,0.0351,0.376,152.049,151107,4,Spotify,Rock Classics,Omkar Bharambe
+U2,The Joshua Tree (Super Deluxe),With Or Without You - Remastered,6ADSaE87h8Y3lccZlBJdXH,0.54,0.429,2,-11.822,1,0.0285,0.355,0.141,0.113,110.171,295516,4,Spotify,Rock Classics,Omkar Bharambe
+Fleetwood Mac,Tango In the Night (Deluxe Edition),Everywhere - 2017 Remaster,254bXAqt3zP6P50BdQvEsq,0.73,0.487,4,-10.991,1,0.0303,0.01,0.0852,0.731,114.965,226653,4,Spotify,Rock Classics,Omkar Bharambe
+Heart,Dreamboat Annie,Crazy On You,5zH710lFSLtkHbMkslLDjR,0.427,0.459,9,-12.442,0,0.0332,0.000103,0.132,0.383,129.878,293440,4,Spotify,Rock Classics,Omkar Bharambe
+Mötley Crüe,Greatest Hits,Kickstart My Heart,5ikj2Db37JYXL6RW5cTFWP,0.465,0.977,7,-3.839,0,0.175,0.00298,0.201,0.233,89.535,284027,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Halloween Jams 2020,Zombie,1ybwx3USZGwoSEtenDcMvd,0.252,0.738,7,-5.326,1,0.0446,0.000497,0.375,0.256,165.187,307440,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Yacht Rock Classics,More Than a Feeling,2s6OFCwx6qahq9vNIDhwxa,0.377,0.681,7,-8.039,1,0.0298,0.0023,0.0504,0.285,108.789,285133,4,Spotify,Rock Classics,Omkar Bharambe
+Elton John,Goodbye Yellow Brick Road (Remastered),Saturday Night’s Alright (For Fighting) - Remastered 2014,12yHvSYFXI7PGzNecUvIDu,0.513,0.979,0,-6.362,1,0.0425,0.0951,0.0906,0.94,152.875,295466,4,Spotify,Rock Classics,Omkar Bharambe
+Phil Collins,Face Value (Deluxe Editon),In The Air Tonight - 2015 Remastered,18AXbzPzBS8Y3AkgSxzJPb,0.446,0.239,0,-13.945,1,0.0316,4.1e-06,0.0697,0.298,189.507,336453,4,Spotify,Rock Classics,Omkar Bharambe
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,Rock Classics,Omkar Bharambe
+Pretenders,Learning to Crawl (Expanded & Remastered),Back on the Chain Gang - 2007 Remaster,4cMHCRLPNoEbpnl2rz6GS9,0.598,0.901,2,-6.081,1,0.0359,0.0401,0.178,0.814,153.24,231120,4,Spotify,Rock Classics,Omkar Bharambe
+David Bowie,ChangesOneBowie,Rebel Rebel - 2016 Remaster,1zESgGfpyvocCGZexz3jQL,0.63,0.861,9,-10.493,1,0.0486,0.0,0.305,0.485,126.017,273680,4,Spotify,Rock Classics,Omkar Bharambe
+Jimi Hendrix,Electric Ladyland,Crosstown Traffic,1ntxpzIUbSsizvuAy6lTYY,0.486,0.963,0,-5.586,0,0.129,2.39e-06,0.158,0.533,113.133,146573,4,Spotify,Rock Classics,Omkar Bharambe
+Guns N' Roses,Use Your Illusion I,Live And Let Die,0rFWuqFgHAfuzE8uSB9TWR,0.262,0.777,11,-8.671,1,0.0632,0.113,0.12,0.264,152.5,182733,4,Spotify,Rock Classics,Omkar Bharambe
+The Doors,The Doors,Break on Through (To the Other Side),6ToM0uwxtPKo9CMpbPGYvM,0.421,0.751,9,-9.584,1,0.0472,0.0,0.17,0.789,89.839,145867,4,Spotify,Rock Classics,Omkar Bharambe
+Bruce Springsteen,Born In The U.S.A.,Born in the U.S.A.,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,1,0.061,7.75e-05,0.1,0.584,122.093,278680,4,Spotify,Rock Classics,Omkar Bharambe
+The Verve,Urban Hymns (Remastered 2016),Bitter Sweet Symphony,57iDDD9N9tTWe75x6qhStw,0.356,0.917,9,-6.006,1,0.0479,0.0,0.406,0.518,171.176,357267,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Game Day - Football,Won't Get Fooled Again - Original Album Version,3U8bRuhFKNnPqH96TB0IN9,0.684,0.92,9,-6.271,1,0.055,0.344,0.0715,0.214,135.029,511400,4,Spotify,Rock Classics,Omkar Bharambe
+Billy Idol,Billy Idol,White Wedding - Pt. 1,1gzIbdFnGJ226LTl0Cn2SX,0.673,0.814,9,-5.411,1,0.0367,0.00293,0.343,0.728,147.193,252200,4,Spotify,Rock Classics,Omkar Bharambe
+Rush,Permanent Waves,The Spirit Of Radio,4e9hUiLsN4mx61ARosFi7p,0.365,0.924,4,-7.066,1,0.0488,0.000254,0.423,0.632,135.811,296467,4,Spotify,Rock Classics,Omkar Bharambe
+Kansas,Leftoverture (Expanded Edition),Carry on Wayward Son,4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,1,0.032,8.88e-05,0.446,0.793,126.755,323000,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Best Male Rock Singers,Mr. Brightside,25vf0eCrswI3GcuMH4fL3R,0.344,0.931,1,-3.759,1,0.0783,0.0,0.0903,0.251,148.104,223973,4,Spotify,Rock Classics,Omkar Bharambe
+Pixies,Surfer Rosa,Where Is My Mind? - Remastered,7wCmS9TTVUcIhRalDYFgPy,0.519,0.441,4,-14.178,1,0.0353,0.000453,0.076,0.25,81.334,234973,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,70s Rock,Rock And Roll All Nite,1HJGkp8EUaC0uVr2ftWsOR,0.54,0.926,1,-6.205,1,0.162,0.0,0.651,0.686,144.8,175853,4,Spotify,Rock Classics,Omkar Bharambe
+The Strokes,Is This It,Last Nite,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,1,0.0296,0.000137,0.0975,0.79,104.061,193373,4,Spotify,Rock Classics,Omkar Bharambe
+Pat Benatar,Crimes Of Passion,Hit Me With Your Best Shot,0vOkmmJEtjuFZDzrQSFzEE,0.741,0.58,4,-9.05,1,0.0304,3.31e-05,0.212,0.944,127.402,171267,4,Spotify,Rock Classics,Omkar Bharambe
+Queen,Greatest Hits II,Under Pressure - Remastered 2011,2aSFLiDPreOVP6KHiWk4lF,0.663,0.712,2,-7.268,1,0.0479,0.0,0.0804,0.527,113.439,236520,4,Spotify,Rock Classics,Omkar Bharambe
+Pearl Jam,Ten,Alive,1L94M3KIu7QluZe63g64rv,0.284,0.875,11,-6.069,0,0.0422,0.000461,0.402,0.595,75.009,340907,4,Spotify,Rock Classics,Omkar Bharambe
+Various Artists,Stranger Things Can Happen,Rock You Like A Hurricane,2J61Oof6ni6xN9lFkt8CFJ,0.481,0.617,4,-12.931,0,0.0458,0.000146,0.284,0.718,125.684,252493,4,Spotify,Rock Classics,Omkar Bharambe
+Bon Jovi,Slippery When Wet,You Give Love A Bad Name,0rmGAIH9LNJewFw7nKzZnc,0.541,0.96,0,-2.947,0,0.0505,2.25e-06,0.344,0.812,122.803,222707,4,Spotify,Rock Classics,Omkar Bharambe
+Lenny Kravitz,5,Fly Away,1OxcIUqVmVYxT6427tbhDW,0.587,0.872,7,-5.066,1,0.0484,0.0,0.622,0.735,159.925,221333,4,Spotify,Rock Classics,Omkar Bharambe

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Drake,Her Loss,Rich Flex,1bDbXMyjaUIooNwFE9wn0N,0.561,0.52,11,-9.342,0,0.244,1.86e-06,0.355,0.424,153.15,239360,3,Spotify,RapCaviar,Public 6
+Lil Uzi Vert,Just Wanna Rock,Just Wanna Rock,4FyesJzVpA39hbYvcseO2d,0.486,0.545,11,-7.924,1,0.0336,0.00474,0.0642,0.0385,150.187,123891,4,Spotify,RapCaviar,Public 6
+Lil Baby,It's Only Me,California Breeze,6ug9fUi5oLLgQgOF1G8WkM,0.738,0.666,5,-6.97,0,0.455,0.0,0.107,0.215,161.734,177789,4,Spotify,RapCaviar,Public 6
+Central Cee,No More Leaks,One Up,6R6ZS5HYH4RdXkjEwEJO5R,0.85,0.664,6,-8.119,0,0.261,0.0,0.0475,0.743,144.108,160000,4,Spotify,RapCaviar,Public 6
+Quavo,Only Built For Infinity Links,To The Bone (feat. YoungBoy Never Broke Again),4wRJHXHDJnKSPr9IVn0BFR,0.899,0.582,11,-7.275,0,0.264,0.0,0.1,0.505,149.973,283196,4,Spotify,RapCaviar,Public 6
+Drake,Her Loss,Major Distribution,46s57QULU02Voy0Kup6UEb,0.908,0.546,8,-10.491,0,0.323,0.0,0.0707,0.225,131.016,170502,4,Spotify,RapCaviar,Public 6
+Juice WRLD,In My Head,In My Head,2RJAKIw6nIkgZVsAIKhmqz,0.633,0.548,5,-5.634,0,0.0467,0.0,0.16,0.35,160.011,192000,4,Spotify,RapCaviar,Public 6
+Rod Wave,Break My Heart,Break My Heart,13VvjrXWYzG9lWViL8Y9vM,0.701,0.562,1,-8.915,1,0.0381,1.2e-05,0.352,0.354,84.994,169412,4,Spotify,RapCaviar,Public 6
+Kodak Black,Kutthroat Bill: Vol. 1,300 Blackout,3y3NwQPQAjKCunRz2eKggA,0.669,0.741,0,-6.545,0,0.316,0.0,0.223,0.396,167.903,166494,4,Spotify,RapCaviar,Public 6
+Roddy Ricch,Stop Breathing,Stop Breathing,6mM8gri8d2abYYomjOV4ut,0.586,0.689,0,-6.04,1,0.425,0.0,0.184,0.456,158.457,110707,4,Spotify,RapCaviar,Public 6
+Trippie Redd,Ain’t Safe (feat. Don Toliver),Ain’t Safe (feat. Don Toliver),6ja11GoXgF75QkEVqqAadn,0.829,0.644,9,-4.86,1,0.291,1.04e-06,0.141,0.515,147.151,166515,4,Spotify,RapCaviar,Public 6
+Quavo,Only Built For Infinity Links,Chocolate (feat. Young Thug and Gunna),6PvHZ5vVjUhngh0t3pIsPc,0.854,0.611,1,-6.824,0,0.228,0.0,0.19,0.728,129.003,208372,4,Spotify,RapCaviar,Public 6
+Lil Baby,It's Only Me,Not Finished,2A0G0bPmlkUXUbvWqrAXzg,0.785,0.524,1,-7.004,1,0.122,0.0,0.365,0.0855,142.007,163454,4,Spotify,RapCaviar,Public 6
+Nardo Wick,Who is Nardo Wick?? (Deluxe),G Nikes (feat. Polo G),7asQMsxC6dNgY0inCzJC5O,0.808,0.644,1,-6.167,1,0.329,0.0,0.085,0.512,151.098,206968,4,Spotify,RapCaviar,Public 6
+GloRilla,Tomorrow 2 (with Cardi B),Tomorrow 2 (with Cardi B),7KXVIAuw3m2hxZanrpSXS3,0.791,0.818,0,-3.93,1,0.406,0.0,0.114,0.693,159.922,209811,4,Spotify,RapCaviar,Public 6
+Money Man,Blackout,Similar,46GyY53xkfMRYTqZAQ33ne,0.894,0.458,5,-12.248,0,0.363,0.0144,0.109,0.382,150.003,112000,4,Spotify,RapCaviar,Public 6
+NLE Choppa,Do It Again (feat. 2Rare),Do It Again (feat. 2Rare),5gAwpwuchaCGnJLlBMGBzp,0.806,0.64,11,-7.398,0,0.317,0.0,0.201,0.716,160.054,213206,4,Spotify,RapCaviar,Public 6
+A Boogie Wit da Hoodie,Take Shots (feat. Tory Lanez),Take Shots (feat. Tory Lanez),2tFwYCvY0x9IfeW63AdMpM,0.63,0.505,10,-4.923,0,0.244,0.0,0.0713,0.578,92.537,281985,4,Spotify,RapCaviar,Public 6
+Lil Tjay,Give You What You Want,Give You What You Want,6PQK1Y3Dl6dym9pj0y9Chy,0.691,0.656,10,-5.673,0,0.0679,0.00111,0.153,0.393,89.467,159331,4,Spotify,RapCaviar,Public 6
+Nas,King's Disease III,Michael & Quincy,5MfCvL6jCTkxPCBQf3OkYH,0.681,0.848,1,-4.222,0,0.305,0.0,0.147,0.288,93.334,167724,4,Spotify,RapCaviar,Public 6
+Drake,Her Loss,Pussy & Millions (feat. Travis Scott),2KLwPaRDOB87XOYAT2fgxh,0.749,0.63,4,-6.652,0,0.116,0.0,0.353,0.445,122.03,242027,4,Spotify,RapCaviar,Public 6
+Russ,BET,BET,3TJTvFCoVZaWWTRuaIPkMl,0.802,0.42,7,-10.088,0,0.13,1.87e-05,0.299,0.183,125.948,154286,4,Spotify,RapCaviar,Public 6
+Lil Baby,It's Only Me,Real Spill,4OkFBMU18NidtaefaTjUq1,0.776,0.557,2,-7.441,1,0.545,0.0,0.112,0.284,156.978,198722,4,Spotify,RapCaviar,Public 6
+Ty Dolla $ign,My Friends (feat. Lil Durk),My Friends (feat. Lil Durk),0wTTf3msjDJ8NcZGTmQJQV,0.633,0.478,8,-8.039,1,0.044,0.0,0.202,0.441,169.961,158168,4,Spotify,RapCaviar,Public 6
+EST Gee,I Never Felt Nun,Shoot It Myself (feat. Future),6Md6lyVVoKWcOaSg8u1tDn,0.798,0.471,8,-8.824,1,0.125,0.0,0.154,0.11,135.102,187844,4,Spotify,RapCaviar,Public 6
+Moneybagg Yo,Blow,Blow,2g3qKijfeHfDyM7Fmaoi5M,0.815,0.742,11,-4.896,0,0.245,0.0,0.345,0.584,137.036,182533,4,Spotify,RapCaviar,Public 6
+Roddy Ricch,Aston Martin Truck,Aston Martin Truck,1KaRuTOGchQyTnrY3vWzfR,0.749,0.548,5,-6.223,0,0.352,0.0,0.16,0.581,153.855,180240,4,Spotify,RapCaviar,Public 6
+Kodak Black,I’m So Awesome,I’m So Awesome,5tzEcVk8jFSBhTrO0ZYJdZ,0.908,0.606,7,-4.085,1,0.227,0.0,0.422,0.147,108.053,187202,4,Spotify,RapCaviar,Public 6
+Quavo,Nothing Changed,Nothing Changed,48qgXl0CQUVYJVn6xv0rsP,0.907,0.59,5,-6.128,0,0.108,0.0,0.184,0.681,134.902,199111,4,Spotify,RapCaviar,Public 6
+Gucci Mane,Gucci Flow,Gucci Flow,1oqXQ2ghTORGDAkeLwkIDD,0.871,0.695,1,-5.456,1,0.266,0.0,0.185,0.295,129.99,131120,4,Spotify,RapCaviar,Public 6
+Roddy Ricch,Ghetto Superstar (feat. G Herbo & Doe Boy),Ghetto Superstar (feat. G Herbo & Doe Boy),5QdVpZhASstTN4BBwglPz6,0.704,0.62,9,-7.267,0,0.362,0.0,0.144,0.383,157.093,244840,4,Spotify,RapCaviar,Public 6
+DDG,It's Not Me It's You (Deluxe),Bulletproof Maybach (feat. Offset),6rI8uFFmGyvS2N6sqDCdu3,0.699,0.58,7,-7.05,0,0.325,0.0,0.0768,0.596,94.93,177074,4,Spotify,RapCaviar,Public 6
+Marshmello,Bye Bye,Bye Bye,6XO8RlYuJCiI0v3IA48FeJ,0.645,0.525,3,-5.399,0,0.0355,0.0,0.505,0.238,83.018,108499,4,Spotify,RapCaviar,Public 6
+G Herbo,Survivor’s Remorse: A Side,Shordie (with Gunna),6H6ZtVp6DymejLOJLdRzOI,0.768,0.695,9,-4.883,1,0.179,0.0,0.235,0.41,76.007,176588,4,Spotify,RapCaviar,Public 6
+A Boogie Wit da Hoodie,B.R.O. (Better Ride Out) [feat. Roddy Ricch],B.R.O. (Better Ride Out) [feat. Roddy Ricch],23pGZ6n6Xd3yV7qK4xw7dx,0.576,0.596,2,-7.774,0,0.108,0.0,0.0975,0.338,95.457,178041,4,Spotify,RapCaviar,Public 6
+Finesse2tymes,Back End,Back End,1QrL8zd8MIrCiOPuj02dxC,0.88,0.746,10,-3.381,0,0.124,0.0,0.105,0.315,130.045,165479,4,Spotify,RapCaviar,Public 6
+A Boogie Wit da Hoodie,Ballin,Ballin,2eWHHPZS4pb7mEMcow4bqT,0.751,0.805,3,-5.017,0,0.246,0.0,0.105,0.899,145.108,176134,4,Spotify,RapCaviar,Public 6
+Polo G,Bag Talk,Bag Talk,6Y95jrYOOWDkh7uO6PSDBT,0.585,0.596,1,-5.677,1,0.353,0.0,0.111,0.148,157.957,147436,4,Spotify,RapCaviar,Public 6
+Latto,777,It's Givin,5h9dlUlCGZahkuaC3MShz3,0.865,0.614,8,-6.782,1,0.278,0.0,0.434,0.642,160.032,153000,4,Spotify,RapCaviar,Public 6
+Kodak Black,Walk/Spin,Walk,3wspfG772mi1c25JpnNOVP,0.817,0.512,8,-6.943,1,0.0984,0.0,0.216,0.17,130.04,166039,4,Spotify,RapCaviar,Public 6
+Sleepy Hallow,2 Mins of Pain (feat. Alborosie),2 Mins of Pain (feat. Alborosie),2NVXBBbO4xGO851zrMfCFi,0.886,0.434,11,-12.106,0,0.403,1.22e-06,0.297,0.785,147.995,136696,4,Spotify,RapCaviar,Public 6
+EST Gee,I Never Felt Nun,Backstage Passes (feat. Jack Harlow),2BSl2gSFHdzJAMus74qzNj,0.855,0.478,1,-8.31,1,0.345,0.0,0.101,0.536,153.074,158431,4,Spotify,RapCaviar,Public 6
+Offset,CODE (feat. Moneybagg Yo),CODE (feat. Moneybagg Yo),5uVW9FWVaQde0lfF4hYs4C,0.599,0.598,4,-7.015,0,0.124,5.01e-05,0.173,0.343,179.49,192428,4,Spotify,RapCaviar,Public 6
+Freddie Gibbs,Too Much (feat. Moneybagg Yo),Too Much (feat. Moneybagg Yo),7pZeacKYnK4unCplCmI2qb,0.799,0.696,1,-6.621,1,0.134,2.46e-06,0.133,0.414,115.067,188870,4,Spotify,RapCaviar,Public 6
+King Combs,Can't Stop Won't Stop (feat. Kodak Black),Can't Stop Won't Stop (feat. Kodak Black),4L1zI1GJxi0Qq38aSYmsS0,0.906,0.807,2,-4.401,1,0.294,0.0,0.11,0.813,96.961,158350,4,Spotify,RapCaviar,Public 6
+Nicki Minaj,Queen Radio: Volume 1,Super Freaky Girl,2yjlYDiNiQkdxVqTlaSrlX,0.951,0.878,2,-2.565,1,0.211,1.61e-05,0.321,0.923,133.014,170977,4,Spotify,RapCaviar,Public 6
+Lil Yachty,Poland,Poland,74loibzxXRL875X20kenvk,0.695,0.555,5,-8.5,0,0.0509,0.826,0.11,0.26,150.024,83200,4,Spotify,RapCaviar,Public 6
+Baby Keem,The Melodic Blue (Deluxe),bank account (with Lil Uzi Vert),5BvfdAtqZXGbR3Ub1Bejb6,0.859,0.721,11,-3.369,0,0.237,0.0,0.484,0.689,148.015,214240,4,Spotify,RapCaviar,Public 6
+Smino,90 Proof (with J. Cole),90 Proof (with J. Cole),0vbmYCIWENdYyJ36Q4CdSz,0.773,0.623,7,-6.53,1,0.0983,3.56e-05,0.148,0.528,147.826,208270,4,Spotify,RapCaviar,Public 6
+Armani White,BILLIE EILISH.,BILLIE EILISH.,27ZZdyTSQWI7Cug2d2PkqV,0.9,0.509,1,-6.647,1,0.257,1.67e-06,0.0937,0.765,100.007,99283,4,Spotify,RapCaviar,Public 6

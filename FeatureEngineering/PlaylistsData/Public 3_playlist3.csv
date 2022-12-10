@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Taylor Swift,Midnights,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,0.637,0.643,4,-6.571,1,0.0519,1.8e-06,0.142,0.533,97.008,200690,4,Spotify,Hot Hits USA,Public 3
+Drake,Her Loss,Rich Flex,1bDbXMyjaUIooNwFE9wn0N,0.561,0.52,11,-9.342,0,0.244,1.86e-06,0.355,0.424,153.15,239360,3,Spotify,Hot Hits USA,Public 3
+Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4,Spotify,Hot Hits USA,Public 3
+Steve Lacy,Bad Habit,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,0.686,0.507,1,-7.097,1,0.0357,7.51e-05,0.383,0.69,168.955,232115,4,Spotify,Hot Hits USA,Public 3
+Rihanna,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,35ovElsgyAtQwYPYnZJECg,0.247,0.299,9,-6.083,1,0.0315,0.0,0.131,0.172,177.115,196520,4,Spotify,Hot Hits USA,Public 3
+Joji,SMITHEREENS,Die For You,26hOm7dTtBi0TdpDGl141t,0.472,0.518,8,-7.379,1,0.051,0.127,0.289,0.154,147.805,211667,4,Spotify,Hot Hits USA,Public 3
+SZA,Shirt,Shirt,34ZAzO78a5DAVNrYIGWcPm,0.824,0.453,3,-9.604,0,0.0968,0.0273,0.0896,0.552,119.959,181831,4,Spotify,Hot Hits USA,Public 3
+Taylor Swift,Midnights,Midnight Rain,3rWDp9tBPQR9z6U5YyRSK4,0.643,0.363,0,-11.738,1,0.0767,5.17e-05,0.115,0.23,139.865,174783,4,Spotify,Hot Hits USA,Public 3
+Zach Bryan,Something in the Orange,Something in the Orange,3WMj8moIAXJhHsyLaqIIHI,0.369,0.192,4,-12.151,0,0.04,8.35e-06,0.0954,0.148,175.212,228013,3,Spotify,Hot Hits USA,Public 3
+Meghan Trainor,Takin' It Back,Made You Look,0QHEIqNKsMoOY5urbzN48u,0.838,0.525,10,-3.562,1,0.0665,1.92e-06,0.0771,0.884,144.981,134256,4,Spotify,Hot Hits USA,Public 3
+Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4,Spotify,Hot Hits USA,Public 3
+Lil Uzi Vert,Just Wanna Rock,Just Wanna Rock,4FyesJzVpA39hbYvcseO2d,0.486,0.545,11,-7.924,1,0.0336,0.00474,0.0642,0.0385,150.187,123891,4,Spotify,Hot Hits USA,Public 3
+Rihanna,Black Panther: Wakanda Forever - Music From and Inspired By,Born Again,18zQTt3ifDv6iLni2YuXMg,0.465,0.26,0,-8.179,0,0.031,0.0,0.138,0.259,116.642,213333,4,Spotify,Hot Hits USA,Public 3
+Stephen Sanchez,Until I Found You,Until I Found You,0T5iIrXA4p5GsubkhuBIKV,0.539,0.508,10,-6.05,1,0.0288,0.0,0.174,0.227,101.358,177720,3,Spotify,Hot Hits USA,Public 3
+d4vd,Romantic Homicide,Romantic Homicide,1xK59OXxi2TAAAbmZK0kBL,0.571,0.544,6,-10.613,1,0.0299,0.00805,0.322,0.216,132.052,132631,4,Spotify,Hot Hits USA,Public 3
+Selena Gomez,My Mind & Me,My Mind & Me,0XER3HPMx223xWaAgNKp4Y,0.6,0.389,9,-5.727,1,0.0337,0.0,0.0826,0.244,143.577,147597,4,Spotify,Hot Hits USA,Public 3
+The Weeknd,Starboy,Die For You,2Ch7LmS7r2Gy2kc64wv3Bz,0.582,0.525,1,-7.163,0,0.0627,0.0,0.134,0.51,133.249,260253,4,Spotify,Hot Hits USA,Public 3
+David Guetta,I'm Good (Blue),I'm Good (Blue),4uUG5RXrOk84mYEfFvj3cK,0.561,0.965,7,-3.673,0,0.0343,7.07e-06,0.371,0.304,128.04,175238,4,Spotify,Hot Hits USA,Public 3
+Drake,Her Loss,Pussy & Millions (feat. Travis Scott),2KLwPaRDOB87XOYAT2fgxh,0.749,0.63,4,-6.652,0,0.116,0.0,0.353,0.445,122.03,242027,4,Spotify,Hot Hits USA,Public 3
+Harry Styles,As It Was,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,Spotify,Hot Hits USA,Public 3
+JVKE,this is what ____ feels like (Vol. 1-4),golden hour,5odlY52u43F5BjByhxg7wg,0.515,0.593,4,-4.801,1,0.0322,0.162,0.25,0.153,94.467,209260,3,Spotify,Hot Hits USA,Public 3
+OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,4h9wh7iOZ0GGn8QVp4RAOB,0.704,0.797,0,-5.927,1,0.0475,0.000745,0.0546,0.825,139.994,148486,4,Spotify,Hot Hits USA,Public 3
+Armani White,BILLIE EILISH.,BILLIE EILISH.,27ZZdyTSQWI7Cug2d2PkqV,0.9,0.509,1,-6.647,1,0.257,1.67e-06,0.0937,0.765,100.007,99283,4,Spotify,Hot Hits USA,Public 3
+Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Vegas (From the Original Motion Picture Soundtrack ELVIS),0hquQWY3xvYqN4qtiquniF,0.801,0.601,8,-7.574,0,0.255,3.23e-05,0.145,0.74,159.969,182907,4,Spotify,Hot Hits USA,Public 3
+Noah Kahan,Stick Season,Stick Season,0GNVXNz7Jkicfk2mp5OyG5,0.664,0.5,9,-6.935,1,0.0651,0.0,0.0966,0.801,117.896,182347,4,Spotify,Hot Hits USA,Public 3
+Drake,"Honestly, Nevermind",Jimmy Cooks (feat. 21 Savage),3F5CgOj3wFlRv51JsHbxhe,0.529,0.673,0,-4.711,1,0.175,2.41e-06,0.093,0.366,165.921,218365,4,Spotify,Hot Hits USA,Public 3
+Post Malone,Twelve Carat Toothache,I Like You (A Happier Song) (with Doja Cat),0O6u0VJ46W86TxN9wgyqDj,0.733,0.67,5,-6.009,1,0.0751,0.0,0.121,0.472,100.964,192841,4,Spotify,Hot Hits USA,Public 3
+Nicki Minaj,Super Freaky Girl,Super Freaky Girl,4C6Uex2ILwJi9sZXRdmqXp,0.95,0.891,2,-2.653,1,0.241,1.77e-05,0.309,0.912,133.01,170977,4,Spotify,Hot Hits USA,Public 3
+Imagine Dragons,Mercury - Acts 1 & 2,Bones,54ipXppHLA8U4yqpOFTUhr,0.772,0.75,5,-3.67,0,0.0455,0.0,0.074,0.587,114.061,165265,4,Spotify,Hot Hits USA,Public 3
+Juice WRLD,In My Head,In My Head,2RJAKIw6nIkgZVsAIKhmqz,0.633,0.548,5,-5.634,0,0.0467,0.0,0.16,0.35,160.011,192000,4,Spotify,Hot Hits USA,Public 3
+Lizzo,About Damn Time,About Damn Time,1PckUlxKqWQs3RlWXVBLw3,0.836,0.743,10,-6.305,0,0.0656,0.0,0.335,0.722,108.966,191822,4,Spotify,Hot Hits USA,Public 3
+Bailey Zimmerman,Rock and A Hard Place,Rock and A Hard Place,4686eQ81DEswHa90bcdlC9,0.582,0.568,1,-7.3,1,0.0275,0.0,0.105,0.394,121.991,207541,3,Spotify,Hot Hits USA,Public 3
+Beyoncé,RENAISSANCE,CUFF IT,1xzi1Jcr7mEi9K2RfzLOqS,0.78,0.689,7,-5.668,1,0.141,9.69e-06,0.0698,0.642,115.042,225389,4,Spotify,Hot Hits USA,Public 3
+Yung Gravy,Betty (Get Money),Betty (Get Money),4cacyP5c3PMlfnyjpg13xW,0.723,0.772,1,-6.784,1,0.0792,1.15e-05,0.367,0.58,102.004,146471,4,Spotify,Hot Hits USA,Public 3
+Omar Apollo,Ivory,Evergreen (You Didn’t Deserve Me At All),2TktkzfozZifbQhXjT6I33,0.697,0.336,9,-10.395,1,0.0424,0.00528,0.107,0.31,82.029,216680,3,Spotify,Hot Hits USA,Public 3
+Isabel LaRosa,i'm yours,i'm yours,37vVp2sWHuuIBOSl1NswP6,0.398,0.705,5,-7.07,0,0.0756,5.13e-05,0.443,0.635,111.487,145668,4,Spotify,Hot Hits USA,Public 3
+Lil Baby,It's Only Me,California Breeze,6ug9fUi5oLLgQgOF1G8WkM,0.738,0.666,5,-6.97,0,0.455,0.0,0.107,0.215,161.734,177789,4,Spotify,Hot Hits USA,Public 3
+Latto,Big Energy,Big Energy,6Zu3aw7FfjAF9WA0fA81Oq,0.935,0.807,11,-3.838,0,0.114,0.0,0.349,0.813,106.017,173182,4,Spotify,Hot Hits USA,Public 3
+Manuel Turizo,La Bachata,La Bachata,5ww2BF9slyYgNOk37BlC4u,0.835,0.679,7,-5.329,0,0.0364,1.98e-06,0.218,0.85,124.98,162638,4,Spotify,Hot Hits USA,Public 3
+Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),0WtM2NBVQNNJLh6scP13H8,0.801,0.806,11,-5.206,1,0.0381,0.000669,0.114,0.802,106.999,239318,4,Spotify,Hot Hits USA,Public 3
+Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),STAR WALKIN' (League of Legends Worlds Anthem),38T0tPVZHcPZyhtOcCP7pF,0.637,0.715,2,-4.971,0,0.0455,0.0,0.0892,0.308,141.872,210576,4,Spotify,Hot Hits USA,Public 3
+Luke Combs,The Kind of Love We Make,The Kind of Love We Make,28n8z9IQKyjMPxmvYMBqZa,0.608,0.745,1,-4.13,1,0.0277,6.47e-06,0.0942,0.464,102.025,224427,4,Spotify,Hot Hits USA,Public 3
+Elton John,Hold Me Closer,Hold Me Closer,72yP0DUlWPyH8P7IoxskwN,0.667,0.75,0,-4.602,1,0.0906,0.000198,0.197,0.486,126.041,202246,4,Spotify,Hot Hits USA,Public 3
+Nicky Youre,Sunroof,Sunroof,4h4QlmocP3IuwYEj2j14p8,0.768,0.714,10,-5.11,1,0.0401,0.0,0.15,0.842,131.443,163026,4,Spotify,Hot Hits USA,Public 3
+Jack Harlow,Come Home The Kids Miss You,First Class,0wHFktze2PHC5jDt3B17DC,0.902,0.582,5,-5.902,0,0.109,3.18e-06,0.111,0.332,107.005,173948,4,Spotify,Hot Hits USA,Public 3
+Charlie Puth,Left and Right (Feat. Jung Kook of BTS),Left and Right (Feat. Jung Kook of BTS),0mBP9X2gPCuapvpZ7TGDk3,0.881,0.592,2,-4.898,1,0.0324,1.32e-05,0.0901,0.719,101.058,154487,4,Spotify,Hot Hits USA,Public 3
+Glass Animals,Heat Waves,Heat Waves,6CDzDgIUqeDY5g8ujExx2f,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,Spotify,Hot Hits USA,Public 3
+Steve Lacy,Gemini Rights,Static,4OmfWzukSVD140NiAIEjem,0.335,0.305,1,-12.661,1,0.0741,0.631,0.101,0.215,79.001,156507,5,Spotify,Hot Hits USA,Public 3
+GloRilla,Tomorrow 2 (with Cardi B),Tomorrow 2 (with Cardi B),7KXVIAuw3m2hxZanrpSXS3,0.791,0.818,0,-3.93,1,0.406,0.0,0.114,0.693,159.922,209811,4,Spotify,Hot Hits USA,Public 3
+Bad Bunny,Un Verano Sin Ti,Me Porto Bonito,6Sq7ltF9Qa7SNFBsV5Cogx,0.911,0.712,1,-5.105,0,0.0817,2.68e-05,0.0933,0.425,92.005,178567,4,Spotify,Hot Hits USA,Public 3

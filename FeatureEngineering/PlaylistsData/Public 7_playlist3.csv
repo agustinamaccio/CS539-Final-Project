@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Yotto,Encounters,Encounters,1o9LXeLmCgx7YVWeMNB3GZ,0.408,0.729,2,-7.911,1,0.0343,0.908,0.0891,0.0327,121.995,245534,4,Spotify,Dance Rising,Public 7
+Miss Monique,Biosphère,Biosphère,4yxlVbgJ5OdE9ipFOSMNGP,0.603,0.944,7,-7.324,1,0.0382,0.926,0.177,0.059,123.98,224516,4,Spotify,Dance Rising,Public 7
+Kx5,Avalanche,Avalanche,3O9dvtdxw1LMIycQDnKkud,0.773,0.735,8,-6.964,1,0.0517,0.413,0.0833,0.146,125.02,261001,4,Spotify,Dance Rising,Public 7
+Lilly Palmer,Resonate,Resonate,0mXFXApXwB0dlP1Adh9ne7,0.626,0.929,0,-5.784,1,0.0613,0.753,0.548,0.407,133.017,221669,4,Spotify,Dance Rising,Public 7
+Charlotte de Witte,Apollo EP,Missing Channel - Original Mix,1Hs5l7PHbZ0LZAZfAUw1bZ,0.709,0.66,6,-9.118,1,0.0966,0.632,0.124,0.192,139.999,392710,4,Spotify,Dance Rising,Public 7
+Deborah de Luca,Is Mine,Is Mine,2OVKwL3wYbbaKjGTCKS0Cc,0.757,0.939,11,-10.161,0,0.0789,0.611,0.111,0.601,135.006,344889,4,Spotify,Dance Rising,Public 7
+Chris Avantgarde,Mind Control,Mind Control,1UopEDdYwbavBAvlY1gA6b,0.73,0.838,6,-8.732,1,0.0679,0.786,0.106,0.174,127.005,307142,4,Spotify,Dance Rising,Public 7
+Amelie Lens,Affection,Affection,5bAmqp96l9YO7V8LW5sUjZ,0.51,0.842,1,-9.901,1,0.038,0.852,0.146,0.146,132.0,421818,4,Spotify,Dance Rising,Public 7
+Fred again..,Actual Life 3 (January 1 - September 9 2022),Clara (the night is dark),6LeTQu4NvTnLRRiB8GVFQe,0.583,0.871,8,-7.949,0,0.039,0.132,0.273,0.542,124.986,278400,4,Spotify,Dance Rising,Public 7
+Loco & Jam,Breathe,Breathe,0ihobYmU0yxWaw0GpZFSpY,0.798,0.726,7,-5.907,1,0.0486,0.916,0.0876,0.38,128.025,407000,4,Spotify,Dance Rising,Public 7
+Sam Smith,Unholy (feat. Kim Petras) [Disclosure Remix],Unholy (feat. Kim Petras) - Disclosure Remix,2Tl5fhF4itz5VeXHRVGIO5,0.736,0.783,1,-6.765,1,0.0504,0.0055,0.343,0.179,127.998,234411,4,Spotify,Dance Rising,Public 7
+Wax Motif,See In Color,See In Color,2RxDAFchouApF3yUwE6gxE,0.76,0.807,10,-7.4,0,0.0501,0.000486,0.102,0.476,127.017,158740,4,Spotify,Dance Rising,Public 7
+Solardo,Angel Dust,Angel Dust,7yEDXWnJtWkHnVsclNuklc,0.712,0.905,5,-7.511,0,0.0542,0.917,0.247,0.394,127.998,243984,4,Spotify,Dance Rising,Public 7
+Kaskade,Dance with Me,Dance with Me,4AonDN7yeOZbMI2rIOYQHa,0.593,0.954,1,-5.785,1,0.0795,0.838,0.322,0.0854,132.037,220000,4,Spotify,Dance Rising,Public 7
+Tensnake,Coma Cat (Purple Disco Machine Re-Work),Coma Cat - Purple Disco Machine Re-Work,1BMFet4vUoOgpLYIl3kVMQ,0.653,0.978,9,-4.868,0,0.0589,0.714,0.309,0.756,122.017,208545,4,Spotify,Dance Rising,Public 7
+HUGEL,Tra Tra,Tra Tra,0UFJLWij7K8AXM5sVDFCLj,0.797,0.942,1,-6.194,1,0.0656,0.563,0.425,0.178,124.014,126774,4,Spotify,Dance Rising,Public 7
+Azzecca,Other Side,Other Side,6gLDnzjpM0AwOeh9NmmHE0,0.768,0.846,9,-6.469,1,0.0478,0.769,0.0998,0.139,124.981,244338,4,Spotify,Dance Rising,Public 7
+San Pacho,As Long As We Got House,As Long As We Got House,1haSCrD5ejKJHEYH1gP6OW,0.833,0.907,1,-4.487,0,0.0599,0.473,0.449,0.605,125.988,173393,4,Spotify,Dance Rising,Public 7
+Farruko,Viaje,Viaje,5b1je14Oz92lpIlIMLieWw,0.705,0.799,0,-4.776,0,0.0347,0.417,0.0643,0.658,122.018,303627,4,Spotify,Dance Rising,Public 7
+anamē,Inochi,Inochi,40qMnVCrSqMSuFWooAzqB3,0.806,0.547,2,-10.109,1,0.108,0.899,0.105,0.362,122.014,354098,4,Spotify,Dance Rising,Public 7
+Franky Wah,I Know You,I Know You,5f7gdXvYTZqCRl4ieL4xvl,0.71,0.88,2,-6.676,0,0.0565,0.302,0.0805,0.188,122.0,232131,4,Spotify,Dance Rising,Public 7
+JADED,Work,Work,7lyyCJzXdxZJcXCvU8yVtf,0.663,0.936,3,-6.227,0,0.0409,0.0956,0.0658,0.902,128.034,183800,4,Spotify,Dance Rising,Public 7
+Beltran,Warning,Warning,09fLcyru2xKfVPpN01dL0C,0.81,0.834,0,-11.805,1,0.0531,0.667,0.0959,0.429,127.014,336378,4,Spotify,Dance Rising,Public 7
+Maya Jane Coles,Freefall (feat. Moxie Knox),Freefall (feat. Moxie Knox) - Edit,5imVAY20zvISpCoBuoeqZ2,0.788,0.759,9,-6.651,1,0.0458,0.1,0.0713,0.829,130.009,187251,4,Spotify,Dance Rising,Public 7
+Salvatore Ganacci,Take Me To America,Take Me To America,5OJQ7sgz7ZEb9Mxsfqlpiv,0.791,0.894,7,-5.31,1,0.0331,0.675,0.223,0.945,134.963,231135,4,Spotify,Dance Rising,Public 7
+Carlita,Bon Trip,Bon Trip - Radio Edit,1m7rYHVB8LHDTm9EqtKP4f,0.611,0.751,1,-9.688,1,0.038,0.886,0.0539,0.882,119.004,181712,4,Spotify,Dance Rising,Public 7
+The Blaze,DREAMER,DREAMER,6j2AojKOLW867QDk2hEO5j,0.666,0.518,9,-11.449,0,0.115,0.0269,0.0924,0.218,122.97,339013,4,Spotify,Dance Rising,Public 7
+SG Lewis,Lifetime,Lifetime,4bmRJGOIegqYIBQrOga05Q,0.677,0.569,5,-7.333,0,0.0427,5.17e-05,0.13,0.648,119.003,286061,4,Spotify,Dance Rising,Public 7
+Channel Tres,6am,6am,1lx452Y4CLMvIois88vwBr,0.873,0.685,0,-6.52,0,0.0609,0.00172,0.0483,0.918,124.025,221748,4,Spotify,Dance Rising,Public 7
+Elderbrook,Beautiful Morning,Beautiful Morning,4To41a04u7ZaZ6bw8hIeX3,0.647,0.712,9,-8.241,0,0.0809,0.0517,0.083,0.158,106.978,187126,4,Spotify,Dance Rising,Public 7
+TELYKast,Better Now,Better Now,0iF6QJbS6FRPokpyVHVkKt,0.617,0.873,10,-4.624,0,0.0925,1.43e-06,0.0995,0.302,124.055,181935,4,Spotify,Dance Rising,Public 7
+VIZE,One Last Time (with R3HAB) (feat. Enny-Mae),One Last Time (with R3HAB) (feat. Enny-Mae),7KoUk2BFyV8HkocdHMUNTw,0.923,0.531,11,-7.525,0,0.0481,0.0174,0.121,0.858,119.985,155098,4,Spotify,Dance Rising,Public 7
+Öwnboss,Left & Right,Left & Right,0rxEsBxxil046ZqipaCXle,0.654,0.873,4,-6.125,0,0.0338,0.000991,0.36,0.415,124.006,154839,4,Spotify,Dance Rising,Public 7
+DJ Snake,Nightbird,Nightbird,0CADZTEOUaMw9bHnKB59Ts,0.811,0.808,9,-6.055,1,0.0548,0.505,0.135,0.651,126.027,156191,4,Spotify,Dance Rising,Public 7
+Marten Hørger,I Know,I Know,6a7Vnxz6aezPxdKPTF72Yb,0.681,0.933,9,-4.962,1,0.0544,0.882,0.0872,0.335,124.998,202560,4,Spotify,Dance Rising,Public 7
+Tom Santa,We Don’t Ever Stop,We Don't Ever Stop,7tzsbAE9Md4tr8MAbK4h5i,0.636,0.839,4,-5.972,0,0.0359,0.818,0.111,0.156,129.963,160638,4,Spotify,Dance Rising,Public 7
+Gorgon City,Sidewindah (feat. Flirta D),Sidewindah (feat. Flirta D),3NGC2t1KnSOFcDQv8EI2Pl,0.817,0.936,9,-7.669,1,0.0618,0.285,0.227,0.415,127.0,213562,4,Spotify,Dance Rising,Public 7
+KREAM,Rendezvous (feat. Marlo Rex),Rendezvous (feat. Marlo Rex),13cVApl6LsR2QvEGdmh9VC,0.594,0.895,4,-6.543,1,0.0464,0.0106,0.136,0.177,126.057,179058,4,Spotify,Dance Rising,Public 7
+Nicky Romero,For The People,For The People,4MvA2osUdPQpDKNwuDjlM8,0.503,0.973,8,-4.947,0,0.0598,0.774,0.371,0.592,126.039,219345,4,Spotify,Dance Rising,Public 7
+Ship Wrek,Metaphysical,Radiation,5NhqdTRCcqww2HaRv9nXiF,0.662,0.771,5,-6.93,0,0.032,0.0117,0.296,0.106,123.961,210725,4,Spotify,Dance Rising,Public 7
+ACRAZE,Believe (feat. Goodboys),Believe (feat. Goodboys),6h5y2LCqCQudsCarn61CNE,0.659,0.873,1,-5.227,0,0.0449,0.000155,0.172,0.362,123.942,188710,4,Spotify,Dance Rising,Public 7
+€URO TRA$H,So Hypnotic,So Hypnotic,3C7notXz5L0t5EbaJVfubp,0.798,0.632,1,-8.668,1,0.0567,0.43,0.0454,0.494,126.993,227227,4,Spotify,Dance Rising,Public 7
+Nora En Pure,Stop Wasting Time,Stop Wasting Time,40JGT2kfuWXC0eFMeRkm95,0.57,0.886,8,-5.934,0,0.245,0.000629,0.504,0.381,123.97,196694,3,Spotify,Dance Rising,Public 7
+Simon Doty,Touch The Sky,Touch The Sky,3bkDSTJGKyoQXtzTnOeJ95,0.604,0.888,6,-8.206,1,0.0439,0.834,0.098,0.182,123.968,270914,4,Spotify,Dance Rising,Public 7
+Robin M,Through the Night,Through The Night - Radio Edit,2gHEGakBTCACE179XoCg2K,0.719,0.924,2,-10.154,1,0.0535,0.428,0.337,0.265,123.018,155720,4,Spotify,Dance Rising,Public 7
+andhim,Starz,Starz,2rCXC1o4QkyWlKgl19VMjg,0.578,0.864,5,-8.476,0,0.0341,0.917,0.0769,0.42,123.008,300976,4,Spotify,Dance Rising,Public 7
+Forester,All I Need,All I Need,4qOErzIVJ5dGY9U0aAZhwz,0.503,0.983,10,-3.785,0,0.111,0.131,0.088,0.343,181.548,186526,3,Spotify,Dance Rising,Public 7
+OCULA,On The Run,On The Run,0UABxGfYqdlM8ZorINo9Ia,0.534,0.537,5,-10.76,0,0.0393,0.133,0.0722,0.0649,123.952,242000,4,Spotify,Dance Rising,Public 7
+Laura van Dam,This Love,This Love,5wjv0l8FDhufvyFdokJqG1,0.604,0.815,8,-8.561,1,0.0339,0.664,0.44,0.115,125.014,157440,4,Spotify,Dance Rising,Public 7
+goddard.,Feel Like That,Feel Like That,2GlzL3MAoqg6sKFEC3tKFQ,0.596,0.714,0,-3.143,1,0.104,0.0,0.362,0.197,174.985,159222,4,Spotify,Dance Rising,Public 7
+Bob Moses,Afterglow,Afterglow,2Ftoh82TZBdd5VduEm8T44,0.675,0.747,0,-4.742,0,0.0406,0.0014,0.103,0.159,121.033,269752,4,Spotify,Dance Rising,Public 7
+J. Worra,Lightning To Strike,Lightning To Strike,4wc6fFKSf4opxdNajyHPc4,0.648,0.843,2,-6.695,0,0.033,0.0723,0.152,0.745,124.996,178721,4,Spotify,Dance Rising,Public 7
+Saffron Stone,Nightmares,Nightmares,0DcLHMYuZDZboftsQSrANc,0.617,0.734,4,-8.029,0,0.0322,0.589,0.0698,0.357,127.01,237883,3,Spotify,Dance Rising,Public 7
+DVBBS,Just Words,Just Words,7I4yaEqhvAhz795dN0mMre,0.722,0.8,11,-4.474,0,0.0946,0.000104,0.312,0.586,125.008,171406,4,Spotify,Dance Rising,Public 7
+Wenzday,Move,Move,0DTRPo8y1AYs8AsueVu1FP,0.613,0.861,2,-5.443,1,0.0487,0.942,0.292,0.407,124.989,143040,4,Spotify,Dance Rising,Public 7
+Lastlings,Get What You Want,Get What You Want,77NfTQY2uIUVjzTF37wQQh,0.778,0.827,2,-5.026,0,0.0421,0.000282,0.0607,0.196,126.022,244071,4,Spotify,Dance Rising,Public 7
+Sante Sansone,Looking For Something EP,Looking For Something,7MpDsggmJaTIUGtQmoFizN,0.802,0.496,1,-9.342,1,0.064,0.612,0.11,0.762,130.006,206769,4,Spotify,Dance Rising,Public 7
+FORTELLA,Get Up Off The Floor,Get Up Off The Floor,00TNno8mzugrcej0FqJvrW,0.764,0.817,4,-5.135,0,0.148,0.663,0.245,0.415,122.024,155000,4,Spotify,Dance Rising,Public 7
+Tinlicker,Perfect Mistakes,Perfect Mistake,39xbjWMhqIpPZVT0V4uDSh,0.549,0.954,1,-8.762,1,0.036,0.852,0.11,0.0382,123.99,253144,4,Spotify,Dance Rising,Public 7
+Enrico Sangiuliano,Sound Of Space EP,The Sound Of Space,7CYS0ibZaJm201ZKonnqih,0.707,0.893,7,-7.449,1,0.0543,0.819,0.0802,0.159,130.009,498462,4,Spotify,Dance Rising,Public 7
+SOHMI,Somebody,Somebody,1evwzqlvFeMtbLfisxchVo,0.601,0.901,8,-6.345,1,0.0352,0.488,0.149,0.0374,123.027,209512,4,Spotify,Dance Rising,Public 7
+HOSH,Song To The Siren,Song To The Siren,1vCGRYkBhITUKcdy1iM44h,0.599,0.92,10,-5.069,1,0.0544,0.0971,0.111,0.166,127.042,206107,4,Spotify,Dance Rising,Public 7
+WhoMadeWho,Everyday (Shimza Remix),Everyday - Shimza Remix,2GDWZWVlEWK9CMs2ZkMEOd,0.736,0.866,7,-11.332,1,0.0571,0.45,0.0389,0.485,120.03,452480,4,Spotify,Dance Rising,Public 7
+HI-LO,WANNA GO BANG,WANNA GO BANG,37vqTNt3bLeDeBVWL6tNqh,0.792,0.92,7,-6.395,1,0.138,0.896,0.103,0.713,132.008,237386,4,Spotify,Dance Rising,Public 7
+Space 92,Colonia EP,Colonia,0eJInRAV3YR0xRNGsk5Ty7,0.67,0.969,6,-4.975,1,0.0586,0.86,0.0848,0.199,131.998,234547,4,Spotify,Dance Rising,Public 7
+ESSEL,Don’t Walk Away,Don’t Walk Away,2TNkWEQkEj1ksOydBwurwF,0.615,0.872,5,-7.339,1,0.0312,0.0378,0.367,0.758,124.984,153517,4,Spotify,Dance Rising,Public 7
+LF SYSTEM,Hungry (For Love),Hungry (For Love),4Uz7te06snSlkmcIwwAvkw,0.605,0.973,7,-3.214,0,0.0806,0.0995,0.455,0.49,128.014,176367,4,Spotify,Dance Rising,Public 7
+Capozzi,All Eyez On Me,All Eyez On Me,7dHK4l02w2KojtTJJeqnUP,0.709,0.894,4,-5.419,1,0.0637,0.658,0.113,0.602,124.011,236129,4,Spotify,Dance Rising,Public 7
+Adriatique,All I Ever Wanted,All I Ever Wanted,73RyhUtQnXgHB0Ko51EniR,0.781,0.63,2,-9.768,0,0.0628,0.792,0.11,0.365,123.021,392240,4,Spotify,Dance Rising,Public 7
+Hayla,Unfold,Unfold,6hj2GEXUPrHo86Ga9qfMkS,0.703,0.632,9,-7.694,0,0.0576,0.0257,0.092,0.0939,125.029,250080,4,Spotify,Dance Rising,Public 7
+Tim Green,Eastbound Silhouette,Lune,0KsoAc21eXJiDaccgoo8A3,0.804,0.67,1,-8.074,1,0.0469,0.878,0.118,0.231,122.006,567032,4,Spotify,Dance Rising,Public 7
+AMÉMÉ,Power,Power,2fHtXQkRN2Mwp6nFTSxH9q,0.806,0.837,0,-8.943,1,0.0469,0.0773,0.0501,0.0713,122.991,469597,4,Spotify,Dance Rising,Public 7
+Rampa,Les Gout,Les Gout,0ko0sZ5hNieT3LRq2lOGl3,0.848,0.678,5,-8.783,0,0.0441,0.24,0.125,0.536,120.005,344000,4,Spotify,Dance Rising,Public 7
+Shermanology,Souljack EP,Souljack,0W3w9pPy0JvezOG96J2biy,0.781,0.805,6,-7.248,1,0.0774,0.747,0.105,0.823,125.982,214286,4,Spotify,Dance Rising,Public 7
+piri,froge.mp3,say it,1qYSKTn4Peb38J5828xUmF,0.644,0.584,4,-8.505,0,0.0384,0.00294,0.342,0.501,84.495,178520,4,Spotify,Dance Rising,Public 7

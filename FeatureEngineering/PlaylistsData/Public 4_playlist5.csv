@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+jxdn,Sober,Sober,7K3rRx00hcS6MpZmYGUFH2,0.561,0.861,11,-3.04,1,0.0358,0,0.0852,0.542,141.909,152375,4,Spotify,The New Alt,Public 4
+All Time Low,Sleepwalking,Sleepwalking,4SOtTsuFYYlkOOvXMbroUv,0.424,0.682,11,-3.194,0,0.035,0,0.0918,0.58,176.014,187141,4,Spotify,The New Alt,Public 4
+half•alive,Did I Make You Up?,Did I Make You Up?,4RE7fFJNIZiO9ngs883gFG,0.715,0.621,9,-5.635,1,0.0366,9.03e-05,0.079,0.286,95.049,149773,4,Spotify,The New Alt,Public 4
+Måneskin,THE LONELIEST,THE LONELIEST,1Ame8XTX6QHY0l0ahqUhgv,0.519,0.595,2,-5.001,1,0.0283,0,0.0762,0.237,129.786,247067,4,Spotify,The New Alt,Public 4
+Barns Courtney,Supernatural,Supernatural,3HFvMIvCBNGkypFCQUHjyV,0.579,0.846,0,-3.929,0,0.0329,0,0.0418,0.612,98.019,167288,4,Spotify,The New Alt,Public 4
+Paramore,This Is Why,This Is Why,7z84Fwf1R3Z2BwHCP620CI,0.723,0.737,11,-7.566,0,0.0386,0.00261,0.116,0.689,123.039,207652,4,Spotify,The New Alt,Public 4
+L.S. Dunes,Past Lives,Past Lives,3cXzv5floESs781yR9BMBx,0.449,0.943,0,-2.6,1,0.0424,0.785,0.222,0.384,83.022,250939,4,Spotify,The New Alt,Public 4
+Avril Lavigne,I’m a Mess (with YUNGBLUD),I’m a Mess (with YUNGBLUD),1yvArCvZLTHiawRdWKSAWj,0.467,0.667,1,-4.386,1,0.0315,0,0.155,0.399,91.057,187794,4,Spotify,The New Alt,Public 4
+Fitz and The Tantrums,Let Yourself Free,Let Yourself Free,0nEAki1mcwaSvcv7F0mNWM,0.707,0.883,0,-2.736,1,0.0475,0.00511,0.0856,0.703,133.02,139928,4,Spotify,The New Alt,Public 4
+The Regrettes,Further Joy (Deluxe),Dummy,2Bc4O6c1kI99Ug2Xnv4RAI,0.771,0.596,0,-5.708,1,0.161,1.2e-06,0.0893,0.812,95.0,196467,4,Spotify,The New Alt,Public 4
+Phoenix,Tonight (feat. Ezra Koenig),Tonight (feat. Ezra Koenig),4JvFNFTjEtZyEzh8w0YzHF,0.671,0.736,8,-6.705,1,0.0344,0.00381,0.111,0.89,141.967,246707,4,Spotify,The New Alt,Public 4
+White Reaper,Pages,Pages,6j6OD4QQ2jRuvss0ssZSOK,0.531,0.735,1,-5.405,1,0.0305,0,0.0578,0.439,117.005,154099,4,Spotify,The New Alt,Public 4
+44phantom,"don't sleep, repeat (feat. Machine Gun Kelly)","don't sleep, repeat (feat. Machine Gun Kelly)",2qtqIinDwJQzsUofMtkH0D,0.667,0.716,7,-4.463,1,0.0564,0,0.255,0.412,144.943,149160,4,Spotify,The New Alt,Public 4
+WILLOW,curious/furious,curious/furious,27dTFzAAiUrJ2C2hxRcCd5,0.547,0.751,8,-11.43,0,0.0496,0,0.11,0.693,142.031,184905,4,Spotify,The New Alt,Public 4
+Jean Dawson,CHAOS NOW*,SICK OF IT*,25SRFuJqLVrgApeFw4vFCb,0.459,0.987,3,-3.779,1,0.0598,0.356,0.0647,0.325,94.566,129120,4,Spotify,The New Alt,Public 4
+PVRIS,ANIMAL / ANYWHERE BUT HERE,ANIMAL,5dpOtj3sd3nnXEudsgMozs,0.521,0.729,5,-5.541,0,0.0967,0,0.149,0.768,159.824,171133,4,Spotify,The New Alt,Public 4
+Ayron Jones,Otherside,Otherside,7r6IKrSrxElm4CONGUhlv5,0.439,0.713,0,-6.337,1,0.0379,0,0.083,0.229,111.99,226787,4,Spotify,The New Alt,Public 4
+aldn,"post spring, self destruction",overpaid (feat. Tom The Mail Man),2LVeGtvlH8VwDJTP8EHeek,0.606,0.769,5,-4.976,1,0.113,2.43e-05,0.352,0.753,155.064,174194,4,Spotify,The New Alt,Public 4
+Nessa Barrett,tired of california,tired of california,02xRKYZ1jY4B6utPa59qSf,0.712,0.731,6,-6.313,0,0.0402,0,0.372,0.638,92.014,190800,4,Spotify,The New Alt,Public 4
+Palaye Royale,Fever Dream,Line It Up (feat. LP),6pt3VzqcJ5jIUR5JyBtkmW,0.453,0.791,7,-5.605,0,0.0347,0,0.189,0.466,82.976,241222,4,Spotify,The New Alt,Public 4
+Beach Weather,Trouble With This Bed,Trouble With This Bed,5wLhOIYBr7i5k8MPaXJYjh,0.648,0.7,0,-6.253,1,0.0251,0.00244,0.121,0.929,92.002,226884,4,Spotify,The New Alt,Public 4
+Yeah Yeah Yeahs,Cool It Down,Burning,4JFet0crxTPHFV2n1ZqZKV,0.528,0.799,7,-5.402,0,0.047,5.25e-06,0.0928,0.189,116.005,245120,4,Spotify,The New Alt,Public 4
+Matt Maeson,Never Had to Leave,Cut Deep,2Y2nvGDYoKXihBx5KBIugX,0.58,0.833,4,-3.913,0,0.192,0,0.0819,0.602,160.055,176813,4,Spotify,The New Alt,Public 4
+Royal & the Serpent,Happiness is an Inside Job,Love Abuser (Save Me),6dS27nDWBxG9CHagUyq5j0,0.308,0.824,8,-2.975,1,0.0636,0,0.0654,0.455,167.203,187461,4,Spotify,The New Alt,Public 4
+Montell Fish,Exscape,Exscape,5L1WMbYfNFkmlyG407ke6S,0.599,0.854,4,0.829,0,0.0373,0,0.098,0.449,139.995,142286,4,Spotify,The New Alt,Public 4
+spill tab,CRÈME BRÛLÉE!,CRÈME BRÛLÉE!,0vG00tUzNqeQ4Yt2y5Bcyb,0.41,0.827,7,-6.388,0,0.0804,0.00784,0.282,0.537,144.855,135529,4,Spotify,The New Alt,Public 4
+Aidan Bissett,Tripping Over Air,Tripping Over Air,7mzPAftljnsFmU6131Pqcd,0.622,0.799,11,-4.811,1,0.0342,1.08e-06,0.269,0.6,116.985,182383,4,Spotify,The New Alt,Public 4
+The Blue Stones,What’s It Take To Be Happy?,What’s It Take To Be Happy?,36ctXtkmh0ot5PTBhlr9vJ,0.633,0.778,2,-5.522,1,0.0447,1.99e-05,0.214,0.606,92.973,200622,4,Spotify,The New Alt,Public 4
+Cassyette,Sad Girl Mixtape,Like That,2SpphQibJfkN9GY5nuzlof,0.491,0.832,7,-4.391,0,0.0412,0.0492,0.858,0.437,145.938,155342,4,Spotify,The New Alt,Public 4
+ThxSoMch,SPIT IN MY FACE!,SPIT IN MY FACE!,2jkyPVk1nbpsZD0KAS98Zw,0.701,0.573,1,-9.637,1,0.0695,0.2,0.105,0.575,165.995,162010,4,Spotify,The New Alt,Public 4
+Iggy Pop,Frenzy,Frenzy,0D0fJnHN5Tj7QTa3rEbLTT,0.391,0.985,8,-2.806,1,0.158,0,0.115,0.199,75.013,180586,4,Spotify,The New Alt,Public 4
+blink-182,EDGING,EDGING,2wVWGFVkL5I3JGsoWBx2AZ,0.606,0.905,5,-3.117,1,0.0518,0,0.151,0.706,143.952,151533,4,Spotify,The New Alt,Public 4
+Blu DeTiger,Elevator,Elevator,1YfbJV5J2V2fU5OcFmzi03,0.843,0.623,11,-5.054,1,0.0435,0.00024,0.106,0.832,110.964,165608,4,Spotify,The New Alt,Public 4
+Sohodolls,Bad,Bad,6tNTd8uoQNeVcM3l1uE5fT,0.546,0.894,11,-5.092,0,0.0686,0.000121,0.238,0.502,131.058,220763,4,Spotify,The New Alt,Public 4
+Waterparks,FUCK ABOUT IT,FUCK ABOUT IT (feat. blackbear),3MOKBkpsarb0AfAABcLAsn,0.489,0.868,9,-3.767,0,0.0556,0,0.387,0.457,158.114,172376,4,Spotify,The New Alt,Public 4
+New Found Glory,Dream Born Again,Dream Born Again,3nTZKdlQJaKsMXmr6gGDeo,0.525,0.656,4,-5.737,1,0.0294,0,0.318,0.434,151.093,261060,4,Spotify,The New Alt,Public 4
+GAYLE,fmk (with blackbear) [messier],fmk (with blackbear) - messier,5CO8EbwcxnvA28O7NCDKfJ,0.403,0.714,2,-5.38,1,0.0525,0,0.251,0.342,143.248,186357,4,Spotify,The New Alt,Public 4
+Connie Constance,Hurt You,Hurt You,1pxLVdC8sjLDA2DF3uOEuW,0.563,0.727,9,-4.531,1,0.0767,1.43e-05,0.0521,0.584,155.003,235093,4,Spotify,The New Alt,Public 4
+YUNGBLUD,Tissues,Tissues,0jRY4XO556pn1zHZAoY3ph,0.608,0.907,4,-3.368,1,0.121,0,0.186,0.818,89.994,215163,4,Spotify,The New Alt,Public 4
+The Backseat Lovers,Growing/Dying,Growing/Dying,4JAFlkYkNy1MM6zOqRbiGp,0.466,0.404,11,-7.789,1,0.0271,0.0494,0.085,0.235,89.955,212093,4,Spotify,The New Alt,Public 4
+Manchester Orchestra,No Rule,No Rule,5SvYRapjngsO2dYfBC9ZXV,0.262,0.708,2,-7.07,1,0.0398,0.00875,0.115,0.199,171.132,325888,3,Spotify,The New Alt,Public 4
+Alvvays,After The Earthquake,After The Earthquake,6BiECF48e7qu8Z81xJL7sB,0.322,0.899,4,-4.457,1,0.0958,9.95e-06,0.591,0.407,165.908,185277,4,Spotify,The New Alt,Public 4
+The Rare Occasions,Attaboy,Start This Over,3rghzWiJzh59FHeec1hcfK,0.663,0.495,11,-7.085,1,0.0271,4.11e-05,0.158,0.519,95.924,213531,4,Spotify,The New Alt,Public 4
+The Luka State,More Than This,More Than This,1F3VhVtaMqUqKhXdpA3itF,0.443,0.979,0,-1.341,0,0.13,0.00332,0.298,0.333,112.307,182100,4,Spotify,The New Alt,Public 4
+Two Door Cinema Club,Keep On Smiling,Everybody's Cool,5HUxswbr7V4fzwG1LGCf7U,0.695,0.713,6,-4.366,0,0.0459,0,0.11,0.558,106.018,262356,4,Spotify,The New Alt,Public 4
+BoyWithUke,Sick of U,Sick of U (with Oliver Tree),5IXdkgrT4lb9sKIb8tbOQ3,0.676,0.814,0,-3.213,1,0.0585,0,0.0953,0.601,92.554,168676,4,Spotify,The New Alt,Public 4
+AWOLNATION,We Are All Insane,We Are All Insane,2N175zTqPQhQ5FHOrgsW3h,0.52,0.742,4,-6.35,0,0.0366,0.344,0.24,0.562,83.97,211401,4,Spotify,The New Alt,Public 4
+Weezer,SZNZ: Autumn,What Happens After You?,5x7Ffxc1Obg13x5IzM1XXV,0.646,0.607,7,-7.671,0,0.0335,2.32e-05,0.32,0.536,123.033,199592,4,Spotify,The New Alt,Public 4
+Wunderhorse,Leader of the Pack,Leader of the Pack,5ZrE7guVgMc6Vjvri6aZYg,0.506,0.967,1,-4.464,0,0.0635,0.195,0.0921,0.592,95.354,183467,4,Spotify,The New Alt,Public 4
+Noel Gallagher's High Flying Birds,Pretty Boy,Pretty Boy,0HLUNrbWZdyUDWVKy3X9JH,0.52,0.885,4,-5.861,0,0.0337,0.244,0.094,0.706,157.02,295055,4,Spotify,The New Alt,Public 4
+Arkells,Blink Twice,Nowhere To Go,1luO7FPnPq0tlpxPoZtaKR,0.578,0.94,5,-4.604,1,0.0513,0,0.336,0.728,154.994,221538,4,Spotify,The New Alt,Public 4
+Wilderado,Wilderado,Surefire,7MbVZOLSUloG4J3nH3Tnos,0.661,0.699,11,-5.548,1,0.0286,0.000427,0.106,0.717,126.001,241194,4,Spotify,The New Alt,Public 4
+DE'WAYNE,TAKE THIS CROWN (feat. Good Charlotte),TAKE THIS CROWN (feat. Good Charlotte),2IY9lQ8pD2uVzAoIxJUPK8,0.455,0.949,11,-5.383,0,0.23,0.000203,0.116,0.269,160.041,215987,4,Spotify,The New Alt,Public 4
+Bad Suns,Maybe You Saved Me,Maybe You Saved Me,6pJsukg4tYbHfE01yU40Qr,0.591,0.914,6,-3.515,0,0.162,0,0.105,0.758,98.02,204632,4,Spotify,The New Alt,Public 4
+Bishop Briggs,superhuman,superhuman,7BTNd80NiL6anY2mnSYkgQ,0.446,0.558,0,-3.2,1,0.134,0,0.0807,0.794,171.406,170809,4,Spotify,The New Alt,Public 4
+Milky Chance,Troubled Man,Troubled Man,0GM071OWnLj7XbblrwSlo0,0.96,0.652,6,-6.941,1,0.0443,0.0042,0.0951,0.887,123.974,155173,4,Spotify,The New Alt,Public 4
+Samia,Mad At Me,Mad At Me,3wbXyVBbFXczjXcLL46GH4,0.599,0.557,7,-7.107,1,0.0349,2.05e-06,0.43,0.076,97.993,218800,4,Spotify,The New Alt,Public 4
+The Wrecks,Sonder (Deluxe),Things You Make Me Do,5WcN883THJww4LpyKN4hJK,0.591,0.76,3,-4.574,1,0.0313,0,0.128,0.384,95.055,185503,4,Spotify,The New Alt,Public 4
+The 1975,Being Funny In A Foreign Language,Oh Caroline,14dJexYlvd3t3XAtD1pYW1,0.646,0.85,2,-5.466,1,0.0428,4.01e-05,0.0994,0.819,96.538,212568,4,Spotify,The New Alt,Public 4
+The Beaches,My People,My People,7LI7D9mKjw5nadfq41LkRr,0.582,0.847,11,-6.068,0,0.0459,0.137,0.103,0.42,167.047,192756,4,Spotify,The New Alt,Public 4
+DREAMERS,Robbery,Robbery,2QwrcxUvwVxvNjk83Xsrf6,0.691,0.908,11,-2.809,0,0.0868,0,0.227,0.868,141.991,148212,4,Spotify,The New Alt,Public 4
+Friday Pilots Club,"I LOVE YOU, ROBOT SUPERSTAR!",Poison or Patience (feat. OSTON),6MYZ8x04XIEdFNg3rKAD5v,0.455,0.784,7,-6.139,1,0.234,0,0.114,0.529,175.782,177213,4,Spotify,The New Alt,Public 4
+George Barnett,STATUES (v2),STATUES (v2),1BVW94mJBunuCOgqqmKDqk,0.666,0.872,6,-2.945,1,0.0471,0.333,0.459,0.905,122.967,293355,4,Spotify,The New Alt,Public 4
+The Maine,Box in a Heart (with renforshort),Box in a Heart (with renforshort),3tZXR1QTZihYHLIdByiNh3,0.594,0.468,9,-7.559,1,0.0256,0.00113,0.188,0.299,94.14,171064,4,Spotify,The New Alt,Public 4
+Dayseeker,Without Me,Without Me,1d46ed3h4U9ws3YsvUOMon,0.421,0.819,1,-3.933,0,0.041,0,0.12,0.162,92.72,223800,4,Spotify,The New Alt,Public 4
+The Used,Fuck You,Fuck You,7fGGZSUU5Uja2A8dvmS9l9,0.361,0.791,2,-4.722,1,0.0768,0.00181,0.108,0.384,174.952,177600,3,Spotify,The New Alt,Public 4
+"nothing,nowhere.",CYAN1DE (feat. Pete Wentz),CYAN1DE (feat. Pete Wentz),1v64n1ScLjCccCw75vgqAY,0.396,0.876,4,-7.513,0,0.115,0,0.528,0.112,169.89,231882,4,Spotify,The New Alt,Public 4
+Sleeping With Sirens,Complete Collapse,Be Happy (feat. Royal & the Serpent),7zTpZWlzYFkBfDLPXmIatU,0.46,0.898,2,-4.086,0,0.0879,1.35e-05,0.273,0.348,93.965,198821,4,Spotify,The New Alt,Public 4
+GUNNAR,Cinnamon,Cinnamon,4WBFBguZw3irFdhWlBemA3,0.412,0.562,4,-5.199,1,0.047,0,0.048,0.654,157.745,158320,3,Spotify,The New Alt,Public 4
+Giovannie and the Hired Guns,Overrated,Overrated,41MoaoWW7iea2MdNQQtxhv,0.212,0.835,6,-5.676,1,0.0609,0.000154,0.899,0.449,168.784,218937,4,Spotify,The New Alt,Public 4
+THE DRIVER ERA,Summer Mixtape,Fantasy,6SuGGyzKWlmyLwXIYZA6ov,0.861,0.398,10,-6.706,0,0.0733,6.54e-05,0.184,0.48,89.025,199551,4,Spotify,The New Alt,Public 4
+Red Leather,SINS,SINS,3zm96XNTmVVUSL9LEJsMtW,0.504,0.706,7,-4.296,0,0.0725,8.04e-06,0.0657,0.654,176.099,177953,4,Spotify,The New Alt,Public 4
+sad alex,Spotify Singles,sideways - Spotify Singles,7rI64a9imOPZchFjCKrKMo,0.557,0.641,6,-5.481,1,0.0299,7.54e-05,0.125,0.526,98.049,157662,1,Spotify,The New Alt,Public 4
+Windser,Where the Redwoods Meet the Sea,Friends I Barely Know,1LrgCvDcHuPnThKRKkeoqL,0.625,0.789,4,-6.535,1,0.0327,0.0217,0.0867,0.631,137.976,179947,4,Spotify,The New Alt,Public 4
+Starcrawler,She Said,Thursday,6vb55aYjtf4DirjVFPJpKz,0.416,0.944,11,-2.802,1,0.132,0.375,0.269,0.671,164.987,142092,4,Spotify,The New Alt,Public 4
+Ripe,Noise in the Forest,Noise in the Forest,5jYpmSMc0KWcj8I2StBaNf,0.672,0.848,6,-5.635,0,0.0675,7.75e-06,0.0986,0.95,88.949,208048,4,Spotify,The New Alt,Public 4
+Blondshell,Cartoon Earthquake - Spotify Singles,Cartoon Earthquake - Spotify Singles,31Xrzr7jkdFQDLnfLzVAjh,0.493,0.732,6,-6.523,0,0.0519,0.0151,0.15,0.345,111.905,205429,4,Spotify,The New Alt,Public 4
+Tigercub,The Perfume of Decay,The Perfume of Decay,7cGKdI3BvJOKYzs9dRdvFj,0.403,0.868,0,-3.737,1,0.0459,0.683,0.133,0.571,137.885,220862,4,Spotify,The New Alt,Public 4
+Meet Me @ The Altar,Say It (To My Face),Say It (To My Face),2UMeGWmUri9RVpmckPV9Jt,0.509,0.905,7,-4.902,1,0.0708,0.000613,0.654,0.656,165.068,159308,4,Spotify,The New Alt,Public 4
+Now More Than Ever,"Don't Rush, Don't Wait","Don't Rush, Don't Wait",7ATdK8hSyb8jGRjn6H2qKv,0.571,0.593,2,-8.048,1,0.0426,0,0.351,0.559,150.886,164680,4,Spotify,The New Alt,Public 4
+Rachel Chinouriri,I’m Not Perfect (But I’m Trying),I’m Not Perfect (But I’m Trying),10LBv5a9JLom1L6a05goUV,0.589,0.85,5,-6.676,1,0.0358,0.000578,0.154,0.249,100.99,206222,4,Spotify,The New Alt,Public 4
+Circa Waves,Do You Wanna Talk,Do You Wanna Talk,32SDqcUr2HkSJ20NlHcMBe,0.701,0.869,6,-4.813,0,0.0503,0.000778,0.287,0.903,100.066,146393,4,Spotify,The New Alt,Public 4
+Jack White,Entering Heaven Alive,A Tip from You to Me,26YYcaZm37TALSISgpqdO2,0.5,0.776,9,-6.093,0,0.0371,0.000583,0.0921,0.512,152.047,162858,4,Spotify,The New Alt,Public 4
+Hundred Reasons,Glorious Sunset,Glorious Sunset,3aVZyv57MSqHpDtsihRDiB,0.388,0.808,2,-5.965,1,0.0438,9.21e-06,0.154,0.253,160.121,239000,4,Spotify,The New Alt,Public 4
+Inhaler,Love Will Get You There,Love Will Get You There,0UgCI5TiOQthbrEVSqHC9j,0.504,0.897,0,-4.694,0,0.0443,1.06e-05,0.0721,0.527,96.008,250280,4,Spotify,The New Alt,Public 4
+Jimmy Eat World,Place Your Debts,Place Your Debts,29f4cPjqBi9n5lS8XQlKa3,0.344,0.458,7,-6.649,1,0.0285,0.158,0.0747,0.0647,87.959,310381,4,Spotify,The New Alt,Public 4
+Maz,How Does It Feel,How Does It Feel,5zjzqxrN1YsRHJlME6ZBXv,0.599,0.672,7,-6.055,1,0.0376,0.00108,0.234,0.388,115.987,219310,4,Spotify,The New Alt,Public 4
+Young the Giant,American Bollywood: Acts III & IV,Otherside,5ZGrAvSbS9qOEphpjwn3Aj,0.324,0.666,5,-6.975,1,0.0392,0,0.911,0.273,110.564,222078,4,Spotify,The New Alt,Public 4
+The Arcs,Keep On Dreamin',Keep On Dreamin',7oeLY4eOWi6weLBqTWH0Rc,0.591,0.742,11,-6.253,1,0.041,0.0315,0.287,0.675,132.953,266560,4,Spotify,The New Alt,Public 4
+Charlotte Sands,Tantrum,Tantrum,0hInN3yci5wTnqCl1DXShW,0.635,0.89,0,-4.922,1,0.0702,7.61e-06,0.184,0.579,92.015,157363,4,Spotify,The New Alt,Public 4
+MOD SUN,Battle Scars,Battle Scars,4l42ScC0z19ygzbpS4JzGi,0.686,0.746,8,-6.268,1,0.0302,7.24e-06,0.0328,0.358,128.007,171673,4,Spotify,The New Alt,Public 4
+Colony House,Cannonballers,Cannonballers,5hR92ZjhZsVVUPLuEJcxDf,0.546,0.968,5,-3.613,0,0.0478,0.000496,0.193,0.783,158.009,172000,4,Spotify,The New Alt,Public 4
+The Snuts,Burn The Empire,Hallelujah Moment,1UOkwtqARzu9QW4IMQjeO0,0.679,0.89,2,-4.371,1,0.0763,0,0.344,0.849,112.951,135160,4,Spotify,The New Alt,Public 4
+Metric,Formentera,What Feels Like Eternity,4JmXokIIxfoS3XdhkHUBDw,0.53,0.767,5,-4.947,0,0.0406,3.06e-05,0.0791,0.578,166.04,217813,4,Spotify,The New Alt,Public 4
+cleopatrick,DOOM,SCARING ME,35Bv4QuokBrmWya208VcK2,0.585,0.655,1,-8.075,0,0.0338,0.00683,0.17,0.142,135.062,231600,4,Spotify,The New Alt,Public 4
+almost monday,cough drops,cough drops,5Jpj3lCgX06bu6STIjUYKN,0.62,0.702,9,-5.13,0,0.0364,0,0.178,0.785,76.507,163990,4,Spotify,The New Alt,Public 4
+Black Honey,Out of My Mind,Out of My Mind,1bQG1BtFDU8ZFGpbyDKxm1,0.386,0.857,0,-6.41,1,0.0653,0.00699,0.128,0.366,148.092,212964,4,Spotify,The New Alt,Public 4
+Lincoln,Baby Take My Acid,Baby Take My Acid,4f2Uk6JHVaZp39TTyCEqEC,0.483,0.91,0,-3.595,1,0.0545,0.00048,0.291,0.455,135.997,177253,4,Spotify,The New Alt,Public 4
+LCD Soundsystem,new body rhumba (from the film White Noise),new body rhumba (from the film White Noise),2iqA5Na5vlo0bnZUf8KT1N,0.707,0.931,2,-5.463,1,0.0545,0.00267,0.153,0.702,136.822,443853,4,Spotify,The New Alt,Public 4
+Sam Austins,Matador,Matador,2uvwRdYOa3e5Z87JAtPK3Y,0.659,0.797,5,-5.384,1,0.0423,0.000503,0.174,0.473,113.96,196965,4,Spotify,The New Alt,Public 4

@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Shakira,"Oral Fixation, Vol. 2 (Expanded Edition)",Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,0.778,0.824,10,-5.892,0,0.0707,0,0.405,0.758,100.024,218093,4,Spotify,Party Hits 2000s,Public 18
+Rihanna,Music Of The Sun,Pon de Replay,4TsmezEQVSZNNPv5RJ65Ov,0.779,0.64,7,-8.415,1,0.159,0.00077,0.101,0.498,99.019,246960,4,Spotify,Party Hits 2000s,Public 18
+Sean Paul,Dutty Rock,Get Busy,5qTvkDrSfvwDv6RBjjcfQr,0.735,0.824,10,-4.143,0,0.036,0,0.158,0.726,100.202,211666,4,Spotify,Party Hits 2000s,Public 18
+David Guetta,One Love (Deluxe),When Love Takes Over (feat. Kelly Rowland),77FULy278MulVvGWS8BfK7,0.675,0.862,11,-4.614,1,0.0253,0.000427,0.169,0.498,129.967,191000,4,Spotify,Party Hits 2000s,Public 18
+Lady Gaga,The Fame,Just Dance,2x7MyWybabEz6Y6wvHuwGE,0.822,0.739,1,-4.541,0,0.0311,4.26e-05,0.181,0.745,118.992,241933,4,Spotify,Party Hits 2000s,Public 18
+Usher,Confessions (Expanded Edition),Yeah! (feat. Lil Jon & Ludacris),5rb9QrpfcKFHM1EUbSIurX,0.894,0.791,2,-4.699,1,0.112,0,0.0388,0.583,105.018,250373,4,Spotify,Party Hits 2000s,Public 18
+Timbaland,Shock Value,The Way I Are,2bLqfJjuC5syrsgDsZfGmn,0.731,0.807,3,-6.492,0,0.1,0.751,0.319,0.765,114.759,179120,4,Spotify,Party Hits 2000s,Public 18
+Katy Perry,One Of The Boys,Hot N Cold,1y4eb6hmAvsqlDOl3fx9kk,0.706,0.841,7,-3.956,1,0.0418,0,0.0688,0.861,132.032,220227,4,Spotify,Party Hits 2000s,Public 18
+Britney Spears,In The Zone,Toxic,6I9VzXrHxO9rA9A5euc8Ak,0.774,0.838,5,-3.914,0,0.114,0.025,0.242,0.924,143.04,198800,4,Spotify,Party Hits 2000s,Public 18
+Cascada,Platinum,Everytime We Touch,5aEqcblO0Z6JloFJXtxyhe,0.633,0.976,8,-5.362,1,0.0519,1.29e-05,0.382,0.493,142.027,197124,4,Spotify,Party Hits 2000s,Public 18
+Rihanna,Good Girl Gone Bad: Reloaded,Disturbia,2VOomzT6VavJOGBeySqaMc,0.707,0.813,11,-4.515,0,0.0571,0,0.168,0.722,124.921,238627,4,Spotify,Party Hits 2000s,Public 18
+Kesha,Animal (Expanded Edition),TiK ToK,0HPD5WQqrq7wPWR7P7Dw1i,0.755,0.837,2,-2.718,0,0.142,0,0.289,0.714,120.028,199693,4,Spotify,Party Hits 2000s,Public 18
+Flo Rida,R.O.O.T.S. (Route of Overcoming the Struggle),Right Round,3GpbwCm3YxiWDvy29Uo3vP,0.72,0.672,7,-6.852,1,0.0551,0,0.232,0.705,124.986,204640,4,Spotify,Party Hits 2000s,Public 18
+David Guetta,One Love (Deluxe),Sexy Bitch (feat. Akon),0uXO2GrNiIb1xHT9LUdxZE,0.813,0.627,11,-5.018,0,0.0486,0.000616,0.131,0.801,130.011,195853,4,Spotify,Party Hits 2000s,Public 18
+Beyoncé,Dangerously In Love,Crazy In Love (feat. Jay-Z),5IVuqXILoxVWvWEPm82Jxr,0.646,0.77,2,-6.596,0,0.226,0,0.0715,0.681,99.165,236133,4,Spotify,Party Hits 2000s,Public 18
+Shakira,Laundry Service,"Whenever, Wherever",2lnzGkdtDj5mtlcOW2yRtG,0.794,0.832,1,-4.862,0,0.0407,1.14e-05,0.203,0.871,107.657,196160,4,Spotify,Party Hits 2000s,Public 18
+Alex Gaudino,Destination Calabria,Destination Calabria - Radio Edit,5TmFTHZp7HjBXjjsFvCY6h,0.627,0.954,2,-4.804,1,0.0425,0.000814,0.292,0.312,128.016,223112,4,Spotify,Party Hits 2000s,Public 18
+Daddy Yankee,Barrio Fino (Bonus Track Version),Gasolina,228BxWXUYQPJrJYHDLOHkj,0.852,0.797,0,-6.543,1,0.0614,2.69e-06,0.0845,0.741,96.008,192600,4,Spotify,Party Hits 2000s,Public 18
+Outkast,Speakerboxxx/The Love Below,Hey Ya!,2PpruBYCo4H7WOBJ7Q2EwM,0.727,0.974,4,-2.261,0,0.0664,0.000532,0.174,0.965,79.526,235213,4,Spotify,Party Hits 2000s,Public 18
+Various Artists,Lady Marmalade,Lady Marmalade - Single Edit,0PSZ9G584Ve27GK6ThlY6P,0.754,0.811,5,-3.679,1,0.0561,5.18e-06,0.654,0.639,109.902,267960,4,Spotify,Party Hits 2000s,Public 18
+Sean Paul,The Trinity,Temperature,0k2GOhqsrxDTAbFFSdNJjT,0.951,0.6,0,-4.675,0,0.0685,0,0.0712,0.822,125.04,218573,4,Spotify,Party Hits 2000s,Public 18
+Nelly,Nellyville,Hot In Herre,04KTF78FFg8sOHC1BADqbY,0.956,0.745,11,-4.753,0,0.12,0,0.0615,0.912,107.075,228240,4,Spotify,Party Hits 2000s,Public 18
+50 Cent,Get Rich Or Die Tryin',In Da Club,4RY96Asd9IefaL3X4LOLZ8,0.902,0.72,6,-2.776,0,0.347,0,0.0749,0.805,90.059,193467,4,Spotify,Party Hits 2000s,Public 18
+Kevin Lyttle,Kevin Lyttle (US Domestic Release),Turn Me On,0BBOLOV5JntPL3341swIre,0.677,0.682,9,-6.879,1,0.0361,0,0.0351,0.875,106.279,192107,4,Spotify,Party Hits 2000s,Public 18
+Mary J. Blige,No More Drama,Family Affair,3aw9iWUQ3VrPQltgwvN9Xu,0.911,0.551,8,-3.75,0,0.0449,4.12e-05,0.0863,0.969,92.887,265867,4,Spotify,Party Hits 2000s,Public 18
+Eminem,The Eminem Show,Without Me,7lQ8MOhq6IN2w8EYcFNSUk,0.908,0.669,7,-2.827,1,0.0738,0,0.237,0.662,112.238,290320,4,Spotify,Party Hits 2000s,Public 18
+JAY-Z,The Blueprint 3,Empire State Of Mind,2igwFfvr1OAGX9SKDCPBwO,0.491,0.956,11,-1.538,1,0.392,0,0.46,0.811,173.585,276920,4,Spotify,Party Hits 2000s,Public 18
+The Game,The Documentary,Hate It Or Love It,2wGSgTmgSF3xjRrHkTc25R,0.802,0.785,9,-4.781,1,0.207,0,0.123,0.435,99.998,206400,4,Spotify,Party Hits 2000s,Public 18
+Rihanna,Good Girl Gone Bad: Reloaded,Umbrella,49FYlytm3dAAraYgpoJZux,0.583,0.829,1,-4.603,1,0.134,0,0.0426,0.575,174.028,275987,4,Spotify,Party Hits 2000s,Public 18
+Lady Gaga,The Fame Monster (Deluxe Edition),Bad Romance,0SiywuOBRcynK0uKGWdCnn,0.696,0.921,0,-3.755,1,0.0363,5.24e-05,0.0842,0.714,119.001,294573,4,Spotify,Party Hits 2000s,Public 18
+Outkast,Stankonia,Ms. Jackson,0I3q5fE6wg7LIfHGngUTnV,0.843,0.806,4,-5.946,0,0.269,0,0.0771,0.613,94.948,270507,4,Spotify,Party Hits 2000s,Public 18
+Kanye West,Graduation,Stronger,0j2T0R9dR9qdJYsB7ciXhf,0.617,0.717,10,-7.858,0,0.153,0,0.408,0.49,103.992,311867,4,Spotify,Party Hits 2000s,Public 18
+Akon,Konvicted,Smack That,2kQuhkFX7uSVepCD3h29g5,0.939,0.742,5,-5.171,0,0.0467,0,0.107,0.924,118.978,212360,4,Spotify,Party Hits 2000s,Public 18
+Eminem,The Marshall Mathers LP,The Real Slim Shady,3yfqSUWxFvZELEM4PmlwIR,0.949,0.661,5,-4.244,0,0.0572,0,0.0454,0.76,104.504,284200,4,Spotify,Party Hits 2000s,Public 18
+Dr. Dre,2001,The Next Episode,4LwU4Vp6od3Sb08CsP99GC,0.922,0.909,10,-2.429,0,0.27,0,0.0856,0.309,95.295,161507,4,Spotify,Party Hits 2000s,Public 18
+Flo Rida,Mail on Sunday,Low (feat. T-Pain),0CAfXk7DXMnon4gLudAp7J,0.918,0.609,10,-5.64,0,0.0791,0,0.139,0.304,128.008,231400,4,Spotify,Party Hits 2000s,Public 18
+Nelly Furtado,Loose,Maneater,4wH4dJgrsxONID6KS2tDQM,0.796,0.777,6,-4.81,1,0.0397,0.000358,0.121,0.787,132.722,258893,4,Spotify,Party Hits 2000s,Public 18
+50 Cent,The Massacre,Candy Shop,5D2mYZuzcgjpchVY1pmTPh,0.614,0.574,11,-7.961,1,0.466,3.2e-05,0.38,0.755,125.173,209107,5,Spotify,Party Hits 2000s,Public 18
+Daddy Yankee,Barrio Fino (Bonus Track Version),"Lo Que Pasó, Pasó",26QKsGW4hMuwiEE1ftUMHe,0.819,0.741,8,-6.538,0,0.0412,0,0.283,0.84,97.014,210933,4,Spotify,Party Hits 2000s,Public 18
+Kanye West,Late Registration,Gold Digger,1PS1QMdUqOal0ai3Gt7sDQ,0.629,0.696,1,-5.572,0,0.348,0,0.0554,0.623,93.034,207627,4,Spotify,Party Hits 2000s,Public 18
+Maroon 5,Songs About Jane: 10th Anniversary Edition,This Love,6ECp64rv50XVz93WvxXMGF,0.712,0.862,5,-4.612,0,0.0378,0,0.093,0.809,95.051,206200,4,Spotify,Party Hits 2000s,Public 18
+Britney Spears,Blackout,Gimme More,6ic8OlLUNEATToEFU3xmaH,0.788,0.844,2,-3.131,1,0.0334,0.000678,0.0723,0.382,113.324,251240,4,Spotify,Party Hits 2000s,Public 18
+Estelle,Shine,American Boy,22UDw8rSfLbUsaAGTXQ4Z8,0.727,0.729,0,-2.99,1,0.326,0,0.07,0.512,117.932,284733,4,Spotify,Party Hits 2000s,Public 18
+Justin Timberlake,FutureSex/LoveSounds,SexyBack (feat. Timbaland),0O45fw2L5vsWpdsOdXwNAR,0.967,0.583,7,-5.562,0,0.0789,0,0.0519,0.964,117.0,242733,4,Spotify,Party Hits 2000s,Public 18
+Bacilos,Caraluna,Caraluna,7DhYjNLksXZhbRQeheAums,0.76,0.773,9,-5.314,1,0.0675,0,0.1,0.895,102.789,266160,4,Spotify,Party Hits 2000s,Public 18
+Don Omar,King Of Kings,Salió El Sol,48NXpYRuvv9izul4oXhqS9,0.887,0.701,4,-5.892,0,0.0873,0.00948,0.0466,0.965,110.002,315293,4,Spotify,Party Hits 2000s,Public 18
+50 Cent,The Massacre,Just A Lil Bit,4nva9EpKntUTs6CRSGBCn9,0.489,0.692,1,-6.672,1,0.41,0.00608,0.315,0.527,96.946,237707,4,Spotify,Party Hits 2000s,Public 18
+Britney Spears,Oops!... I Did It Again,Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,0.751,0.834,1,-5.444,0,0.0437,1.77e-05,0.355,0.894,95.053,211160,4,Spotify,Party Hits 2000s,Public 18
+Modjo,Modjo (Remastered),Lady - Hear Me Tonight,49X0LAl6faAusYq02PRAY6,0.72,0.808,6,-5.627,1,0.0379,0.0293,0.0634,0.869,126.041,307154,4,Spotify,Party Hits 2000s,Public 18
+Eminem,Curtain Call: The Hits (Deluxe Edition),"Lose Yourself - From ""8 Mile"" Soundtrack",5Z01UMMf7V1o0MzF86s6WJ,0.692,0.744,2,-4.565,1,0.257,0.000423,0.359,0.0612,171.374,326467,4,Spotify,Party Hits 2000s,Public 18
+Daft Punk,Discovery,One More Time,0DiWol3AO6WpXZgp0goxAV,0.613,0.697,2,-8.618,1,0.133,0,0.332,0.476,122.746,320357,4,Spotify,Party Hits 2000s,Public 18
+Snoop Dogg,R&G (Rhythm & Gangsta): The Masterpiece,Drop It Like It's Hot,2NBQmPrOEEjA8VbeWOQGxO,0.888,0.632,1,-3.872,1,0.219,0,0.101,0.662,91.979,266067,4,Spotify,Party Hits 2000s,Public 18
+Chris Brown,Forever,Forever,3NZJlJemX3mzjf56MqC5ML,0.672,0.82,11,-4.456,1,0.0459,0.000188,0.184,0.438,120.005,278573,4,Spotify,Party Hits 2000s,Public 18
+Justin Timberlake,Justified,Rock Your Body,1AWQoqb9bSvzTjaLralEkT,0.892,0.714,4,-6.055,0,0.141,0.000234,0.0521,0.817,100.972,267267,4,Spotify,Party Hits 2000s,Public 18
+Britney Spears,Circus (Deluxe Version),Womanizer,4fixebDZAVToLbUCuEloa2,0.724,0.695,11,-5.226,1,0.0622,0,0.0889,0.235,139.0,224400,4,Spotify,Party Hits 2000s,Public 18
+Lady Gaga,The Fame,Poker Face,5R8dQOPq8haW94K7mgERlO,0.851,0.806,4,-4.62,1,0.0787,1.64e-06,0.121,0.787,118.999,237200,4,Spotify,Party Hits 2000s,Public 18
+Nelly,Country Grammar,Ride Wit Me,3Gf5nttwcX9aaSQXRWidEZ,0.85,0.7,7,-6.49,1,0.0478,1.8e-06,0.244,0.722,101.875,291782,4,Spotify,Party Hits 2000s,Public 18
+Soulja Boy,souljaboytellem.com,Crank That (Soulja Boy),66TRwr5uJwPt15mfFkzhbi,0.736,0.74,0,-2.18,1,0.0786,0,0.0468,0.803,140.141,221933,4,Spotify,Party Hits 2000s,Public 18
+Madonna,Confessions on a Dance Floor,Hung Up,3850dYVgOFIXJh5U4BFEWH,0.649,0.647,9,-7.695,0,0.0452,0.161,0.0686,0.405,125.02,337733,4,Spotify,Party Hits 2000s,Public 18
+Shakira,"Fijación Oral, Vol. 1",La Tortura (feat. Alejandro Sanz),5BSclXJTa9B0iURhUjZo50,0.74,0.783,0,-5.367,1,0.0427,0.000308,0.123,0.812,100.011,212893,4,Spotify,Party Hits 2000s,Public 18
+Kylie Minogue,Fever,Can't Get You out of My Head,3E7ZwUMJFqpsDOJzEkBrQ7,0.766,0.563,9,-7.516,0,0.0339,0.683,0.115,0.964,126.007,230640,4,Spotify,Party Hits 2000s,Public 18
+Rihanna,A Girl Like Me,SOS,30cSNer6TV8x2utjULVeQ5,0.677,0.671,7,-4.905,1,0.0361,5.07e-05,0.413,0.527,137.046,238920,4,Spotify,Party Hits 2000s,Public 18
+Ne-Yo,Because Of You,Because Of You,6CFPFnS9EcLs2I0nWqtWci,0.81,0.538,0,-5.784,0,0.0356,0,0.0951,0.828,109.97,266840,4,Spotify,Party Hits 2000s,Public 18
+Gigi D'Agostino,L'Amour Toujours,L'Amour Toujours,52LJ3hyknOijCrE5gCD0rE,0.638,0.877,7,-4.449,1,0.0302,0.0221,0.364,0.743,139.052,242053,4,Spotify,Party Hits 2000s,Public 18
+Britney Spears,Circus (Deluxe Version),Circus,7jk7gqyEonmVVYahZN5zhW,0.791,0.733,6,-5.215,0,0.052,0.000381,0.0713,0.761,114.98,192360,4,Spotify,Party Hits 2000s,Public 18
+Ciara,Goodies,"One, Two Step (feat. Missy Elliott)",7uKcScNXuO3MWw6LowBjW1,0.944,0.511,5,-10.96,0,0.161,0.00107,0.0379,0.842,113.046,203787,4,Spotify,Party Hits 2000s,Public 18
+Eric Prydz,Call on Me (Radio Mix),Call on Me - Radio Mix,1xNcBAoUw8Hz6LqK2jt4Ff,0.597,0.837,10,-6.518,1,0.375,0.00115,0.839,0.447,126.342,171360,4,Spotify,Party Hits 2000s,Public 18
+50 Cent,The Massacre,Disco Inferno,69bHJ9qs5FrUJbKP8xU8uZ,0.925,0.659,3,-4.763,1,0.231,7.88e-05,0.279,0.71,97.018,214227,4,Spotify,Party Hits 2000s,Public 18
+Guru Josh Project,Infinity 2008,Infinity 2008 - Klaas Vocal Edit,3aQz0z86zrKjd1mcZlonxE,0.498,0.862,7,-6.02,0,0.0589,0.00941,0.352,0.47,128.034,192294,4,Spotify,Party Hits 2000s,Public 18
+Fat Joe,Jealous Ones Still Envy (J.O.S.E),What's Luv? (feat. Ja-Rule & Ashanti),2mKouqwAIdQnMP43zxR89r,0.835,0.707,8,-5.074,1,0.0598,2.19e-05,0.108,0.919,93.955,267093,4,Spotify,Party Hits 2000s,Public 18
+Kardinal Offishall,Not 4 Sale,Dangerous,4NOZ35Dhucr6UlVyLOtktd,0.949,0.79,8,-5.957,1,0.0756,0,0.0816,0.807,117.002,246053,4,Spotify,Party Hits 2000s,Public 18
+Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES),I Gotta Feeling,2H1047e0oMSj10dgp7p2VG,0.744,0.766,0,-6.375,1,0.0265,0,0.509,0.61,127.966,289133,4,Spotify,Party Hits 2000s,Public 18
+Juanes,Mi Sangre,La Camisa Negra,2EM9zpAc7PVeoAydmbfVIL,0.751,0.731,6,-4.419,0,0.0308,0,0.0556,0.973,97.007,216707,4,Spotify,Party Hits 2000s,Public 18
+Chris Brown,Chris Brown (Expanded Edition),Run It! (feat. Juelz Santana),7xYnUQigPoIDAMPVK79NEq,0.846,0.482,1,-6.721,0,0.129,0,0.393,0.212,100.969,229867,4,Spotify,Party Hits 2000s,Public 18
+Kanye West,Late Registration,Touch The Sky,2dxjKgT0li4qBI3QwuN9Ih,0.552,0.846,9,-4.912,1,0.342,0,0.309,0.554,98.56,236600,1,Spotify,Party Hits 2000s,Public 18
+Shakira,She Wolf (Expanded Edition),She Wolf,4cS2HQ6jK80vqdY9ofpztx,0.865,0.69,7,-7.448,1,0.0443,0.0162,0.225,0.867,121.983,188867,4,Spotify,Party Hits 2000s,Public 18
+JAY-Z,The Blueprint 2 The Gift & The Curse,03' Bonnie & Clyde,5ljCWsDlSyJ41kwqym2ORw,0.759,0.678,9,-5.148,0,0.314,0,0.15,0.327,89.64,205560,4,Spotify,Party Hits 2000s,Public 18
+Daft Punk,Discovery,"Harder, Better, Faster, Stronger",5W3cjX2J3tjhG8zb6u0qHn,0.817,0.716,6,-8.898,0,0.144,0.00263,0.358,0.692,123.474,224693,4,Spotify,Party Hits 2000s,Public 18
+Tony Dize,Permitame,Permitame,0X5jHsNHshuHNfAWs1sxQ5,0.629,0.668,8,-6.974,1,0.15,0,0.159,0.904,214.025,185013,4,Spotify,Party Hits 2000s,Public 18
+Lady Gaga,The Fame,LoveGame,0TcJ7QWpggdSg8t0fHThHm,0.894,0.678,6,-5.611,0,0.0523,2.43e-06,0.317,0.844,105.024,216333,4,Spotify,Party Hits 2000s,Public 18
+Madonna,Celebration (double disc version),4 Minutes (feat. Justin Timberlake & Timbaland),1oHClQEgDmmbcEx12Kc5nZ,0.753,0.931,2,-4.922,1,0.0652,0.00696,0.234,0.767,113.029,189693,4,Spotify,Party Hits 2000s,Public 18
+Katy Perry,One Of The Boys,I Kissed A Girl,005lwxGU1tms6HGELIcUv9,0.699,0.76,5,-3.173,1,0.0677,0,0.132,0.696,129.996,179640,4,Spotify,Party Hits 2000s,Public 18
+Fergie,The Dutchess,Glamorous,4KTtYhxFtFL7mBwnjkKfLm,0.81,0.755,0,-6.408,1,0.199,0,0.0857,0.625,130.991,246573,4,Spotify,Party Hits 2000s,Public 18
+Juanes,Un Día Normal,A Dios Le Pido,129lYDVKnWtlJc2PZJviuA,0.673,0.841,7,-3.564,1,0.0557,0,0.0965,0.94,97.027,205373,4,Spotify,Party Hits 2000s,Public 18
+La Roux,La Roux,Bulletproof,3kMrazSvILsgcwtidZd1Qd,0.674,0.882,3,-2.771,0,0.0477,6.47e-05,0.068,0.682,123.016,205733,4,Spotify,Party Hits 2000s,Public 18
+Destiny's Child,Survivor,Survivor,2Mpj1Ul5OFPyyP4wB62Rvi,0.514,0.911,1,-2.027,0,0.41,0,0.775,0.619,161.109,254027,4,Spotify,Party Hits 2000s,Public 18
+*NSYNC,No Strings Attached,Bye Bye Bye,62bOmKYxYg7dhrC6gH9vFn,0.61,0.926,8,-4.843,0,0.0479,0.0012,0.0821,0.861,172.638,200400,4,Spotify,Party Hits 2000s,Public 18
+Sean Paul,The Trinity,Give It Up to Me,6YB6CK4Tsb0BgtxCEL9KlI,0.855,0.674,7,-4.328,1,0.314,0,0.0548,0.578,95.991,242253,4,Spotify,Party Hits 2000s,Public 18
+Darude,"Before the Storm, Special Edition",Sandstorm,6Sy9BUbgFse0n0LPA5lwy5,0.528,0.965,11,-7.984,0,0.0465,0.985,0.0797,0.587,136.065,225493,4,Spotify,Party Hits 2000s,Public 18
+Busta Rhymes,It Ain't Safe No More. . .,I Know What You Want (feat. Flipmode Squad),0YImOCkIJ2PWhCXaURCZnY,0.648,0.759,6,-4.315,1,0.306,0,0.648,0.518,85.996,324307,4,Spotify,Party Hits 2000s,Public 18
+Missy Elliott,Miss E... So Addictive,Get Ur Freak On,6zsk6uF3MxfIeHPlubKBvR,0.797,0.75,0,-9.369,1,0.247,0.108,0.095,0.74,177.87,211120,4,Spotify,Party Hits 2000s,Public 18
+Pitbull,Pitbull Starring In Rebelution,Hotel Room Service,0OPyDgTRuIdCJ9B4bYSths,0.85,0.631,1,-8.401,1,0.227,0.000406,0.0679,0.738,126.002,237600,4,Spotify,Party Hits 2000s,Public 18
+Chamillionaire,The Sound of Revenge,Ridin',3kZoay4ANo86ehb6s4RwS9,0.787,0.799,8,-4.68,0,0.0993,0,0.3,0.835,143.052,303053,4,Spotify,Party Hits 2000s,Public 18
+P!nk,M!ssundaztood (Expanded Edition),Get the Party Started,02jcEwywffn3Tsb48fXmlW,0.802,0.903,11,-3.267,0,0.046,0,0.173,0.96,128.93,192533,4,Spotify,Party Hits 2000s,Public 18
+Gwen Stefani,Love Angel Music Baby (Deluxe Version),Hollaback Girl,0LzrhCZFXW94Y8nwtTuRlw,0.926,0.916,10,-2.221,0,0.0929,6.17e-06,0.0234,0.904,110.007,199853,4,Spotify,Party Hits 2000s,Public 18
+50 Cent,Get Rich Or Die Tryin',P.I.M.P.,2D1hlMwWWXpkc3CZJ5U351,0.7,0.758,10,-3.012,0,0.342,1.3e-05,0.0401,0.889,78.693,249467,4,Spotify,Party Hits 2000s,Public 18
+Sisqo,Unleash The Dragon,Thong Song,5Mmk2ii6laakqfeCT7OnVD,0.706,0.888,2,-6.959,1,0.0654,9.64e-05,0.07,0.714,121.549,253733,4,Spotify,Party Hits 2000s,Public 18
+Black Eyed Peas,Monkey Business,Pump It,6btyEL6NwUa97Nex9cZFvo,0.649,0.931,1,-3.15,0,0.181,0,0.751,0.744,153.645,213067,4,Spotify,Party Hits 2000s,Public 18
+Missy Elliott,Under Construction,Work It,3jagJCUbdqhDSPuxP8cAqF,0.884,0.677,1,-5.603,1,0.283,0,0.0732,0.584,101.868,263227,4,Spotify,Party Hits 2000s,Public 18
+LMFAO,Party Rock,Shots,1V4jC0vJ5525lEF1bFgPX2,0.825,0.856,1,-1.912,1,0.0476,1.4e-06,0.127,0.207,128.016,222133,4,Spotify,Party Hits 2000s,Public 18

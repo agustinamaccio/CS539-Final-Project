@@ -1,0 +1,95 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Bill Withers,Just As I Am,Ain't No Sunshine,1k1Bqnv2R0uJXQN4u6LKYt,0.527,0.415,4,-11.451,0,0.122,1.72e-05,0.117,0.515,78.169,125093,4,Spotify,70s Soul Classics,Public 17
+Stevie Wonder,"Signed, Sealed And Delivered","Signed, Sealed, Delivered (I'm Yours)",2eF8pWbiivYsYRpbntYsnc,0.675,0.597,5,-11.329,1,0.0337,0.0,0.0986,0.828,108.875,161160,4,Spotify,70s Soul Classics,Public 17
+Al Green,Let's Stay Together,Let's Stay Together,63xdwScd1Ai1GigAwQxE8y,0.756,0.401,7,-10.702,0,0.0526,0.011,0.0541,0.514,101.954,199396,4,Spotify,70s Soul Classics,Public 17
+Gladys Knight & The Pips,Imagination (Expanded Edition),Midnight Train to Georgia,7MF7QAodbGzNYav5ZfIhAY,0.595,0.379,10,-12.058,0,0.0454,2.81e-05,0.1,0.448,92.006,279333,4,Spotify,70s Soul Classics,Public 17
+The Emotions,Rejoice,Best of My Love,2M2WJ7gBlcKNxdhyfPp9zY,0.784,0.713,0,-6.865,1,0.0339,0.14,0.0904,0.97,115.443,220560,4,Spotify,70s Soul Classics,Public 17
+Bill Withers,Menagerie,Lovely Day,0bRXwKfigvpKZUurwqAlEh,0.692,0.651,9,-8.267,1,0.0324,0.00241,0.105,0.706,97.923,254560,4,Spotify,70s Soul Classics,Public 17
+Marvin Gaye,What's Going On,What's Going On,3Um9toULmYFGCpvaIPFw7l,0.283,0.716,1,-9.632,0,0.0986,0.0,0.399,0.828,201.96,233000,4,Spotify,70s Soul Classics,Public 17
+The O'Jays,Back Stabbers,Love Train,28285KFbyCq8sJofn58qlD,0.743,0.572,0,-9.627,1,0.0493,1.44e-05,0.163,0.675,122.658,178400,4,Spotify,70s Soul Classics,Public 17
+Curtis Mayfield,Move on Up,Move on Up - Single Edit,0MHXrqn909p0LRTPsNsGEi,0.538,0.969,11,-5.626,0,0.0906,0.00154,0.119,0.928,138.652,165790,4,Spotify,70s Soul Classics,Public 17
+Al Green,Gets Next to You,Tired of Being Alone,10vkYRKw6Jjr7try1ir50G,0.772,0.397,7,-8.585,1,0.0391,0.00541,0.0753,0.617,97.964,172320,4,Spotify,70s Soul Classics,Public 17
+Billy Paul,360 Degrees of Billy Paul (Expanded Edition),Me and Mrs. Jones,6Ro2z4RtAUew9Kz2HZWZUi,0.294,0.528,8,-10.01,1,0.0471,0.0,0.147,0.452,200.813,284907,3,Spotify,70s Soul Classics,Public 17
+Dobie Gray,Ultimate Collection: Dobie Gray,Drift Away - Single Version,6hJhVBOnkchxBsDHbLOBJP,0.521,0.443,11,-8.188,1,0.0395,0.0,0.475,0.596,76.228,237467,4,Spotify,70s Soul Classics,Public 17
+The Spinners,2nd Time Around (Expanded Edition),It's A Shame,1l1YTy9nJ0trwhsCGcimly,0.372,0.642,11,-11.955,1,0.0594,0.0,0.117,0.705,198.731,190058,4,Spotify,70s Soul Classics,Public 17
+Jean Knight,Mr. Big Stuff,Mr. Big Stuff,2Bls0igCm79XQQ95IoUbhq,0.886,0.491,8,-12.589,1,0.171,2.46e-06,0.229,0.971,93.236,164560,4,Spotify,70s Soul Classics,Public 17
+Marvin Gaye,Let's Get It On (Deluxe Edition),Let's Get It On,39l1UORIhuHvUWfxG53tRZ,0.539,0.599,3,-10.638,1,0.0483,0.0,0.0754,0.636,167.7,290933,4,Spotify,70s Soul Classics,Public 17
+The Temptations,"20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",Papa Was A Rollin' Stone - Single Version,7MiLmLbwNoyf47xQ4TCVYp,0.817,0.405,10,-13.513,0,0.0811,0.0507,0.0468,0.898,121.467,419640,4,Spotify,70s Soul Classics,Public 17
+The Real Thing,Real Thing,You To Me Are Everything,5g7gllIUbtPPDjHy0iZcJw,0.595,0.921,0,-7.329,1,0.0988,0.0,0.812,0.937,102.346,208840,4,Spotify,70s Soul Classics,Public 17
+Lou Rawls,All Things In Time,You'll Never Find Another Love Like Mine,6OylYIXrIH2E3hgg7Dqz5M,0.691,0.718,2,-8.457,1,0.0317,4.81e-05,0.108,0.934,110.623,266200,4,Spotify,70s Soul Classics,Public 17
+The Stylistics,Rockin' Roll Baby,You Make Me Feel Brand New,73GR50SgGV5hybgWDSFWtD,0.453,0.359,7,-8.567,1,0.0247,3.02e-05,0.137,0.178,76.015,288440,4,Spotify,70s Soul Classics,Public 17
+Al Green,Let's Stay Together,How Can You Mend a Broken Heart,6lUXneXZ9jc3HSMHgd8oqh,0.467,0.42,4,-6.957,1,0.0398,2.56e-05,0.0707,0.365,146.512,383503,3,Spotify,70s Soul Classics,Public 17
+The Three Degrees,The Three Degrees,When Will I See You Again,02srSkeu2pzybuVr2B9TJm,0.564,0.593,9,-9.245,1,0.0328,0.00366,0.343,0.766,120.753,178747,4,Spotify,70s Soul Classics,Public 17
+The Temptations,Sky's The Limit,Just My Imagination (Running Away With Me),39Bd345OWEhRNyfayhp9gv,0.425,0.242,0,-15.424,1,0.0267,0.0118,0.195,0.477,92.472,228160,4,Spotify,70s Soul Classics,Public 17
+Billy Paul,360 Degrees of Billy Paul (Expanded Edition),Your Song,5TUs6T93fNFvgQov6MlYkP,0.497,0.73,0,-8.514,0,0.0511,2.14e-06,0.0928,0.704,131.188,390987,4,Spotify,70s Soul Classics,Public 17
+Stevie Wonder,"Signed, Sealed And Delivered",We Can Work It Out,41q8ZiB3LZl4HRmmzUTIo4,0.608,0.534,8,-11.541,1,0.0339,0.0,0.064,0.796,105.388,199507,4,Spotify,70s Soul Classics,Public 17
+Marvin Gaye,What's Going On,Mercy Mercy Me (The Ecology),3IDc87lrpEHWFBASmgTgFV,0.498,0.634,6,-12.16,0,0.0475,0.748,0.0962,0.515,93.161,193573,4,Spotify,70s Soul Classics,Public 17
+Harold Melvin & The Blue Notes,Wake Up Everybody (feat. Teddy Pendergrass),Don't Leave Me This Way (feat. Teddy Pendergrass),4vYauy3ABO65vTXggGYaZg,0.472,0.71,0,-8.852,1,0.0599,1.36e-06,0.103,0.527,120.052,363973,4,Spotify,70s Soul Classics,Public 17
+The Spinners,Spinners,Could It Be I'm Falling in Love,5i0urffBRKl09GSX2Jhdeh,0.382,0.727,9,-6.677,0,0.0861,0.0,0.196,0.826,207.265,249733,4,Spotify,70s Soul Classics,Public 17
+Isaac Hayes,Shaft (Deluxe Edition),Theme From Shaft - Remastered,7KMILVTQdVS4zQ8ilTcpRO,0.487,0.716,9,-17.689,0,0.0463,0.00445,0.113,0.819,120.795,279200,4,Spotify,70s Soul Classics,Public 17
+Al Green,Al Green Explores Your Mind,Take Me to the River,62r1CS9zL1FL5Ilb7hLX7n,0.786,0.418,9,-11.115,1,0.0432,0.000158,0.134,0.94,119.101,225373,4,Spotify,70s Soul Classics,Public 17
+The Dramatics,The Very Best Of The Dramatics,Whatcha See Is Whatcha Get,5lYpHO6ZO4Shys3GD8rav6,0.641,0.74,6,-8.425,1,0.118,0.0,0.281,0.914,152.939,214973,4,Spotify,70s Soul Classics,Public 17
+The O'Jays,Back Stabbers,Back Stabbers,0KpMY3D2G8253VTZbDBUmA,0.751,0.714,10,-11.614,1,0.0374,0.0,0.639,0.935,124.379,186093,4,Spotify,70s Soul Classics,Public 17
+"Bobby ""Blue"" Bland",Dreamer,Ain't No Love In The Heart Of The City - Single Version,4qYHnP5AmKzXbJhciPV8si,0.518,0.376,9,-18.248,0,0.0431,0.86,0.0976,0.744,158.089,233560,4,Spotify,70s Soul Classics,Public 17
+The Isley Brothers,Givin' It Back,Love the One You're With,0NnyYBnyStcNKDu7PejLPF,0.75,0.78,4,-7.861,1,0.036,2.67e-06,0.153,0.738,94.864,223520,4,Spotify,70s Soul Classics,Public 17
+Diana Ross,Diana & Marvin,You Are Everything,1SjqD5q2WvpjOFIklP7sxD,0.521,0.525,10,-9.581,1,0.0463,2.2e-05,0.145,0.495,150.392,190440,4,Spotify,70s Soul Classics,Public 17
+Harold Melvin & The Blue Notes,Wake Up Everybody (feat. Teddy Pendergrass),Wake Up Everybody (feat. Teddy Pendergrass),5kQ2ZEav7TgUoLSLrm7h8S,0.565,0.644,6,-8.116,1,0.0696,0.0,0.264,0.633,97.716,452773,4,Spotify,70s Soul Classics,Public 17
+The O'Jays,Ship Ahoy (Expanded Edition),Now That We Found Love,0qOkHfSClduvkvGk6fCu8l,0.713,0.645,0,-8.404,1,0.0396,4.17e-06,0.273,0.961,113.903,281200,4,Spotify,70s Soul Classics,Public 17
+James Brown,The Payback,The Payback,5OcyX5eg7VrJuI833qOCUc,0.868,0.644,6,-10.987,1,0.194,0.00018,0.901,0.785,97.933,459893,4,Spotify,70s Soul Classics,Public 17
+Gladys Knight & The Pips,Neither One Of Us,Neither One Of Us (Wants To Be The First To Say Goodbye),3QgSJ9CqgLPk9B4xLdwLrS,0.511,0.346,5,-14.28,1,0.0388,0.000124,0.294,0.599,140.29,264267,4,Spotify,70s Soul Classics,Public 17
+William DeVaughn,Be Thankful for What You Got,Be Thankful for What You Got (Pt. 1 & Pt. 2),7pN8GMLw3prWFn5nvJRM6O,0.791,0.42,1,-13.289,0,0.0832,0.116,0.111,0.84,93.225,429372,4,Spotify,70s Soul Classics,Public 17
+Teddy Pendergrass,Life Is A Song Worth Singing (Expanded Edition),When Somebody Loves You Back,7wJeXISGGTLVv2kBPtCJHw,0.71,0.581,9,-9.108,0,0.0612,0.0,0.128,0.919,97.746,296880,4,Spotify,70s Soul Classics,Public 17
+Lou Rawls,"When You Hear Lou, You've Heard It All",Lady Love,2ydBZKZD2nr7XTd64E2AVg,0.657,0.673,0,-7.685,1,0.0573,0.000991,0.049,0.789,90.328,242387,4,Spotify,70s Soul Classics,Public 17
+The Isley Brothers,3+3,"That Lady, Pts. 1 & 2",46pW0poQYEb2bVaqozGO59,0.344,0.769,5,-9.112,0,0.0606,0.000122,0.335,0.923,126.318,334387,4,Spotify,70s Soul Classics,Public 17
+The O'Jays,The Essential O'Jays,Use ta Be My Girl,7AmJATXFg6Mj2grzZXkqq2,0.65,0.614,1,-7.367,1,0.0522,0.0,0.167,0.872,111.477,198173,4,Spotify,70s Soul Classics,Public 17
+Harold Melvin & The Blue Notes,Harold Melvin & The Blue Notes (feat. Teddy Pendergrass),If You Don't Know Me by Now (feat. Teddy Pendergrass),3NElqDNNnzvWYOwsbxLQKN,0.345,0.465,11,-9.55,1,0.0355,0.000371,0.582,0.457,94.983,205907,3,Spotify,70s Soul Classics,Public 17
+Johnny Bristol,Hang On In There Baby,Hang On In There Baby,4RYNJVKgNpwSZguajVfsef,0.593,0.855,7,-8.421,1,0.0775,2.1e-05,0.126,0.648,96.183,233720,4,Spotify,70s Soul Classics,Public 17
+Barry White,I've Got So Much To Give,I'm Gonna Love You Just A Little More Baby,1QR3Wcba5NBidmxEE8DW3w,0.606,0.486,7,-13.553,0,0.041,0.00145,0.0757,0.809,87.567,431507,4,Spotify,70s Soul Classics,Public 17
+Lyn Collins,Think (About It),Think (About It),1kG2PZ8geznbDA8I6iWeDi,0.773,0.561,9,-10.224,1,0.225,0.0,0.0575,0.717,112.582,204160,4,Spotify,70s Soul Classics,Public 17
+Teddy Pendergrass,Life Is A Song Worth Singing (Expanded Edition),Close the Door,53m3UkzcaQVbB2DENsrJiK,0.542,0.499,5,-10.423,0,0.0671,0.0005,0.0771,0.655,178.281,325493,4,Spotify,70s Soul Classics,Public 17
+The O'Jays,Ship Ahoy (Expanded Edition),For the Love of Money,3p1JoOEhVkEnTaa4JzTMSk,0.679,0.802,0,-7.739,1,0.0406,2.33e-06,0.132,0.894,97.375,439867,4,Spotify,70s Soul Classics,Public 17
+The Undisputed Truth,The Undisputed Truth,Smiling Faces Sometimes,5Vdg4tP25ffeGEC5GGmCwm,0.551,0.461,11,-11.778,1,0.0255,2.39e-06,0.0541,0.739,105.155,198547,4,Spotify,70s Soul Classics,Public 17
+Sly & The Family Stone,There's a Riot Goin' On,Family Affair - Single Version,4f3u4Oy0JqJRIhMmTqRcxj,0.819,0.605,2,-13.83,0,0.132,0.0163,0.199,0.797,108.892,185533,4,Spotify,70s Soul Classics,Public 17
+Donny Hathaway,A Donny Hathaway Collection,Where Is the Love,7l07ak5IWpISBsrUtwj4O4,0.558,0.439,8,-13.443,1,0.0281,1.78e-05,0.161,0.605,114.969,166400,4,Spotify,70s Soul Classics,Public 17
+Harold Melvin & The Blue Notes,Black & Blue (Expanded Edition) (feat. Teddy Pendergrass),The Love I Lost (feat. Teddy Pendergrass),4mumFsUDQXpQts1Y7Zjw5H,0.665,0.859,2,-4.532,1,0.0671,0.0,0.0769,0.639,123.387,384613,4,Spotify,70s Soul Classics,Public 17
+Isaac Hayes,Tough Guys,Hung Up On My Baby,7wEGeUzpPNnHKfOtSgYjG4,0.678,0.695,4,-9.825,0,0.0284,0.635,0.0459,0.937,102.511,377639,4,Spotify,70s Soul Classics,Public 17
+Curtis Mayfield,Superfly (O.S.T.),Superfly,4XsH9zBWPOCdXoH9ZDdS8r,0.784,0.708,2,-9.141,1,0.11,7.5e-05,0.0913,0.748,120.11,233600,4,Spotify,70s Soul Classics,Public 17
+King Floyd,Choice Cuts,Groove Me,0gtTfaz5zzbJA28Ypu7k0W,0.913,0.481,11,-8.459,1,0.0998,7.48e-05,0.0279,0.878,103.62,184467,4,Spotify,70s Soul Classics,Public 17
+The Persuaders,Thin Line Between Love & Hate: Golden Classics,Thin Line Between Love and Hate,6uDRZi9MOTtkuNUHMfREib,0.523,0.431,8,-9.187,0,0.0426,0.0,0.0459,0.435,118.687,207653,4,Spotify,70s Soul Classics,Public 17
+Al Green,Al Green Is Love,L-O-V-E (Love),49qkJtDdi3KHmENFzleve4,0.665,0.468,5,-9.558,1,0.027,0.0,0.0987,0.699,109.432,189307,4,Spotify,70s Soul Classics,Public 17
+The Staple Singers,The Very Best Of The Staple Singers,Respect Yourself,4lzTyLYXb3ED01TSLCJ1Hz,0.828,0.669,6,-8.637,0,0.0254,0.00333,0.0756,0.926,109.964,211680,4,Spotify,70s Soul Classics,Public 17
+Ben E. King,Supernatural Thing,"Supernatural Thing, Pt. 1",62dhSmROhppvuWyeCeC730,0.724,0.579,10,-10.933,0,0.0575,0.00856,0.0724,0.833,94.92,251560,4,Spotify,70s Soul Classics,Public 17
+Aaron Neville,Tell It Like It Is,Hercules,0INkcALLD8NAM6tbn4qbMj,0.657,0.492,8,-11.677,0,0.0404,0.000223,0.113,0.966,166.646,249227,4,Spotify,70s Soul Classics,Public 17
+The Dramatics,The Very Best Of The Dramatics,In The Rain,6aKFAhG7hCy71wLDMKjP5G,0.421,0.514,8,-9.52,0,0.049,8.97e-05,0.337,0.564,145.653,209213,4,Spotify,70s Soul Classics,Public 17
+Yvonne Fair,The Bitch Is Black,It Should Have Been Me,3lQNVAMwqcxFCJj8mI1izh,0.663,0.485,10,-9.468,1,0.149,0.000463,0.28,0.871,184.804,213213,4,Spotify,70s Soul Classics,Public 17
+Aretha Franklin,The Very Best of Aretha Franklin - The 70's,Bridge over Troubled Water,5YD86vWLu1YqR818b1GADO,0.501,0.302,10,-12.529,1,0.033,0.000267,0.0888,0.386,77.836,333933,4,Spotify,70s Soul Classics,Public 17
+Hues Corporation,Rockin' Soul,Rock the Boat,0w4s0d8Qtu0K8dyMcB2tw1,0.622,0.707,3,-8.826,1,0.0717,0.0,0.0638,0.725,107.352,188747,4,Spotify,70s Soul Classics,Public 17
+The Chi-Lites,The Ultimate Chi-Lites,Oh Girl,5tcR6nVpY1JRDyDcK0K60f,0.422,0.486,0,-9.866,0,0.0282,0.0,0.108,0.53,134.587,217520,4,Spotify,70s Soul Classics,Public 17
+George McCrae,George McCrae - Disco Pioneer,Rock Your Baby,16KwF7IrKHTVTitUKH58g3,0.594,0.906,1,-5.536,1,0.0594,0.00122,0.0778,0.892,104.411,200053,4,Spotify,70s Soul Classics,Public 17
+The Jackson 5,Maybe Tomorrow,Never Can Say Goodbye,5RHf8SmHRWbF3oywpXaQ2i,0.527,0.821,2,-7.19,1,0.047,1.68e-06,0.394,0.835,166.139,179773,4,Spotify,70s Soul Classics,Public 17
+Shirley Brown,Woman to Woman [Stax Remasters],Woman To Woman,4vrOAcjaNkGkV2ZswUZHC1,0.595,0.309,8,-10.422,1,0.0593,0.000149,0.458,0.469,124.918,238000,4,Spotify,70s Soul Classics,Public 17
+Wilson Pickett,In Philadelphia,Don't Let the Green Grass Fool You,79krwDoFzJ6dbNRwceAwgH,0.573,0.707,6,-8.29,0,0.0632,0.000241,0.123,0.961,152.467,169707,4,Spotify,70s Soul Classics,Public 17
+Timmy Thomas,Why Can't We Live Together,Why Can't We Live Together,722E6CPY8biq4sUnf40u6Y,0.87,0.455,7,-15.31,0,0.0342,0.648,0.051,0.961,105.658,277973,4,Spotify,70s Soul Classics,Public 17
+Phyllis Hyman,You Know How to Love Me (Expanded Edition),"You Know How to Love Me - 7"" Version",12nDGzwsNPNjULCy7VKGHx,0.833,0.636,6,-10.578,0,0.0421,4.5e-05,0.0717,0.956,115.991,226840,4,Spotify,70s Soul Classics,Public 17
+Aretha Franklin,The Very Best of Aretha Franklin - The 70's,Spanish Harlem,0sQ594D1EuU66VDdtHBE6j,0.66,0.619,2,-12.577,1,0.0466,0.00793,0.0828,0.913,115.419,213560,4,Spotify,70s Soul Classics,Public 17
+Various Artists,70s Gems,"Shame, Shame, Shame",1cdRKJlpHp273rwdqMRLOr,0.795,0.603,7,-7.469,1,0.0396,2.74e-06,0.172,0.925,102.482,238973,4,Spotify,70s Soul Classics,Public 17
+The Isley Brothers,The Essential Isley Brothers,"For the Love of You, Pts. 1 & 2",6k0GXtn49Ga6kfA8ZvLtVX,0.684,0.417,11,-9.591,0,0.0487,6.2e-05,0.107,0.71,102.756,337333,4,Spotify,70s Soul Classics,Public 17
+James Brown,70's Funk Classics,Make It Funky - Pt. 1,3pNfCtcbhWwa6TouKcMTGp,0.903,0.475,9,-12.055,0,0.12,0.0607,0.113,0.804,97.554,198173,4,Spotify,70s Soul Classics,Public 17
+Bobby Womack,The Best Of Bobby Womack - The Soul Years,Woman's Gotta Have It,20HCbY9qPpi1H2pP2MRUWy,0.506,0.59,11,-8.922,0,0.0302,2.1e-05,0.17,0.735,83.627,210453,4,Spotify,70s Soul Classics,Public 17
+The Jacksons,The Jacksons,Enjoy Yourself,4OdhWe5GZTkwAuNXLQZImM,0.601,0.643,9,-8.912,0,0.224,0.0,0.536,0.822,203.669,204413,4,Spotify,70s Soul Classics,Public 17
+Curtis Mayfield,Superfly: Deluxe 25th Anniversary Edition,Freddie's Dead,2ouFIPC3O1HNBcVTw1d9AN,0.523,0.803,1,-6.321,0,0.0791,0.000409,0.154,0.921,91.469,329467,4,Spotify,70s Soul Classics,Public 17
+Joe Simon,Drowning in the Sea of Love,Drowning in the Sea of Love,1hbf8AWhIfIQk8V9KqTRAl,0.603,0.448,9,-10.548,0,0.0934,0.0157,0.105,0.509,119.717,203107,4,Spotify,70s Soul Classics,Public 17
+The Temptations,Masterpiece,Masterpiece,4gAsVttMY36zJUCa7FYoJN,0.789,0.392,10,-15.395,0,0.0345,0.476,0.0299,0.895,119.0,830400,4,Spotify,70s Soul Classics,Public 17
+The Three Degrees,International (Expanded Edition),TSOP (The Sound of Philadelphia),50wtPW7qTqRCi78OxVn2ep,0.654,0.925,7,-4.365,0,0.0268,0.0022,0.0572,0.963,113.403,227160,4,Spotify,70s Soul Classics,Public 17
+The Stylistics,The Stylistics - The Original Debut Album,You're A Big Girl Now,5C7WGqaFxmYsWi0OpV6blr,0.431,0.479,6,-9.759,1,0.0371,0.0,0.277,0.746,71.576,198000,4,Spotify,70s Soul Classics,Public 17
+Michael Jackson,Hello World - The Motown Solo Collection,Got To Be There,5nU90wCMFO8sU0tVYDBvUN,0.341,0.585,1,-9.461,1,0.0385,0.000103,0.0492,0.72,170.797,204907,4,Spotify,70s Soul Classics,Public 17
+Various Artists,R&B: From Doo-Wop To Hip-Hop,Wake up Everybody (feat. Teddy Pendergrass),6aeSAKcpmdXyxUJK4ojyyR,0.503,0.552,6,-10.073,1,0.0888,0.0,0.16,0.481,96.384,211427,4,Spotify,70s Soul Classics,Public 17
+Rufus Thomas,Funkiest Man Alive: The Stax Funk Sessions 1967-1975,(Do The) Push And Pull - Pt. 1,1SwUqH8LELoY6SwldhOwr8,0.724,0.731,5,-9.745,0,0.0455,0.0025,0.181,0.887,105.096,198439,4,Spotify,70s Soul Classics,Public 17
+Johnnie Taylor,Chronicle: The 20 Greatest Hits,Jody's Got Your Girl And Gone,4cuu41Cglk9Wb6bbKXaz97,0.793,0.3,10,-16.178,0,0.0382,0.0,0.102,0.695,100.343,180467,4,Spotify,70s Soul Classics,Public 17
+Curtis Mayfield,Superfly (O.S.T.),Pusherman,7J8F8mHNV79WSV3N2lVwHH,0.85,0.669,10,-9.562,1,0.0379,0.0855,0.108,0.91,126.624,300693,4,Spotify,70s Soul Classics,Public 17
+Various Artists,"Stax Chartbusters, Vol. 1",Starting All Over Again,7kFRgT3KKxU1y7USF8ZzIX,0.624,0.326,11,-10.617,1,0.0349,0.103,0.108,0.486,137.812,230920,4,Spotify,70s Soul Classics,Public 17
+Freda Payne,Deeper And Deeper (The Best Of Freda Payne),Bring The Boys Home,5EOSdLJhhq31GYCawQ5FTC,0.645,0.607,4,-12.637,1,0.0298,4.37e-05,0.113,0.88,123.742,205333,4,Spotify,70s Soul Classics,Public 17
+Denise LaSalle,On The Loose / Trapped By A Thing Called Love,Trapped By a Thing Called Love,2f1kaz9iKDa9aHwZMfdbti,0.719,0.486,5,-9.489,0,0.0538,3.11e-05,0.0719,0.823,141.511,160627,3,Spotify,70s Soul Classics,Public 17
+The O'Jays,Family Reunion (Expanded Edition),I Love Music,222TScMmzaZ0IdkvbLoin2,0.643,0.838,0,-8.063,0,0.0455,6.15e-05,0.328,0.923,127.612,413067,4,Spotify,70s Soul Classics,Public 17
+Harold Melvin & The Blue Notes,Harold Melvin & The Blue Notes (feat. Teddy Pendergrass),If You Don't Know Me by Now (feat. Teddy Pendergrass),3NElqDNNnzvWYOwsbxLQKN,0.345,0.465,11,-9.55,1,0.0355,0.000371,0.582,0.457,94.983,205907,3,Spotify,70s Soul Classics,Public 17
+The O'Jays,Ship Ahoy (Expanded Edition),Now That We Found Love,0qOkHfSClduvkvGk6fCu8l,0.713,0.645,0,-8.404,1,0.0396,4.17e-06,0.273,0.961,113.903,281200,4,Spotify,70s Soul Classics,Public 17

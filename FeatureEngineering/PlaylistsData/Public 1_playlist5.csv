@@ -1,0 +1,81 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,My Generation,6holGuk1jKHTdWyWBOZi8l,0.458,0.978,11,-2.389,1,0.191,2.12e-06,0.111,0.342,104.012,221000,4,Spotify,Nu Metal Era,Public 1
+Korn,Follow The Leader,Got the Life,6nJPHXRpKYv2yqtalEjKy5,0.501,0.905,11,-5.721,0,0.0518,0.765,0.383,0.584,123.277,225307,4,Spotify,Nu Metal Era,Public 1
+Linkin Park,Hybrid Theory (Bonus Edition),One Step Closer,3K4HG9evC7dg3N0R9cYqk4,0.492,0.969,9,-4.419,1,0.0491,1.32e-06,0.0787,0.538,95.136,157333,4,Spotify,Nu Metal Era,Public 1
+System Of A Down,Toxicity,Chop Suey!,2DlHlPMa4M17kufBvI2lEN,0.417,0.934,7,-3.908,0,0.119,0.0015,0.132,0.287,127.066,210240,4,Spotify,Nu Metal Era,Public 1
+Slipknot,Slipknot (10th Anniversary Edition),Wait and Bleed,2gscB6kDOmrv1P6qs2KXE3,0.382,0.996,7,-4.119,1,0.104,0.0,0.417,0.327,93.345,147840,4,Spotify,Nu Metal Era,Public 1
+P.O.D.,Greatest Hits (The Atlantic Years),Alive - 2006 Remaster,3IRovqSVYx3CNtDWRebsET,0.409,0.952,2,-3.761,0,0.0756,0.000156,0.31,0.55,80.899,203693,4,Spotify,Nu Metal Era,Public 1
+Disturbed,The Sickness (10th Anniversary Edition),Down with the Sickness,4ImIJRZNJhNQLLdUFSYJoS,0.649,0.896,10,-2.704,0,0.056,1.19e-05,0.102,0.924,90.009,278707,4,Spotify,Nu Metal Era,Public 1
+Papa Roach,Infest,Between Angels And Insects,24z528iI9kZu5LbkLainjI,0.519,0.961,2,-3.214,0,0.0642,0.000419,0.195,0.344,93.466,234467,4,Spotify,Nu Metal Era,Public 1
+Deftones,White Pony,Back to School (Mini Maggit),0Qrb3L8JgreLBW8g4qyan9,0.3,0.986,8,-3.022,1,0.107,0.000136,0.0924,0.256,85.117,237360,4,Spotify,Nu Metal Era,Public 1
+Mudvayne,Lost and Found,Happy?,0INUE1K7cEiE8VH63Rv5RJ,0.546,0.97,5,-2.661,0,0.097,2.08e-05,0.275,0.383,100.065,216427,4,Spotify,Nu Metal Era,Public 1
+Godsmack,Faceless,I Stand Alone,6eYUbXmncekAKMYZcsSkyD,0.218,0.93,8,-4.438,1,0.0633,0.0,0.126,0.367,166.078,246040,4,Spotify,Nu Metal Era,Public 1
+Hoobastank,Hoobastank (20th Anniversary Edition),Crawling In The Dark,1PJRDeZSoZk7gtisdTYfLi,0.588,0.927,6,-4.776,0,0.113,3.83e-05,0.195,0.652,93.571,175227,4,Spotify,Nu Metal Era,Public 1
+Staind,Dysfunction,Mudshovel,6264zKFgXM13JuRBX4MMyD,0.328,0.826,6,-5.085,1,0.0362,0.000944,0.0818,0.341,106.606,282093,4,Spotify,Nu Metal Era,Public 1
+Soulfly,Primitive (Special Edition),Jumpdafuckup,1UwwbPgKGOoSbqqHm9Xxzn,0.598,0.954,2,-4.86,1,0.0801,2.86e-05,0.127,0.235,100.98,311987,4,Spotify,Nu Metal Era,Public 1
+Drowning Pool,Sinner (Unlucky 13th Anniversary Deluxe Edition),Bodies,1cqWEQ6TRfYr3SBNh7Ni2w,0.615,0.919,4,-4.318,0,0.0798,0.000607,0.113,0.542,130.919,202467,4,Spotify,Nu Metal Era,Public 1
+Evanescence,Fallen,Going Under,3UygY7qW2cvG9Llkay6i1i,0.37,0.858,11,-4.885,0,0.0545,2.12e-05,0.229,0.464,175.077,214947,4,Spotify,Nu Metal Era,Public 1
+Static-X,Wisconsin Death Trip,Push It,6O7pihLJgeqxUnG7u9oYL2,0.557,0.978,0,-3.965,1,0.0493,4.42e-06,0.287,0.499,149.887,154907,4,Spotify,Nu Metal Era,Public 1
+Taproot,Welcome,Poem,7mQwxVogsnpR3h6AJLQLlR,0.364,0.912,7,-2.968,1,0.107,0.0025,0.086,0.666,105.368,189200,4,Spotify,Nu Metal Era,Public 1
+Coal Chamber,Coal Chamber,Loco,1aiHmIlCiiHUTqS1CYzuTM,0.424,0.914,6,-6.532,1,0.0608,0.00104,0.258,0.157,133.731,254693,4,Spotify,Nu Metal Era,Public 1
+Crazy Town,The Gift Of Game,Butterfly,4BggEwLhGfrbrl7JBhC8EC,0.736,0.811,9,-4.17,0,0.081,0.000142,0.107,0.609,103.502,216733,4,Spotify,Nu Metal Era,Public 1
+Linkin Park,Hybrid Theory (Bonus Edition),In the End,60a0Rd6pjrkxjPbaKzXjfq,0.556,0.864,3,-5.87,0,0.0584,0.0,0.209,0.4,105.143,216880,4,Spotify,Nu Metal Era,Public 1
+System Of A Down,Toxicity,Toxicity,0snQkGI5qnAmohLE7jTsTn,0.413,0.873,8,-4.151,1,0.0536,0.00249,0.204,0.48,116.68,218933,3,Spotify,Nu Metal Era,Public 1
+Evanescence,Fallen,Bring Me To Life,0COqiPhxzoWICwFCS4eZcp,0.331,0.943,4,-3.188,0,0.0698,2.06e-06,0.242,0.296,94.612,235893,4,Spotify,Nu Metal Era,Public 1
+Papa Roach,Infest,Last Resort,5W8YXBz9MTIDyrpYaCg2Ky,0.589,0.89,4,-3.719,0,0.0603,0.00082,0.201,0.692,90.598,199907,4,Spotify,Nu Metal Era,Public 1
+Slipknot,Vol. 3: The Subliminal Verses,Duality,61mWefnWQOLf90gepjOCb3,0.354,0.982,4,-3.026,0,0.168,0.000294,0.204,0.194,143.772,252613,4,Spotify,Nu Metal Era,Public 1
+Korn,Follow The Leader,Freak On a Leash,6W21LNLz9Sw7sUSNWMSHRu,0.353,0.898,2,-5.877,1,0.052,0.105,0.39,0.525,103.293,255733,4,Spotify,Nu Metal Era,Public 1
+Deftones,Around the Fur,My Own Summer (Shove It),1158ckiB5S4cpsdYHDB9IF,0.443,0.781,1,-4.277,1,0.0377,0.205,0.166,0.372,71.841,214760,4,Spotify,Nu Metal Era,Public 1
+Alien Ant Farm,Anthology,Smooth Criminal,5z6xHjCZr7a7AIcy8sPBKy,0.653,0.964,9,-4.261,0,0.0582,0.00512,0.144,0.87,126.928,209267,4,Spotify,Nu Metal Era,Public 1
+Linkin Park,Meteora,Numb,2nLtzopw4rPReszdYBJU6h,0.496,0.863,9,-4.153,1,0.0381,0.0,0.639,0.243,110.018,185587,4,Spotify,Nu Metal Era,Public 1
+Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,Rollin' (Air Raid Vehicle),3IV4swNduIRunHREK80owz,0.603,0.933,1,-3.358,1,0.171,0.0,0.206,0.709,96.306,213760,4,Spotify,Nu Metal Era,Public 1
+Finger Eleven,Them Vs. You Vs. Me (Deluxe Edition),Paralyzer,28IEbk5a7twNTbUEvWslUb,0.644,0.939,11,-3.486,0,0.0456,0.0,0.233,0.861,106.031,208107,4,Spotify,Nu Metal Era,Public 1
+System Of A Down,System Of A Down,Sugar,31RTFPrB7wmYBhlkM2ILXG,0.451,0.889,1,-2.693,1,0.261,0.00215,0.258,0.586,131.073,153800,4,Spotify,Nu Metal Era,Public 1
+Korn,Issues,Falling Away from Me,2F6FfZ4w8z3eJpSxPotVO5,0.468,0.769,4,-7.036,1,0.041,0.00124,0.271,0.17,104.102,270920,4,Spotify,Nu Metal Era,Public 1
+Trapt,Trapt,Headstrong,1AEYT6VxrxXPMoQUxsY0E4,0.492,0.896,4,-5.819,0,0.117,2.78e-06,0.189,0.534,184.981,285570,4,Spotify,Nu Metal Era,Public 1
+Slipknot,Vol. 3: The Subliminal Verses,Before I Forget,6wqJeItl3Vc3az4ZicSQAB,0.291,0.974,6,-2.997,0,0.171,5.44e-06,0.886,0.348,134.724,278600,4,Spotify,Nu Metal Era,Public 1
+Deftones,Around the Fur,Be Quiet and Drive (Far Away),4Uiw0Sl9yskBaC6P4DcdVD,0.206,0.965,1,-5.116,1,0.079,0.827,0.367,0.168,92.615,299867,4,Spotify,Nu Metal Era,Public 1
+Linkin Park,Minutes to Midnight,What I've Done,18lR4BzEs7e3qzc0KVkTpU,0.623,0.93,5,-5.285,1,0.0324,1.64e-06,0.138,0.287,120.119,205613,4,Spotify,Nu Metal Era,Public 1
+Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,My Way,2gSVKxPDww9Eep5rdvtdem,0.576,0.864,6,-3.981,1,0.0462,1.68e-06,0.683,0.609,97.225,272973,4,Spotify,Nu Metal Era,Public 1
+Flyleaf,Flyleaf,I'm So Sick,3FP8A246XpuafFofRhDlWG,0.429,0.96,10,-4.261,1,0.0914,6.27e-06,0.102,0.233,153.932,175880,4,Spotify,Nu Metal Era,Public 1
+P.O.D.,Satellite (U.S. Version),Youth of the Nation,0UrWr7Jnu1heq1o99ZwUd0,0.563,0.86,8,-7.533,1,0.0621,0.0106,0.39,0.517,97.867,256240,4,Spotify,Nu Metal Era,Public 1
+Incubus,Make Yourself,Pardon Me,1Y13csEpu3TK5gQdzGLrd8,0.579,0.812,1,-6.509,0,0.0693,0.00333,0.115,0.278,152.002,223747,4,Spotify,Nu Metal Era,Public 1
+Linkin Park,Hybrid Theory (Bonus Edition),Papercut,1Vej0qeQ3ioKwpI6FUbRv1,0.524,0.939,9,-3.994,1,0.113,0.0,0.623,0.661,150.184,184867,4,Spotify,Nu Metal Era,Public 1
+Saliva,Every Six Seconds,Click Click Boom,2CGDxXXYbkPOyRXHzQbqkT,0.609,0.935,6,-2.941,1,0.0479,0.000359,0.188,0.498,95.957,252400,4,Spotify,Nu Metal Era,Public 1
+Limp Bizkit,Significant Other,Nookie,1TEZWG1FdjzDdercCguTwj,0.573,0.929,11,-5.996,1,0.082,0.0723,0.718,0.284,97.57,289560,4,Spotify,Nu Metal Era,Public 1
+Korn,Korn,Blind,1pr9TZGOXeJUggIal1Wq3R,0.283,0.891,2,-8.165,1,0.178,0.0038,0.159,0.226,92.049,258267,4,Spotify,Nu Metal Era,Public 1
+Deftones,Adrenaline,7 Words,6DoXuH326aAYEN8CnlLmhP,0.431,0.906,9,-6.13,1,0.0945,0.0001,0.123,0.53,125.459,223893,4,Spotify,Nu Metal Era,Public 1
+System Of A Down,Steal This Album!,I-E-A-I-A-I-O,3RgDvs9Jpvn3kUuaTek1R5,0.626,0.792,0,-2.734,1,0.0721,0.022,0.438,0.433,133.212,188600,4,Spotify,Nu Metal Era,Public 1
+Dope,Life,Die MF Die,5bU4KX47KqtDKKaLM4QCzh,0.657,0.96,5,-3.524,0,0.07,0.000997,0.109,0.567,126.02,186067,4,Spotify,Nu Metal Era,Public 1
+Powerman 5000,Tonight The Stars Revolt,When Worlds Collide,6aF5JtQSrh7wNrkDE9B0My,0.56,0.903,11,-4.77,1,0.0754,0.0,0.291,0.581,143.821,177960,4,Spotify,Nu Metal Era,Public 1
+P.O.D.,Satellite (U.S. Version),Boom,5DooySfCD1xCJ49gQm9rx7,0.559,0.931,9,-5.863,1,0.0721,1.24e-05,0.0624,0.644,90.911,190760,4,Spotify,Nu Metal Era,Public 1
+Kid Rock,Devil Without a Cause,Bawitdaba,0f37VQs969vZUL4gVfHRV9,0.551,0.939,11,-5.371,1,0.171,0.000239,0.109,0.367,90.592,265840,4,Spotify,Nu Metal Era,Public 1
+Korn,Untouchables,Here to Stay,5NHTtXGCdO7ul16xr0q93w,0.564,0.947,2,-4.998,1,0.0448,0.828,0.373,0.351,100.002,270960,4,Spotify,Nu Metal Era,Public 1
+Mudvayne,L.D. 50,Dig,7vrLphPq4yjaX7jiDdd2Nc,0.623,0.983,11,-3.548,0,0.151,0.0617,0.261,0.271,134.975,162293,4,Spotify,Nu Metal Era,Public 1
+Limp Bizkit,"Three Dollar Bill, Y'all $",Faith,5MYsvAONqcsIVOwu2HTQ3p,0.428,0.781,1,-6.823,0,0.281,0.000781,0.615,0.709,93.244,146480,4,Spotify,Nu Metal Era,Public 1
+Static-X,Shadow Zone,The Only,35ZmCVnfYRdK1iLGCxNhMa,0.428,0.979,1,-2.929,1,0.225,0.0,0.129,0.292,104.84,171107,4,Spotify,Nu Metal Era,Public 1
+Slipknot,Iowa,Left Behind,4l3Vmsw0KO8HJqFtnbqaqu,0.229,0.994,6,-3.431,1,0.22,0.00548,0.318,0.115,156.623,241467,4,Spotify,Nu Metal Era,Public 1
+TRUSTcompany,The Lonely Position Of Neutral,Downfall,76xddM2irVQCbuBoVbaElZ,0.31,0.94,6,-3.395,1,0.106,2.21e-06,0.205,0.454,128.682,191373,5,Spotify,Nu Metal Era,Public 1
+Godsmack,Godsmack,Whatever,6PHn6aXuM2FkzonGWJxY28,0.545,0.882,5,-4.864,1,0.119,0.0368,0.332,0.595,122.259,206200,4,Spotify,Nu Metal Era,Public 1
+Orgy,Candyass,Blue Monday,5267gVdYWrLoz6ClOhlqmE,0.589,0.696,8,-8.109,1,0.034,3.43e-05,0.0779,0.938,129.833,267000,4,Spotify,Nu Metal Era,Public 1
+Hoobastank,The Reason (15th Anniversary Deluxe),Out Of Control,6mjHiGwrRGE8LVCXVc5QDU,0.443,0.973,4,-4.386,0,0.133,0.0,0.353,0.458,157.872,162107,4,Spotify,Nu Metal Era,Public 1
+Papa Roach,lovehatetragedy,She Loves Me Not,1eRgyfyizDWISeS99kwLNC,0.598,0.955,2,-4.52,1,0.0916,0.0,0.243,0.402,119.126,209573,4,Spotify,Nu Metal Era,Public 1
+Mushroomhead,XIII,Sun Doesn't Rise,24CeaRaJHiMKFAVZTCu8Y0,0.376,0.988,5,-2.375,1,0.216,6.36e-05,0.346,0.507,192.153,193813,4,Spotify,Nu Metal Era,Public 1
+Earshot,Two,Wait,45R6DmpsaoqLujIn6qPTPH,0.502,0.934,9,-3.899,1,0.0553,0.164,0.0921,0.477,102.121,213000,4,Spotify,Nu Metal Era,Public 1
+Kittie,Spit,Brackish,6lqwRfIHYRiJ7M9xfLqcRx,0.349,0.931,1,-6.016,1,0.0862,0.00065,0.104,0.843,142.956,189707,4,Spotify,Nu Metal Era,Public 1
+Disturbed,The Sickness,Stupify,5IvKtrcNWBkvyW2yXZ2Y40,0.49,0.938,1,-3.916,1,0.129,2.17e-05,0.186,0.437,196.143,274160,4,Spotify,Nu Metal Era,Public 1
+Staind,Break the Cycle,For You,464HG7mt7NNKtKY0Hco8Y8,0.318,0.958,10,-2.683,1,0.442,4.68e-06,0.0981,0.3,163.089,206200,4,Spotify,Nu Metal Era,Public 1
+Fear Factory,Digimortal,Linchpin,4qjvr0qMFUo26SxwC4VygS,0.693,0.871,0,-3.389,1,0.0844,2.01e-05,0.11,0.533,111.989,204853,4,Spotify,Nu Metal Era,Public 1
+Snot,Get Some,Snot,3qCQNtggJw1gxoptMgDhyR,0.584,0.976,1,-3.868,1,0.156,0.0408,0.333,0.535,140.304,201933,4,Spotify,Nu Metal Era,Public 1
+P.O.D.,The Fundamental Elements of Southtown,Southtown,5tJjQIhH6mH3PhG1DjW3gD,0.319,0.852,0,-7.295,1,0.0716,0.662,0.331,0.297,79.554,247253,4,Spotify,Nu Metal Era,Public 1
+Primer 55,Introduction To Mayhem,Loose,5u07rgQcg8F2xIZp90lm3p,0.649,0.923,1,-4.537,1,0.0348,0.623,0.369,0.517,108.217,182200,4,Spotify,Nu Metal Era,Public 1
+Flaw,Through The Eyes,Get Up Again,7jClgHzR5JG69gar7rVMoX,0.439,0.894,6,-6.396,0,0.0517,0.0211,0.0905,0.591,96.106,176600,4,Spotify,Nu Metal Era,Public 1
+36 Crazyfists,A Snow Capped Romance,Bloodwork,201NunZ5rsvabQoX2PxMlS,0.585,0.931,0,-4.843,1,0.0852,2.46e-05,0.115,0.818,160.079,198600,4,Spotify,Nu Metal Era,Public 1
+Cold,Year Of The Spider,Stupid Girl,40u9RFyKQfXwpPjFzK1bGO,0.43,0.868,0,-4.44,1,0.0639,0.000389,0.0836,0.164,138.807,189853,3,Spotify,Nu Metal Era,Public 1
+Nonpoint,Recoil (Explicit Content U.S. Version),In the Air Tonight,2GV039LpIeFtgTKKIZPrf0,0.556,0.812,0,-4.193,1,0.0469,0.143,0.143,0.181,99.935,273067,4,Spotify,Nu Metal Era,Public 1
+Ill Niño,Revolution Revolucion,I Am Loco,3jmelhU4kuytaLPLeiAerH,0.516,0.945,7,-4.202,1,0.0979,0.0683,0.0841,0.101,174.756,210533,4,Spotify,Nu Metal Era,Public 1
+Sevendust,Sevendust (Definitive Edition),Black,5DoTRJlzMaGAMHPTDrfvfW,0.565,0.968,1,-5.165,1,0.0568,0.188,0.089,0.693,108.003,248906,4,Spotify,Nu Metal Era,Public 1
+Spineshank,The Height of Callousness,New Disease,5xqi4X6J5PHwndSJc7YLYH,0.566,0.909,7,-4.184,1,0.0637,0.000254,0.0981,0.275,121.966,194733,4,Spotify,Nu Metal Era,Public 1
+Incubus,S.C.I.E.N.C.E.,A Certain Shade of Green,2e3BZM6rOrUpF0SvvhV8WR,0.429,0.978,11,-4.88,1,0.126,6.81e-06,0.0583,0.43,121.651,191360,4,Spotify,Nu Metal Era,Public 1
+Kittie,Spit,Spit,4DSAxhyfL8uZYTbRNsSHMU,0.542,0.948,7,-5.002,1,0.0803,2.42e-05,0.305,0.458,97.316,142867,4,Spotify,Nu Metal Era,Public 1
+The Union Underground,...An Education In Rebellion,South Texas Deathride,4DenxoUslmyLJB5vzurCBD,0.484,0.924,9,-5.119,1,0.0994,0.0184,0.218,0.557,90.475,204293,4,Spotify,Nu Metal Era,Public 1

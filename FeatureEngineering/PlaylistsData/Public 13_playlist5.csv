@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Big Boss Vette,Pretty Girls Walk,Pretty Girls Walk,646pXmilpKaPZIjgHzwPhR,0.923,0.678,9,-7.124,1,0.0837,0.00598,0.0656,0.72,90.013,140053,4,Spotify,BBE,Public 13
+Ice Spice,Bikini Bottom,Bikini Bottom,0rR7viRrWI8HN2tgfa2ILw,0.744,0.6,8,-5.525,1,0.164,8.12e-06,0.0867,0.584,161.962,106667,3,Spotify,BBE,Public 13
+SZA,Shirt,Shirt,34ZAzO78a5DAVNrYIGWcPm,0.824,0.453,3,-9.604,0,0.0968,0.0273,0.0896,0.552,119.959,181831,4,Spotify,BBE,Public 13
+Megan Thee Stallion,Traumazine,Anxiety,6Ve9MNsl8OFg6rHd227bYh,0.951,0.766,8,-4.65,0,0.259,0.0,0.118,0.686,126.989,135867,4,Spotify,BBE,Public 13
+Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4,Spotify,BBE,Public 13
+Rihanna,ANTI (Deluxe),Needed Me,4pAl7FkDMNBsjykPXo91B3,0.671,0.314,5,-8.091,0,0.244,0.0,0.0825,0.296,110.898,191600,4,Spotify,BBE,Public 13
+$hyfromdatre,6000 Degrees (AH HA),6000 Degrees (AH HA),5no1uAP51SFQzZqITUxsfG,0.918,0.517,2,-7.085,1,0.156,0.0,0.0998,0.158,131.983,102873,4,Spotify,BBE,Public 13
+Beyoncé,RENAISSANCE,CUFF IT,1xzi1Jcr7mEi9K2RfzLOqS,0.78,0.689,7,-5.668,1,0.141,9.69e-06,0.0698,0.642,115.042,225389,4,Spotify,BBE,Public 13
+Nicki Minaj,Super Freaky Girl,Super Freaky Girl,4C6Uex2ILwJi9sZXRdmqXp,0.95,0.891,2,-2.653,1,0.241,1.77e-05,0.309,0.912,133.01,170977,4,Spotify,BBE,Public 13
+Justine Skye,Collide (feat. Tyga),Collide (feat. Tyga),22I3h5AOENlH4CqXJsEbFR,0.418,0.31,11,-9.869,0,0.0625,0.0,0.216,0.131,139.614,260170,4,Spotify,BBE,Public 13
+Isabel LaRosa,i'm yours,i'm yours,37vVp2sWHuuIBOSl1NswP6,0.398,0.705,5,-7.07,0,0.0756,5.13e-05,0.443,0.635,111.487,145668,4,Spotify,BBE,Public 13
+Bellakath,Gatita,Gatita,25Jf61edvM78rQHYaWRiIL,0.895,0.81,7,-6.722,1,0.0573,0.238,0.331,0.762,100.999,152005,4,Spotify,BBE,Public 13
+Britney Spears,In The Zone,Toxic,6I9VzXrHxO9rA9A5euc8Ak,0.774,0.838,5,-3.914,0,0.114,0.025,0.242,0.924,143.04,198800,4,Spotify,BBE,Public 13
+Dove Cameron,Bad Idea,Bad Idea,6azVi5ToFHo6KfKs6SstAC,0.802,0.628,7,-6.576,0,0.122,0.000232,0.262,0.625,96.97,155681,4,Spotify,BBE,Public 13
+GloRilla,Tomorrow 2 (with Cardi B),Tomorrow 2 (with Cardi B),7KXVIAuw3m2hxZanrpSXS3,0.791,0.818,0,-3.93,1,0.406,0.0,0.114,0.693,159.922,209811,4,Spotify,BBE,Public 13
+Doechii,Spookie Coochie,Spookie Coochie,3QKKtAgmUkgt4uKpX5Hmlf,0.84,0.677,7,-6.483,1,0.069,3e-06,0.131,0.349,98.005,168620,4,Spotify,BBE,Public 13
+Saucy Santana,Booty (feat. Latto),Booty (feat. Latto),3Ca24oa8tofPtGYuULHXHI,0.876,0.563,9,-6.035,0,0.171,0.0,0.365,0.711,108.045,146667,4,Spotify,BBE,Public 13
+Lil Mama,Lip Gloss,Lip Gloss,1Y4ZdPOOgCUhBcKZOrUFiS,0.619,0.87,2,-4.956,1,0.501,1.37e-06,0.0571,0.94,188.772,219773,4,Spotify,BBE,Public 13
+Megan Thee Stallion,Traumazine,Her,5hHvFrMnwic82WwRLr4WY0,0.945,0.848,1,-4.76,1,0.326,3.31e-05,0.101,0.819,119.918,137107,4,Spotify,BBE,Public 13
+ROSALÍA,MOTOMAMI,BIZCOCHITO,4kXxEhuatrvwrTQycA7s9B,0.93,0.774,1,-4.203,1,0.0744,0.0238,0.12,0.781,116.972,109120,4,Spotify,BBE,Public 13
+Beyoncé,BEYONCÉ [Platinum Edition],Partition,5hgnY0mVcVetszbb85qeDg,0.418,0.441,11,-11.522,0,0.283,0.0707,0.306,0.172,175.928,319467,4,Spotify,BBE,Public 13
+Doja Cat,Planet Her,Get Into It (Yuh),0W6I02J9xcqK8MtSeosEXb,0.912,0.655,8,-6.029,0,0.162,3.39e-05,0.0894,0.793,91.942,138293,4,Spotify,BBE,Public 13
+Lilyisthatyou,Do I make you nervous?,Do I make you nervous?,1FC511SYR7SXb1qrBr3oq0,0.549,0.662,6,-5.657,0,0.292,0.0,0.403,0.615,180.04,152233,4,Spotify,BBE,Public 13
+Leyla Blue,Jane Doe,Jane Doe,0YHHVezUoKC10MtiLUliqx,0.729,0.585,6,-5.363,0,0.0483,0.0,0.132,0.5,119.969,164667,4,Spotify,BBE,Public 13
+City Girls,City On Lock,Pussy Talk,5EzL7hGT9g2Tvqsy158Lu9,0.943,0.641,1,-5.598,1,0.191,0.0,0.211,0.242,99.099,218333,4,Spotify,BBE,Public 13
+Ktlyn,BIG MAD,BIG MAD,0bspC5fLlWgwCM6Rx1YUIh,0.958,0.523,8,-6.1,1,0.0591,0.0,0.106,0.309,102.039,143111,4,Spotify,BBE,Public 13
+Shariya Wise,Sis! You A Bad Bitch! 2.0,Sis! You A Bad Bitch! 2.0,4MN5ooEr9b3Bmpvk1VFEKU,0.655,0.451,2,-9.3,1,0.212,1.21e-05,0.109,0.117,125.978,125714,4,Spotify,BBE,Public 13
+Cardi B,Up,Up,1XXimziG1uhM0eDNCZCrUl,0.868,0.795,11,-6.044,1,0.269,0.0193,0.0461,0.819,166.0,156945,4,Spotify,BBE,Public 13
+Rihanna,A Girl Like Me,SOS,30cSNer6TV8x2utjULVeQ5,0.677,0.671,7,-4.905,1,0.0361,5.07e-05,0.413,0.527,137.046,238920,4,Spotify,BBE,Public 13
+Kali Uchis,Por Vida,Melting,2kSb3wYSOV996xA2NSmpck,0.574,0.479,8,-7.776,1,0.0355,0.0803,0.106,0.303,115.263,208854,4,Spotify,BBE,Public 13
+Devon Cole,W.I.T.C.H.,W.I.T.C.H.,5XemvyG79fcKPl5lgbhplq,0.868,0.66,7,-3.834,1,0.0526,0.0,0.0755,0.963,121.925,132133,4,Spotify,BBE,Public 13
+Ice Spice,Munch (Feelin’ U),Munch (Feelin’ U),1jOgJN75btuUONIdf57vHz,0.811,0.528,11,-7.278,0,0.275,0.0,0.0787,0.635,166.084,104819,4,Spotify,BBE,Public 13
+Megan Thee Stallion,Suga,Captain Hook,1E3VQQWFQAPJkXfYHjqWoI,0.863,0.633,10,-5.002,0,0.287,0.0,0.285,0.545,163.991,176750,4,Spotify,BBE,Public 13
+Saucy Santana,Imma Celebrity,Material Girl,6nQ1B216Liiydhgn2gar0o,0.876,0.7,2,-7.137,1,0.282,0.0,0.542,0.433,101.995,188966,4,Spotify,BBE,Public 13
+Baby Tate,Mani/Pedi,Perfect,44AlUStg32yZ3xwhhrUGxq,0.933,0.689,10,-5.3,0,0.227,0.00215,0.0627,0.812,146.008,172794,4,Spotify,BBE,Public 13
+EMELINE,STRUT,STRUT,749rod7GCmj0OVdumGfzVq,0.842,0.715,11,-5.906,0,0.0696,2.58e-05,0.112,0.326,107.952,117727,3,Spotify,BBE,Public 13
+Queen Key,Eat My Pussy,My Way,5NnwiqW2KwXYN4wl6ahYsn,0.846,0.809,11,-3.076,0,0.336,0.0,0.082,0.512,140.011,144660,4,Spotify,BBE,Public 13
+Hitkidd,F.N.F. (Let's Go) [Remix],F.N.F (Let's Go) - Remix,59DRBDlssFvtWDHsYwCa6q,0.869,0.759,1,-4.886,1,0.262,0.0,0.366,0.499,156.973,247763,4,Spotify,BBE,Public 13
+Big Boss Vette,Snatched (Remix),Snatched (with Flo Milli & Saucy Santana) - Remix,214gn7n7rA6KbRIYpznXJT,0.836,0.703,1,-5.353,1,0.335,1.38e-05,0.0773,0.569,170.118,159821,4,Spotify,BBE,Public 13
+Dove Cameron,Breakfast,Breakfast,6GUiIbJ834FcHewby3PwV0,0.64,0.553,2,-6.42,0,0.0411,0.0,0.0914,0.486,81.992,148471,4,Spotify,BBE,Public 13
+Lebra Jolie,Lebra Jolie,What Kinda,6tK23xx5yhFkDKcw0qN66C,0.884,0.802,1,-2.605,1,0.32,0.0,0.0565,0.912,157.03,181542,4,Spotify,BBE,Public 13
+Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Vegas (From the Original Motion Picture Soundtrack ELVIS),0hquQWY3xvYqN4qtiquniF,0.801,0.601,8,-7.574,0,0.255,3.23e-05,0.145,0.74,159.969,182907,4,Spotify,BBE,Public 13
+Rihanna,ANTI (Deluxe),Woo,3HQcsqRjRdruUjkbDSgmVF,0.42,0.466,9,-5.298,1,0.0326,0.00389,0.298,0.185,115.004,235587,4,Spotify,BBE,Public 13
+Britney Spears,Blackout,Gimme More,6ic8OlLUNEATToEFU3xmaH,0.788,0.844,2,-3.131,1,0.0334,0.000678,0.0723,0.382,113.324,251240,4,Spotify,BBE,Public 13
+Eliza Rose,B.O.T.A. (Baddest Of Them All),B.O.T.A. (Baddest Of Them All) - Edit,39JofJHEtg8I4fSyo7Imft,0.736,0.906,0,-7.589,1,0.048,0.585,0.106,0.698,137.001,226627,4,Spotify,BBE,Public 13
+Mahogany Lox,QUEEN,QUEEN,78uMiBBXyYIzqQgUHI3VT3,0.775,0.621,2,-5.507,1,0.0847,0.00106,0.152,0.812,167.011,142894,4,Spotify,BBE,Public 13
+Lizzo,Grrrls,Grrrls,7Mto5DGHzHXzF1hpsMRtYK,0.889,0.449,0,-7.63,1,0.293,0.0,0.0581,0.911,137.941,121113,4,Spotify,BBE,Public 13
+Beyoncé,RENAISSANCE,COZY,0mKGwFMHzTprtS2vpR3b6s,0.556,0.63,7,-8.15,1,0.102,0.00468,0.155,0.367,149.147,210372,5,Spotify,BBE,Public 13
+Saweetie,Best Friend (feat. Doja Cat),Best Friend (feat. Doja Cat),2etHQJxIbV0soyPhelVs9Y,0.84,0.766,4,-4.12,1,0.136,3.61e-06,0.0684,0.402,94.018,155884,4,Spotify,BBE,Public 13
+Megan Thee Stallion,Traumazine,Budget (feat. Latto),3BFxkzhkESwALQxjxOVFgJ,0.922,0.858,1,-4.185,1,0.251,0.0,0.124,0.915,145.033,201979,4,Spotify,BBE,Public 13
+Latto,Big Energy,Big Energy,6Zu3aw7FfjAF9WA0fA81Oq,0.935,0.807,11,-3.838,0,0.114,0.0,0.349,0.813,106.017,173182,4,Spotify,BBE,Public 13
+Tiësto,Hot In It,Hot In It,3Z7CaxQkqbIs1rewKi6v4W,0.748,0.841,7,-5.08,1,0.177,1.33e-06,0.0413,0.717,123.045,129817,4,Spotify,BBE,Public 13
+Charli XCX,Hot Girl (Bodies Bodies Bodies),Hot Girl (Bodies Bodies Bodies),0FZUbqZ1x2G71vl027d8Ud,0.852,0.592,1,-6.464,1,0.105,0.0,0.375,0.237,102.014,157079,4,Spotify,BBE,Public 13
+Doja Cat,Amala (Deluxe Version),Tia Tamera (feat. Rico Nasty),1uNePI826aqh9uC9pgbeHU,0.822,0.654,0,-4.623,1,0.132,0.0,0.233,0.421,119.884,211013,4,Spotify,BBE,Public 13
+Flo Milli,Conceited,Conceited,02nTpchENdZ4Nm8AfTmrFv,0.978,0.683,8,-5.743,1,0.0981,5.88e-05,0.523,0.419,118.041,146441,4,Spotify,BBE,Public 13
+Nicki Minaj,The Pinkprint,Feeling Myself,6ORDoQ6jxdfqNyqvUKDHF0,0.564,0.703,2,-5.459,1,0.269,0.00927,0.358,0.477,139.045,237840,4,Spotify,BBE,Public 13
+Megan Thee Stallion,Plan B,Plan B,2PljnVsnl2PRwCvfhbdQup,0.787,0.522,8,-5.872,1,0.463,0.0,0.108,0.666,170.439,163765,4,Spotify,BBE,Public 13
+Cherish,Unappreciated,Do It To It,6MBEjJlXQYXr8dfxDvZuoA,0.826,0.67,2,-5.559,1,0.169,0.0,0.495,0.794,74.007,226293,4,Spotify,BBE,Public 13
+EMELINE,cinderella's dead,cinderella's dead,5MWXOo8DJwgODtPGaietNz,0.596,0.607,6,-6.179,0,0.168,0.0,0.103,0.531,119.882,120666,4,Spotify,BBE,Public 13
+Latto,777,It's Givin,5h9dlUlCGZahkuaC3MShz3,0.865,0.614,8,-6.782,1,0.278,0.0,0.434,0.642,160.032,153000,4,Spotify,BBE,Public 13
+Doechii,she / her / black bitch,Swamp Bitches (with Rico Nasty),2aOG6jVZnTqZwEhjGTcFMM,0.823,0.62,0,-6.219,1,0.0671,0.000354,0.0866,0.194,140.082,180076,4,Spotify,BBE,Public 13
+Various Artists,Rap Songs To Shout In The Car,Act Up,6tB67UANVjDaGPrVu3RcR7,0.938,0.639,8,-4.696,1,0.188,0.0,0.111,0.317,97.07,158332,4,Spotify,BBE,Public 13
+Nicki Minaj,Barbie Tingz,Barbie Tingz,2qsQ8eVDPmobZpvDxQCVQu,0.917,0.679,6,-6.083,1,0.266,0.0,0.588,0.453,102.449,191700,4,Spotify,BBE,Public 13
+Monaleo,We Not Humping (Remix),We Not Humping - Remix,4ue41gFbAjoU0P1EberJWm,0.971,0.851,11,-5.586,0,0.269,0.0,0.092,0.81,120.008,143325,4,Spotify,BBE,Public 13
+M.I.A.,Matangi,Bad Girls,6nzXkCBOhb2mxctNihOqbb,0.639,0.912,1,-2.621,1,0.0615,0.0,0.097,0.343,143.448,227520,4,Spotify,BBE,Public 13
+Chlöe,Have Mercy,Have Mercy,5SixeLvPsYpk7qq9lo5xYg,0.903,0.535,9,-6.434,1,0.0742,0.0,0.345,0.508,130.022,148779,4,Spotify,BBE,Public 13
+Gwen Stefani,Love Angel Music Baby (Deluxe Version),Luxurious,3UQmoVQJqBYauTZLVPs3uo,0.811,0.726,0,-3.995,1,0.0813,0.0,0.116,0.666,131.027,264920,4,Spotify,BBE,Public 13
+Nelly Furtado,Loose,Maneater,4wH4dJgrsxONID6KS2tDQM,0.796,0.777,6,-4.81,1,0.0397,0.000358,0.121,0.787,132.722,258893,4,Spotify,BBE,Public 13
+Saweetie,ICY,My Type,5KBARWIxeMGkvUax9VtVC9,0.899,0.811,2,-6.294,1,0.258,0.0,0.0672,0.587,105.038,126446,4,Spotify,BBE,Public 13
+Erica Banks,Erica Banks,Buss It,25j0Sape7qZbq6ZPLFefTT,0.956,0.502,9,-5.995,1,0.213,0.0,0.238,0.795,110.003,187000,4,Spotify,BBE,Public 13
+Reyanna Maria,So Pretty,So Pretty,1yLTcitjbEJr7a4jyDB0Lz,0.799,0.543,10,-6.094,0,0.24,0.0425,0.134,0.25,187.906,85742,4,Spotify,BBE,Public 13
+Princess Nokia,Everything Sucks,I Like Him,68UU9oaQtMDnh6PRlW842H,0.893,0.579,9,-8.995,1,0.113,0.000121,0.215,0.611,133.018,132453,4,Spotify,BBE,Public 13
+Claudia Valentina,Sweat,Sweat,0TzXhuxOpmvIa68QykPqIV,0.82,0.722,1,-5.103,1,0.0566,0.000164,0.128,0.469,100.01,183998,4,Spotify,BBE,Public 13
+BIA,FOR CERTAIN (Deluxe),CAN'T TOUCH THIS,1LJYn86ysceH708AIkw0VZ,0.975,0.482,9,-7.94,1,0.246,0.0,0.0596,0.737,125.953,146598,4,Spotify,BBE,Public 13
+Nelly Furtado,Loose,Promiscuous,2gam98EZKrF9XuOkU13ApN,0.808,0.97,10,-6.098,0,0.0506,6.13e-05,0.154,0.868,114.328,242293,4,Spotify,BBE,Public 13

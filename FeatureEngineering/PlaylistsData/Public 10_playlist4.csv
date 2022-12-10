@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,4h9wh7iOZ0GGn8QVp4RAOB,0.704,0.797,0,-5.927,1,0.0475,0.000745,0.0546,0.825,139.994,148486,4,Spotify,Fun Run,Public 10
+Nicky Youre,Sunroof,Sunroof,4h4QlmocP3IuwYEj2j14p8,0.768,0.714,10,-5.11,1,0.0401,0.0,0.15,0.842,131.443,163026,4,Spotify,Fun Run,Public 10
+Ed Sheeran,=,Shivers,50nfwKoDiSYg8zOCREWAm5,0.788,0.859,2,-2.724,1,0.0856,0.0,0.0424,0.822,141.02,207853,4,Spotify,Fun Run,Public 10
+Imanbek,Belly Dancer,Belly Dancer,7fZBQnc0zXwVybgCIrQQil,0.845,0.797,1,-4.984,1,0.139,5.57e-06,0.167,0.422,121.985,151475,4,Spotify,Fun Run,Public 10
+Shawn Mendes,Illuminate (Deluxe),There's Nothing Holdin' Me Back,7JJmb5XwzOO8jgpou264Ml,0.866,0.813,11,-4.063,0,0.0554,0.0,0.0779,0.969,121.998,199440,4,Spotify,Fun Run,Public 10
+Lil Nas X,MONTERO,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,0.737,0.846,1,-4.51,0,0.22,0.0,0.0486,0.546,87.981,143901,4,Spotify,Fun Run,Public 10
+Coldplay,Viva La Vida or Death and All His Friends,Viva La Vida,1mea3bSkSGXuIRvnydlB5b,0.486,0.617,5,-7.115,0,0.0287,3.23e-06,0.109,0.417,138.015,242373,4,Spotify,Fun Run,Public 10
+WALK THE MOON,TALKING IS HARD,Shut Up and Dance,4kbj5MwxO1bq9wjT5g9HaA,0.578,0.866,1,-3.804,1,0.0619,0.0,0.257,0.619,128.038,199080,4,Spotify,Fun Run,Public 10
+Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Summer Of '69,0GONea6G2XdnHWjNZd6zt3,0.508,0.834,2,-6.205,1,0.0386,0.0,0.0732,0.774,139.131,216053,4,Spotify,Fun Run,Public 10
+Pitbull,Planet Pit (Deluxe Version),"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",4QNpBfC0zvjKqPJcyqBy9W,0.671,0.939,8,-3.206,1,0.161,0.0,0.298,0.53,129.024,252307,4,Spotify,Fun Run,Public 10
+Panic! At The Disco,Pray for the Wicked,High Hopes,1rqqCSm0Qe4I9rUvWncaom,0.579,0.904,5,-2.729,1,0.0618,0.0,0.064,0.681,82.014,190947,4,Spotify,Fun Run,Public 10
+Kesha,Animal (Expanded Edition),TiK ToK,0HPD5WQqrq7wPWR7P7Dw1i,0.755,0.837,2,-2.718,0,0.142,0.0,0.289,0.714,120.028,199693,4,Spotify,Fun Run,Public 10
+Shawn Mendes,Summer Of Love,Summer of Love (Shawn Mendes & Tainy),0z8hI3OPS8ADPWtoCjjLl6,0.776,0.808,11,-4.501,1,0.117,0.000127,0.103,0.494,123.988,184104,4,Spotify,Fun Run,Public 10
+Dua Lipa,Dua Lipa (Deluxe),New Rules,2ekn2ttSfGqwhhate0LSR0,0.762,0.7,9,-6.021,0,0.0694,1.56e-05,0.153,0.608,116.073,209320,4,Spotify,Fun Run,Public 10
+Jonas Brothers,Happiness Begins,Sucker,22vgEDb5hykfaTwLuskFGD,0.842,0.734,1,-5.065,0,0.0588,0.0,0.106,0.952,137.958,181027,4,Spotify,Fun Run,Public 10
+Pharrell Williams,G I R L,"Happy - From ""Despicable Me 2""",60nZcImufyMA1MKQY3dcCH,0.647,0.822,5,-4.662,0,0.183,0.0,0.0908,0.962,160.019,232720,4,Spotify,Fun Run,Public 10
+Taio Cruz,The Rokstarr Hits Collection,Dynamite,2CEgGE6aESpnmtfiZwYlbV,0.751,0.783,4,-3.724,1,0.0859,0.0,0.036,0.816,119.975,202613,4,Spotify,Fun Run,Public 10
+Paramore,Paramore,Still into You,1yjY7rpaAQvKwpdUliHx0d,0.602,0.923,5,-3.763,1,0.044,0.0,0.0561,0.765,136.01,216013,4,Spotify,Fun Run,Public 10
+Axwell /\ Ingrosso,More Than You Know,More Than You Know,6h5PAsRni4IRlxWr6uDPTP,0.646,0.741,5,-4.973,0,0.034,0.0,0.312,0.571,123.077,203000,4,Spotify,Fun Run,Public 10
+Becky Hill,Remember,Remember,4laAKIq9ZxBCwf99rauPYb,0.612,0.862,8,-2.903,1,0.037,0.0,0.0907,0.354,123.849,160766,4,Spotify,Fun Run,Public 10
+Rick Astley,Whenever You Need Somebody,Never Gonna Give You Up,4cOdK2wGLETKBW3PvgPWqT,0.721,0.939,8,-11.823,1,0.0376,3.79e-05,0.108,0.914,113.309,213573,4,Spotify,Fun Run,Public 10
+Bruno Mars,24K Magic,24K Magic,6b8Be6ljOzmkOmFslEb23P,0.818,0.803,1,-4.282,1,0.0797,0.0,0.153,0.632,106.97,225983,4,Spotify,Fun Run,Public 10
+Usher,Raymond v Raymond (Expanded Edition),DJ Got Us Fallin' In Love (feat. Pitbull),4356Typ82hUiFAynbLYbPn,0.663,0.861,7,-3.398,0,0.109,0.0,0.082,0.654,119.963,220800,4,Spotify,Fun Run,Public 10
+Avicii,Levels,Levels - Radio Edit,5UqCQaDshqbIk3pkhy4Pjg,0.584,0.889,1,-5.941,0,0.0343,0.828,0.309,0.464,126.04,199907,4,Spotify,Fun Run,Public 10
+Dua Lipa,Don't Start Now,Don't Start Now,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0,0.0842,0.0,0.0952,0.677,123.941,183290,4,Spotify,Fun Run,Public 10
+Galantis,Heartbreak Anthem (with David Guetta & Little Mix),Heartbreak Anthem (with David Guetta & Little Mix),5K6Ssv4Z3zRvxt0P6EKUAP,0.595,0.784,1,-4.878,1,0.102,0.0,0.0608,0.479,124.111,183726,4,Spotify,Fun Run,Public 10
+Katrina & The Waves,Katrina & The Waves,Walking On Sunshine,05wIrZSwuaVWhcv5FfqeH0,0.596,0.869,10,-11.97,1,0.037,0.173,0.0678,0.944,109.902,238733,4,Spotify,Fun Run,Public 10
+Coldplay,A Head Full of Dreams,Adventure of a Lifetime,69uxyAqqPIsUyTO8txoP2M,0.638,0.924,7,-3.887,1,0.036,0.000175,0.149,0.53,111.995,263787,4,Spotify,Fun Run,Public 10
+American Authors,"Oh, What A Life",Best Day Of My Life,5Hroj5K7vLpIG4FNCRIjbP,0.673,0.902,2,-2.392,1,0.0346,0.000262,0.0558,0.538,100.012,194240,4,Spotify,Fun Run,Public 10
+Ed Sheeran,÷ (Deluxe),Galway Girl,0afhq8XCExXpqazXczTSve,0.624,0.876,9,-3.374,1,0.1,0.0,0.327,0.781,99.943,170827,4,Spotify,Fun Run,Public 10
+Train,California 37,Drive By,0KAiuUOrLTIkzkpfpn9jb9,0.765,0.837,1,-3.113,0,0.032,1.06e-05,0.0801,0.721,122.028,195973,4,Spotify,Fun Run,Public 10
+Owl City,The Midsummer Station,Good Time,1kPpge9JDLpcj15qgrPbYX,0.56,0.872,3,-4.269,1,0.14,6.98e-06,0.371,0.682,126.05,205933,4,Spotify,Fun Run,Public 10
+OneRepublic,Native,Counting Stars,6sy3LkhNFjJWlaeSMNwQ62,0.664,0.705,1,-4.972,0,0.0382,0.0,0.115,0.477,122.017,257840,4,Spotify,Fun Run,Public 10
+Topic,Breaking Me,Breaking Me,3H7ihDc1dqLriiWXwsc2po,0.789,0.72,8,-5.652,0,0.218,0.0,0.129,0.664,122.031,166794,4,Spotify,Fun Run,Public 10
+George Ezra,Staying at Tamara's,Shotgun,4ofwffwvvnbSkrMSCKQDaC,0.673,0.735,5,-4.733,1,0.0457,0.0,0.242,0.754,115.744,201287,4,Spotify,Fun Run,Public 10
+Portugal. The Man,Woodstock,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,0.801,0.795,1,-5.115,0,0.0504,0.000113,0.0717,0.754,79.028,163253,4,Spotify,Fun Run,Public 10
+Mabel,Ivy To Roses (Mixtape),Don't Call Me Up,5WHTFyqSii0lmT9R21abT8,0.674,0.881,9,-2.853,1,0.147,3.01e-06,0.0793,0.234,98.994,178480,4,Spotify,Fun Run,Public 10
+Robin Schulz,Sugar,Sugar (feat. Francesco Yates),5tf1VVWniHgryyumXyJM7w,0.636,0.815,5,-5.098,0,0.0581,0.0,0.163,0.636,123.063,219043,4,Spotify,Fun Run,Public 10
+Pitbull,Planet Pit (Deluxe Version),International Love (feat. Chris Brown),62zFEHfAYl5kdHYOivj4BC,0.67,0.855,0,-3.035,0,0.0499,0.0,0.335,0.648,120.05,227280,4,Spotify,Fun Run,Public 10
+Flo Rida,Wild Ones,Good Feeling,2LEF1A8DOZ9wRYikWgVlZ8,0.706,0.89,1,-4.444,0,0.0688,0.00286,0.306,0.684,128.011,248133,4,Spotify,Fun Run,Public 10
+Phil Collins,"Hello, I Must Be Going! (Deluxe Edition)",You Can't Hurry Love - 2016 Remaster,4YwbSZaYeYja8Umyt222Qf,0.62,0.936,7,-4.593,1,0.0308,0.0,0.0679,0.763,97.527,175747,4,Spotify,Fun Run,Public 10
+Kygo,Higher Love,Higher Love,6oJ6le65B3SEqPwMRNXWjY,0.693,0.678,8,-7.159,1,0.0324,5.71e-06,0.101,0.404,103.952,228267,4,Spotify,Fun Run,Public 10
+OneRepublic,Run,Run,2UbVnbE5FH6008mAm6Mmgw,0.682,0.72,11,-8.173,0,0.0381,0.0,0.148,0.673,117.003,169011,4,Spotify,Fun Run,Public 10
+Nathan Evans,Wellerman (Sea Shanty / 220 KID x Billen Ted Remix),Wellerman - Sea Shanty / 220 KID x Billen Ted Remix,3iw6V4LH7yPj1ESORX9RIN,0.722,0.893,0,-3.255,0,0.0475,0.000937,0.0673,0.439,119.932,116750,4,Spotify,Fun Run,Public 10
+Shawn Mendes,Handwritten,Stitches,5jsw9uXEGuKyJzs0boZ1bT,0.752,0.754,1,-6.684,1,0.0615,0.0,0.0486,0.755,149.789,206880,4,Spotify,Fun Run,Public 10
+Mark Ronson,Version,Valerie (feat. Amy Winehouse) - Version Revisited,6kopmMZiyLmw7h66uXcXR7,0.699,0.83,1,-4.898,1,0.0633,0.00024,0.0995,0.889,105.809,219413,4,Spotify,Fun Run,Public 10
+Taio Cruz,The Rokstarr Hits Collection,Break Your Heart,7ElF5zxOwYP4qVSWVvse3W,0.607,0.934,3,-4.217,1,0.0314,0.0,0.0909,0.568,122.01,201547,4,Spotify,Fun Run,Public 10
+Flo Rida,Only One Flo (Part 1),Club Can't Handle Me (feat. David Guetta),6ebkx7Q5tTxrCxKq4GYj0Y,0.616,0.869,0,-3.911,1,0.0327,0.0,0.064,0.473,127.966,234560,4,Spotify,Fun Run,Public 10
+Meghan Trainor,Title (Deluxe),All About That Bass,5jE48hhRu8E6zBDPRSkEq7,0.807,0.887,9,-3.726,1,0.0503,2.87e-06,0.124,0.961,134.052,187920,4,Spotify,Fun Run,Public 10
+Bruno Mars,Doo-Wops & Hooligans,Marry You,22PMfvdz35fFKYnJyMn077,0.621,0.82,10,-4.865,1,0.0367,0.0,0.104,0.452,144.905,230192,4,Spotify,Fun Run,Public 10

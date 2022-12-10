@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+SZA,Shirt,Shirt,34ZAzO78a5DAVNrYIGWcPm,0.824,0.453,3,-9.604,0,0.0968,0.0273,0.0896,0.552,119.959,181831,4,Spotify,Make Out Jams,Public 14
+Chris Brown,Indigo (Extended),Under The Influence,5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,1.18e-06,0.105,0.31,116.992,184613,4,Spotify,Make Out Jams,Public 14
+Montell Fish,Hotel,Hotel,0JzG1wJuB4v9UPkSE7LMXi,0.228,0.427,0,-8.739,0,0.0363,0.0167,0.592,0.192,180.345,197333,4,Spotify,Make Out Jams,Public 14
+Steve Lacy,Bad Habit,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,0.686,0.507,1,-7.097,1,0.0357,7.51e-05,0.383,0.69,168.955,232115,4,Spotify,Make Out Jams,Public 14
+Cigarettes After Sex,Cigarettes After Sex,Apocalypse,3AVrVz5rK8Hrqo9YGiVGN5,0.369,0.467,5,-9.018,1,0.0274,0.46,0.109,0.174,94.473,290147,4,Spotify,Make Out Jams,Public 14
+Fujii Kaze,HELP EVER HURT NEVER,Shinunoga E-Wa,0o9zmvc5f3EFApU52PPIyW,0.6,0.76,6,-6.124,0,0.0452,4.09e-05,0.189,0.519,158.078,185573,4,Spotify,Make Out Jams,Public 14
+The Weeknd,Starboy,Die For You,2Ch7LmS7r2Gy2kc64wv3Bz,0.582,0.525,1,-7.163,0,0.0627,0.0,0.134,0.51,133.249,260253,4,Spotify,Make Out Jams,Public 14
+Joji,BALLADS 1,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,0.515,0.479,3,-7.458,1,0.0261,0.00598,0.191,0.284,88.964,209274,4,Spotify,Make Out Jams,Public 14
+Frank Ocean,channel ORANGE,Lost,3GZD6HmiNUhxXYf8Gch723,0.913,0.603,8,-4.892,1,0.226,0.000503,0.167,0.497,123.061,234093,4,Spotify,Make Out Jams,Public 14
+Steve Lacy,Dark Red,Dark Red,3EaJDYHA0KnX88JvDhL9oa,0.603,0.784,6,-4.023,1,0.062,8.32e-06,0.119,0.769,172.041,173104,4,Spotify,Make Out Jams,Public 14
+New West,Those Eyes,Those Eyes,2GThBgzZoZfz0lx1JjBwfe,0.597,0.351,4,-8.043,1,0.0281,3.86e-05,0.319,0.243,119.948,220750,3,Spotify,Make Out Jams,Public 14
+Kendrick Lamar,DAMN.,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.0924,0.0,0.153,0.779,126.058,213400,4,Spotify,Make Out Jams,Public 14
+Harry Styles,Harry's House,Love Of My Life,1mw0RgNXIpYRyyCdBQbLgA,0.555,0.536,7,-8.233,1,0.0452,0.0,0.0623,0.203,118.057,191638,4,Spotify,Make Out Jams,Public 14
+Childish Gambino,"""Awaken, My Love!""",Redbone,0WtDGnWL2KrMCk0mI1Gpwz,0.745,0.353,1,-10.614,1,0.0983,0.00662,0.118,0.598,160.111,326933,4,Spotify,Make Out Jams,Public 14
+Mac DeMarco,This Old Dog,For the First Time,2R4AlwtrrkMaRKojcTIzmL,0.551,0.529,5,-10.469,0,0.0517,0.0093,0.178,0.521,75.515,182307,4,Spotify,Make Out Jams,Public 14
+The Weeknd,After Hours,After Hours,2p8IUWQDrpjuFltbdgLOag,0.664,0.572,5,-6.099,0,0.0305,0.00604,0.121,0.143,108.959,361027,4,Spotify,Make Out Jams,Public 14
+Frank Ocean,Novacane,Novacane,4osgfFTICMkcGbbigdsa53,0.762,0.508,3,-9.112,1,0.0919,0.00126,0.16,0.37,93.51,302347,4,Spotify,Make Out Jams,Public 14
+Brent Faiyaz,WASTELAND,ALL MINE,3XgGQ1wjo5khvq2UImjyNF,0.617,0.378,9,-8.54,1,0.0315,9.16e-05,0.11,0.22,141.967,216063,4,Spotify,Make Out Jams,Public 14
+Daniel Caesar,Freudian,Get You (feat. Kali Uchis),7zFXmv6vqI4qOt4yGf3jYZ,0.658,0.294,4,-8.533,0,0.0321,5.2e-05,0.0749,0.358,74.038,278180,4,Spotify,Make Out Jams,Public 14
+Kina,Get You The Moon (feat. Snøw),Get You The Moon (feat. Snøw),4ZLzoOkj0MPWrTLvooIuaa,0.498,0.235,1,-16.541,0,0.188,0.0,0.144,0.0895,118.917,179080,4,Spotify,Make Out Jams,Public 14
+Ali Gatie,YOU,It's You,5DqdesEfbRyOlSS3Tf6c29,0.732,0.463,11,-6.972,0,0.0287,0.0,0.194,0.397,95.971,212607,4,Spotify,Make Out Jams,Public 14
+The Weeknd,Dawn FM,Is There Someone Else?,0mL82sxCRjrs3br407IdJh,0.702,0.586,9,-7.83,0,0.0313,7.27e-05,0.156,0.608,134.951,199111,4,Spotify,Make Out Jams,Public 14
+Kali Uchis,Isolation,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)",1otG6j1WHNvl9WgXLWkHTo,0.702,0.659,4,-6.766,0,0.13,0.00201,0.218,0.843,79.64,207455,4,Spotify,Make Out Jams,Public 14
+ZAYN,Mind Of Mine (Deluxe Edition),PILLOWTALK,0PDUDa38GO8lMxLCRc4lL1,0.584,0.7,11,-4.275,1,0.0456,0.0,0.0939,0.438,124.944,202747,4,Spotify,Make Out Jams,Public 14
+Daniel Caesar,Freudian,Best Part (feat. H.E.R.),1RMJOxR6GRPsBHL8qeC2ux,0.524,0.364,7,-10.209,1,0.0367,0.0,0.1,0.436,75.24,209831,4,Spotify,Make Out Jams,Public 14
+Frank Ocean,channel ORANGE,Thinkin Bout You,7DfFc7a6Rwfi3YQMRbDMau,0.721,0.339,0,-11.195,1,0.0532,0.00153,0.0973,0.2,129.83,200747,4,Spotify,Make Out Jams,Public 14
+Montell Fish,JAMIE,Fall in Love with You.,4kJT7Yj6Za01KfKHjb7mZE,0.538,0.0203,4,-23.163,1,0.0437,0.019,0.104,0.103,121.447,132000,3,Spotify,Make Out Jams,Public 14
+Ariana Grande,Positions,pov,3UoULw70kMsiVXxW0L3A33,0.487,0.534,0,-5.664,0,0.0555,0.0,0.1,0.173,131.798,201882,4,Spotify,Make Out Jams,Public 14
+SZA,Ctrl,Love Galore (feat. Travis Scott),0q75NwOoFiARAVp4EXU4Bs,0.795,0.594,0,-6.2,1,0.0748,0.0,0.162,0.409,135.002,275080,4,Spotify,Make Out Jams,Public 14
+Mac Miller,The Divine Feminine,Congratulations (feat. Bilal),1OubIZ0ARYCUq5kceYUQiO,0.465,0.225,4,-12.637,0,0.0455,0.00155,0.18,0.207,57.75,256427,4,Spotify,Make Out Jams,Public 14
+Summer Walker,Still Over It,No Love (with SZA),08SB2OtZkaliju77WYEKxk,0.707,0.618,1,-5.825,0,0.19,0.0,0.293,0.517,133.876,231498,4,Spotify,Make Out Jams,Public 14
+The Weeknd,Starboy,Stargirl Interlude,4EDijkJdHBZZ0GwJ12iTAj,0.638,0.474,5,-12.7,0,0.124,0.191,0.105,0.441,179.771,111640,4,Spotify,Make Out Jams,Public 14
+Everybody Loves an Outlaw,I See Red,I See Red,5MAK1nd8R6PWnle1Q1WJvh,0.509,0.448,4,-7.552,0,0.0357,0.0137,0.244,0.221,156.909,230613,3,Spotify,Make Out Jams,Public 14
+MAX,IT'S YOU (feat. keshi),IT'S YOU (feat. keshi),5SMCxRA6hB2jEhroaYfw6N,0.697,0.368,2,-9.708,1,0.056,0.00016,0.135,0.451,90.011,173428,4,Spotify,Make Out Jams,Public 14
+Post Malone,beerbongs & bentleys,Stay,4H7WNRErSbONkM06blBoGc,0.507,0.48,5,-5.418,1,0.0266,0.0,0.147,0.35,86.046,204427,4,Spotify,Make Out Jams,Public 14
+ASTN,Happier Than Ever,Happier Than Ever,7es56D0QedGMsK39wl2yFX,0.667,0.457,6,-6.885,0,0.439,0.0,0.114,0.266,97.604,109326,4,Spotify,Make Out Jams,Public 14
+Jhené Aiko,Trip,Sativa,2pg2TiYo9Rb8KeB5JjP7jS,0.741,0.61,6,-7.34,0,0.0511,0.0,0.534,0.72,125.99,276960,4,Spotify,Make Out Jams,Public 14
+Billie Eilish,Happier Than Ever,Billie Bossa Nova,2KnuaZYoGzDoHiBTNYOTXG,0.895,0.389,7,-11.036,0,0.11,0.0346,0.105,0.549,110.023,196731,4,Spotify,Make Out Jams,Public 14
+The Neighbourhood,Daddy Issues (Remix) feat. Syd,Daddy Issues (Remix) feat. Syd,5Q6fh8OEhBYepJaORz9lxe,0.623,0.533,10,-8.164,1,0.0653,0.00717,0.112,0.247,84.982,181187,4,Spotify,Make Out Jams,Public 14
+dhruv,double take,double take,47isJpIIO8m7BJEhiFhnaf,0.456,0.437,8,-11.156,1,0.0867,0.0,0.218,0.209,108.678,171743,4,Spotify,Make Out Jams,Public 14
+Nova,Not Around,Not Around,1Adhz5VVDZxhojOLfQQUxa,0.499,0.695,6,-9.452,1,0.113,2.85e-06,0.659,0.235,131.006,183920,4,Spotify,Make Out Jams,Public 14
+The Weeknd,"My Dear Melancholy,",Try Me,4ppTAJUbNXELZcoUaL90wo,0.456,0.679,8,-5.778,0,0.064,0.000573,0.129,0.107,92.026,221107,4,Spotify,Make Out Jams,Public 14
+keshi,beside you,beside you,1Fhb9iJPufNMZSwupsXiRe,0.711,0.747,0,-6.335,1,0.0523,0.0,0.0957,0.852,136.0,166023,4,Spotify,Make Out Jams,Public 14
+Harry Styles,Fine Line,She,6SQLk9HSNketfgs2AyIiMs,0.535,0.521,0,-5.942,1,0.0272,0.371,0.19,0.457,140.026,362653,3,Spotify,Make Out Jams,Public 14
+Beyoncé,RENAISSANCE,PLASTIC OFF THE SOFA,6ufcuVInt0ocHrUimDjGlb,0.618,0.712,1,-8.246,1,0.114,4.53e-06,0.575,0.305,97.057,254319,4,Spotify,Make Out Jams,Public 14
+Bazzi,Soul Searching,I.F.L.Y.,4a6q8CR2hzLk2plDkSxkfD,0.812,0.519,2,-4.823,1,0.0385,0.0,0.13,0.554,104.954,165714,4,Spotify,Make Out Jams,Public 14
+Lykke Li,sex money feelings die (slowed version),sex money feelings die - slowed version,0dkvbYmXYEPK7gGMdytmfI,0.797,0.44,5,-6.587,0,0.0594,1.57e-06,0.0849,0.436,111.014,168811,4,Spotify,Make Out Jams,Public 14
+Lucky Daye,Candydrip,Over,23CKxEwKWsLs6LD5poGOLM,0.65,0.555,6,-5.971,0,0.0719,0.0,0.104,0.352,103.081,207413,4,Spotify,Make Out Jams,Public 14
+Giveon,For Tonight,For Tonight,61Emqg95O9zo1GNOcyxq4Y,0.442,0.517,9,-7.807,1,0.0548,0.0,0.114,0.2,79.867,193822,4,Spotify,Make Out Jams,Public 14
+Brent Faiyaz,WASTELAND,JACKIE BROWN,2IlT65thKQQw248mhk2PjQ,0.726,0.353,10,-10.273,1,0.105,0.002,0.224,0.503,137.66,169014,4,Spotify,Make Out Jams,Public 14
+Ralph Castelli,Morning Sex,Morning Sex,2fGRJzoiYJYAzlQAyBONMb,0.81,0.353,6,-9.536,1,0.0437,0.000104,0.082,0.731,124.991,175313,4,Spotify,Make Out Jams,Public 14
+Daniel Caesar,CASE STUDY 01,CYANIDE,3uouaAVXpQR3X8RYkJyitQ,0.589,0.652,10,-7.498,1,0.373,0.00055,0.125,0.486,158.49,194960,4,Spotify,Make Out Jams,Public 14
+Ariana Grande,Sweetener,everytime,0WdR2AyLW1Drd3OUdwezM0,0.71,0.614,10,-6.757,0,0.0431,0.0,0.0974,0.658,148.152,172107,4,Spotify,Make Out Jams,Public 14
+Bruno Mars,An Evening With Silk Sonic,Leave The Door Open,4pryE6cN2gFL1FVF5fYINl,0.586,0.616,5,-7.964,1,0.0324,0.0,0.0927,0.719,148.088,242096,4,Spotify,Make Out Jams,Public 14
+SZA,Hit Different,Hit Different,7Bar1kLTmsRmH6FCKKMEyU,0.679,0.516,0,-6.371,0,0.0452,0.0,0.0965,0.716,120.074,202008,4,Spotify,Make Out Jams,Public 14
+RealestK,Love Me,Love Me,4qgMPzf9QOETWQFUcFkHD4,0.569,0.325,7,-9.66,0,0.0376,0.0,0.141,0.274,122.051,207547,3,Spotify,Make Out Jams,Public 14
+Summer Walker,Over It,Body,7vxLj7MREliG5i5vSnqSVr,0.555,0.507,11,-6.099,0,0.167,0.0,0.283,0.339,137.875,193840,4,Spotify,Make Out Jams,Public 14
+Khalid,Suncity,Saturday Nights,5kfNriitmkNE8mUbZ7gbq8,0.551,0.44,10,-8.559,1,0.0985,3.02e-05,0.11,0.341,167.923,210667,4,Spotify,Make Out Jams,Public 14
+Giveon,When It's All Said And Done... Take Time,All To Me,5JycxhApZmzbA4xSwvqh6k,0.523,0.543,5,-8.39,0,0.156,0.0,0.257,0.318,116.161,127807,3,Spotify,Make Out Jams,Public 14
+Brent Faiyaz,"Gravity (feat. Tyler, The Creator)","Gravity (feat. Tyler, The Creator)",6u3CPnFMKANYgfdiifFOiJ,0.539,0.615,1,-8.746,0,0.252,0.0056,0.144,0.493,163.924,214693,4,Spotify,Make Out Jams,Public 14
+Bruno Mars,An Evening With Silk Sonic,After Last Night (with Thundercat & Bootsy Collins),3jiKUMXqwEodB7gVv1RMZU,0.651,0.703,0,-8.958,0,0.0816,0.0,0.0608,0.647,140.051,249444,4,Spotify,Make Out Jams,Public 14
+keshi,GABRIEL,SOMEBODY,3iqlzKw1tLt6tXZyKWV0fZ,0.649,0.461,8,-8.401,1,0.0449,0.0,0.108,0.487,141.088,164663,4,Spotify,Make Out Jams,Public 14
+Summer Walker,Over It,Come Thru (with Usher),3TTMUI5dFcbeNSDTTDY9M8,0.679,0.728,5,-3.092,0,0.154,0.0,0.107,0.46,152.001,181013,4,Spotify,Make Out Jams,Public 14
+The Neighbourhood,Fallen Star,Fallen Star,60F6pgM6H6miNr5AmjxwjL,0.603,0.551,10,-6.259,0,0.0304,0.0976,0.192,0.439,75.001,224939,4,Spotify,Make Out Jams,Public 14
+Labrinth,I’m Tired (with Zendaya) - Bonus Track,I’m Tired (with Zendaya) - Bonus Track,6LtHYDgYHRCHoKK3snfr2w,0.375,0.133,0,-10.624,0,0.0352,0.0,0.0695,0.192,131.721,187944,4,Spotify,Make Out Jams,Public 14
+Daniel Caesar,Please Do Not Lean,Please Do Not Lean (feat. BADBADNOTGOOD),5uXO1sjZ7VbNKexKaFRna3,0.67,0.41,1,-13.444,1,0.0381,8.55e-06,0.167,0.46,127.972,240938,4,Spotify,Make Out Jams,Public 14
+Dijon,Absolutely,The Dress,0YMe6PHRbeDcN7KJdCG0bW,0.747,0.531,8,-5.99,1,0.0477,1.8e-06,0.192,0.785,88.009,184768,4,Spotify,Make Out Jams,Public 14
+Ariana Grande,Positions,safety net (feat. Ty Dolla $ign),14gkWVFMwdxBMyqBw1wmIg,0.552,0.599,1,-5.75,0,0.0404,0.0,0.0986,0.0916,161.884,208457,4,Spotify,Make Out Jams,Public 14
+Pink Sweat$,PINK PLANET,Honesty,19gCnDoMbugHhF7eMpLpe1,0.66,0.139,6,-16.339,0,0.0323,1.1e-05,0.105,0.312,79.975,189000,4,Spotify,Make Out Jams,Public 14
+Khalid,Talk,Talk,0rTV5WefWd1J3OwIheTzxM,0.9,0.4,0,-8.443,1,0.124,0.0,0.0876,0.338,136.001,197487,4,Spotify,Make Out Jams,Public 14
+Miguel,Kaleidoscope Dream,Adorn,25cUhiAod71TIQSNicOaW3,0.625,0.576,11,-5.693,0,0.175,4.07e-05,0.187,0.235,179.063,193147,4,Spotify,Make Out Jams,Public 14
+Iron & Wine,The Shepherd's Dog,"Flightless Bird, American Mouth",1fEGtTZjrjJW8eUeewnNJR,0.369,0.403,3,-7.996,1,0.0259,0.0541,0.106,0.177,154.899,241917,3,Spotify,Make Out Jams,Public 14
+Adele,30,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,0.734,0.497,8,-9.666,1,0.166,2.35e-05,0.194,0.307,127.989,161829,3,Spotify,Make Out Jams,Public 14
+Montell Fish,JAMIE,And i'd go a thousand miles,4XAAxqgd94HLvDQWc0EkDa,0.374,0.0453,7,-22.595,1,0.0425,0.0244,0.153,0.202,120.593,146000,4,Spotify,Make Out Jams,Public 14
+Saint Levant,Very Few Friends,Very Few Friends,2L0PRavRIQIjVcZK4Qgfgi,0.777,0.469,6,-8.344,0,0.163,0.00239,0.108,0.557,136.05,132500,4,Spotify,Make Out Jams,Public 14
+Omar Apollo,Ivory,Killing Me,5BhK8Mho223YLPQOLfzWNP,0.861,0.27,6,-9.515,0,0.0616,0.00288,0.124,0.608,84.004,165320,4,Spotify,Make Out Jams,Public 14
+Ali Gatie,The Idea Of Her,What If I Told You That I Love You,6USdi8uX5GNAPYziFhisHb,0.596,0.366,7,-11.144,1,0.115,7.04e-06,0.0554,0.229,84.394,193668,4,Spotify,Make Out Jams,Public 14
+thuy,i hope u see this,universe,7B4UxdHwRKJYRhvXxmgZhM,0.636,0.452,11,-8.298,1,0.0329,1.97e-06,0.104,0.0678,80.004,186627,4,Spotify,Make Out Jams,Public 14
+Muni Long,Public Displays Of Affection: The Album,Hrs & Hrs,3ncmoWTwJgx63LwMTyBCXf,0.52,0.546,8,-4.991,0,0.213,0.0,0.112,0.634,137.419,204317,3,Spotify,Make Out Jams,Public 14
+Jacquees,4275 (Bonus Version),You,01jIO8SJFnpSiNLH1JaBZ5,0.735,0.453,8,-8.264,0,0.0602,0.0,0.104,0.335,115.002,217387,4,Spotify,Make Out Jams,Public 14
+Rauw Alejandro,SATURNO,LEJOS DEL CIELO,0r5g8mAptDMwHbvRDJYIPW,0.77,0.521,7,-6.982,1,0.195,3.91e-05,0.3,0.222,92.014,208935,4,Spotify,Make Out Jams,Public 14
+Q,The Shave Experiment (Director's Cut),Take Me Where Your Heart Is,1RJl5cZ8kFpoVFOS2x6scI,0.858,0.426,10,-8.879,0,0.0402,0.761,0.0977,0.419,89.981,192897,4,Spotify,Make Out Jams,Public 14
+Still Woozy,Habit,Habit,4BsLwvaJOTOHDNg7xMpvrL,0.767,0.392,1,-11.996,1,0.0945,0.000398,0.108,0.48,125.017,153872,4,Spotify,Make Out Jams,Public 14
+Frex,Oxford Circus,Oxford Circus,41pmDwHHK9rvdvp6sezqaf,0.418,0.37,1,-10.416,1,0.104,0.00726,0.132,0.243,179.66,152020,4,Spotify,Make Out Jams,Public 14
+Alina Baraz,Sunbeam,If You Let Me,4gEQcoKNoLFLyhory3Y5Zr,0.605,0.686,5,-8.605,1,0.0439,0.438,0.145,0.467,138.088,135347,4,Spotify,Make Out Jams,Public 14
+Dijon,Skin,Skin,467t3218y3yihFcyDGWjr0,0.674,0.616,7,-3.471,1,0.0272,2.1e-06,0.331,0.551,94.934,230625,4,Spotify,Make Out Jams,Public 14
+keshi,GABRIEL,TOUCH,5cgy5vMqVZbd8hYutp2txu,0.412,0.613,10,-9.803,1,0.125,1.96e-06,0.104,0.314,89.025,205347,4,Spotify,Make Out Jams,Public 14
+Yung Bleu,Moon Boy,Beautiful Lies,3BjwSq6phb60SOdTZw5pZY,0.481,0.362,3,-10.766,0,0.209,0.0,0.114,0.639,83.605,212879,4,Spotify,Make Out Jams,Public 14
+Montell Fish,Exscape,Exscape,5L1WMbYfNFkmlyG407ke6S,0.599,0.854,4,0.829,0,0.0373,0.0,0.098,0.449,139.995,142286,4,Spotify,Make Out Jams,Public 14
+Eric Bellinger,Eric B for President: Term 1,Drive By,1kEINOBYcSCQ5RwkP65g2A,0.415,0.616,1,-8.009,0,0.205,0.0,0.0974,0.484,128.088,178587,4,Spotify,Make Out Jams,Public 14
+Kehlani,up at night (feat. justin bieber),up at night (feat. justin bieber),4WghJOMjDpGdlk3b8aJIgy,0.563,0.756,0,-3.852,0,0.0579,0.0,0.245,0.234,100.012,182227,4,Spotify,Make Out Jams,Public 14
+James Blake,Friends That Break Your Heart,Coming Back (feat. SZA),2pSsHnjAgEPjHmet7ChlHQ,0.653,0.496,10,-7.262,0,0.0868,0.274,0.151,0.102,86.013,195905,4,Spotify,Make Out Jams,Public 14
+H.E.R.,Comfortable,Comfortable,3f3cliOygeuUpGRwdohy12,0.429,0.4,5,-11.679,0,0.0882,3.25e-05,0.087,0.357,72.487,255066,4,Spotify,Make Out Jams,Public 14
+Masego,Mystery Lady (feat. Don Toliver),Mystery Lady (feat. Don Toliver),2Ee9amLUslOwgoJWZEpSSD,0.747,0.494,3,-7.957,0,0.141,0.0,0.0982,0.624,76.006,228453,4,Spotify,Make Out Jams,Public 14
+070 Shake,Modus Vivendi,Guilty Conscience,0smgkpVia3VCXgY4qhVJvp,0.539,0.638,7,-6.049,1,0.136,0.0,0.123,0.222,179.822,213333,4,Spotify,Make Out Jams,Public 14
+Khruangbin,Texas Moon,Chocolate Hills,1EUOby36hEzSkTVVKRAWQP,0.675,0.28,3,-11.854,1,0.0632,0.00916,0.109,0.218,129.942,190433,4,Spotify,Make Out Jams,Public 14
+Pink Sweat$,At My Worst (feat. Kehlani),At My Worst (feat. Kehlani),58w68w4s8h9gw3xrDaXyuj,0.731,0.484,0,-5.579,1,0.0354,3.01e-06,0.326,0.35,92.043,169128,4,Spotify,Make Out Jams,Public 14
+Jessie Reyez,YESSIE,ONLY ONE,04xnC2Uwq38RPrwCLv6f0G,0.52,0.671,6,-5.321,0,0.11,0.00579,0.113,0.413,187.693,183893,4,Spotify,Make Out Jams,Public 14
+Queen Naija,Hate Our Love (with Big Sean),Hate Our Love (with Big Sean),3pEINn37iH5fx8TpXYNGIO,0.662,0.655,2,-5.44,1,0.26,0.0,0.124,0.356,82.079,226374,4,Spotify,Make Out Jams,Public 14
+Sun,Video Games,Video Games,7yyYmGQXSyrH7kLALSTFjg,0.702,0.406,0,-11.385,0,0.0438,1.43e-05,0.159,0.328,103.03,220820,4,Spotify,Make Out Jams,Public 14

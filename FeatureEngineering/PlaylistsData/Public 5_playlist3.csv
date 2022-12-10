@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Vince Gill,I Still Believe In You,Don't Let Our Love Start Slippin' Away,2G6pvEfrwrJZS6NgqS3DqX,0.736,0.719,3,-9.311,1,0.0313,0.000851,0.35,0.657,113.228,224800,4,Spotify,90s Country,Public 5
+Shania Twain,Come On Over,Man! I Feel Like A Woman!,6sxptembJVty4sNtcPMAVz,0.657,0.639,10,-7.527,1,0.0412,0.0,0.278,0.674,124.882,234493,4,Spotify,90s Country,Public 5
+Shania Twain,Come On Over,You're Still The One,1wb4P4F0sxAQ2KXrRvsx6n,0.585,0.494,3,-8.751,1,0.0353,0.0,0.0886,0.634,133.822,212200,4,Spotify,90s Country,Public 5
+Alan Jackson,A Lot About Livin' (And A Little 'Bout Love),Chattahoochee,59kHPbwyyCApYA8RQQEuXm,0.606,0.706,0,-9.665,1,0.0379,0.0,0.16,0.819,174.533,148160,4,Spotify,90s Country,Public 5
+Jo Dee Messina,JoDee Messina,"Heads Carolina, Tails California",6Lmx6bz3PGYuNSjKMnYBOa,0.607,0.815,4,-6.619,1,0.039,2.81e-05,0.111,0.57,136.949,209760,4,Spotify,90s Country,Public 5
+David Lee Murphy,Out With A Bang,Dust On The Bottle,0Xg68XXMRWzKQvD5S6BFvI,0.736,0.614,11,-11.124,1,0.0389,5.84e-06,0.292,0.858,99.942,224667,4,Spotify,90s Country,Public 5
+Trisha Yearwood,Trisha Yearwood,She's In Love With The Boy - Single Version,2ulBBx6YQ3qY3ci34RadtN,0.783,0.698,3,-8.268,1,0.0323,2.52e-06,0.0754,0.758,124.996,248200,4,Spotify,90s Country,Public 5
+Toby Keith,Toby Keith 35 Biggest Hits,Should've Been A Cowboy,18BajNiyvH6GpYshB0unrm,0.585,0.793,7,-3.713,1,0.0322,0.0,0.3,0.732,133.839,208413,4,Spotify,90s Country,Public 5
+Deana Carter,Did I Shave My Legs For This?,Strawberry Wine,5Pgwi0iizu96RHxJ4xL3SH,0.572,0.449,1,-6.566,1,0.0264,0.0,0.0301,0.207,122.632,291533,3,Spotify,90s Country,Public 5
+Reba McEntire,For My Broken Heart,The Night The Lights Went Out In Georgia,2MiXC2LfpsoeUP5RvMGEQ3,0.428,0.51,7,-11.695,0,0.103,8.32e-06,0.105,0.393,169.967,257267,4,Spotify,90s Country,Public 5
+Brooks & Dunn,Brand New Man,Neon Moon,2M38X60UJnupGPbFTkVPNQ,0.735,0.488,9,-10.56,1,0.026,1.1e-06,0.0949,0.452,102.383,261227,4,Spotify,90s Country,Public 5
+Shania Twain,The Woman In Me,Any Man Of Mine,0pdfN7nOHMYmKykzu1cyfm,0.592,0.725,8,-8.698,1,0.0412,0.0,0.148,0.784,78.235,246760,4,Spotify,90s Country,Public 5
+George Strait,Strait Out Of The Box,Check Yes Or No,6iy4PoAuZBMvtrlDX4VxC7,0.708,0.524,5,-12.644,1,0.0352,3.21e-06,0.0371,0.69,111.482,200667,4,Spotify,90s Country,Public 5
+Lonestar,Lonely Grill,Amazed,6qc34bnVOyqGDPni8H5W0U,0.561,0.543,1,-8.498,1,0.0324,0.0,0.124,0.243,139.803,240867,4,Spotify,90s Country,Public 5
+Tim McGraw,A Place In The Sun,Something Like That,6leiB1fEsTnVCuPiielde5,0.507,0.85,5,-5.679,1,0.0472,0.0,0.0567,0.847,171.8,183733,4,Spotify,90s Country,Public 5
+Randy Travis,Always & Forever,"Forever and Ever, Amen",1ipcb9qXpSHWhSUvdxJhsx,0.677,0.724,2,-8.992,1,0.0245,0.000101,0.158,0.697,90.392,212640,4,Spotify,90s Country,Public 5
+Reba McEntire,Rumor Has It,Fancy,0FtV0YbnnjD7PXpLHFHPhn,0.674,0.517,11,-11.225,1,0.0726,0.0,0.0697,0.482,94.98,299733,4,Spotify,90s Country,Public 5
+The Chicks,Fly,Cowboy Take Me Away,3rXCZRMiMZp0feGcYXpwYX,0.467,0.622,6,-7.255,1,0.031,0.00527,0.0982,0.455,164.418,287267,4,Spotify,90s Country,Public 5
+Shania Twain,Come On Over,That Don't Impress Me Much,4FUfoWMypAyWbOavmYyeNu,0.757,0.757,1,-7.598,1,0.0389,0.0,0.0474,0.967,124.956,218867,4,Spotify,90s Country,Public 5
+John Michael Montgomery,John Michael Montgomery,Sold (The Grundy County Auction Incident),0NLBwQBYJhEM9t3KAMPFVR,0.771,0.848,2,-7.365,1,0.035,0.0,0.35,0.803,115.642,152187,4,Spotify,90s Country,Public 5
+George Strait,Carrying Your Love With Me,Carrying Your Love With Me,7puxIVNdj5nsBJk43zM3bH,0.629,0.479,10,-10.608,1,0.0271,0.0,0.0587,0.345,138.231,232427,4,Spotify,90s Country,Public 5
+Alison Krauss,Now That I've Found You: A Collection,When You Say Nothing At All,6HveTIMynTMzTc5L0TcS20,0.514,0.243,3,-12.348,1,0.0288,0.00054,0.0822,0.388,171.816,260800,4,Spotify,90s Country,Public 5
+Jo Dee Messina,I'm Alright,Bye-Bye,5FxgRnXBHMM0q4stwqrjjM,0.644,0.868,10,-3.98,1,0.0464,0.0,0.322,0.642,134.38,200960,4,Spotify,90s Country,Public 5
+LeAnn Rimes,Greatest Hits,How Do I Live,7BD50ATrF3Vab5FQy7vtK8,0.577,0.462,2,-7.989,1,0.0279,0.0,0.0822,0.258,128.303,266973,4,Spotify,90s Country,Public 5
+Shania Twain,Come On Over,"Honey, I'm Home",39IoZIC8eEirT1v70rqSPq,0.616,0.723,4,-6.451,1,0.0913,0.0,0.181,0.859,160.525,215200,4,Spotify,90s Country,Public 5
+Pam Tillis,Put Yourself In My Place,Maybe It Was Memphis,3wjD3Ufjll7UKrEDPdGuX3,0.495,0.695,9,-6.929,1,0.0318,0.00048,0.0734,0.496,73.656,239173,4,Spotify,90s Country,Public 5
+Tim McGraw,All I Want,"I Like It, I Love It",3IvcWWehbBcBR4YZxlGM9R,0.643,0.961,0,-5.298,1,0.0315,0.0,0.948,0.96,124.027,205707,4,Spotify,90s Country,Public 5
+Trisha Yearwood,Thinkin' About You,XXX's And OOO's (An American Girl),08c3wmdjKSjxTJY9cHSts7,0.711,0.642,0,-8.909,1,0.0319,0.0,0.0814,0.762,125.831,167907,4,Spotify,90s Country,Public 5
+Vince Gill,I Still Believe In You,One More Last Chance,2h5a6t9JFasqH5WJFPbmGL,0.525,0.878,2,-8.677,1,0.0404,0.0,0.291,0.963,176.249,191200,4,Spotify,90s Country,Public 5
+George Strait,Always Never The Same,Write This Down,1TanmIWbaUj5NVwJ3k4XPd,0.729,0.688,3,-7.468,1,0.0264,9.44e-06,0.295,0.671,123.867,219600,4,Spotify,90s Country,Public 5
+Martina McBride,The Way That I Am,Independence Day,1nVoLxz8C0uGgMKfywy0vf,0.712,0.63,9,-6.202,1,0.0299,6.65e-05,0.0999,0.768,118.378,204627,4,Spotify,90s Country,Public 5
+The Chicks,Wide Open Spaces,Wide Open Spaces,6cjwec9ii5uLK7CDfPBYt1,0.563,0.544,4,-6.102,1,0.0306,0.0,0.128,0.602,179.351,223832,4,Spotify,90s Country,Public 5
+Billy Ray Cyrus,Some Gave All,Achy Breaky Heart,2EoIt9vdgFRNW03u5IvFsQ,0.8,0.563,9,-10.209,1,0.0303,0.0,0.0797,0.961,121.808,203373,4,Spotify,90s Country,Public 5
+Faith Hill,Faith,This Kiss,5EYWGM3Ns3iYew8ws0FatB,0.398,0.804,11,-5.559,1,0.0451,0.0,0.181,0.709,186.752,194307,4,Spotify,90s Country,Public 5
+Alan Jackson,Everything I Love,Little Bitty,2IY559smG7SXYk229NA2Vl,0.571,0.818,4,-6.539,1,0.0415,0.0,0.348,0.728,163.045,158627,4,Spotify,90s Country,Public 5
+Diamond Rio,Diamond Rio,Meet In the Middle,7lUE02KHkZM44BZgjCaWRO,0.746,0.443,4,-11.305,1,0.0359,0.0,0.223,0.554,91.11,198333,4,Spotify,90s Country,Public 5
+Faith Hill,Take Me as I Am,Wild One,0qrst0xZAZ0NtMtuUcEq0f,0.694,0.654,11,-9.148,1,0.0322,0.0,0.283,0.689,135.787,165013,4,Spotify,90s Country,Public 5
+Tim McGraw,Everywhere,Just To See You Smile,2op0kDNARK2VHWHntEeH4g,0.492,0.823,6,-8.526,1,0.0297,0.0,0.0523,0.702,94.342,215173,4,Spotify,90s Country,Public 5
+Tracy Byrd,No Ordinary Man,Watermelon Crawl,3Q9t1A12iUemHTAWnH7PjD,0.759,0.723,0,-9.315,1,0.028,0.0,0.179,0.962,136.746,181973,4,Spotify,90s Country,Public 5
+Deana Carter,Did I Shave My Legs For This?,We Danced Anyway,4fOFOwrAHA9PdhOL7lciok,0.629,0.721,6,-3.722,1,0.0277,0.0,0.307,0.651,94.054,202533,4,Spotify,90s Country,Public 5
+Faith Hill,Breathe,Breathe,3y4LxiYMgDl4RethdzpmNe,0.529,0.496,7,-9.007,1,0.029,0.0,0.251,0.278,136.859,250547,4,Spotify,90s Country,Public 5
+Sammy Kershaw,Haunted Heart,She Don't Know She's Beautiful,2oyS4THTUzUxT2lnHGzzIr,0.764,0.646,9,-9.424,1,0.0302,0.0,0.0849,0.877,116.141,174627,4,Spotify,90s Country,Public 5
+Tracy Lawrence,Time Marches On,Time Marches On,2TIEeLrOQrGnO2D2OeDDJu,0.856,0.517,6,-9.232,0,0.0293,0.000164,0.144,0.479,118.399,185360,4,Spotify,90s Country,Public 5
+Toby Keith,How Do You Like Me Now?!,How Do You Like Me Now?!,7rDcULv8vV16vetBjPJhuE,0.648,0.667,0,-8.986,1,0.0311,6.94e-06,0.0908,0.669,109.609,209067,4,Spotify,90s Country,Public 5
+Tim McGraw,Everywhere,Where The Green Grass Grows,0nDjzA4kns1QOWPXuOn6Xw,0.479,0.698,7,-7.914,1,0.0277,0.0,0.126,0.673,159.699,201600,4,Spotify,90s Country,Public 5
+Kenny Chesney,Everywhere We Go,She Thinks My Tractor's Sexy,3QV7NYkrmV0Q0IHdFJw9hO,0.689,0.886,10,-7.066,0,0.0382,0.0,0.278,0.906,122.07,248067,4,Spotify,90s Country,Public 5
+Jo Dee Messina,I'm Alright,Lesson In Leavin',2g0BAZVaLlK8GeTVzF6hQ6,0.612,0.804,7,-7.275,1,0.0543,0.0,0.311,0.841,80.771,220200,4,Spotify,90s Country,Public 5
+The Chicks,Wide Open Spaces,There's Your Trouble,69m9WDPBvemwujQwdONslk,0.737,0.869,2,-5.433,1,0.0267,0.0,0.308,0.898,126.628,193065,4,Spotify,90s Country,Public 5
+John Michael Montgomery,Greatest Hits,Life's a Dance,0NyMrtH8mUuvtJjEpESn7J,0.64,0.533,5,-9.846,1,0.0264,0.0,0.176,0.652,135.224,188840,4,Spotify,90s Country,Public 5
+Trace Adkins,Dreamin' Out Loud,Every Light In The House,2A7j0RLnzvvlUFrevBiOQf,0.637,0.472,5,-7.295,1,0.0271,0.0,0.446,0.349,129.236,179600,4,Spotify,90s Country,Public 5
+Reba McEntire,"Reba McEntire's Greatest Hits, Volume Two",Does He Love You,0wFQnci5YCcwbKAWNBzqiA,0.449,0.434,9,-10.657,1,0.0282,0.0,0.113,0.259,144.664,260400,4,Spotify,90s Country,Public 5
+George Strait,Blue Clear Sky,Blue Clear Sky,59MIR30ATtW8kTaX3SCpq0,0.638,0.819,4,-6.646,1,0.0291,4.1e-05,0.3,0.706,124.062,174867,4,Spotify,90s Country,Public 5
+Tim McGraw,Not A Moment Too Soon,Indian Outlaw,1fYypIR0kaFzaSRbzvtjl9,0.664,0.739,9,-7.229,1,0.0415,4.99e-05,0.282,0.759,110.101,182120,4,Spotify,90s Country,Public 5
+Jo Dee Messina,I'm Alright,I'm Alright,0MjT9xQqJrQlNrkWKZgFbQ,0.676,0.733,0,-7.745,1,0.0294,0.0,0.192,0.591,98.234,199040,3,Spotify,90s Country,Public 5
+Wynonna,Tell Me Why,Tell Me Why,3Vfj2JGXayXgc0c9J4gJ8m,0.621,0.802,3,-6.717,1,0.0315,0.00279,0.0677,0.81,141.612,230640,4,Spotify,90s Country,Public 5
+Vince Gill,When Love Finds You,Whenever You Come Around,3PHLZ5wmtyZha1pp2405OT,0.719,0.22,11,-11.811,1,0.0294,9.4e-06,0.118,0.168,115.375,259160,4,Spotify,90s Country,Public 5
+Shania Twain,The Woman In Me,No One Needs To Know,4vbW5aT9UQGRqEScStQPPy,0.663,0.525,7,-9.674,1,0.0331,0.0,0.349,0.731,134.748,183960,4,Spotify,90s Country,Public 5
+Brooks & Dunn,Hard Workin' Man,Hard Workin' Man,51uGoXB3PbXLyeH0aPGo7H,0.692,0.769,0,-9.363,1,0.0369,1.22e-06,0.0552,0.727,151.503,178493,4,Spotify,90s Country,Public 5
+Clay Walker,If I Could Make a Living,If I Could Make a Living,7njoWVpJbAiTkyT6rKwbze,0.593,0.775,5,-7.016,1,0.0345,0.0,0.329,0.896,155.989,133853,4,Spotify,90s Country,Public 5
+Reba McEntire,If You See Him,"If You See Him, If You See Her",4TxIFLRMUxNh4n9h4RLsaE,0.371,0.452,7,-7.739,1,0.0275,0.0,0.2,0.186,164.424,235933,4,Spotify,90s Country,Public 5
+George Strait,Blue Clear Sky,I Can Still Make Cheyenne,7yQMZQeiSKnvEgimeGPVhi,0.585,0.39,3,-10.233,1,0.0266,0.000769,0.0919,0.237,109.514,256067,4,Spotify,90s Country,Public 5
+Shania Twain,The Woman In Me,You Win My Love,2lKA9bNdd4kAoeHiufa0aK,0.707,0.802,6,-8.943,1,0.0352,0.0,0.0697,0.947,127.732,265600,4,Spotify,90s Country,Public 5
+Hal Ketchum,Past The Point Of Rescue,Small Town Saturday Night,7uLQTOxQ3nwwoHuxwt2AHJ,0.627,0.697,8,-6.61,1,0.0266,0.0,0.0733,0.933,154.086,177987,4,Spotify,90s Country,Public 5
+Randy Travis,On the Other Hand - All the Number Ones,If I Didn't Have You,52erNkfUKv34u02CjcHOPj,0.674,0.578,4,-10.919,1,0.0663,0.0,0.103,0.961,172.498,186747,4,Spotify,90s Country,Public 5
+Mark Chesnutt,Longnecks & Short Stories,Bubba Shot The Jukebox,0PsBdKWnOQGMo9smobflvy,0.544,0.648,7,-8.454,1,0.0549,0.0,0.0843,0.866,165.484,185840,4,Spotify,90s Country,Public 5
+Dwight Yoakam,This Time,Fast as You,6FevJcaJvt5EvsHnuJHBnb,0.628,0.801,4,-7.926,1,0.0282,0.0897,0.396,0.843,125.954,285200,4,Spotify,90s Country,Public 5
+Rhett Akins,A Thousand Memories,That Ain't My Truck,7riuy1t0Kt3SRgMtFxX0FR,0.64,0.788,7,-9.012,1,0.035,0.0,0.144,0.774,128.961,243107,4,Spotify,90s Country,Public 5
+Tracy Byrd,I'm From The Country,I'm From The Country - Single Version,5Lwc3DTWzX6JaW2x2PZezt,0.687,0.898,2,-3.93,1,0.042,0.0,0.284,0.952,129.542,213973,4,Spotify,90s Country,Public 5
+Travis Tritt,It's All About to Change,Here's a Quarter (Call Someone Who Cares),6BTCpaBTxlqGMOl0P6hvvX,0.648,0.572,7,-7.494,1,0.026,0.0,0.131,0.598,112.423,152333,3,Spotify,90s Country,Public 5
+Alan Jackson,The Greatest Hits Collection,"Tall, Tall Trees",0MMdmhfFXpflLBJKq4cdYA,0.676,0.815,7,-6.192,1,0.037,0.0,0.132,0.965,145.969,147640,4,Spotify,90s Country,Public 5
+John Anderson,Seminole Wind,Straight Tequila Night,5SpoN8sCoc05RfVde4raGN,0.64,0.639,9,-10.11,1,0.0331,0.0,0.178,0.593,109.263,173867,4,Spotify,90s Country,Public 5
+John Michael Montgomery,Kickin' It Up,Be My Baby Tonight,7pY4ul6PNtKKHCCQgYVtT7,0.632,0.773,9,-7.956,1,0.0381,2.7e-05,0.365,0.901,156.88,172200,4,Spotify,90s Country,Public 5
+The Chicks,Fly,Ready to Run,7yNTZj1ugKCeRJdSP1meOk,0.644,0.644,7,-7.542,1,0.0305,0.00083,0.27,0.293,98.746,231293,4,Spotify,90s Country,Public 5
+Kenny Chesney,I Will Stand,She's Got It All,4l8u5h7OjkZo2UmyUoeKYJ,0.709,0.811,7,-6.603,1,0.0323,1.08e-05,0.1,0.735,132.728,205093,4,Spotify,90s Country,Public 5
+Alabama,American Pride,I'm in a Hurry (And Don't Know Why),1N9GGOUf8TQqsaPDByZzEF,0.757,0.69,9,-8.645,1,0.0286,0.0,0.078,0.867,128.654,168640,4,Spotify,90s Country,Public 5
+Travis Tritt,T-R-O-U-B-L-E,T-R-O-U-B-L-E,5YY64mW5PL5waJKUsIJIQt,0.297,0.982,7,-4.326,1,0.051,0.000699,0.689,0.793,179.311,180160,4,Spotify,90s Country,Public 5
+Joe Diffie,Third Rock From The Sun,Pickup Man,60w5eL1G4Or7LlTSrR5r8a,0.713,0.692,7,-8.554,1,0.0365,0.0,0.271,0.884,140.561,216200,4,Spotify,90s Country,Public 5
+Terri Clark,Just The Same,"Poor, Poor Pitiful Me",1ak2K9SpHCjnDbxmNFxr6P,0.744,0.699,1,-6.744,1,0.0265,0.0,0.0543,0.741,126.211,190267,4,Spotify,90s Country,Public 5
+Aaron Tippin,You've Got to Stand for Something,You've Got to Stand for Something,7s2NbKcFIJuEQumhvtHTAD,0.533,0.585,4,-9.789,1,0.0337,0.0,0.11,0.472,83.403,182280,4,Spotify,90s Country,Public 5
+Tim McGraw,Not A Moment Too Soon,Down On The Farm,65N3RYCN1DgfY0Zcv5k9kr,0.721,0.735,5,-11.849,0,0.0284,0.0,0.0499,0.961,127.575,178867,4,Spotify,90s Country,Public 5
+Patty Loveless,Only What I Feel,Blame It on Your Heart,1mICUTQCbRkAvGmO0cwoAz,0.624,0.808,8,-7.739,1,0.0472,0.0,0.0914,0.88,149.522,212648,4,Spotify,90s Country,Public 5
+Kenny Chesney,Everywhere We Go,How Forever Feels,2HmMklpgK8vGCpJmPpz1yG,0.723,0.674,7,-7.427,1,0.0297,1.83e-05,0.279,0.61,124.9,188200,4,Spotify,90s Country,Public 5
+Joe Diffie,Honky Tonk Attitude,John Deere Green,2evFJQfQVcDEXyOiyEV6OW,0.703,0.834,7,-5.054,1,0.0277,0.0,0.0664,0.722,130.391,272067,4,Spotify,90s Country,Public 5
+David Lee Murphy,Out With A Bang,Party Crowd,57IEs29xqMQaAkjQ8iQuI0,0.758,0.655,7,-11.661,1,0.0292,0.0,0.0795,0.767,127.141,198440,4,Spotify,90s Country,Public 5
+Sawyer Brown,Six Days On The Road,Six Days On The Road,4OCFCX4RSZl8esUMtt3muO,0.547,0.887,7,-2.696,1,0.0518,0.0,0.142,0.84,165.479,173427,4,Spotify,90s Country,Public 5
+Clay Walker,Clay Walker,What's It to You,346GCw2msr77HA5I5NFsKS,0.722,0.573,2,-13.222,1,0.0363,0.0,0.112,0.927,117.817,166627,4,Spotify,90s Country,Public 5
+Brooks & Dunn,Brand New Man,Boot Scootin' Boogie,6iKWr2XH1DyT7TQzDZlvzd,0.667,0.776,11,-7.292,0,0.0356,3.59e-06,0.355,0.899,130.669,197640,4,Spotify,90s Country,Public 5
+Travis Tritt,Country Club,I'm Gonna Be Somebody,4ICSwxlVyGaTquNqblL7Y9,0.563,0.668,7,-6.666,1,0.0267,7.15e-06,0.12,0.543,76.406,244933,4,Spotify,90s Country,Public 5
+Randy Travis,Always & Forever,I Told You So,6QUEB3DDAD7oJhbIZF2v4Y,0.615,0.347,9,-9.596,1,0.0259,0.0,0.125,0.273,78.994,219507,4,Spotify,90s Country,Public 5
+Vince Gill,When Love Finds You,Go Rest High On That Mountain,7C04W8ooqQD3vWKUSzeYnz,0.325,0.143,2,-12.218,1,0.033,0.000221,0.101,0.179,110.823,315973,4,Spotify,90s Country,Public 5
+Chris LeDoux,Used To Want To Be A Cowboy,This Cowboy's Hat,28RV5zuHGITT0rvh4NJM6W,0.493,0.297,6,-14.838,0,0.0487,0.0,0.145,0.436,90.273,245173,4,Spotify,90s Country,Public 5
+Brooks & Dunn,Brand New Man,Brand New Man,6JKwnVUYVF8LHamgZ5dFL1,0.696,0.648,7,-7.784,1,0.0306,6.8e-06,0.124,0.877,127.493,178893,4,Spotify,90s Country,Public 5
+Deana Carter,Did I Shave My Legs For This?,How Do I Get There,34VnYs7xwpscz3DkbTMoHb,0.694,0.794,5,-6.611,1,0.0289,0.0,0.338,0.667,97.622,249600,4,Spotify,90s Country,Public 5
+Tracy Byrd,No Ordinary Man,The Keeper Of The Stars,5WEK4szbQp9c7ZK6LkYd9k,0.583,0.276,2,-12.912,1,0.0264,0.0,0.143,0.0486,78.079,247627,4,Spotify,90s Country,Public 5
+George Strait,Blue Clear Sky,Carried Away,3wGoIFHqCl36tu9Ne3guos,0.575,0.489,8,-7.428,1,0.0273,0.000646,0.119,0.3,136.662,202467,4,Spotify,90s Country,Public 5
+Ricochet,Ricochet,Daddy's Money,7itHyuODr4R7Fdz454zn3F,0.698,0.861,2,-4.756,1,0.0289,0.0,0.0602,0.941,134.726,182462,4,Spotify,90s Country,Public 5
+Faith Hill,It Matters to Me,It Matters to Me,3rXdABev6vQtBCElztIl7m,0.613,0.355,6,-8.218,1,0.0247,0.0,0.0909,0.129,135.622,197667,4,Spotify,90s Country,Public 5
+Mary Chapin Carpenter,The Essential Mary Chapin Carpenter,Down at the Twist and Shout,76BuIHRNV8KDdrYveZBOOa,0.572,0.956,9,-4.376,1,0.0619,0.0,0.0281,0.975,192.309,201893,4,Spotify,90s Country,Public 5
+Travis Tritt,The Very Best of Travis Tritt,Take It Easy - 2006 Remaster,1UEKaf3j6eXeNbySz761lc,0.632,0.876,7,-5.21,1,0.0276,0.0,0.0537,0.738,140.967,213707,4,Spotify,90s Country,Public 5
+Toby Keith,Toby Keith 35 Biggest Hits,A Little Less Talk And A Lot More Action,7ojVoUWBAUP701iFpdKnFu,0.72,0.918,9,-3.225,1,0.0408,0.0,0.159,0.955,125.091,169400,4,Spotify,90s Country,Public 5

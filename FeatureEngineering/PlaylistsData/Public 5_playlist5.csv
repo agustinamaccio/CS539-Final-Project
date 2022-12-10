@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+George Strait,Pure Country,I Cross My Heart - Pure Country Soundtrack Version,6FHXJu99aQAUnivEjPhuUR,0.526,0.442,3,-10.133,1,0.0259,5.49e-05,0.106,0.284,131.055,212000,4,Spotify,Country's Greatest Hits,Public 5
+Morgan Wallen,If I Know Me,Whiskey Glasses,6foY66mWZN0pSRjZ408c00,0.614,0.68,6,-4.58,1,0.0289,1.84e-06,0.115,0.707,149.959,234347,4,Spotify,Country's Greatest Hits,Public 5
+Dolly Parton,Jolene,I Will Always Love You,6nRvgo4ySezQKD1D7NIqAu,0.446,0.142,9,-13.498,1,0.0335,0.00114,0.101,0.156,135.724,176093,4,Spotify,Country's Greatest Hits,Public 5
+Carrie Underwood,Some Hearts,Before He Cheats,0ZUo4YjG4saFnEJhdWp9Bt,0.519,0.749,6,-3.318,0,0.0405,0.0,0.119,0.29,147.905,199947,4,Spotify,Country's Greatest Hits,Public 5
+Kenny Rogers,The Gambler,The Gambler,5KqldkCunQ2rWxruMEtGh0,0.671,0.501,4,-13.119,1,0.0594,0.0,0.194,0.86,87.04,214880,4,Spotify,Country's Greatest Hits,Public 5
+Kitty Wells,The Country Music Hall Of Fame,It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version,1zJRHhb8yN2LyVfNhmlhH0,0.624,0.191,9,-11.072,1,0.0301,0.0,0.358,0.726,137.276,153867,4,Spotify,Country's Greatest Hits,Public 5
+Shania Twain,Come On Over,Man! I Feel Like A Woman!,6sxptembJVty4sNtcPMAVz,0.657,0.639,10,-7.527,1,0.0412,0.0,0.278,0.674,124.882,234493,4,Spotify,Country's Greatest Hits,Public 5
+Luke Combs,This One's for You,Hurricane,6xHI9KjUjYT0FPtGO8Mxa1,0.464,0.813,10,-6.185,1,0.0416,0.0,0.254,0.515,75.977,222533,4,Spotify,Country's Greatest Hits,Public 5
+Shania Twain,Come On Over,You're Still The One,1wb4P4F0sxAQ2KXrRvsx6n,0.585,0.494,3,-8.751,1,0.0353,0.0,0.0886,0.634,133.822,212200,4,Spotify,Country's Greatest Hits,Public 5
+Gabby Barrett,Goldmine,I Hope,23T0OX7QOiIUFShSzbJ5Uo,0.466,0.536,6,-6.227,1,0.0429,0.0,0.114,0.377,75.998,210773,4,Spotify,Country's Greatest Hits,Public 5
+Waylon Jennings,Waylon & Willie,Mammas Don't Let Your Babies Grow up to Be Cowboys,7nVQ8mo77KaUvhUQzh4vMy,0.363,0.361,9,-14.398,1,0.0499,0.00119,0.154,0.612,187.711,152867,3,Spotify,Country's Greatest Hits,Public 5
+The Judds,Why Not Me,Why Not Me,6BkK5Dsu1kTne7Cn6EyYex,0.732,0.667,10,-9.278,1,0.0278,4.07e-06,0.0524,0.727,125.6,211267,4,Spotify,Country's Greatest Hits,Public 5
+Dolly Parton,Jolene,Jolene,2SpEHTbUuebeLkgs9QB7Ue,0.674,0.537,1,-10.971,0,0.0363,0.0,0.131,0.809,110.578,161533,4,Spotify,Country's Greatest Hits,Public 5
+Thomas Rhett,Tangled Up,Die A Happy Man,5kNe7PE09d6Kvw5pAsx23n,0.595,0.389,2,-9.245,1,0.0349,1.39e-06,0.116,0.4,166.052,227427,4,Spotify,Country's Greatest Hits,Public 5
+Keith Whitley,Greatest Hits,When You Say Nothing at All,2lCGAGpqgQIolNfpnycIZk,0.673,0.346,3,-12.803,1,0.0245,4.48e-06,0.0475,0.396,80.012,222493,4,Spotify,Country's Greatest Hits,Public 5
+Trisha Yearwood,Trisha Yearwood,She's In Love With The Boy - Single Version,2ulBBx6YQ3qY3ci34RadtN,0.783,0.698,3,-8.268,1,0.0323,2.52e-06,0.0754,0.758,124.996,248200,4,Spotify,Country's Greatest Hits,Public 5
+Patsy Cline,Showcase,I Fall To Pieces - Single Version,6zFsz86nAj5gcvzyVqNL3k,0.54,0.0568,10,-20.508,1,0.0351,1.01e-06,0.12,0.506,111.791,171333,4,Spotify,Country's Greatest Hits,Public 5
+Alan Jackson,A Lot About Livin' (And A Little 'Bout Love),Chattahoochee,59kHPbwyyCApYA8RQQEuXm,0.606,0.706,0,-9.665,1,0.0379,0.0,0.16,0.819,174.533,148160,4,Spotify,Country's Greatest Hits,Public 5
+Miranda Lambert,Revolution,The House That Built Me,02eD9ymfJOJOhM97HYp5R9,0.525,0.3,5,-8.005,1,0.0286,8.3e-06,0.116,0.206,80.993,236627,4,Spotify,Country's Greatest Hits,Public 5
+Alan Jackson,34 Number Ones,It's Five O'Clock Somewhere,5oHHMDcVOmPSFrCgdbHPdb,0.713,0.772,2,-6.69,1,0.0372,0.0,0.211,0.88,125.202,230133,4,Spotify,Country's Greatest Hits,Public 5
+Florida Georgia Line,Here's To The Good Times,Cruise,0i5el041vd6nxrGEU8QRxy,0.457,0.948,10,-3.364,1,0.0354,0.0,0.0536,0.878,148.0,208960,4,Spotify,Country's Greatest Hits,Public 5
+George Strait,Strait Out Of The Box,Check Yes Or No,6iy4PoAuZBMvtrlDX4VxC7,0.708,0.524,5,-12.644,1,0.0352,3.21e-06,0.0371,0.69,111.482,200667,4,Spotify,Country's Greatest Hits,Public 5
+Reba McEntire,Rumor Has It,Fancy,0FtV0YbnnjD7PXpLHFHPhn,0.674,0.517,11,-11.225,1,0.0726,0.0,0.0697,0.482,94.98,299733,4,Spotify,Country's Greatest Hits,Public 5
+Glen Campbell,Rhinestone Cowboy (Expanded Edition),Rhinestone Cowboy,0VwTeYNjcl30DyQlt3GPe0,0.644,0.633,0,-8.006,1,0.0261,6.82e-05,0.227,0.647,115.193,194453,4,Spotify,Country's Greatest Hits,Public 5
+Faith Hill,Breathe,Breathe,3y4LxiYMgDl4RethdzpmNe,0.529,0.496,7,-9.007,1,0.029,0.0,0.251,0.278,136.859,250547,4,Spotify,Country's Greatest Hits,Public 5
+Dan + Shay,Dan + Shay,Tequila,42fw0rxRO2xbesF6mJfd4Y,0.489,0.581,11,-5.731,1,0.0281,0.0,0.132,0.494,86.016,196747,4,Spotify,Country's Greatest Hits,Public 5
+Jo Dee Messina,All-Time Greatest Hits,"Heads Carolina, Tails California",2tpWN4Il5Hk3xPlTQjvkk8,0.607,0.815,4,-6.619,1,0.039,2.81e-05,0.111,0.57,136.949,209760,4,Spotify,Country's Greatest Hits,Public 5
+Sam Hunt,Body Like A Back Road,Body Like A Back Road,7mldq42yDuxiUNn08nvzHO,0.732,0.458,5,-7.225,1,0.0311,0.0,0.136,0.661,98.938,165387,4,Spotify,Country's Greatest Hits,Public 5
+Lady A,Need You Now,Need You Now,11EX5yhxr9Ihl3IN1asrfK,0.587,0.622,4,-5.535,1,0.0303,0.000636,0.2,0.231,107.943,277573,4,Spotify,Country's Greatest Hits,Public 5
+Little Big Town,Pain Killer,Girl Crush,11qh54D0PKkBwelpDxxiEU,0.5,0.225,0,-10.22,1,0.0302,0.0,0.112,0.355,173.788,193320,3,Spotify,Country's Greatest Hits,Public 5
+Taylor Swift,Taylor Swift,Our Song,15DeqWWQB4dcEWzJg15VrN,0.668,0.672,2,-4.931,1,0.0303,0.0,0.329,0.539,89.011,201107,4,Spotify,Country's Greatest Hits,Public 5
+Kenny Chesney,The Big Revival,American Kids,1dgWTMoHwTUnQhOQ8SR5fV,0.782,0.589,0,-7.37,1,0.0803,5.84e-06,0.0366,0.849,85.022,182960,4,Spotify,Country's Greatest Hits,Public 5
+Deana Carter,The Deana Carter Collection,Strawberry Wine,3ODF56f90W3qxDqxHAUi3v,0.558,0.435,1,-6.812,1,0.0264,0.0,0.0351,0.199,122.385,290467,3,Spotify,Country's Greatest Hits,Public 5
+Florida Georgia Line,Here's To The Good Times...This Is How We Roll,This Is How We Roll,2TR7A4ulH9R1PNwMyd8o8U,0.555,0.931,8,-2.969,1,0.0367,0.0,0.405,0.723,132.085,220907,4,Spotify,Country's Greatest Hits,Public 5
+The Chicks,Fly,Cowboy Take Me Away,3rXCZRMiMZp0feGcYXpwYX,0.467,0.622,6,-7.255,1,0.031,0.00527,0.0982,0.455,164.418,287267,4,Spotify,Country's Greatest Hits,Public 5
+Toby Keith,Honkytonk University,As Good As I Once Was,7G6l2FtQyRhQgYgut2I6i8,0.68,0.87,5,-4.461,1,0.0393,0.0,0.109,0.646,119.075,227840,4,Spotify,Country's Greatest Hits,Public 5
+Keith Urban,Golden Road,Somebody Like You,0b9djfiuDIMw1zKH6gV74g,0.624,0.84,4,-5.768,1,0.0337,0.000546,0.144,0.656,111.02,323040,4,Spotify,Country's Greatest Hits,Public 5
+George Strait,Carrying Your Love With Me,Carrying Your Love With Me,7puxIVNdj5nsBJk43zM3bH,0.629,0.479,10,-10.608,1,0.0271,0.0,0.0587,0.345,138.231,232427,4,Spotify,Country's Greatest Hits,Public 5
+Tim McGraw,Damn Country Music,Humble And Kind,4Pn0JlCUusD2QHjADuOzuV,0.355,0.48,11,-7.31,1,0.0282,2.28e-06,0.12,0.137,100.956,259267,3,Spotify,Country's Greatest Hits,Public 5
+Charley Pride,The Essential Charley Pride,Kiss an Angel Good Mornin',0alXPC11fIucBFD6qcCE94,0.684,0.498,4,-10.836,1,0.03,0.0,0.365,0.905,131.855,123133,4,Spotify,Country's Greatest Hits,Public 5
+Maren Morris,HERO (Deluxe Edition),My Church,1LM5zQv5pBKPyO7rm7Uz6U,0.517,0.743,9,-4.336,1,0.0363,3.36e-06,0.107,0.664,76.979,197931,4,Spotify,Country's Greatest Hits,Public 5
+Johnny Cash,At Folsom Prison,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",2fDHuS1PTkHBbCWWZF1ph9,0.621,0.524,0,-15.269,1,0.0803,0.00199,0.893,0.889,110.586,162653,4,Spotify,Country's Greatest Hits,Public 5
+Josh Turner,Haywire,Why Don't We Just Dance,2p07VcUwRZ5sru3mJ0JogS,0.677,0.776,5,-5.933,1,0.0386,0.000689,0.0954,0.642,121.834,192800,4,Spotify,Country's Greatest Hits,Public 5
+Keith Urban,Ripcord,Blue Ain't Your Color,6wycnu8FWXsj68ig7BEot9,0.69,0.416,7,-7.865,1,0.0335,1.37e-06,0.102,0.479,82.45,230600,3,Spotify,Country's Greatest Hits,Public 5
+Tim McGraw,Live Like You Were Dying,Live Like You Were Dying,7B1QliUMZv7gSTUGAfMRRD,0.416,0.546,7,-7.728,1,0.0297,0.0,0.0845,0.418,159.929,300333,4,Spotify,Country's Greatest Hits,Public 5
+Brooks & Dunn,#1s ... and then some,My Maria,09qzRI951OVkXGCc33gzcT,0.673,0.842,3,-4.627,1,0.0366,0.000257,0.178,0.898,125.57,208107,4,Spotify,Country's Greatest Hits,Public 5
+Billy Ray Cyrus,Some Gave All,Achy Breaky Heart,2EoIt9vdgFRNW03u5IvFsQ,0.8,0.563,9,-10.209,1,0.0303,0.0,0.0797,0.961,121.808,203373,4,Spotify,Country's Greatest Hits,Public 5
+Faith Hill,Faith,This Kiss,5EYWGM3Ns3iYew8ws0FatB,0.398,0.804,11,-5.559,1,0.0451,0.0,0.181,0.709,186.752,194307,4,Spotify,Country's Greatest Hits,Public 5
+Hunter Hayes,Hunter Hayes (Encore),Wanted,0p1BcEcYVO3uk4KDf3gzkY,0.421,0.476,0,-7.692,1,0.0298,0.0,0.0816,0.3,169.784,228840,4,Spotify,Country's Greatest Hits,Public 5
+Tim McGraw,All I Want,"I Like It, I Love It",3IvcWWehbBcBR4YZxlGM9R,0.643,0.961,0,-5.298,1,0.0315,0.0,0.948,0.96,124.027,205707,4,Spotify,Country's Greatest Hits,Public 5
+Rodney Atkins,If You're Going Through Hell,Watching You,5OusUgzHz6Ulb3GZT7WUo5,0.625,0.848,2,-4.008,1,0.0314,0.0,0.23,0.716,137.993,235427,4,Spotify,Country's Greatest Hits,Public 5
+Sam Hunt,Montevallo,Take Your Time,6DEaND0SHv3sC11xobZLiy,0.558,0.719,11,-5.603,1,0.0419,0.0,0.212,0.483,158.031,243707,4,Spotify,Country's Greatest Hits,Public 5
+Reba McEntire,For My Broken Heart,The Night The Lights Went Out In Georgia,2MiXC2LfpsoeUP5RvMGEQ3,0.428,0.51,7,-11.695,0,0.103,8.32e-06,0.105,0.393,169.967,257267,4,Spotify,Country's Greatest Hits,Public 5
+Dolly Parton,Here You Come Again,Here You Come Again,6H7nDglS6xWpRidbhMwI2L,0.585,0.511,1,-9.37,1,0.0391,0.007,0.0392,0.552,105.898,179491,4,Spotify,Country's Greatest Hits,Public 5
+Kelsea Ballerini,The First Time,Peter Pan,2wqXQjOmQ9KoBm9Ssgt4Fo,0.514,0.659,1,-6.142,1,0.0309,0.0,0.266,0.463,76.483,200040,4,Spotify,Country's Greatest Hits,Public 5
+Tim McGraw,Everywhere,Just To See You Smile,2op0kDNARK2VHWHntEeH4g,0.492,0.823,6,-8.526,1,0.0297,0.0,0.0523,0.702,94.342,215173,4,Spotify,Country's Greatest Hits,Public 5
+Jason Aldean,"Old Boots, New Dirt",Burnin' It Down,5HJqpDspKDKwQpLjvkcIsD,0.681,0.795,6,-6.652,1,0.049,9.41e-06,0.109,0.64,135.939,219160,4,Spotify,Country's Greatest Hits,Public 5
+Alan Jackson,Don`t Rock The Jukebox,Don't Rock the Jukebox,3oyByfBYegVEDwYyqx9pRd,0.641,0.637,7,-10.92,1,0.0262,0.000138,0.267,0.793,147.502,171067,4,Spotify,Country's Greatest Hits,Public 5
+Crystal Gayle,We Must Believe In Magic,Don't It Make My Brown Eyes Blue,7Jpclr7tZ6aQXjoKzWXUJV,0.736,0.321,6,-13.474,1,0.0444,0.00897,0.0619,0.342,84.928,157653,4,Spotify,Country's Greatest Hits,Public 5
+Miranda Lambert,Platinum,Automatic,0B0y2FImat9j9MJTNRZWfW,0.591,0.703,10,-6.211,1,0.0256,2.34e-06,0.145,0.402,95.993,247827,4,Spotify,Country's Greatest Hits,Public 5
+Carrie Underwood,Some Hearts,"Jesus, Take the Wheel",3lec3CzDPAxsZokPph5w87,0.359,0.518,2,-3.537,1,0.0302,0.0,0.106,0.135,76.572,226493,4,Spotify,Country's Greatest Hits,Public 5
+Lynn Anderson,Rose Garden,Rose Garden,5YwgJ6lpZ3SiAQwBEpjqey,0.589,0.501,0,-11.665,1,0.031,0.0,0.0741,0.969,131.064,175867,4,Spotify,Country's Greatest Hits,Public 5
+Blake Shelton,Red River Blue (Deluxe Edition),God Gave Me You,0w9LJae3sVlZlH2CnxTInF,0.483,0.844,2,-5.043,1,0.0314,7.29e-05,0.405,0.543,151.977,229533,4,Spotify,Country's Greatest Hits,Public 5
+James Otto,Sunset Man (Standard Version),Just Got Started Lovin' You,4b0XF7CDpJEBAdVHMw7amV,0.705,0.606,7,-7.047,1,0.0243,0.00149,0.242,0.876,98.001,234640,4,Spotify,Country's Greatest Hits,Public 5
+George Strait,Livin' It Up,"Love Without End, Amen",4pFNWAU8e8F32NQkMyLAZi,0.645,0.442,9,-12.997,1,0.0256,0.0,0.121,0.554,88.491,187000,4,Spotify,Country's Greatest Hits,Public 5
+Mark Wills,Greatest Hits,19 Somethin' - Greatest Hits Version,0ElpjZyX8YBiXuYcDC1Ci9,0.58,0.816,4,-5.165,1,0.0726,0.0,0.0776,0.814,89.938,200467,4,Spotify,Country's Greatest Hits,Public 5
+Loretta Lynn,Coal Miner's Daughter,Coal Miner's Daughter - Single Version,3mM14WXoPaLRjjkmxHe99L,0.604,0.354,9,-14.07,1,0.0313,0.00474,0.103,0.635,137.349,180960,4,Spotify,Country's Greatest Hits,Public 5
+Martina McBride,Martina,This One's for the Girls,01CnYyPXMFRzOFVQBU8WMb,0.613,0.801,8,-4.431,1,0.0354,1.15e-05,0.124,0.609,126.966,243160,4,Spotify,Country's Greatest Hits,Public 5
+Brooks & Dunn,#1s ... and then some,Ain't Nothing 'Bout You,6CkydK3NOAMScIhViRzXoB,0.325,0.887,0,-4.199,1,0.0569,1.35e-06,0.431,0.705,202.339,199413,4,Spotify,Country's Greatest Hits,Public 5
+Craig Morgan,My Kind Of Livin',That's What I Love About Sunday,1fmi1hOBtH8xfUiWz4LVtE,0.6,0.56,8,-6.311,1,0.0325,0.0,0.111,0.417,139.469,201493,4,Spotify,Country's Greatest Hits,Public 5
+C.W. McCall,C.W. McCall's Greatest Hits,Convoy,6dGWq08LXuIw6T2oUeHECh,0.68,0.543,5,-14.876,1,0.141,0.000116,0.0881,0.796,111.62,230600,4,Spotify,Country's Greatest Hits,Public 5
+John Michael Montgomery,Kickin' It Up,I Swear,7wIaLkbQzG6HMnE28etnif,0.628,0.496,1,-7.103,1,0.0233,1.2e-05,0.147,0.266,85.523,262520,4,Spotify,Country's Greatest Hits,Public 5
+Kenny Chesney,Just Who I Am: Poets & Pirates,Don't Blink,6reuJxDtjebwc9FB6rNpp0,0.604,0.605,4,-8.516,1,0.0352,1.22e-05,0.305,0.647,147.925,285280,4,Spotify,Country's Greatest Hits,Public 5
+Buck Owens,All-Time Greatest Hits,Act Naturally,3JWEMzwpcWCvu4Qw1BIbYi,0.552,0.474,7,-6.847,1,0.0275,0.0,0.173,0.7,92.156,143693,4,Spotify,Country's Greatest Hits,Public 5
+Lonestar,Playlist: The Very Best Of Lonestar,Amazed,6iNcyWk5iUEY7P9zeTc5hm,0.557,0.553,1,-7.954,1,0.0319,0.0,0.125,0.253,139.821,239987,4,Spotify,Country's Greatest Hits,Public 5
+Toby Keith,Toby Keith 35 Biggest Hits,How Do You Like Me Now?!,7LimFGKop84KMDutqYaNIF,0.64,0.835,0,-4.806,1,0.0413,3.11e-06,0.132,0.704,109.497,205920,4,Spotify,Country's Greatest Hits,Public 5
+Alabama,Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection,High Cotton,2KEu2z1f7TakR3KY4jGLzl,0.661,0.581,5,-9.67,1,0.032,0.0,0.11,0.863,91.11,180320,4,Spotify,Country's Greatest Hits,Public 5
+Johnny Cash,The Essential Johnny Cash,Daddy Sang Bass,15TITugVC8RrpLctHXOqT8,0.681,0.638,4,-7.818,1,0.0367,0.000629,0.0581,0.677,96.882,140440,4,Spotify,Country's Greatest Hits,Public 5
+Dolly Parton,Ultimate Dolly Parton,Islands In the Stream,4dqEzdFAYkj1rjYLVDuTlN,0.595,0.473,8,-9.828,1,0.0347,0.0,0.0725,0.716,204.016,249293,4,Spotify,Country's Greatest Hits,Public 5
+Vince Gill,When I Call Your Name,When I Call Your Name,5g12xHasIIOu6rNGQ933qT,0.506,0.11,5,-17.615,1,0.0307,0.00144,0.139,0.208,70.554,255133,3,Spotify,Country's Greatest Hits,Public 5
+George Strait,George Strait's Greatest Hits,You Look So Good In Love,5BYOLEoFD1fWokKncxz7BQ,0.642,0.233,9,-16.568,1,0.0298,0.0,0.105,0.333,114.495,193400,3,Spotify,Country's Greatest Hits,Public 5
+Joe Diffie,Greatest Hits,Pickup Man,3QvOV1QYPPre7gjppKyeON,0.709,0.757,7,-7.006,1,0.0408,0.0,0.336,0.852,140.664,216693,4,Spotify,Country's Greatest Hits,Public 5
+Collin Raye,All I Can Be,"Love, Me",5cCLKP66G2PJEorzYQVXHR,0.686,0.234,0,-12.646,1,0.0295,0.0,0.145,0.342,106.581,231507,4,Spotify,Country's Greatest Hits,Public 5
+Merle Haggard,The Essential Merle Haggard: The Epic Years,Big City,7MYCBhcWtRSJ7YXTfIHlI8,0.707,0.401,4,-14.222,1,0.0533,0.000296,0.201,0.602,136.188,179333,4,Spotify,Country's Greatest Hits,Public 5
+Clint Black,Ultimate Clint Black,Killin' Time,4H2TRR9FjnnIwxGnIt9stO,0.714,0.522,7,-9.773,1,0.0283,1.02e-05,0.0967,0.69,121.312,168000,4,Spotify,Country's Greatest Hits,Public 5
+"Hank Williams, Jr.",A Country Boy Can Survive (Box Set),Mind Your Own Business,4raGevWiW8i1gactXulebp,0.568,0.698,9,-4.733,1,0.0436,0.0,0.095,0.872,164.371,148440,4,Spotify,Country's Greatest Hits,Public 5
+Eddie Rabbitt,Number One Hits,Every Which Way but Loose - 2009 Remaster,73xcnqBwjnGwAlrfBomLP3,0.598,0.483,7,-7.474,1,0.0292,7.88e-06,0.36,0.452,130.663,171653,4,Spotify,Country's Greatest Hits,Public 5
+Shenandoah,Super Hits,Two Dozen Roses,2s1gKDfyy4wTv5gzZleWUT,0.695,0.502,4,-12.01,1,0.0279,0.0,0.097,0.543,117.083,223613,4,Spotify,Country's Greatest Hits,Public 5
+Toby Keith,Greatest Hits,Should've Been A Cowboy,4EDBgrYqYQ6b50yhJWKsHp,0.579,0.731,7,-5.659,1,0.0323,0.0,0.297,0.618,133.582,209867,4,Spotify,Country's Greatest Hits,Public 5
+Waylon Jennings,Ultimate Waylon Jennings,"Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",6ANPIv5r3vdWntrmFa6H6M,0.684,0.45,7,-10.422,1,0.0332,0.00191,0.243,0.639,102.902,200493,4,Spotify,Country's Greatest Hits,Public 5
+Merle Haggard,Greatest Hits - Finest Performances,Fightin Side Of Me,3gP4z9Muyf51JdDyN91upf,0.75,0.451,4,-13.355,1,0.048,0.0,0.272,0.743,95.483,174667,4,Spotify,Country's Greatest Hits,Public 5
+Ronnie Milsap,Lost In The Fifties Tonight,Lost In The Fifties Tonight,1p7hfw8melMsCbaaX36C0v,0.492,0.216,5,-16.121,1,0.0283,6.53e-05,0.0598,0.145,168.817,258347,3,Spotify,Country's Greatest Hits,Public 5
+The Judds,Rockin' With The Rhythm,Have Mercy,5toaXJWnmQCnGRh8eOrEwE,0.858,0.66,2,-7.953,1,0.029,0.0,0.189,0.933,123.299,203733,4,Spotify,Country's Greatest Hits,Public 5
+Vince Gill,Souvenirs,Don't Let Our Love Start Slippin' Away,70TsRbycWfabtevnripyRu,0.739,0.717,3,-9.568,1,0.0308,0.000918,0.334,0.663,113.234,223533,4,Spotify,Country's Greatest Hits,Public 5
+Conway Twitty,The Very Best Of Conway Twitty,Hello Darlin' - Single Version,4TMP1aRZUsG8C4HChYtfgC,0.354,0.276,0,-14.999,1,0.0295,1.35e-06,0.11,0.427,82.787,145867,3,Spotify,Country's Greatest Hits,Public 5
+Larry Gatlin & The Gatlin Brothers,Straight Ahead (Expanded Edition),All the Gold In California,6yLDMogQVRdVmwlh8uw526,0.471,0.445,2,-12.062,1,0.0456,0.0,0.163,0.452,113.305,157533,4,Spotify,Country's Greatest Hits,Public 5
+Kenny Chesney,Greatest Hits II,The Good Stuff,1EKiQ1InQXuodp4M1idrng,0.586,0.675,7,-7.819,1,0.0776,0.0,0.144,0.473,143.92,199587,4,Spotify,Country's Greatest Hits,Public 5
+John Anderson,All The People Are Talkin',Black Sheep,5EPQbU0wk70Btiu9onZR48,0.596,0.626,7,-12.945,1,0.0634,0.0,0.0498,0.962,155.556,177693,4,Spotify,Country's Greatest Hits,Public 5
+Randy Travis,No Holdin' Back,It's Just a Matter of Time,4ON9pkEiboV83FUHkeIxGp,0.259,0.59,3,-8.343,1,0.0363,0.00128,0.135,0.474,201.016,235920,3,Spotify,Country's Greatest Hits,Public 5
+Buck Owens,All-Time Greatest Hits,My Heart Skips A Beat,1jGa3ZVWNhqes22ZoVBfOJ,0.609,0.569,9,-6.359,1,0.0371,0.0,0.0586,0.787,86.583,148320,4,Spotify,Country's Greatest Hits,Public 5

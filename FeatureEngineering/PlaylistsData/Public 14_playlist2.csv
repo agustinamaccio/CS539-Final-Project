@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Haddaway,The Album,"What Is Love - 7"" Mix",2IHaGyfxNoFPLJnaEg4GTs,0.683,0.772,7,-7.907,0,0.0311,0.0149,0.203,0.737,123.871,270373,4,Spotify,90s Party,Public 14
+Eiffel 65,Europop,Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio,2yAVzRiEQooPEJ9SYx11L3,0.822,0.969,7,-11.471,0,0.0582,0.000153,0.39,0.765,128.007,283748,4,Spotify,90s Party,Public 14
+Dr. Alban,One Love,Sing Hallelujah!,01kVVoJQuWVqaOvRgRztJD,0.759,0.822,5,-7.268,0,0.0367,0.0171,0.131,0.94,124.713,240933,4,Spotify,90s Party,Public 14
+Aqua,Aquarium (Special Edition),Barbie Girl,5ZrDlcxIDZyjOzHdYW1ydr,0.812,0.879,1,-10.998,0,0.0397,0.224,0.366,0.962,129.991,197960,4,Spotify,90s Party,Public 14
+Various Artists,This Is The End: Original Motion Picture Soundtrack,Everybody (Backstreet's Back) - Radio Edit,4rTeOSYqwXNz5qPR2DUTFZ,0.735,0.873,10,-3.493,0,0.0402,3.27e-06,0.265,0.586,108.021,224960,4,Spotify,90s Party,Public 14
+Cher,Believe,Believe,2goLsvvODILDzeeiT4dAoR,0.652,0.917,6,-6.72,1,0.0548,0.0,0.0509,0.459,132.975,239027,4,Spotify,90s Party,Public 14
+SNAP!,The Madman's Return,Rhythm Is A Dancer,1IWzfq3sLedGQ3fb2hAMBA,0.757,0.651,9,-14.916,0,0.0333,0.261,0.0902,0.861,124.368,332230,4,Spotify,90s Party,Public 14
+Culture Beat,Mr. Vain,Mr. Vain - Original Radio Edit,4ih3dyFZoeTdaeJW9mPbOI,0.703,0.997,9,-7.666,0,0.0399,0.0235,0.123,0.391,132.872,257467,4,Spotify,90s Party,Public 14
+Ace of Base,The Sign,All That She Wants,6kWJvPfC4DgUpRsXKNa9z9,0.798,0.625,11,-9.689,1,0.0548,7.98e-05,0.103,0.858,93.764,211213,4,Spotify,90s Party,Public 14
+Lou Bega,A Little Bit of Mambo,Mambo No. 5 (a Little Bit of...),6x4tKaOzfNJpEJHySoiJcs,0.622,0.807,5,-6.752,0,0.408,0.0,0.306,0.892,174.06,220293,4,Spotify,90s Party,Public 14
+Mr. President,We See The Same Sun,Coco Jamboo,5fRvePkRGdpn2nKacG7I6d,0.832,0.838,1,-5.414,0,0.0421,0.0,0.152,0.965,100.021,218733,4,Spotify,90s Party,Public 14
+Gala,Come Into My Life (The Album),Freed From Desire,3u5N55tHf7hXATSQrjBh2q,0.704,0.861,2,-4.221,0,0.0493,0.0615,0.0992,0.636,128.99,213394,4,Spotify,90s Party,Public 14
+Rednex,Sex & Violins,Cotton Eye Joe,06hsdMbBxWGqBO0TV0Zrkf,0.729,0.936,9,-7.536,1,0.0776,0.000892,0.0367,0.598,131.986,194000,4,Spotify,90s Party,Public 14
+Dr. Alban,One Love,It's My Life,4539Tbm6Rt5BaNKXJJj9RH,0.655,0.933,7,-7.703,1,0.0536,0.0358,0.0983,0.472,128.699,239933,4,Spotify,90s Party,Public 14
+Corona,The Rhythm of the Night,The Rhythm of the Night,5IPJsGFKtxKDPCkT8lhEjN,0.688,0.782,5,-12.291,0,0.034,0.666,0.0955,0.77,127.822,264307,4,Spotify,90s Party,Public 14
+Nightcrawlers,Push The Feeling On,Push The Feeling On - Mk Dub Revisited Edit,1EWsVHU4FNAdtN4R8FETag,0.793,0.5,6,-13.108,0,0.0319,1.96e-05,0.186,0.833,123.017,243160,4,Spotify,90s Party,Public 14
+Spice Girls,Spice,Wannabe,1Je1IMUlBXcx1Fz0WE7oPT,0.768,0.864,11,-6.145,1,0.0324,0.0,0.162,0.891,110.008,173027,4,Spotify,90s Party,Public 14
+Vengaboys,The Party Album!,"Boom, Boom, Boom, Boom!!",5N6M8yDiMV32T6Rkzh8EbW,0.801,0.948,11,-4.623,0,0.0386,0.457,0.025,0.968,138.489,202583,4,Spotify,90s Party,Public 14
+Jennifer Lopez,On The 6,Let's Get Loud,42nSaPdT6g3ZIMHmKLlP2p,0.82,0.937,5,-4.81,0,0.0549,0.000122,0.35,0.906,130.992,239400,4,Spotify,90s Party,Public 14
+Alice Deejay,Who Needs Guitars Anyway?,Better Off Alone,5XVjNRubJUW0iPhhSWpLCj,0.671,0.882,8,-6.149,0,0.0552,0.667,0.285,0.787,136.955,214883,4,Spotify,90s Party,Public 14
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,90s Party,Public 14
+Britney Spears,...Baby One More Time (Digital Deluxe Version),...Baby One More Time,3MjUtNVVq3C8Fn0MP3zhXa,0.759,0.699,0,-5.745,0,0.0307,0.000131,0.443,0.907,92.96,211067,4,Spotify,90s Party,Public 14
+Blackstreet,Another Level,No Diggity,6MdqqkQ8sSC0WB4i8PyRuQ,0.867,0.646,1,-4.674,0,0.288,0.0,0.279,0.67,88.634,304600,4,Spotify,90s Party,Public 14
+Mark Morrison,Return of the Mack,Return of the Mack,3jDdpx9PMlfMBS5tOBHFm9,0.715,0.833,2,-5.379,1,0.108,0.0,0.164,0.612,95.487,213093,4,Spotify,90s Party,Public 14
+Cypress Hill,Black Sunday,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,0.897,0.611,11,-10.489,1,0.211,0.186,0.0894,0.769,102.304,208267,4,Spotify,90s Party,Public 14
+Ricky Martin,Ricky Martin,Livin' la Vida Loca,0Ph6L4l8dYUuXFmb71Ajnd,0.425,0.954,1,-3.756,0,0.0476,0.0,0.0555,0.933,178.043,243160,4,Spotify,90s Party,Public 14
+MC Hammer,Please Hammer Don't Hurt 'Em,U Can't Touch This,1B75hgRqe7A4fwee3g3Wmu,0.867,0.517,11,-13.222,0,0.0875,0.000339,0.0864,0.866,133.148,257360,4,Spotify,90s Party,Public 14
+Daft Punk,Homework,Around the World,1pKYYY0dkg23sQQXi0Q5zN,0.956,0.795,7,-5.311,1,0.15,0.889,0.0906,0.841,121.294,429533,4,Spotify,90s Party,Public 14
+Ms. Lauryn Hill,The Miseducation of Lauryn Hill,Doo Wop (That Thing),0uEp9E98JB5awlA084uaIg,0.535,0.505,2,-8.926,0,0.245,0.0,0.0923,0.495,99.935,320267,4,Spotify,90s Party,Public 14
+Michael Jackson,Dangerous,Remember the Time,4jnFqNWeJCeCRHc4HCdxfd,0.831,0.921,5,-2.383,0,0.0582,0.00224,0.305,0.795,108.002,239227,4,Spotify,90s Party,Public 14
+Ace of Base,The Sign,The Sign,0hrBpAOgrt8RXigk83LLNE,0.808,0.786,4,-6.897,0,0.0447,0.0701,0.0574,0.899,96.987,191240,4,Spotify,90s Party,Public 14
+Will Smith,Big Willie Style,Gettin' Jiggy Wit It,0weAUscowxeqDtpCgtbpgp,0.881,0.874,6,-4.505,1,0.139,1.14e-06,0.154,0.858,107.891,227933,4,Spotify,90s Party,Public 14
+Bloodhound Gang,Hooray For Boobies,The Bad Touch,5EYdTPdJD74r9EVZBztqGG,0.831,0.735,0,-6.254,0,0.0384,0.0205,0.123,0.97,122.979,260507,4,Spotify,90s Party,Public 14
+Destiny's Child,The Writing's On The Wall,"Jumpin', Jumpin'",4pmc2AxSEq6g7hPVlJCPyP,0.771,0.685,1,-4.639,1,0.0567,0.00157,0.0537,0.683,88.997,230200,4,Spotify,90s Party,Public 14
+Spin Doctors,Pocket Full Of Kryptonite,Two Princes,4ePP9So5xRzspjLFVVbj90,0.543,0.912,7,-10.71,1,0.0601,2.1e-06,0.0565,0.836,103.731,256733,4,Spotify,90s Party,Public 14
+Shaggy,Boombastic,Boombastic,4fxF8ljwryMZX5c9EKrLFE,0.867,0.538,2,-16.183,1,0.361,1.75e-05,0.316,0.781,158.328,249933,4,Spotify,90s Party,Public 14
+Backstreet Boys,Millennium,Larger Than Life,6sbXGUn9V9ZaLwLdOfpKRE,0.661,0.973,0,-2.994,0,0.037,1.74e-05,0.617,0.75,108.037,232827,4,Spotify,90s Party,Public 14
+Salt-N-Pepa,Very Necessary,Shoop,0Pu71wxadDlB8fJXfjIjeJ,0.939,0.675,0,-7.232,1,0.211,0.0,0.0565,0.795,96.918,248573,4,Spotify,90s Party,Public 14
+Robert Miles,Children (Dance Vault Mixes),Children,4wtR6HB3XekEengMX17cpc,0.604,0.755,0,-10.761,1,0.0337,0.817,0.0625,0.387,137.064,243267,4,Spotify,90s Party,Public 14
+Sir Mix-A-Lot,Mack Daddy,Baby Got Back,1SAkL1mYNJlaqnBQxVZrRl,0.926,0.669,1,-11.271,1,0.301,0.0,0.0887,0.642,128.462,262827,4,Spotify,90s Party,Public 14
+Stardust,Music Sounds Better With You,Music Sounds Better With You - Radio Edit,1mv4lh1rW1K6xhxhJmEezy,0.729,0.662,5,-7.191,0,0.337,0.208,0.305,0.359,124.149,260907,4,Spotify,90s Party,Public 14
+Will Smith,Big Willie Style,Miami,6e8Ou0wiqAzIpWb2eSxll8,0.877,0.534,1,-6.178,1,0.15,1.67e-05,0.0441,0.89,108.17,197560,4,Spotify,90s Party,Public 14
+Sheryl Crow,Tuesday Night Music Club,All I Wanna Do,3ZpQiJ78LKINrW9SQTgbXd,0.82,0.528,9,-11.179,1,0.0321,0.0186,0.257,0.931,120.091,272107,4,Spotify,90s Party,Public 14
+Scatman John,Scatman's World,Scatman (ski-ba-bop-ba-dop-bop),623rRTKwGmgjH6sjE9uWLh,0.65,0.82,5,-10.9,0,0.0356,0.00272,0.215,0.757,135.982,215973,4,Spotify,90s Party,Public 14
+Santana,Supernatural (Remastered),Smooth (feat. Rob Thomas),0n2SEXB2qoRQg171q7XqeW,0.609,0.923,9,-3.908,1,0.0338,4.73e-06,0.295,0.961,115.996,294987,4,Spotify,90s Party,Public 14
+Michael Jackson,Dangerous,Black or White,7EsjkelQuoUlJXEw7SeVV4,0.518,0.901,9,-3.749,1,0.093,0.0314,0.0712,0.873,115.026,254933,4,Spotify,90s Party,Public 14
+Pras,Ghetto Supastar,Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & Mýa),31bf9SEOppLU6lQ85d8om6,0.818,0.653,1,-8.396,1,0.204,5.46e-06,0.22,0.533,99.931,261133,4,Spotify,90s Party,Public 14
+Robin S,Show Me Love,Show Me Love,4t0UsYzmmmZRMTWn77jiGF,0.811,0.833,5,-4.259,1,0.153,2.06e-05,0.0769,0.567,120.258,252107,4,Spotify,90s Party,Public 14
+Cher,Love Hurts,The Shoop Shoop Song (It's In His Kiss),5oV1YjM2rtyZ55txHHsFUu,0.678,0.61,0,-10.509,1,0.0306,0.0,0.397,0.919,117.04,170000,4,Spotify,90s Party,Public 14
+Deee-Lite,World Clique,Groove Is in the Heart,2He3NOyqtLNE3RQPpeDdSb,0.694,0.881,1,-4.053,0,0.0701,0.0196,0.0851,0.924,121.554,231787,4,Spotify,90s Party,Public 14
+Toni Braxton,Secrets,Un-Break My Heart,5Ihd9HrPvOADyVoonH9ZjB,0.625,0.426,2,-8.4,0,0.0271,0.0,0.116,0.112,110.021,270333,4,Spotify,90s Party,Public 14
+Will Smith,Big Willie Style,"Men In Black - From ""Men In Black"" Soundtrack",2FK7fxjzQEXD7Z32HSF0Hl,0.801,0.581,5,-8.491,0,0.0681,0.000318,0.0971,0.656,107.545,227267,4,Spotify,90s Party,Public 14
+Vengaboys,The Party Album!,We Like To Party! (The Vengabus),73ljrkSg4A0q3ByU0Cu7mw,0.785,0.931,8,-4.813,1,0.0465,0.637,0.0459,0.969,135.986,222459,4,Spotify,90s Party,Public 14
+La Bouche,Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton),Be My Lover,3vSn1frPgFcRXrjWOfhMLl,0.658,0.963,1,-3.283,0,0.0326,2.38e-06,0.951,0.793,134.798,240867,4,Spotify,90s Party,Public 14
+C & C Music Factory,Super Hits,Gonna Make You Sweat (Everybody Dance Now),7eheoW4hxrH51ww2QePVwF,0.557,0.798,6,-7.405,1,0.0935,0.675,0.183,0.794,112.187,244093,4,Spotify,90s Party,Public 14
+Kris Kross,Totally Krossed Out,Jump,27AHAtAirQapVldIm4c9ZX,0.749,0.745,2,-10.625,1,0.164,0.00403,0.333,0.481,101.972,195107,4,Spotify,90s Party,Public 14
+Sash!,It's My Life,Ecuador - Original Radio Edit,1arJHhz6TxMV50SNvSmGnV,0.591,0.888,4,-6.836,1,0.0354,0.699,0.396,0.588,132.885,212133,4,Spotify,90s Party,Public 14
+Spice Girls,Spiceworld,Spice Up Your Life,5qGwqO0lkbBXw4xNfzT7SF,0.556,0.993,1,-5.067,1,0.0464,0.0341,0.403,0.702,124.016,173667,4,Spotify,90s Party,Public 14
+Robbie Williams,Life Thru A Lens,Let Me Entertain You,0SLtqCrXBRrnkxSOMA3X4W,0.478,0.965,10,-5.022,1,0.0642,0.00251,0.0854,0.347,125.152,262000,4,Spotify,90s Party,Public 14
+Cher,Believe,Strong Enough,144JMbvbR5txNzoZ112wo4,0.593,0.923,0,-6.19,1,0.101,0.0,0.29,0.587,124.862,224000,4,Spotify,90s Party,Public 14
+White Town,Women In Technology,Your Woman,4ACxa9buEUnOdYEoPcnMpi,0.815,0.605,5,-9.118,0,0.0368,0.684,0.114,0.795,102.642,259893,4,Spotify,90s Party,Public 14
+Aqua,Aquarium (Special Edition),Doctor Jones,6EBDmMZBQkWrj7jWlGhFU1,0.703,0.8,0,-11.645,0,0.054,0.000212,0.0683,0.466,139.968,203440,4,Spotify,90s Party,Public 14
+Britney Spears,...Baby One More Time (Digital Deluxe Version),(You Drive Me) Crazy,1DSJNBNhGZCigg9ll5VeZv,0.748,0.939,0,-4.288,0,0.0341,0.0,0.32,0.96,104.001,198067,4,Spotify,90s Party,Public 14
+Jamiroquai,Travelling Without Moving (Remastered),Cosmic Girl - Remastered,6y0Etr2KJr0sdcEp7ajoUK,0.633,0.921,11,-7.719,0,0.0495,0.00102,0.309,0.925,119.865,244147,4,Spotify,90s Party,Public 14
+Londonbeat,Best! The Singles 16 Tracks,I've Been Thinking About You,50PeqUz1BjMw9ayNTk5O4d,0.678,0.659,11,-12.695,0,0.0396,0.00192,0.0744,0.899,113.542,230067,4,Spotify,90s Party,Public 14
+Skee-Lo,I Wish,I Wish - Radio Edit,0QMHVTnrFTQJoaqmkdsKhT,0.715,0.738,7,-10.139,1,0.157,0.0,0.26,0.573,97.877,252307,4,Spotify,90s Party,Public 14
+Spice Girls,Spice,Say You'll Be There,1yTQ39my3MoNROlFw3RDNy,0.726,0.679,1,-6.219,1,0.0473,1.49e-06,0.0837,0.751,107.02,235973,4,Spotify,90s Party,Public 14
+Underworld,1992 - 2012,Born Slippy (Nuxx),7xQYVjs4wZNdCwO0EeAWMC,0.576,0.953,10,-8.968,1,0.0362,0.49,0.474,0.303,140.042,456480,4,Spotify,90s Party,Public 14
+Gigi D'Agostino,L'Amour Toujours,Bla Bla Bla,04zrPERrSO4CfyargthKJ9,0.821,0.833,3,-8.291,0,0.0821,0.544,0.0739,0.961,132.975,255547,4,Spotify,90s Party,Public 14
+Ace of Base,The Bridge,Beautiful Life,74jTexO94dFGyXGyeu8krd,0.749,0.988,0,-5.266,0,0.0387,0.00631,0.17,0.749,135.015,221187,4,Spotify,90s Party,Public 14
+Chumbawamba,Tubthumper,Tubthumping,22HYEJveCvykVDHDiEEmjZ,0.348,0.88,2,-7.366,1,0.0978,0.0,0.357,0.606,101.185,278779,4,Spotify,90s Party,Public 14
+2 Brothers On The 4th Floor,Dreams,Dreams (Will Come Alive),4Fqm5rqB0WMx0hPOwgRjFr,0.702,0.953,7,-6.347,0,0.0473,0.00193,0.266,0.507,134.027,264000,4,Spotify,90s Party,Public 14
+The Chemical Brothers,Surrender,Hey Boy Hey Girl,7kXmJwrZGIhDaLT9sNo3ut,0.632,0.92,2,-4.976,1,0.0531,0.508,0.114,0.363,127.001,290493,4,Spotify,90s Party,Public 14
+Gigi D'Agostino,L'Amour Toujours,The Riddle,0ZqveF2rEFlz2oqF2xrriP,0.74,0.876,6,-6.87,0,0.0369,0.00152,0.0785,0.825,127.002,285427,4,Spotify,90s Party,Public 14
+Paradisio,Tarpeia,Bailando,6PwbVXIomkvk4YcafiOc6i,0.647,0.94,6,-8.759,1,0.0394,0.00962,0.119,0.835,132.824,229333,4,Spotify,90s Party,Public 14
+Mariah Carey,Rainbow,Heartbreaker (feat. Jay-Z),0jsANwwkkHyyeNyuTFq2XO,0.524,0.816,1,-5.872,1,0.37,0.0,0.349,0.789,200.031,285707,4,Spotify,90s Party,Public 14
+Jamiroquai,Synkronized,Canned Heat,47oS7xB31QQUyPCgHpM3VZ,0.7,0.865,9,-5.827,0,0.133,7.71e-05,0.0718,0.78,128.043,331760,4,Spotify,90s Party,Public 14
+2 Unlimited,No Limits,No Limit,7voHUmPNDuYZ1SW1mwRu26,0.65,0.985,5,-14.404,0,0.0445,0.00422,0.0485,0.757,141.047,224221,4,Spotify,90s Party,Public 14
+Crystal Waters,Surprise,Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix,1SShxVVBeZBCY7WddnksPz,0.484,0.641,5,-12.612,1,0.0377,0.278,0.0738,0.181,119.981,451827,4,Spotify,90s Party,Public 14
+George Michael,Older,"Fastlove, Pt. 1",6SaeXxdt0Id6ZzmX0ZGTQK,0.735,0.64,10,-7.522,0,0.072,0.00102,0.345,0.551,104.444,324667,4,Spotify,90s Party,Public 14
+No Mercy,My Promise,Where Do You Go,37tzoWY1ubBQKGXiWdO5Qv,0.734,0.828,10,-11.018,0,0.0318,0.118,0.071,0.964,127.06,272093,4,Spotify,90s Party,Public 14
+Reel 2 Real,Move It!,"I Like To Move It (feat. The Mad Stuntman) - Erick ""More"" Album Mix",6dHTkQYY3zdR9i9Nj0IGVW,0.863,0.781,5,-8.546,0,0.0785,0.000292,0.125,0.764,122.938,230760,4,Spotify,90s Party,Public 14
+Real McCoy,Another Night,Another Night,3pEuO9J2MTEmec8kUfYYvl,0.813,0.882,7,-7.575,1,0.0402,0.00457,0.147,0.874,125.983,236933,4,Spotify,90s Party,Public 14
+Janet Jackson,The Velvet Rope,Together Again,1aJnGme5ZRltYTp8FJ52eZ,0.865,0.505,7,-11.813,1,0.102,0.0151,0.102,0.475,123.102,301200,4,Spotify,90s Party,Public 14
+Spice Girls,Spice,Who Do You Think You Are,1jI1aLmm5HTwiMtvsbwDJw,0.727,0.83,6,-6.658,0,0.0376,0.00356,0.73,0.899,118.002,240707,4,Spotify,90s Party,Public 14
+Whigfield,Saturday Night Single,Saturday Night - Radio Mix,59VRFpPnC8pOhIH2WCWXF9,0.728,0.784,11,-11.776,1,0.0379,0.0918,0.0964,0.964,129.981,247406,4,Spotify,90s Party,Public 14
+ATB,Movin' Melodies,9Pm (Till I Come),1CgbwsrNDlFrRuk2ebQ7zr,0.672,0.941,9,-6.427,0,0.0494,0.926,0.149,0.754,130.218,193880,4,Spotify,90s Party,Public 14
+S Club 7,S Club,Bring It All Back,3v0uXfyMEZ1lGvBOv1Y4ar,0.679,0.903,4,-4.914,1,0.0463,0.0,0.372,0.872,108.114,213600,4,Spotify,90s Party,Public 14
+B*Witched,C'est la Vie: The Collection,C'est La Vie,0P6CPJrNJ1Zt755CQTWg3S,0.705,0.936,7,-5.109,1,0.0306,0.000124,0.0506,0.938,109.004,173693,4,Spotify,90s Party,Public 14
+CeCe Peniston,Finally,Finally,0uqvSVhGgQTIdj9G51vhvv,0.791,0.658,7,-11.128,1,0.0445,0.0,0.0472,0.842,120.066,245000,4,Spotify,90s Party,Public 14
+Snow,12 Inches Of Snow,Informer,2LjiPAQOVazT8sRyXL3XRs,0.763,0.742,6,-10.975,0,0.188,0.0,0.38,0.483,98.145,268910,4,Spotify,90s Party,Public 14
+Daft Punk,Homework,Da Funk,0MyY4WcN7DIfbSmp5yej5z,0.806,0.7,0,-5.269,0,0.0752,0.891,0.267,0.892,111.215,328680,4,Spotify,90s Party,Public 14
+Shania Twain,Come On Over (International Version),That Don't Impress Me Much,4I7DV3MIgxJGlObiy9s6nx,0.743,0.873,10,-4.943,0,0.0507,0.0,0.142,0.965,125.005,238707,5,Spotify,90s Party,Public 14
+Culture Beat,Serenity,Mr. Vain,2rTYgHxgcndkUrRoU7x0Sv,0.676,0.996,9,-7.946,0,0.0397,0.262,0.333,0.4,132.871,336840,4,Spotify,90s Party,Public 14
+Vengaboys,The Party Album!,We're Going To Ibiza!,6trzHhvr6xqYJkNnbWwXz2,0.786,0.876,1,-4.899,1,0.0362,0.000784,0.0796,0.966,103.983,217539,4,Spotify,90s Party,Public 14
+Nick Kamen,Move Until We Fly,I Promised Myself,5jVJAojK3LFKETjI2gYb8O,0.581,0.801,9,-12.282,1,0.0306,0.00171,0.0326,0.692,128.179,240773,4,Spotify,90s Party,Public 14
+M People,The Best Of M People,Moving on Up,6vGW3d8X48CBaLdU0PQbey,0.899,0.857,0,-6.128,0,0.037,0.0299,0.112,0.961,125.072,215533,4,Spotify,90s Party,Public 14
+Marky Mark And The Funky Bunch,Music For The People,Good Vibrations,5hWdgGVcfTeLPAiHM6EZG9,0.711,0.951,1,-8.406,1,0.0537,0.366,0.0229,0.903,121.656,269307,4,Spotify,90s Party,Public 14
+Mary J. Blige,What's The 411?,Real Love,3XG801WWhqC753dekEBkMt,0.769,0.781,0,-5.472,1,0.0797,0.000371,0.0506,0.826,95.02,269973,4,Spotify,90s Party,Public 14
+Right Said Fred,Up,I'm Too Sexy,2WElktskrNJEwgpp5Vouxk,0.683,0.739,11,-12.831,0,0.0495,0.0122,0.293,0.836,122.113,170467,4,Spotify,90s Party,Public 14

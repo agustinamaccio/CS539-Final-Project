@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Shakira,Monotonía,Monotonía,6G12ZafqofSq7YtrMqUm76,0.873,0.695,0,-4.207,0,0.0459,1.23e-06,0.211,0.823,131.963,158805,4,Spotify,Éxitos USA,Public 2
+KAROL G,CAIRO,CAIRO,6WbAhuwE6fCOriBu5786X1,0.951,0.692,5,-4.038,0,0.312,0.000182,0.0894,0.431,115.047,201280,4,Spotify,Éxitos USA,Public 2
+The Rudeboyz,Ojalá,Ojalá,4dLIAE3xbJLoiIBbKkZWJk,0.765,0.624,7,-4.932,1,0.0929,0.0,0.104,0.277,92.984,189080,4,Spotify,Éxitos USA,Public 2
+Grupo Frontera,No Se Va (En Vivo),No Se Va - En Vivo,5JhUm1v5AbI5Yu6jLKCPRO,0.594,0.527,0,-9.335,1,0.0335,0.0,0.234,0.692,172.712,194019,4,Spotify,Éxitos USA,Public 2
+Bad Bunny,Un Verano Sin Ti,Neverita,31i56LZnwE6uSu3exoHjtB,0.876,0.498,10,-7.511,1,0.0478,0.0,0.143,0.428,122.016,173119,4,Spotify,Éxitos USA,Public 2
+KAROL G,GATÚBELA,GATÚBELA,1ga4PztXOIw1yBbdUt2X8v,0.627,0.858,11,-2.824,0,0.386,0.0,0.21,0.342,92.523,209160,4,Spotify,Éxitos USA,Public 2
+Manuel Turizo,La Bachata,La Bachata,5ww2BF9slyYgNOk37BlC4u,0.835,0.679,7,-5.329,0,0.0364,1.98e-06,0.218,0.85,124.98,162638,4,Spotify,Éxitos USA,Public 2
+Maluma,Junio,Junio,4XqXNU8MwPHwbgZmNXmAdc,0.85,0.756,11,-3.439,0,0.0407,0.0,0.0873,0.896,120.024,168601,4,Spotify,Éxitos USA,Public 2
+Yahritza Y Su Esencia,Inseparables,Inseparables,57GWBz1UtT6iei1jrbkovI,0.676,0.441,3,-6.929,1,0.0253,0.0,0.0884,0.515,140.091,171724,3,Spotify,Éxitos USA,Public 2
+Black Eyed Peas,ELEVATION,BAILAR CONTIGO,4GCDX1A3tNGauj5FJfQfvy,0.825,0.773,1,-5.234,1,0.0566,0.382,0.0912,0.511,125.005,223352,4,Spotify,Éxitos USA,Public 2
+Wisin & Yandel,La Última Misión,Besos Moja2,6TsVhM8qIkWN5cJVDIVbbz,0.736,0.727,5,-4.642,0,0.0571,1.91e-06,0.0976,0.644,94.048,229065,4,Spotify,Éxitos USA,Public 2
+Rauw Alejandro,LOKERA,LOKERA,79HZAZNnOE97rb2hnI0XQr,0.834,0.828,11,-2.657,0,0.0452,5.91e-06,0.103,0.58,102.019,195294,4,Spotify,Éxitos USA,Public 2
+Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52","Quevedo: Bzrp Music Sessions, Vol. 52",2tTmW7RDtMQtBk7m2rYeSw,0.621,0.782,2,-5.548,1,0.044,0.033,0.23,0.55,128.033,198938,4,Spotify,Éxitos USA,Public 2
+Romeo Santos,"Fórmula, Vol. 3",Sin Fin,4BBTalxG6c1Aoai1x1EA5g,0.736,0.869,0,-3.873,1,0.0548,0.0,0.0687,0.783,128.009,234667,4,Spotify,Éxitos USA,Public 2
+ROSALÍA,DESPECHÁ,DESPECHÁ,5ildQOEKmJuWGl2vRkFdYc,0.919,0.623,7,-6.521,1,0.0992,1.63e-05,0.0609,0.775,130.037,157018,4,Spotify,Éxitos USA,Public 2
+Ozuna,OzuTochi,Hey Mor,1zsPaEkglFvxjAhrM8yhpr,0.901,0.589,1,-6.713,0,0.289,0.000237,0.0992,0.399,98.002,196600,4,Spotify,Éxitos USA,Public 2
+Rauw Alejandro,PUNTO 40,PUNTO 40,2TDyyEBasw10wu5Uh94bR1,0.873,0.826,0,-0.722,1,0.0876,0.0361,0.311,0.201,106.972,190654,4,Spotify,Éxitos USA,Public 2
+Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4,Spotify,Éxitos USA,Public 2
+Ivan Cornejo,Dañado,J.,4lUsBLTAiufWocWtg4H0my,0.408,0.47,10,-10.149,1,0.0893,5.44e-05,0.0926,0.0953,51.66,234613,4,Spotify,Éxitos USA,Public 2
+Kali Uchis,NO HAY LEY,NO HAY LEY,5enNYN3hDG4Dsey9WsF6TJ,0.713,0.617,9,-6.247,1,0.0372,0.0,0.354,0.416,122.036,157000,4,Spotify,Éxitos USA,Public 2
+Jhayco,En La De Ella,En La De Ella,5NxhMcHSVY3Z7ykWxZf3aj,0.816,0.77,1,-5.477,1,0.0538,0.0,0.118,0.671,96.99,230653,4,Spotify,Éxitos USA,Public 2
+Alvaro Diaz,LENTITO,LENTITO,4RMKNv1Bl3koY4Kys0G8Rb,0.584,0.803,1,-4.953,1,0.273,4.71e-05,0.0973,0.339,108.049,203547,4,Spotify,Éxitos USA,Public 2
+Ozuna,La Copa,La Copa,2gdBsRfuWGwJwe3X5XwZuI,0.913,0.803,0,-3.911,1,0.0353,0.000275,0.111,0.947,126.016,154628,4,Spotify,Éxitos USA,Public 2
+KAROL G,PROVENZA,PROVENZA,7dSZ6zGTQx66c2GF91xCrb,0.87,0.516,1,-8.006,1,0.0541,0.00823,0.11,0.53,111.005,210200,4,Spotify,Éxitos USA,Public 2
+Luar La L,L3tra,Caile,6i1g5ZRmJZAkDwBaUZ3f2i,0.704,0.756,0,-4.948,1,0.448,3.75e-06,0.0852,0.461,121.737,141340,3,Spotify,Éxitos USA,Public 2
+Ozuna,OzuTochi,Mañana,2CGhzWArXQZG86V1Ztv4Q2,0.865,0.522,6,-4.648,1,0.0761,0.0154,0.0671,0.692,91.015,192320,4,Spotify,Éxitos USA,Public 2
+Shakira,Te Felicito,Te Felicito,2rurDawMfoKP4uHyb2kJBt,0.695,0.636,5,-4.654,1,0.317,0.0,0.081,0.575,174.14,172235,4,Spotify,Éxitos USA,Public 2
+Natti Natasha,LOKITA,LOKITA,48mGOtVuxLr7sq8jZpWLxi,0.769,0.843,9,-3.782,0,0.0898,9.87e-06,0.0876,0.742,96.045,193295,4,Spotify,Éxitos USA,Public 2
+Bad Bunny,Un Verano Sin Ti,El Apagón,0UvZcEfpzVyx47QsRbjyBz,0.629,0.698,8,-4.485,1,0.308,0.00166,0.0909,0.599,117.765,201816,4,Spotify,Éxitos USA,Public 2
+Becky G,MAMIII,MAMIII,1ri9ZUkBJVFUdgwzCnfcYs,0.843,0.7,4,-3.563,0,0.0803,0.0,0.14,0.899,93.991,226088,4,Spotify,Éxitos USA,Public 2
+Wisin & Yandel,La Última Misión,Besos Moja2,6TsVhM8qIkWN5cJVDIVbbz,0.736,0.727,5,-4.642,0,0.0571,1.91e-06,0.0976,0.644,94.048,229065,4,Spotify,Éxitos USA,Public 2
+Feid,Normal,Normal,2z9YkcLojiOE7Eu2p9lPZR,0.712,0.557,4,-4.861,0,0.115,0.0,0.27,0.594,170.079,171987,4,Spotify,Éxitos USA,Public 2
+El Alfa,Bellacon,Bellacon,4Zj3K3UaUMC6ndSwl05Zyd,0.609,0.821,8,-4.888,1,0.191,0.00052,0.305,0.575,115.028,212000,4,Spotify,Éxitos USA,Public 2
+ROSALÍA,MOTOMAMI,BIZCOCHITO,4kXxEhuatrvwrTQycA7s9B,0.93,0.774,1,-4.203,1,0.0744,0.0238,0.12,0.781,116.972,109120,4,Spotify,Éxitos USA,Public 2
+Ivan Cornejo,Dañado,La Curiosidad,0hnvQLkV7yOjslEzflJSK4,0.626,0.454,3,-8.767,0,0.0392,0.000442,0.159,0.36,123.351,216000,4,Spotify,Éxitos USA,Public 2
+Grupo Marca Registrada,Puro Campeón,Puro Campeón,1kNC7b4zXbqoceKpkGdnD8,0.851,0.542,10,-8.152,1,0.122,3.73e-06,0.132,0.789,101.896,196437,4,Spotify,Éxitos USA,Public 2
+Danny Ocean,@dannocean,Fuera del mercado,1UdzJEpgJxtuXAlCOvD4S0,0.453,0.673,8,-5.649,1,0.144,0.0,0.131,0.266,92.06,159849,4,Spotify,Éxitos USA,Public 2
+Camilo,De Adentro Pa Afuera,Ambulancia,5OPte07J5hRK1pTn0f7ldr,0.821,0.583,7,-6.028,1,0.0472,0.0,0.313,0.795,132.056,212827,4,Spotify,Éxitos USA,Public 2
+Bad Bunny,Un Verano Sin Ti,La Corriente,1797zYiX4cKosMH836X9Gt,0.663,0.786,11,-3.51,0,0.195,0.0,0.219,0.579,196.12,198367,4,Spotify,Éxitos USA,Public 2
+Myke Towers,Luces De Neón,Luces De Neón,5B60XFKzm8WsJTdVyt4u4I,0.747,0.619,3,-6.009,1,0.0588,2.03e-05,0.103,0.567,94.98,219789,4,Spotify,Éxitos USA,Public 2
+Anitta,Envolver,Envolver,3IAfUEeaXRX9s9UdKOJrFI,0.812,0.736,4,-5.421,0,0.0833,0.00254,0.0914,0.396,91.993,193806,4,Spotify,Éxitos USA,Public 2
+Feid,Si Te La Encuentras Por Ahí,Si Te La Encuentras Por Ahí,02jLfqc9gMo8PkHEGHY3OT,0.743,0.576,8,-3.552,0,0.076,5.87e-05,0.128,0.455,171.945,191573,4,Spotify,Éxitos USA,Public 2
+Alejo,Pantysito,Pantysito,4srcMdbm2qzVG98tJajHxp,0.83,0.739,7,-5.395,0,0.0627,2.11e-06,0.162,0.631,97.993,240413,4,Spotify,Éxitos USA,Public 2
+ROSALÍA,MOTOMAMI +,CHIRI,3CBaIz3eftJCf9GHycFanL,0.407,0.556,4,-6.098,0,0.172,0.00156,0.693,0.474,161.985,120991,4,Spotify,Éxitos USA,Public 2
+El Alfa,LOS APARATOS,LOS APARATOS,4SSbtLDkepeOHAckM1FCBP,0.868,0.878,1,-3.294,1,0.038,0.00052,0.0857,0.899,112.987,232843,4,Spotify,Éxitos USA,Public 2
+Daddy Yankee,LEGENDADDY,X ÚLTIMA VEZ,48AJSd42lXpicsGqcgopof,0.812,0.855,7,-3.725,1,0.0554,0.000167,0.108,0.573,90.04,192477,4,Spotify,Éxitos USA,Public 2
+Prince Royce,Si Te Preguntan...,Si Te Preguntan...,20yLo8tCAM1LXixAdBf3f2,0.76,0.803,8,-2.867,0,0.0306,0.0,0.0555,0.922,136.945,223074,4,Spotify,Éxitos USA,Public 2
+Bizarrap,"Villano Antillano: Bzrp Music Sessions, Vol. 51","Villano Antillano: Bzrp Music Sessions, Vol. 51",4hceSKjrkDTO0nMKFcb3sj,0.82,0.752,1,-7.635,0,0.0648,0.00417,0.628,0.423,127.999,187500,4,Spotify,Éxitos USA,Public 2
+Rvssian,Nostálgico,Nostálgico,2BEcap3xJtmiPaHKyfQi4e,0.734,0.846,9,-3.425,0,0.0489,1.74e-06,0.235,0.604,98.026,209884,4,Spotify,Éxitos USA,Public 2
+Chris Jedi,La Llevo Al Cielo (Ft. Ñengo Flow),La Llevo Al Cielo (Ft. Ñengo Flow),6DoL1yYIwEW7VZMRaJhoJI,0.795,0.845,9,-3.809,0,0.135,1.14e-05,0.172,0.769,170.023,254920,4,Spotify,Éxitos USA,Public 2

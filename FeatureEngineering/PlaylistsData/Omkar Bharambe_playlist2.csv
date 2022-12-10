@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Rammstein,Zeit,Zick Zack,2w7Ca8DNYXBCgA6Bht7o0N,0.669,0.814,5,-5.375,0,0.0681,0.00131,0.0737,0.398,130.014,244365,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Piece of Mind (2015 Remaster),The Trooper - 2015 Remaster,4OROzZUy6gOWN4UGQVaZMF,0.285,0.908,4,-4.601,0,0.0705,0.00909,0.311,0.669,159.756,252733,4,Spotify,Metal Mix,Omkar Bharambe
+Sabaton,The Last Stand,The Last Stand,0bUgTRe5st6TMbRCEjKezX,0.519,0.935,7,-5.656,0,0.0423,0.0,0.0661,0.498,104.044,235840,4,Spotify,Metal Mix,Omkar Bharambe
+Slayer,Reign In Blood,Raining Blood,01Mpj13vURSO3cCLprPt5T,0.294,0.995,1,-4.383,0,0.168,0.331,0.128,0.0379,88.777,254400,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Vulgar Display of Power,Walk,7fcfNW0XxTWlwVlftzfDOR,0.43,0.704,1,-8.008,0,0.0804,0.00221,0.0933,0.703,118.242,315120,4,Spotify,Metal Mix,Omkar Bharambe
+Dio,Holy Diver,Holy Diver,54yLLvpezvPO1lA3GspiZj,0.473,0.783,10,-10.671,0,0.0869,0.475,0.268,0.124,91.976,340640,4,Spotify,Metal Mix,Omkar Bharambe
+Megadeth,Rust In Peace (Expanded Edition),Hangar 18 - Remastered,6b6uLZsoGhObYexIxnRbIb,0.248,0.988,2,-3.74,1,0.144,0.84,0.323,0.149,115.301,311200,4,Spotify,Metal Mix,Omkar Bharambe
+Black Sabbath,Master of Reality (2009 Remastered Version),Children of the Grave,3ZuVfQriS93y6ofwbIf7lp,0.311,0.658,6,-13.529,1,0.0406,0.104,0.093,0.353,151.813,314720,4,Spotify,Metal Mix,Omkar Bharambe
+Slayer,South Of Heaven,South Of Heaven,3U9gogDStAfWxSm91PJuxb,0.31,0.991,5,-3.769,0,0.316,0.085,0.0969,0.0395,140.071,298533,4,Spotify,Metal Mix,Omkar Bharambe
+Saxon,Denim and Leather (2009 Remastered Version),Princess of the Night - 2009 Remastered Version,2QpP8SyXrumYR5BlcdJgTV,0.362,0.797,3,-8.824,0,0.0424,2e-06,0.0668,0.753,107.249,242573,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Powerslave (2015 Remaster),Aces High - 2015 Remaster,3wFGRek61NIF330UwJCI52,0.3,0.936,2,-5.399,1,0.0456,0.021,0.158,0.756,133.065,271907,4,Spotify,Metal Mix,Omkar Bharambe
+Megadeth,Rust In Peace (Expanded Edition),Holy Wars...The Punishment Due - Remastered,5LyRtsQLhcXmy50VXhQXXS,0.325,0.985,11,-3.941,1,0.151,0.107,0.351,0.221,125.307,392600,4,Spotify,Metal Mix,Omkar Bharambe
+Helloween,"Keeper of the Seven Keys, Pt. II (Expanded Edition)",I Want Out,5VZwMq6yaFb04PCTfdNY3K,0.477,0.859,0,-8.625,1,0.0387,0.000155,0.265,0.629,91.009,280213,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Cowboys from Hell,Cowboys from Hell,2SgbR6ttzoNlCRGQOKjrop,0.415,0.908,2,-9.701,1,0.0765,0.0345,0.082,0.437,114.816,243533,4,Spotify,Metal Mix,Omkar Bharambe
+Mercyful Fate,Melissa,Evil,5pH1BecbNktYDbYw0XCEWn,0.288,0.904,0,-9.455,1,0.114,0.382,0.0894,0.556,133.838,284960,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Somewhere in Time (2015 Remaster),Wasted Years - 2015 Remaster,1HM7Vp84E4SMzdrZONg6bH,0.314,0.959,4,-4.657,0,0.0908,0.000148,0.161,0.492,154.221,309640,4,Spotify,Metal Mix,Omkar Bharambe
+Megadeth,Countdown To Extinction,Symphony Of Destruction,51TG9W3y9qyO8BY5RXKgnZ,0.61,0.891,4,-5.452,0,0.0587,0.0928,0.0657,0.51,139.903,246733,4,Spotify,Metal Mix,Omkar Bharambe
+Judas Priest,British Steel,Breaking the Law,2RaA6kIcvomt77qlIgGhCT,0.362,0.961,2,-5.664,1,0.0857,9.35e-06,0.159,0.491,164.019,153840,4,Spotify,Metal Mix,Omkar Bharambe
+Lamb of God,Sacrament,Walk with Me In Hell,6vjvewW34Y3UiGQtJokGlY,0.286,0.982,0,-3.828,0,0.131,0.00675,0.309,0.118,110.629,311507,4,Spotify,Metal Mix,Omkar Bharambe
+Motörhead,Overkill (Expanded Bonus Track Edition),Overkill,3Staqm5EYDnYBqcwuxrWjZ,0.266,0.866,11,-7.885,1,0.112,0.0185,0.0961,0.211,119.41,311133,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Cowboys from Hell,Cemetery Gates,4vJr55lngvhSM8WIh9CjQc,0.274,0.726,9,-11.541,1,0.0449,0.0113,0.0993,0.426,146.449,422933,4,Spotify,Metal Mix,Omkar Bharambe
+Dio,The Last In Line,We Rock,6qxi41lmbH35MT29bqlL4k,0.327,0.873,9,-10.779,0,0.0514,0.0172,0.247,0.48,153.012,273867,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Seventh Son of a Seventh Son (2015 Remaster),The Evil That Men Do - 2015 Remaster,0S90LE5Z8FOdbui3tLak6t,0.255,0.977,4,-4.672,0,0.11,2.8e-06,0.0776,0.31,161.738,274213,4,Spotify,Metal Mix,Omkar Bharambe
+Accept,Blood of the Nations,Teutonic Terror,3crIa21lfjekujCQuGjlJT,0.324,0.976,9,-3.84,1,0.0679,0.000379,0.11,0.593,124.236,313587,4,Spotify,Metal Mix,Omkar Bharambe
+Judas Priest,Painkiller,All Guns Blazing,2Ip7WDoKDeVGnWsnOCzinV,0.472,0.976,6,-5.135,0,0.0899,0.0145,0.0956,0.141,104.996,237267,4,Spotify,Metal Mix,Omkar Bharambe
+Megadeth,Hidden Treasures,Angry Again,3CI1JP2ooMBSFjIy1u6Yrc,0.689,0.719,3,-8.643,0,0.0304,0.679,0.314,0.959,127.982,227973,4,Spotify,Metal Mix,Omkar Bharambe
+Motörhead,No Remorse,Killed by Death,4cuPWrSsjNLAkYRJwQLCzt,0.387,0.942,2,-8.052,1,0.0442,0.000437,0.491,0.251,134.558,279307,4,Spotify,Metal Mix,Omkar Bharambe
+Manowar,Kings of Metal,Hail and Kill,5HkvAtKEPDLmchWYmepqYB,0.358,0.857,4,-12.569,0,0.0581,5.2e-05,0.0586,0.2,93.156,357027,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Far Beyond Driven,5 Minutes Alone,5SAEMjVQbmin3g7b0RG6me,0.504,0.856,7,-6.271,1,0.0423,0.359,0.114,0.585,95.402,347440,4,Spotify,Metal Mix,Omkar Bharambe
+Dio,Holy Diver,Stand Up And Shout,2HwtiwV8OgIwNuj1Wq9e0B,0.495,0.954,7,-7.757,1,0.0841,0.826,0.359,0.367,109.556,196973,4,Spotify,Metal Mix,Omkar Bharambe
+Helloween,"Keeper of the Seven Keys, Pt. II (Expanded Edition)",Dr. Stein,72q6fJBnJfrNv2sZZulajk,0.429,0.86,4,-7.815,0,0.0665,0.0,0.245,0.56,148.987,303947,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,The Number of the Beast (2015 Remaster),Children of the Damned - 2015 Remaster,7tcaQvBbSpNN0P2UF6WXxB,0.286,0.775,4,-6.607,0,0.0335,0.177,0.12,0.363,96.707,275280,4,Spotify,Metal Mix,Omkar Bharambe
+Slipknot,Vol. 3: The Subliminal Verses,Before I Forget,6wqJeItl3Vc3az4ZicSQAB,0.291,0.974,6,-2.997,0,0.171,5.44e-06,0.886,0.348,134.724,278600,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Vulgar Display of Power,Hollow,1lM1ZHTvfKi5CMRjsZ4Sg9,0.273,0.688,11,-10.883,1,0.0326,0.0504,0.051,0.347,100.077,345733,4,Spotify,Metal Mix,Omkar Bharambe
+Judas Priest,Painkiller,Painkiller,0L7zm6afBEtrNKo6C6Gj08,0.435,0.987,1,-4.667,0,0.16,0.0847,0.268,0.101,103.16,365827,4,Spotify,Metal Mix,Omkar Bharambe
+Megadeth,Peace Sells...But Who's Buying?,Wake Up Dead - Remastered,1I3qfFMraXE0kAPtRERpok,0.279,0.912,4,-4.608,1,0.126,0.737,0.0672,0.479,164.185,217333,4,Spotify,Metal Mix,Omkar Bharambe
+Lamb of God,Ashes of the Wake (15th Anniversary),Omerta,4Vb5Y6RQztThqqqFre24wL,0.413,0.982,6,-4.079,0,0.201,0.00112,0.323,0.155,118.504,285962,4,Spotify,Metal Mix,Omkar Bharambe
+Dio,The Last In Line (Deluxe Edition),The Last In Line,5fIZDuxfuM4tANRHZ8Btju,0.295,0.833,9,-8.279,0,0.0764,0.0683,0.0816,0.625,172.756,343173,4,Spotify,Metal Mix,Omkar Bharambe
+Metallica,Ride The Lightning (Remastered),Trapped Under Ice - Remastered,3J8jTThxk8GtxyoupHtyrb,0.252,0.988,9,-5.291,1,0.203,0.0451,0.0516,0.0529,162.945,244067,4,Spotify,Metal Mix,Omkar Bharambe
+Helloween,"Keeper of the Seven Keys, Pt. I (Expanded Edition)",Future World,7vAwjvJs8YSlHcykJu7nc0,0.472,0.936,7,-6.123,1,0.064,9.97e-06,0.0867,0.556,97.934,243613,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Powerslave (2015 Remaster),Rime of the Ancient Mariner - 2015 Remaster,6K8ROjiPJqyHDJS0sA0dwH,0.39,0.932,2,-6.558,1,0.0666,0.00961,0.322,0.143,112.034,818693,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Cowboys from Hell,Domination,769cLRTw2y6KRdkFWFkxtu,0.372,0.888,2,-5.88,1,0.0943,0.00442,0.115,0.555,141.374,305293,4,Spotify,Metal Mix,Omkar Bharambe
+Slipknot,Iowa,People = Shit,0Y2i84QWPFiFHQfEQDgHya,0.462,0.996,11,-2.973,0,0.231,0.00377,0.139,0.145,122.072,215600,4,Spotify,Metal Mix,Omkar Bharambe
+Accept,Balls To The Wall,Balls to the Wall,2dbOYFfS7r7NAzquRvji9A,0.544,0.739,9,-7.383,1,0.0517,0.000143,0.168,0.328,118.287,342600,4,Spotify,Metal Mix,Omkar Bharambe
+Gojira,Magma,Silvera,5uunXHE4kIW6uS4HWAXaOQ,0.333,0.959,2,-4.348,1,0.072,0.0563,0.299,0.242,137.052,212653,4,Spotify,Metal Mix,Omkar Bharambe
+Iron Maiden,Piece of Mind (2015 Remaster),Flight of Icarus - 2015 Remaster,3vhKrSxe3fRuS5Ogis76VO,0.368,0.917,6,-4.829,0,0.0772,0.000121,0.169,0.343,110.455,230760,4,Spotify,Metal Mix,Omkar Bharambe
+Lamb of God,Ashes of the Wake (15th Anniversary),Laid to Rest,1yc53HK08sDab7PDFgnLWk,0.366,0.956,10,-3.725,0,0.108,0.00447,0.449,0.159,104.016,230127,3,Spotify,Metal Mix,Omkar Bharambe
+Judas Priest,Redeemer of Souls (Deluxe),Halls of Valhalla,4zX2bEgFHUIZV8rR3qsLor,0.464,0.901,8,-4.901,0,0.0625,0.0517,0.302,0.318,100.005,364080,4,Spotify,Metal Mix,Omkar Bharambe
+Metallica,Master Of Puppets (Remastered),Leper Messiah,6XN00D9ejjEt1cW1sY44Gu,0.379,0.808,4,-8.605,1,0.0684,0.794,0.322,0.557,138.694,339880,4,Spotify,Metal Mix,Omkar Bharambe
+Pantera,Far Beyond Driven,I'm Broken,2M5WTwqnkyz7bW6P1CiD6q,0.419,0.878,7,-6.352,1,0.0553,0.559,0.139,0.666,147.385,264800,4,Spotify,Metal Mix,Omkar Bharambe

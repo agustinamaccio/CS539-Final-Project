@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+KAROL G,CAIRO,CAIRO,6WbAhuwE6fCOriBu5786X1,0.951,0.692,5,-4.038,0,0.312,0.000182,0.0894,0.431,115.047,201280,4,Spotify,Baila Reggaeton,Public 13
+Ozuna,OzuTochi,Hey Mor,1zsPaEkglFvxjAhrM8yhpr,0.901,0.589,1,-6.713,0,0.289,0.000237,0.0992,0.399,98.002,196600,4,Spotify,Baila Reggaeton,Public 13
+Rauw Alejandro,LOKERA,LOKERA,79HZAZNnOE97rb2hnI0XQr,0.834,0.828,11,-2.657,0,0.0452,5.91e-06,0.103,0.58,102.019,195294,4,Spotify,Baila Reggaeton,Public 13
+Wisin & Yandel,La Última Misión,Besos Moja2,6TsVhM8qIkWN5cJVDIVbbz,0.736,0.727,5,-4.642,0,0.0571,1.91e-06,0.0976,0.644,94.048,229065,4,Spotify,Baila Reggaeton,Public 13
+Quevedo,Vista Al Mar,Vista Al Mar,7iwJOi3hlMqZt6pj1sQOBj,0.759,0.561,0,-5.643,0,0.131,0.121,0.101,0.491,104.915,180673,4,Spotify,Baila Reggaeton,Public 13
+Feid,Feliz Cumpleaños Ferxxo,Feliz Cumpleaños Ferxxo,3kUq4sBcmxhnOtNysZ9yrp,0.87,0.55,5,-5.537,1,0.0722,0.0,0.293,0.566,95.019,156400,4,Spotify,Baila Reggaeton,Public 13
+Rauw Alejandro,PUNTO 40,PUNTO 40,2TDyyEBasw10wu5Uh94bR1,0.873,0.826,0,-0.722,1,0.0876,0.0361,0.311,0.201,106.972,190654,4,Spotify,Baila Reggaeton,Public 13
+Bad Bunny,Un Verano Sin Ti,Efecto,5Eax0qFko2dh7Rl2lYs3bx,0.801,0.475,7,-8.797,0,0.0516,1.73e-05,0.0639,0.234,98.047,213061,4,Spotify,Baila Reggaeton,Public 13
+KAROL G,GATÚBELA,GATÚBELA,1ga4PztXOIw1yBbdUt2X8v,0.627,0.858,11,-2.824,0,0.386,0.0,0.21,0.342,92.523,209160,4,Spotify,Baila Reggaeton,Public 13
+Jhayco,En La De Ella,En La De Ella,5NxhMcHSVY3Z7ykWxZf3aj,0.816,0.77,1,-5.477,1,0.0538,0.0,0.118,0.671,96.99,230653,4,Spotify,Baila Reggaeton,Public 13
+Don Omar,The Last Don,Dile,69Ej1xrGjOcHvIMtMKxK0G,0.817,0.714,4,-7.501,0,0.141,0.000132,0.042,0.714,94.001,204600,4,Spotify,Baila Reggaeton,Public 13
+Rauw Alejandro,SATURNO,DE CAROLINA,7xQdrZO18sSodsnJ7XCqto,0.795,0.958,7,-1.674,1,0.116,1.34e-06,0.251,0.927,110.977,181622,4,Spotify,Baila Reggaeton,Public 13
+Bad Bunny,Un Verano Sin Ti,Me Porto Bonito,6Sq7ltF9Qa7SNFBsV5Cogx,0.911,0.712,1,-5.105,0,0.0817,2.68e-05,0.0933,0.425,92.005,178567,4,Spotify,Baila Reggaeton,Public 13
+Feid,Normal,Normal,2z9YkcLojiOE7Eu2p9lPZR,0.712,0.557,4,-4.861,0,0.115,0.0,0.27,0.594,170.079,171987,4,Spotify,Baila Reggaeton,Public 13
+Luar La L,L3tra,Caile,6i1g5ZRmJZAkDwBaUZ3f2i,0.704,0.756,0,-4.948,1,0.448,3.75e-06,0.0852,0.461,121.737,141340,3,Spotify,Baila Reggaeton,Public 13
+Chris Jedi,DURO,DURO,6Bix1x2zJnlvuLr2Xb6CXf,0.678,0.81,8,-3.949,0,0.121,1.11e-05,0.274,0.629,171.972,218320,4,Spotify,Baila Reggaeton,Public 13
+Wisin & Yandel,La Última Misión,Vapor,4yXBfJAPsDZjpjMEp9NyjT,0.803,0.779,11,-4.449,0,0.0694,2.23e-05,0.111,0.317,94.009,208895,4,Spotify,Baila Reggaeton,Public 13
+Paulo Londra,A Veces (feat. Feid),A Veces (feat. Feid),63OA8vSo2PhUkmQopR1l64,0.795,0.672,1,-4.392,1,0.0574,0.0,0.0783,0.805,92.005,191555,4,Spotify,Baila Reggaeton,Public 13
+Myke Towers,Luces De Neón,Luces De Neón,5B60XFKzm8WsJTdVyt4u4I,0.747,0.619,3,-6.009,1,0.0588,2.03e-05,0.103,0.567,94.98,219789,4,Spotify,Baila Reggaeton,Public 13
+Sech,Ya Casi Vienen,Foto En Panty,4HehbhlVK81hZT5Yg7QmiR,0.823,0.892,4,-5.306,0,0.119,0.0,0.495,0.785,100.05,174947,4,Spotify,Baila Reggaeton,Public 13
+Blessd,Siempre Blessd,Que Duro,12RaiccXZ5yIDrHt4c5ngZ,0.89,0.685,10,-3.378,1,0.188,5.73e-06,0.0877,0.577,81.011,204444,4,Spotify,Baila Reggaeton,Public 13
+Plan B,House Of Pleasure,Es un Secreto,0R7DSnSibvuE4PEHqUayqf,0.836,0.777,6,-5.376,0,0.0439,1.68e-06,0.0561,0.504,94.977,190564,4,Spotify,Baila Reggaeton,Public 13
+Mora,PARAÍSO,AIRBNB,0fuyLaeHh0TvQ65m5ojgP2,0.81,0.718,0,-4.799,1,0.0587,0.0,0.0822,0.5,90.934,185527,4,Spotify,Baila Reggaeton,Public 13
+Justin Quiles,Fuego Forestal,Fuego Forestal,1G5rMuBltKhOavItlryMIO,0.771,0.569,2,-6.297,0,0.139,0.0,0.0992,0.661,170.136,198521,4,Spotify,Baila Reggaeton,Public 13
+Pablito Pesadilla,BABY OTAKU,BABY OTAKU,0kTMK4gNFfLXaTb62w1UaJ,0.835,0.747,9,-4.65,1,0.083,0.0,0.055,0.432,102.003,176471,4,Spotify,Baila Reggaeton,Public 13
+Quevedo,Punto G,Punto G,0oBtwScT4B4BR5kZitNWd5,0.751,0.761,11,-4.113,0,0.15,0.000238,0.0991,0.553,92.032,151325,4,Spotify,Baila Reggaeton,Public 13
+Maria Becerra,AUTOMÁTICO,AUTOMÁTICO,3Ne5uYDFzHEFYAPbaBMIck,0.68,0.808,10,-3.854,0,0.224,2.23e-06,0.205,0.868,176.131,175317,4,Spotify,Baila Reggaeton,Public 13
+Anuel AA,Mercedes Tintia,Mercedes Tintia,6e9Ew4AECYwY5Xgs2ZKMgp,0.815,0.67,11,-4.076,1,0.109,0.000854,0.0973,0.768,172.014,195349,4,Spotify,Baila Reggaeton,Public 13
+Blessd,Instagram (Remix),Instagram - Remix,6yMJejrOneyPtkDnrZkEVQ,0.787,0.677,11,-2.825,1,0.228,0.000316,0.0584,0.966,179.951,243623,4,Spotify,Baila Reggaeton,Public 13
+Tego Calderón,El Abayarde,Pa' Que Retozen,5YJ4BVvTFmVCxUyhKejHfR,0.815,0.856,1,-3.825,0,0.122,8.34e-05,0.244,0.872,91.995,151667,4,Spotify,Baila Reggaeton,Public 13
+Bad Bunny,Un Verano Sin Ti,La Corriente,1797zYiX4cKosMH836X9Gt,0.663,0.786,11,-3.51,0,0.195,0.0,0.219,0.579,196.12,198367,4,Spotify,Baila Reggaeton,Public 13
+Cris Mj,Fiera,Fiera,5cDyidxA6n2xI4iFsqzt6D,0.821,0.768,0,-4.376,1,0.0454,0.0,0.0674,0.882,91.997,175788,4,Spotify,Baila Reggaeton,Public 13
+Chris Jedi,La Llevo Al Cielo (Ft. Ñengo Flow),La Llevo Al Cielo (Ft. Ñengo Flow),6DoL1yYIwEW7VZMRaJhoJI,0.795,0.845,9,-3.809,0,0.135,1.14e-05,0.172,0.769,170.023,254920,4,Spotify,Baila Reggaeton,Public 13
+Natti Natasha,LOKITA,LOKITA,48mGOtVuxLr7sq8jZpWLxi,0.769,0.843,9,-3.782,0,0.0898,9.87e-06,0.0876,0.742,96.045,193295,4,Spotify,Baila Reggaeton,Public 13
+Jay Wheeler,Emociones,Carro Nuevo,0OLLQD6ujaoOWnO6AbjV9W,0.831,0.499,5,-7.686,0,0.0484,6.4e-05,0.0855,0.341,100.031,240000,4,Spotify,Baila Reggaeton,Public 13
+Papi Sousa,Un Minuto,Un Minuto,2do7yGKJDjZhN4Zo8WgpQc,0.825,0.449,8,-7.223,1,0.27,0.0,0.0802,0.911,179.964,177398,4,Spotify,Baila Reggaeton,Public 13
+Ryan Castro,Nadie Nos Vio - Spotify Singles,Nadie Nos Vio - Spotify Singles,0BibHMUWAVk5R4R0EpUOfX,0.721,0.801,2,-8.787,1,0.08,0.0,0.234,0.447,169.875,160312,4,Spotify,Baila Reggaeton,Public 13
+Ozuna,OzuTochi,Mañana,2CGhzWArXQZG86V1Ztv4Q2,0.865,0.522,6,-4.648,1,0.0761,0.0154,0.0671,0.692,91.015,192320,4,Spotify,Baila Reggaeton,Public 13
+Mora,MICRODOSIS,LA INOCENTE,5jt25aFjW2kNoBqaEVaz5W,0.757,0.789,5,-3.46,0,0.0583,0.0,0.0717,0.464,91.911,202174,4,Spotify,Baila Reggaeton,Public 13
+TINI,La Loto,La Loto,3AbNNvo2OmyeDMvRBgf9vk,0.855,0.83,1,-2.815,1,0.106,1.31e-06,0.08,0.775,90.009,190667,4,Spotify,Baila Reggaeton,Public 13
+Ivy Queen,Diva Platinum Edition,Quiero Bailar,1EyH5BK5Cx5XzQyEDks0fT,0.853,0.846,5,-5.261,1,0.0951,0.0,0.294,0.737,95.027,184507,4,Spotify,Baila Reggaeton,Public 13
+Farina,La HP - Spotify Singles,La HP - Spotify Singles,0GKmZutSxfdOUQzElk0Psv,0.75,0.696,10,-2.755,0,0.338,9.09e-06,0.0633,0.79,173.644,186780,4,Spotify,Baila Reggaeton,Public 13
+Cris Mj,Una Noche en Medellín,Una Noche en Medellín,1O2pcBJGej0pmH2Y9XZMs6,0.87,0.548,10,-5.253,0,0.077,4.6e-05,0.0534,0.832,96.018,153750,4,Spotify,Baila Reggaeton,Public 13
+Rauw Alejandro,Desesperados,Desesperados,6ZOcbKub95XSDESsKKuH41,0.869,0.694,1,-3.35,0,0.0783,0.00125,0.0878,0.511,90.02,224997,4,Spotify,Baila Reggaeton,Public 13
+Polimá Westcoast,ULTRA SOLO REMIX,ULTRA SOLO REMIX,6wtZPYBIXUvCpXwVjMCJBf,0.909,0.824,1,-4.627,1,0.0797,0.00387,0.0638,0.585,109.97,322347,4,Spotify,Baila Reggaeton,Public 13
+Daddy Yankee,Barrio Fino (Bonus Track Version),Tu Príncipe,2FNqnsX74ZlwduUAcnmzee,0.77,0.804,4,-5.479,1,0.0623,1e-05,0.193,0.568,94.017,205520,4,Spotify,Baila Reggaeton,Public 13
+Maluma,Nos Comemos Vivos,Nos Comemos Vivos,3SlKme42qm1vWrkl3BrZmm,0.822,0.719,10,-3.633,0,0.0576,2.48e-05,0.174,0.659,82.01,225366,4,Spotify,Baila Reggaeton,Public 13
+Daddy Yankee,LEGENDADDY,X ÚLTIMA VEZ,48AJSd42lXpicsGqcgopof,0.812,0.855,7,-3.725,1,0.0554,0.000167,0.108,0.573,90.04,192477,4,Spotify,Baila Reggaeton,Public 13
+Becky G,MAMIII,MAMIII,1ri9ZUkBJVFUdgwzCnfcYs,0.843,0.7,4,-3.563,0,0.0803,0.0,0.14,0.899,93.991,226088,4,Spotify,Baila Reggaeton,Public 13
+Ryan Castro,Reggaetonea,Amor De Una Noche,6DlIqUlAjLfrmgUdewGf1x,0.865,0.705,3,-3.016,0,0.183,1.53e-05,0.208,0.635,92.978,209032,4,Spotify,Baila Reggaeton,Public 13

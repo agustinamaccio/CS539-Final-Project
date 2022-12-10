@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+AC/DC,Highway to Hell,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.00158,0.156,0.423,115.728,208400,4,Spotify,Old School Metal,Public 1
+KISS,Dynasty,I Was Made For Lovin' You,07q0QVgO56EorrSGHC48y3,0.768,0.852,4,-6.215,1,0.038,7.36e-05,0.0723,0.867,128.373,271240,4,Spotify,Old School Metal,Public 1
+Van Halen,1984 (Remastered),Jump - 2015 Remaster,7N3PAbqfTjSEU1edb2tY8j,0.572,0.835,0,-6.219,1,0.0317,0.000377,0.0702,0.795,129.981,241600,4,Spotify,Old School Metal,Public 1
+Mötley Crüe,Dr. Feelgood (Deluxe Version),Kickstart My Heart,6imjJij6aCM0IbbODUzJQn,0.465,0.977,7,-3.839,0,0.175,0.00298,0.201,0.233,89.535,284027,4,Spotify,Old School Metal,Public 1
+Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Crazy Train,7ACxUo21jtTHzy7ZEV56vU,0.454,0.913,9,-4.008,1,0.107,0.000271,0.248,0.521,137.688,293183,4,Spotify,Old School Metal,Public 1
+Metallica,Master of Puppets (Remastered Deluxe Box Set),Master of Puppets (Remastered),54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0,0.035,0.421,0.154,0.562,105.25,515387,4,Spotify,Old School Metal,Public 1
+AC/DC,Back In Black,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.00965,0.0828,0.763,188.386,255493,4,Spotify,Old School Metal,Public 1
+Danzig,Danzig,Mother,7txxAtOMwLLnQTpKeBL6bp,0.365,0.763,11,-9.45,0,0.0591,0.000457,0.0865,0.342,148.366,204867,4,Spotify,Old School Metal,Public 1
+KISS,Dressed To Kill,Rock And Roll All Nite,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,1,0.0998,0.0,0.0539,0.902,144.774,168840,4,Spotify,Old School Metal,Public 1
+Alice Cooper,Trash,Poison,5XcZRgJv3zMhTqCyESjQrF,0.28,0.908,2,-5.509,0,0.109,8.85e-06,0.18,0.26,118.698,270080,4,Spotify,Old School Metal,Public 1
+Motörhead,Ace of Spades (Expanded Edition),Ace of Spades,6EPRKhUOdiFSQwGBRBbvsZ,0.342,0.91,4,-7.748,1,0.0758,0.000121,0.0823,0.547,140.452,166360,4,Spotify,Old School Metal,Public 1
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,Old School Metal,Public 1
+Twisted Sister,Stay Hungry,We're Not Gonna Take It,1hlveB9M6ijHZRbzZ2teyh,0.502,0.924,4,-6.299,1,0.0503,0.0,0.162,0.922,149.186,219667,4,Spotify,Old School Metal,Public 1
+Megadeth,Countdown To Extinction,Symphony Of Destruction,51TG9W3y9qyO8BY5RXKgnZ,0.61,0.891,4,-5.452,0,0.0587,0.0928,0.0657,0.51,139.903,246733,4,Spotify,Old School Metal,Public 1
+Van Halen,1984 (Remastered),Panama - 2015 Remaster,05RgAMGypEvqhNs5hPCbMS,0.526,0.978,8,-5.436,1,0.108,4.75e-05,0.0744,0.451,141.167,210227,4,Spotify,Old School Metal,Public 1
+Black Sabbath,Paranoid (Remaster),Paranoid - 2012 - Remaster,1Y373MqadDRtclJNdnUXVc,0.412,0.658,4,-12.051,0,0.0708,0.000774,0.176,0.454,163.071,168406,4,Spotify,Old School Metal,Public 1
+Scorpions,Love At First Sting,Rock You Like A Hurricane,58XWGx7KNNkKneHdprcprX,0.482,0.617,4,-12.931,0,0.0458,0.000146,0.284,0.718,125.697,252493,4,Spotify,Old School Metal,Public 1
+Pantera,Cowboys from Hell,Cowboys from Hell,2SgbR6ttzoNlCRGQOKjrop,0.415,0.908,2,-9.701,1,0.0765,0.0345,0.082,0.437,114.816,243533,4,Spotify,Old School Metal,Public 1
+Mötley Crüe,"Girls, Girls, Girls (Deluxe Version)","Girls, Girls, Girls",549Go7a66CX6k523uK9kUv,0.599,0.931,7,-4.653,1,0.0735,6.69e-05,0.392,0.536,140.123,270427,4,Spotify,Old School Metal,Public 1
+Judas Priest,British Steel,Breaking the Law,2RaA6kIcvomt77qlIgGhCT,0.362,0.961,2,-5.664,1,0.0857,9.35e-06,0.159,0.491,164.019,153840,4,Spotify,Old School Metal,Public 1
+AC/DC,Back In Black,You Shook Me All Night Long,2SiXAy7TuUkycRVbbWDEpo,0.532,0.767,7,-5.509,1,0.0574,0.000513,0.39,0.755,127.361,210173,4,Spotify,Old School Metal,Public 1
+Twisted Sister,Stay Hungry,I Wanna Rock,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,1,0.0738,0.0123,0.355,0.671,106.244,179760,4,Spotify,Old School Metal,Public 1
+Metallica,Ride The Lightning (Deluxe Remaster),For Whom The Bell Tolls (Remastered),51YZAJhOwIC5Gg3jMbAmhZ,0.512,0.86,0,-6.145,1,0.0703,0.00528,0.0652,0.258,117.909,309973,4,Spotify,Old School Metal,Public 1
+Quiet Riot,Metal Health,Cum on Feel the Noize,3vV3cr2TpPqFk07zxYUbla,0.409,0.92,11,-5.439,0,0.12,0.00105,0.0823,0.37,145.085,290960,4,Spotify,Old School Metal,Public 1
+Van Halen,1984 (Remastered),Hot for Teacher - 2015 Remaster,6QDbGdbJ57Mtkflsg42WV5,0.552,0.947,2,-4.671,1,0.15,0.00025,0.0637,0.465,127.631,282747,4,Spotify,Old School Metal,Public 1
+Rainbow,Down To Earth,Since You Been Gone,6xq5DxZWGgdStAxGAil0yw,0.733,0.726,7,-6.514,1,0.0371,2.58e-06,0.471,0.915,120.814,197160,4,Spotify,Old School Metal,Public 1
+AC/DC,High Voltage,T.N.T.,7LRMbd3LEoV5wZJvXT1Lwb,0.754,0.759,9,-5.218,1,0.302,0.000108,0.101,0.435,126.366,214667,4,Spotify,Old School Metal,Public 1
+Mötley Crüe,Shout At The Devil,Shout At The Devil,6VZivrPxu9MJ5rIPIERg56,0.5,0.946,5,-5.428,1,0.072,4.21e-05,0.068,0.45,94.544,194987,4,Spotify,Old School Metal,Public 1
+Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,4E5xVW505akJX0wcKj8Mpd,0.519,0.982,7,-3.547,1,0.108,0.00055,0.0971,0.361,97.745,319267,4,Spotify,Old School Metal,Public 1
+Scorpions,Blackout,No One Like You,26fZwf1ImE4aUJ4XaqOkUg,0.505,0.631,9,-10.433,0,0.038,2.21e-05,0.141,0.835,118.178,237467,4,Spotify,Old School Metal,Public 1
+Ozzy Osbourne,No More Tears (Expanded Edition),No More Tears,7w6PJe5KBPyvuRYxFkPssC,0.346,0.749,6,-6.506,1,0.035,8.86e-05,0.648,0.315,102.591,443240,4,Spotify,Old School Metal,Public 1
+Metallica,...And Justice for All (Remastered Deluxe Box Set),One (Remastered),0LAcM6I7ijW4VVW0aytl1t,0.438,0.687,7,-9.15,1,0.0619,0.0801,0.42,0.426,103.01,446146,3,Spotify,Old School Metal,Public 1
+Van Halen,Van Halen (Remastered),Runnin' with the Devil - 2015 Remaster,3KhF2YiNpJvGpfiCW45R6D,0.472,0.9,8,-6.406,0,0.0582,0.000297,0.34,0.42,95.826,214960,4,Spotify,Old School Metal,Public 1
+Judas Priest,Screaming For Vengeance (Expanded Edition),You've Got Another Thing Coming,4f3RDq9nYPBeR1yMSgnmBm,0.519,0.833,6,-6.947,0,0.0496,4.33e-06,0.104,0.532,138.225,310080,4,Spotify,Old School Metal,Public 1
+Black Sabbath,Paranoid (Remaster),Iron Man - 2012 - Remaster,3IOQZRcEkplCXg6LofKqE9,0.336,0.792,9,-10.875,1,0.084,0.00175,0.0437,0.427,155.587,355304,4,Spotify,Old School Metal,Public 1
+Deep Purple,Perfect Strangers,Perfect Strangers,2JhJOPGvtqMpj5RQC8cIYf,0.521,0.721,2,-7.699,1,0.0254,0.0113,0.391,0.611,97.578,328427,4,Spotify,Old School Metal,Public 1
+Def Leppard,Pyromania (Deluxe),Rock Of Ages,2AmEv442DGwSxMGZ9XEvBA,0.706,0.785,11,-7.666,0,0.041,0.0319,0.195,0.636,105.893,247829,4,Spotify,Old School Metal,Public 1
+Mötley Crüe,Too Fast For Love (Deluxe Version),Live Wire,4Z69VxUgbZyMX7uN6Xg0q9,0.411,0.904,7,-6.652,0,0.063,7.57e-06,0.565,0.679,112.24,194587,4,Spotify,Old School Metal,Public 1
+Van Halen,Van Halen (Remastered),Eruption - 2015 Remaster,2tAeN2TKlQLOoSPXtARzBV,0.225,0.689,8,-9.12,1,0.0555,0.813,0.337,0.5,93.798,102080,4,Spotify,Old School Metal,Public 1
+Helloween,"Keeper of the Seven Keys, Pt. II (Expanded Edition)",I Want Out,5VZwMq6yaFb04PCTfdNY3K,0.477,0.859,0,-8.625,1,0.0387,0.000155,0.265,0.629,91.009,280213,4,Spotify,Old School Metal,Public 1
+Ozzy Osbourne,Bark At The Moon (Expanded Edition),Bark at the Moon,2E7W1X4maFFcjHrVrFA7Vs,0.303,0.961,9,-5.333,0,0.243,6.2e-05,0.132,0.305,146.591,257120,4,Spotify,Old School Metal,Public 1
+Black Sabbath,Paranoid (Remaster),War Pigs / Luke's Wall - 2012 - Remaster,2rd9ETlulTbz6BYZcdvIE1,0.332,0.623,9,-12.363,1,0.08,0.000895,0.278,0.413,183.097,474360,4,Spotify,Old School Metal,Public 1
+Slayer,Reign In Blood,Raining Blood,01Mpj13vURSO3cCLprPt5T,0.294,0.995,1,-4.383,0,0.168,0.331,0.128,0.0379,88.777,254400,4,Spotify,Old School Metal,Public 1
+Iron Maiden,Piece of Mind (2015 - Remaster),The Trooper - 2015 Remaster,1Ab3hhOw1TJWDgO10vlxNZ,0.285,0.908,4,-4.601,0,0.0705,0.00909,0.311,0.669,159.756,252733,4,Spotify,Old School Metal,Public 1
+Dio,Holy Diver,Rainbow in the Dark,2PpNgmrS9mAyrkRAwn6YPq,0.512,0.947,9,-5.659,0,0.0401,0.114,0.0283,0.612,117.461,256933,4,Spotify,Old School Metal,Public 1
+Judas Priest,British Steel,Living After Midnight,0IXpUl1fn2QZcBavfuq0H4,0.61,0.824,4,-6.046,1,0.0534,1.75e-06,0.0606,0.819,134.992,210133,4,Spotify,Old School Metal,Public 1
+Mötley Crüe,Shout At The Devil,Looks That Kill,74BDVL4TC3P8wyrYViuVjO,0.485,0.949,0,-5.79,1,0.0404,0.00631,0.115,0.742,135.972,247840,4,Spotify,Old School Metal,Public 1
+Slayer,South Of Heaven,South Of Heaven,3U9gogDStAfWxSm91PJuxb,0.31,0.991,5,-3.769,0,0.316,0.085,0.0969,0.0395,140.071,298533,4,Spotify,Old School Metal,Public 1
+KISS,Kiss,Strutter,0UCg6lnG2MXpuEpf8Pk1MV,0.511,0.912,1,-5.618,1,0.0594,0.0553,0.0943,0.833,131.339,190867,4,Spotify,Old School Metal,Public 1
+Sammy Hagar,Standing Hampton,Heavy Metal,1XxUDJp9zsjd6tBSvE3la4,0.276,0.639,2,-11.674,1,0.0471,0.0,0.292,0.643,186.502,230507,4,Spotify,Old School Metal,Public 1
+Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Mr. Crowley,2ov8L95QD25TLpZAZPYWXL,0.307,0.748,2,-6.514,0,0.0568,0.000153,0.368,0.347,108.227,302648,4,Spotify,Old School Metal,Public 1
+Deep Purple,Machine Head,Smoke on the Water,5SAUIWdZ04OxYfJFDchC7S,0.632,0.586,0,-11.333,1,0.0284,0.581,0.0535,0.89,114.243,342173,4,Spotify,Old School Metal,Public 1
+Metallica,Kill 'Em All (Remastered),Seek & Destroy (Remastered),5DrNFzZZZVfXaEZCaceKnp,0.439,0.963,9,-5.508,1,0.277,0.00896,0.0784,0.435,140.805,414720,4,Spotify,Old School Metal,Public 1
+Quiet Riot,Metal Health,Metal Health (Bang Your Head),28clONjZmul6FjfO6tZQDE,0.494,0.933,2,-5.977,1,0.0808,0.00108,0.228,0.507,121.201,316867,4,Spotify,Old School Metal,Public 1
+Dio,Holy Diver,Holy Diver,57fqmDaokbxZ3TaB0jp39q,0.476,0.901,8,-6.751,1,0.0975,0.158,0.0557,0.109,91.955,353787,4,Spotify,Old School Metal,Public 1
+W.A.S.P.,W.A.S.P.,I Wanna Be Somebody,6w8dBm5KlXxWejYrbGS1EJ,0.285,0.825,1,-7.049,0,0.0466,0.0,0.268,0.516,164.611,223533,4,Spotify,Old School Metal,Public 1
+Iron Maiden,The Number of the Beast (2015 - Remaster),Run to the Hills - 2015 Remaster,0sxYYT48UPkmrDx8p4Hnrl,0.249,0.943,0,-5.188,1,0.0669,0.00401,0.162,0.458,173.671,233507,4,Spotify,Old School Metal,Public 1
+Ozzy Osbourne,The Ultimate Sin,Shot in the Dark,31dqpLUModJWNbxrXu6TWd,0.581,0.791,6,-7.262,1,0.0324,6.02e-05,0.142,0.619,123.887,256293,3,Spotify,Old School Metal,Public 1
+KISS,Creatures Of The Night,I Love It Loud,7yDrKl1J4VWNbR4aLU3qJ7,0.414,0.897,5,-6.406,0,0.0538,1.85e-06,0.0809,0.263,170.916,255427,4,Spotify,Old School Metal,Public 1
+Accept,Balls To The Wall,Balls to the Wall,2dbOYFfS7r7NAzquRvji9A,0.544,0.739,9,-7.383,1,0.0517,0.000143,0.168,0.328,118.287,342600,4,Spotify,Old School Metal,Public 1
+Motörhead,Overkill (Expanded Bonus Track Edition),Overkill,3Staqm5EYDnYBqcwuxrWjZ,0.266,0.866,11,-7.885,1,0.112,0.0185,0.0961,0.211,119.41,311133,4,Spotify,Old School Metal,Public 1
+Ratt,Invasion of Your Privacy,Lay It Down,3D5ORNm9spaTcdRx50ksHx,0.442,0.759,10,-13.475,1,0.0354,0.0081,0.174,0.279,198.117,205560,4,Spotify,Old School Metal,Public 1
+Megadeth,"So Far, So Good...So What! (2004 Remaster)",In My Darkest Hour - Remastered,5LO0sJCkNMZYLYeGOvblLu,0.322,0.978,9,-5.446,1,0.131,0.266,0.136,0.271,112.878,386600,4,Spotify,Old School Metal,Public 1
+Black Sabbath,Master of Reality (2014 Remaster),Children of the Grave - 2014 Remaster,5clz8BOBulxx7q2yHxqOCk,0.318,0.65,6,-13.928,1,0.0375,0.132,0.0962,0.368,149.994,317206,4,Spotify,Old School Metal,Public 1
+W.A.S.P.,The Last Command,Wild Child,3iC3Numiy9P3AkF7iioKmx,0.372,0.857,5,-7.816,0,0.0461,9.42e-05,0.187,0.389,146.084,312400,4,Spotify,Old School Metal,Public 1
+Anthrax,Spreading The Disease,Madhouse,76BYv24CcZt2u94JRjmATX,0.329,0.885,9,-10.661,1,0.0904,0.00433,0.735,0.481,163.538,259760,4,Spotify,Old School Metal,Public 1
+Def Leppard,High 'N' Dry,Bringin' On The Heartbreak,7iEVmnzJr1V7duYKPWplzp,0.329,0.676,9,-9.036,0,0.0324,0.0,0.18,0.529,78.217,273733,4,Spotify,Old School Metal,Public 1
+Rainbow,Rising,Stargazer,1aDNYyeU62BuQsBAY18i48,0.166,0.948,11,-8.503,0,0.0631,0.0131,0.769,0.476,177.495,506160,4,Spotify,Old School Metal,Public 1
+Iron Maiden,The Number of the Beast (2015 - Remaster),The Number of the Beast - 2015 Remaster,139RwLyp7r8F9ojvhGF5lC,0.409,0.89,0,-6.839,1,0.0558,0.107,0.0935,0.268,100.409,290587,4,Spotify,Old School Metal,Public 1
+Manowar,Kings of Metal,Kings of Metal,28TcG73tbc4iGrGBFjiBnR,0.575,0.881,9,-13.012,1,0.0357,2.69e-05,0.147,0.699,132.127,223867,4,Spotify,Old School Metal,Public 1
+Tesla,Mechanical Resonance,Modern Day Cowboy,5ZIU2kT1wNjQNclQeVCz5O,0.445,0.768,4,-8.836,1,0.0347,2.58e-06,0.0925,0.32,112.796,318227,4,Spotify,Old School Metal,Public 1
+Dokken,Tooth and Nail,Alone Again,1j06ieEC2BOCM0fTmYhn2l,0.298,0.612,3,-9.002,0,0.0379,9.67e-05,0.0906,0.343,156.727,262200,4,Spotify,Old School Metal,Public 1
+Twisted Sister,You Can't Stop Rock 'N' Roll,The Kids Are Back,7xzmJPFQAn0O1ZYYtbGRlz,0.557,0.843,0,-4.338,1,0.131,1.83e-06,0.218,0.547,138.339,198800,4,Spotify,Old School Metal,Public 1
+Winger,Winger,Seventeen,2ZS0wDcdfrJPC86u5aJGo9,0.577,0.676,8,-11.931,1,0.0295,2.29e-06,0.0625,0.676,95.98,245267,4,Spotify,Old School Metal,Public 1
+Rainbow,Difficult To Cure,I Surrender,2dHjSNCw10clC9oOld8tPn,0.49,0.86,7,-5.284,0,0.0573,0.0,0.215,0.795,132.673,241893,4,Spotify,Old School Metal,Public 1
+Motörhead,No Remorse,Killed by Death,4cuPWrSsjNLAkYRJwQLCzt,0.387,0.942,2,-8.052,1,0.0442,0.000437,0.491,0.251,134.558,279307,4,Spotify,Old School Metal,Public 1
+Deep Purple,Machine Head,Highway Star,4gVTozEmzwAUXpwj3jEetX,0.298,0.895,9,-7.647,0,0.0547,0.00574,0.305,0.544,173.737,368507,4,Spotify,Old School Metal,Public 1
+Black Sabbath,Heaven and Hell (2008 Remaster),Heaven and Hell - 2008 Remaster,3Jl5GohfNwozDmpzmQBLDI,0.329,0.673,3,-8.465,0,0.0296,0.109,0.138,0.323,91.122,419933,4,Spotify,Old School Metal,Public 1
+Scorpions,Love At First Sting,Big City Nights,5LDZbklcDwQeeScf7dUlo4,0.532,0.723,9,-11.779,0,0.0333,0.00425,0.078,0.866,137.662,249307,4,Spotify,Old School Metal,Public 1
+Danzig,Danzig,Am I Demon,0kZpg64mTDk3V6jhGGEd7M,0.373,0.924,1,-9.1,0,0.0553,0.00776,0.0836,0.347,135.02,297293,4,Spotify,Old School Metal,Public 1
+Iron Maiden,Somewhere in Time (2015 - Remaster),Wasted Years - 2015 Remaster,2V0T2LS0pf2r3EFpOEkZFO,0.314,0.959,4,-4.657,0,0.0908,0.000148,0.161,0.492,154.221,309640,4,Spotify,Old School Metal,Public 1
+Dokken,Breaking the Chains,Breaking the Chains,2W7CvGjipq3EmHqNGN7lN9,0.526,0.9,4,-4.76,0,0.0531,0.0,0.277,0.458,125.349,231693,4,Spotify,Old School Metal,Public 1
+Judas Priest,Stained Class,Beyond the Realms of Death,3Rtv6zRNKpeSygXoaF9kCm,0.287,0.716,11,-5.653,0,0.0311,3.24e-05,0.164,0.544,172.123,409800,4,Spotify,Old School Metal,Public 1
+Metallica,Ride The Lightning (Deluxe Remaster),Fight Fire With Fire (Remastered),0WSRrGVg1gO33MKIBPgBV2,0.28,0.986,0,-7.012,1,0.115,0.688,0.071,0.16,91.025,284507,4,Spotify,Old School Metal,Public 1
+Manowar,Fighting the World,Fighting the World,2tjb6V24kf6sDUdEFNf3m9,0.649,0.909,6,-6.988,0,0.0729,0.469,0.0787,0.623,131.919,230560,4,Spotify,Old School Metal,Public 1
+Girlschool,Demolition,Race with the Devil,3D8KAebbZgAFdVjTrsNgOI,0.21,0.882,0,-6.942,0,0.111,0.671,0.318,0.329,169.758,171960,4,Spotify,Old School Metal,Public 1
+Stratovarius,Visions,Black Diamond,1EoN7hqAsyuTUrBjJPzWJF,0.388,0.988,1,-7.285,0,0.0619,0.335,0.0544,0.366,149.833,340240,4,Spotify,Old School Metal,Public 1
+Anthrax,Among The Living,Indians,1fcyfC1KLSWVCIvALR5AxS,0.379,0.941,11,-10.443,0,0.038,0.000637,0.0393,0.527,105.155,341333,4,Spotify,Old School Metal,Public 1
+W.A.S.P.,W.A.S.P.,Animal (Fuck Like A Beast),22KezdnLpayPKz4aTDt899,0.299,0.963,1,-5.735,1,0.158,7.02e-06,0.549,0.15,143.539,187493,4,Spotify,Old School Metal,Public 1
+Iron Maiden,Powerslave (2015 - Remaster),2 Minutes to Midnight - 2015 Remaster,4sAjWbPq6iSI6I0Ovr9CkY,0.446,0.97,9,-5.004,0,0.0508,0.000275,0.199,0.595,94.233,363587,4,Spotify,Old School Metal,Public 1
+Dio,The Last in Line,The Last in Line,6LUGAFpbYVek4rRY0G9dV0,0.286,0.895,9,-6.041,0,0.104,0.141,0.0562,0.58,172.764,344933,4,Spotify,Old School Metal,Public 1
+Scorpions,Blackout,Blackout,15RpfmFhrE5RRkf4vZ6kZu,0.263,0.84,9,-9.757,1,0.0527,0.356,0.7,0.714,89.368,228267,4,Spotify,Old School Metal,Public 1
+Exodus,Fabulous Disaster,The Toxic Waltz,5ZOOjqoCaUydmo8bxSdosj,0.262,0.988,11,-4.922,0,0.253,0.897,0.132,0.227,91.319,290280,4,Spotify,Old School Metal,Public 1
+Mercyful Fate,Melissa,Evil,5pH1BecbNktYDbYw0XCEWn,0.288,0.904,0,-9.455,1,0.114,0.382,0.0894,0.556,133.838,284960,4,Spotify,Old School Metal,Public 1
+Twisted Sister,Stay Hungry,Burn in Hell,1aVChMRP6I3ViAIlnW3WYS,0.357,0.828,4,-12.136,0,0.0482,0.000527,0.345,0.624,107.126,283227,4,Spotify,Old School Metal,Public 1
+Saxon,Wheels of Steel (2009 Remastered Version),Wheels of Steel - 2009 Remastered Version,4ie42LCUKcp68EnZOMw9PG,0.539,0.783,8,-6.651,1,0.0517,0.742,0.151,0.143,131.374,358698,4,Spotify,Old School Metal,Public 1
+Angel Witch,Angel Witch (30th Anniversary Edition),Angel Witch,4G3Nnoae2XF1cdbdgATKKq,0.238,0.759,0,-12.476,1,0.0624,0.002,0.608,0.732,193.044,203933,4,Spotify,Old School Metal,Public 1
+Anthrax,Among The Living (Deluxe Edition),Caught In A Mosh,0c6p9QomOhNU9uzujLjtsD,0.339,0.991,2,-5.028,1,0.145,0.00327,0.261,0.185,106.767,300093,4,Spotify,Old School Metal,Public 1
+Accept,Restless And Wild,Fast as a Shark,204523f9MSgEfc0oDJycNS,0.431,0.95,2,-11.399,1,0.117,0.248,0.232,0.162,140.044,228667,4,Spotify,Old School Metal,Public 1
+Michael Schenker Group,Michael Schenker Group,Armed and Ready - 2000 Remaster,4r299IW4ua73XaiXYFtLwP,0.328,0.938,9,-7.241,1,0.083,0.0016,0.0835,0.762,171.707,249133,4,Spotify,Old School Metal,Public 1

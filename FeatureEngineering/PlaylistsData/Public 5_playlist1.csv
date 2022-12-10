@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Luke Combs,Growin' Up,"Going, Going, Gone",67AdiJcurlf6gocGobfaXs,0.565,0.56,6,-6.034,1,0.0275,0,0.0961,0.325,159.931,177267,4,Spotify,Hot Country,Public 5
+Maddie & Tae,Every Night Every Morning,Every Night Every Morning,4qbibbQ1yK0rPl0JUJS0bz,0.618,0.75,7,-4.608,1,0.0287,0,0.141,0.619,123.885,196890,4,Spotify,Hot Country,Public 5
+Jordan Davis,What My World Spins Around,What My World Spins Around,6HBRLaSQ7NB8MNlaqzYen1,0.675,0.726,2,-6.459,1,0.0461,0,0.153,0.671,124.872,186791,4,Spotify,Hot Country,Public 5
+Cole Swindell,Stereotype,She Had Me At Heads Carolina,200x8ONbPfFzByUr3fVz46,0.607,0.912,8,-3.449,1,0.0611,0,0.332,0.722,134.944,206107,4,Spotify,Hot Country,Public 5
+Carly Pearce,29: Written In Stone,What He Didn't Do,5OLaVCAM2pqg7X9mAM2W8M,0.628,0.632,9,-5.932,1,0.0325,0,0.288,0.559,137.854,191227,4,Spotify,Hot Country,Public 5
+Morgan Wallen,You Proof,You Proof,5uU1uuyaUIBOiiUSQG7Wl3,0.731,0.85,9,-4.913,1,0.0336,0,0.605,0.644,119.706,157478,4,Spotify,Hot Country,Public 5
+Parker McCollum,Handle On You,Handle On You,6Qpfsw8OS5HW5XxgmXYLWS,0.588,0.931,6,-3.925,1,0.0318,0,0.345,0.625,105.027,219333,4,Spotify,Hot Country,Public 5
+Mitchell Tenpenny,This Is the Heavy,We Got History,6Awl7JBDQjfm7xkS3LkhDi,0.628,0.833,0,-6.327,1,0.0311,0,0.104,0.309,98.025,203680,4,Spotify,Hot Country,Public 5
+Kelsea Ballerini,SUBJECT TO CHANGE,IF YOU GO DOWN (I'M GOIN' DOWN TOO),1jX9wlAgVkAl0fCZqkCI73,0.676,0.856,11,-4.35,1,0.0393,0,0.141,0.965,144.092,166036,4,Spotify,Hot Country,Public 5
+Kane Brown,Different Man,Thank God,1brnLTvarI9D1hLP6z2Ar8,0.738,0.455,3,-8.735,1,0.0352,0,0.107,0.441,99.945,174560,4,Spotify,Hot Country,Public 5
+Tyler Hubbard,5 Foot 9,5 Foot 9,6AqwH2Y9FJwhUE2dCSkw1u,0.602,0.796,5,-5.609,1,0.0465,0,0.125,0.53,106.005,189780,4,Spotify,Hot Country,Public 5
+Kylie Morgan,P.S.,If He Wanted To He Would,3nei8eHEdiwwSfyoOCHPZI,0.655,0.617,0,-4.716,1,0.026,0,0.211,0.734,90.015,174173,4,Spotify,Hot Country,Public 5
+Conner Smith,Take It Slow,Take It Slow,3CC2sCo30DhwOwGI4NN30I,0.594,0.838,5,-3.768,1,0.0323,0,0.126,0.524,116.012,162587,4,Spotify,Hot Country,Public 5
+HARDY,wait in the truck (feat. Lainey Wilson),wait in the truck (feat. Lainey Wilson),7trjNYF5ek7zX4GKSHQZbP,0.534,0.466,6,-6.98,1,0.0272,0,0.0979,0.23,140.0,277660,4,Spotify,Hot Country,Public 5
+Nate Smith,Whiskey On You,Whiskey On You,6Tm4Io4ct4w14nB1EUzsY3,0.479,0.768,8,-5.204,1,0.0312,0.00549,0.121,0.576,110.024,183790,4,Spotify,Hot Country,Public 5
+Priscilla Block,My Bar,My Bar,3rvEUrjnl3eXXmKiKLkzRN,0.615,0.782,11,-3.386,1,0.0331,0,0.189,0.562,96.97,193053,4,Spotify,Hot Country,Public 5
+Jason Aldean,MACON,That's What Tequila Does,6kCFt2ATuMIE5H9zVEJXei,0.522,0.801,5,-5.424,1,0.1,0,0.301,0.491,155.928,189307,3,Spotify,Hot Country,Public 5
+Lee Brice,Hey World,Soul,3vCUelLOtiuNF78p9LNWZF,0.789,0.642,11,-8.304,1,0.0352,0,0.0985,0.755,121.003,167680,4,Spotify,Hot Country,Public 5
+Zach Bryan,Something in the Orange,Something in the Orange,3WMj8moIAXJhHsyLaqIIHI,0.369,0.192,4,-12.151,0,0.04,8.35e-06,0.0954,0.148,175.212,228013,3,Spotify,Hot Country,Public 5
+Lainey Wilson,Heart Like A Truck,Heart Like A Truck,5ZCjp56T8J6d7amJyFSzrI,0.587,0.632,9,-5.416,1,0.0311,1.01e-05,0.158,0.392,139.974,199040,4,Spotify,Hot Country,Public 5
+Bailey Zimmerman,Rock and A Hard Place,Rock and A Hard Place,4686eQ81DEswHa90bcdlC9,0.582,0.568,1,-7.3,1,0.0275,0,0.105,0.394,121.991,207541,3,Spotify,Hot Country,Public 5
+Megan Moroney,Tennessee Orange,Tennessee Orange,29zZmiBDLykYYTj7RN6VhV,0.38,0.488,9,-6.637,1,0.029,7.23e-06,0.115,0.268,156.031,223120,3,Spotify,Hot Country,Public 5
+Adam Doleac,Don't It Sound Alright,Don't It Sound Alright,58UvLeYJXtFkbkUP3lU6YK,0.641,0.547,7,-5.094,1,0.0247,0,0.0771,0.487,130.061,218806,4,Spotify,Hot Country,Public 5
+Brett Eldredge,Songs About You,Songs About You,7qox7CiK5Kf25oBxCA0rY5,0.649,0.558,8,-4.863,1,0.0253,0,0.172,0.635,89.988,202387,4,Spotify,Hot Country,Public 5
+Hailey Whitters,Everything She Ain’t,Everything She Ain’t,3zAOcNGOFq5Q1OsN0tcxA0,0.796,0.621,2,-6.129,1,0.0346,0,0.274,0.808,121.904,151973,4,Spotify,Hot Country,Public 5
+Thomas Rhett,Where We Started,Half Of Me,11kskoMyNDumaR30CI6rRv,0.575,0.842,7,-5.058,1,0.0348,0,0.279,0.665,111.995,183027,4,Spotify,Hot Country,Public 5
+Dan + Shay,Good Things,You,2xPV95cfbyusygMTxpa3SW,0.544,0.572,0,-6.205,1,0.0319,0,0.234,0.52,169.885,196253,4,Spotify,Hot Country,Public 5
+Dierks Bentley,Gold,Gold,4iy69rTUn8cAY8Q8q9vfOw,0.674,0.873,1,-4.256,1,0.0285,0,0.18,0.946,115.01,167760,4,Spotify,Hot Country,Public 5
+Maren Morris,Humble Quest,I Can't Love You Anymore,4tKtMWS8LZRvWhzuHKRIdr,0.342,0.591,2,-5.115,1,0.0452,0,0.16,0.399,175.673,169307,4,Spotify,Hot Country,Public 5
+Brett Young,Weekends Look A Little Different These Days,You Didn’t,5Jwcv2Le3Klwgrgyqa12ZA,0.623,0.466,11,-7.6,1,0.0265,1.45e-06,0.0996,0.272,81.98,225813,3,Spotify,Hot Country,Public 5
+Kameron Marlowe,Girl On Fire,Girl On Fire,3DUVwg2lfRKphwNtYE7S85,0.591,0.758,2,-5.4,1,0.0719,0,0.179,0.412,82.008,173011,4,Spotify,Hot Country,Public 5
+Chris Lane,Dancin' In The Moonlight (feat. Lauren Alaina),Dancin' In The Moonlight (feat. Lauren Alaina),0pnKcAh5binHOP9HexWwnZ,0.589,0.829,8,-4.861,0,0.0332,0,0.128,0.563,121.998,199000,4,Spotify,Hot Country,Public 5
+Jimmie Allen,down home,down home,6iai8D40xiwuktWrxcInt1,0.584,0.821,9,-3.628,1,0.0305,0,0.196,0.571,146.0,201733,4,Spotify,Hot Country,Public 5
+Jelly Roll,Ballads Of The Broken,Son Of A Sinner,25VQoiuyc0HkC5FQTj1a8G,0.365,0.541,7,-7.489,1,0.0304,2.25e-06,0.281,0.329,86.041,232093,4,Spotify,Hot Country,Public 5
+Ashley Cooke,Already Drank That Beer,Never Til Now (feat. Brett Young),4232gJU5ljjFmKaPh0cKds,0.382,0.408,10,-7.552,1,0.0407,0,0.127,0.128,77.063,173534,4,Spotify,Hot Country,Public 5
+Keith Urban,Brown Eyes Baby,Brown Eyes Baby,5JLf54f83nJrxD4IhFaLl7,0.521,0.833,8,-6.992,1,0.0313,3.13e-06,0.0647,0.581,141.944,224985,4,Spotify,Hot Country,Public 5
+Miranda Lambert,Palomino,Strange,6BWOWBSalJEp7woRZSyiMb,0.723,0.633,6,-6.982,1,0.0332,1.93e-05,0.0665,0.498,112.022,211227,4,Spotify,Hot Country,Public 5
+Luke Bryan,Country On,Country On,1tRxwf8Q0AcshfHuaD86Yt,0.52,0.751,5,-5.064,1,0.0551,7.4e-06,0.0624,0.519,156.044,236456,4,Spotify,Hot Country,Public 5
+Cody Johnson,Human The Double Album,Human,5AihIu9yF3flkw1jFMyfwW,0.4,0.647,2,-7.279,1,0.0337,5.79e-05,0.11,0.274,84.08,221520,4,Spotify,Hot Country,Public 5
+Jackson Dean,Jackson Dean,Don't Come Lookin',1vscizuuPwkwC1cc5N5KQV,0.529,0.858,9,-6.015,1,0.0536,2.91e-05,0.345,0.676,156.129,187957,4,Spotify,Hot Country,Public 5
+Little Big Town,Hell Yeah,Hell Yeah,0BkzrrQUzJhCAFk3Pq7g29,0.577,0.601,11,-5.01,1,0.0357,0,0.0886,0.907,171.912,175840,4,Spotify,Hot Country,Public 5
+Tyler Braden,What Do They Know,Try Losing One,6mDokQBBmkDhu7uDEFhyQ7,0.455,0.4,2,-7.749,1,0.0293,0,0.0971,0.103,139.828,219640,4,Spotify,Hot Country,Public 5
+Elle King,Worth A Shot (feat. Dierks Bentley),Worth A Shot (feat. Dierks Bentley),16Sdmdt7jpibASwEsO0s9j,0.554,0.809,0,-4.893,1,0.039,0.00156,0.111,0.462,159.989,211933,4,Spotify,Hot Country,Public 5
+Luke Combs,The Kind of Love We Make,The Kind of Love We Make,28n8z9IQKyjMPxmvYMBqZa,0.608,0.745,1,-4.13,1,0.0277,6.47e-06,0.0942,0.464,102.025,224427,4,Spotify,Hot Country,Public 5
+Gabby Barrett,Pick Me Up,Pick Me Up,7xNYZeFtrB05pi9tc6lEeb,0.472,0.701,2,-4.563,1,0.0369,0,0.107,0.515,79.805,169440,4,Spotify,Hot Country,Public 5
+BRELAND,Cross Country,For What It’s Worth,1r2dzf8CUPxJWhmJQKbC8p,0.661,0.749,1,-4.851,1,0.0371,0,0.0898,0.682,146.079,175213,4,Spotify,Hot Country,Public 5
+Zac Brown Band,Out in the Middle,Out In The Middle,1pbUfl4W9KtQ5hNkT6RiXp,0.516,0.867,1,-3.139,1,0.0328,0,0.106,0.615,166.031,166301,4,Spotify,Hot Country,Public 5
+MacKenzie Porter,Pickup,Pickup,2kEhQe0BVtY8IIaFE5ALA0,0.614,0.837,1,-3.967,1,0.0255,2.49e-05,0.115,0.862,96.977,168448,5,Spotify,Hot Country,Public 5
+Russell Dickerson,I Wonder,I Wonder,19Sf2YrUN9ohsdBk8BWJTF,0.373,0.845,0,-3.748,1,0.0595,0,0.134,0.606,201.81,206493,4,Spotify,Hot Country,Public 5
+Eric Church,Doing Life With Me,Doing Life With Me,57YkkgxAiusJPMtiSG3w3c,0.646,0.598,3,-10.293,1,0.0425,5.87e-06,0.118,0.606,80.993,195587,4,Spotify,Hot Country,Public 5
