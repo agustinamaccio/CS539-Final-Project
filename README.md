@@ -1,1 +1,8 @@
 # CS539-Final-Project
+
+## Project Scope
+ 
+In this project, we are proposing a tool to generate ‘friendships’ based on musical preferences and playlist composition of Spotify users. The tool will take a user’s Spotify playlist(s) as input and create matches with other Spotify users based on an algorithmic compatibility of the audio features of songs within each playlist.
+Research suggests that music has the power to bring people together, and that is the motivation behind this proposal. Though this project will be small-scale, Spotify is one of the largest music streaming services in the world, with over 433 million users. The idea itself has the potential to allow people to make connections with others around the world who find pleasure in the same types of music. 
+Currently, Spotify has a feature called “Blend”, where two users’ music tastes are analyzed and similar music is compiled into one shared playlist. It includes both songs that are unique to each user but determined by the algorithm to be liked by both users, and also songs that are shared between both people. This playlist is also adaptable, and is updated daily depending on each person’s streaming history.
+Spotify Blend is a feature that is only implemented when two people agree to make a blended playlist, whereas the tool we plan on developing will generate a list of people that have the most similar music tastes to the user amongst either the user’s friends or strangers. This distinction is important because people would be able to explore music tastes outside of their normal social bubble and foster new relationships based on the generated matches. Aside from this feature, Spotify has not developed anything else similar to this project.
