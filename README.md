@@ -4,6 +4,8 @@
  
 In this project, we are proposing a tool to generate ‘friendships’ based on musical preferences and playlist composition of Spotify users. The tool will take a user’s Spotify playlist(s) as input and create matches with other Spotify users based on an algorithmic compatibility of the audio features of songs within each playlist.
 
+## Usage
+
 In this repository you will find the following directories:
 1. SpotifyDataScraping: includes a python script which reads a csv file with spotify playlist links, and scrapes the data using the Spotify API ans spotypy library. It also includes the csv with the links. 
   1.1 Get_track_info_per_playlist.ipynb
