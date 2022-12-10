@@ -1,0 +1,70 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Lynyrd Skynyrd,Second Helping (Expanded Edition),Sweet Home Alabama,7e89621JPkKaeDSTQ3avtg,0.596,0.605,7,-12.145,1,0.0255,0.000331,0.0863,0.886,97.798,283800,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Aleks Syntek,Mundo Lite,Duele El Amor,0oXLSuno5adlHcPzlzs8l6,0.674,0.774,6,-6.004,0,0.0349,1.52e-06,0.323,0.702,129.951,275373,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Julieta Venegas,Si,Lento,2NsMwNWumJXCdTg2IZCLZ5,0.762,0.745,5,-7.426,1,0.0442,3.05e-05,0.042,0.804,143.965,239227,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Camilo,Índigo,Índigo,4knc1Fp3kbuq8bH2byOvLu,0.748,0.779,0,-6.659,1,0.0342,3.96e-05,0.113,0.928,128.91,214933,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,0bVtevEgtDIeRjCJbK3Lmv,0.447,0.954,8,-8.069,1,0.0751,0.403,0.298,0.331,123.453,272027,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Vicente Garcia,Loma de Cayenas,Loma de Cayenas,3ARHcfADevNLh3m5oz2TVG,0.812,0.919,0,-5.083,1,0.126,0.0,0.218,0.954,129.968,225869,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Miley Cyrus,The Time Of Our Lives (International Version),Party In The U.S.A.,3E7dfMvvCLUddWissuqMwr,0.652,0.698,10,-4.667,0,0.042,0.000115,0.0886,0.47,96.021,202067,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+John Mayer,The Search for Everything,Still Feel Like Your Man,1LM6t24SjQr2bJHqeGIR4U,0.858,0.6,2,-6.677,1,0.0631,0.00117,0.132,0.515,106.023,234920,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Lynyrd Skynyrd,(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition],Free Bird,4JNi40t7xR5bO3PWxRkiPN,0.279,0.852,7,-7.838,1,0.0511,0.076,0.0624,0.438,117.418,558933,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Fonseca,Corazon,Te Mando Flores,6OpHDI8lRiqHLqmUIYUxVr,0.696,0.848,0,-7.839,1,0.0602,0.0,0.0987,0.898,102.038,227736,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Juan Luis Guerra 4.40,Asondeguerra Tour (En Vivo Estadio Olímpico De República Dominicana/2012),La Bilirrubina - En Vivo Estadio Olímpico De República Dominicana/2012,1GT0Q2ZTeKtIBueYKr4vhr,0.585,0.977,1,-3.57,1,0.0615,0.0,0.328,0.801,138.264,232880,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+RBD,Celestial,Ser O Parecer,5sgvzXoYFCr5F5tUZdAA20,0.605,0.88,1,-3.747,1,0.14,0.0,0.2,0.908,176.028,211467,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Shawn Mendes,Summer Of Love,Summer of Love (Shawn Mendes & Tainy),0z8hI3OPS8ADPWtoCjjLl6,0.776,0.808,11,-4.501,1,0.117,0.000127,0.103,0.494,123.988,184104,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Myke Towers,Experimento,Experimento,6c32C8T3KlXrbvWSoD5aON,0.805,0.806,6,-3.589,0,0.0393,0.0,0.156,0.682,110.042,222728,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Bad Bunny,YHLQMDLG,A Tu Merced,4r9jkMEnArtWGH2rL2FZl0,0.86,0.791,0,-4.784,1,0.0568,0.000106,0.106,0.887,92.023,175918,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+J Balvin,JOSE,Qué Más Pues?,6D2TCm4nf5nxAcdGJ7w3QP,0.903,0.817,8,-3.972,1,0.095,0.000311,0.242,0.732,102.014,217360,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Myke Towers,LYKE MIKE,PIN PIN,51tMYALx6Lkrte41DoWIPq,0.77,0.759,2,-5.749,1,0.0535,0.0276,0.145,0.372,90.782,159572,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Rvssian,Nostálgico,Nostálgico,2BEcap3xJtmiPaHKyfQi4e,0.734,0.846,9,-3.425,0,0.0489,1.74e-06,0.235,0.604,98.026,209884,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Dímelo Flow,Se Le Ve,Se Le Ve,5W1qmxHrMlQGGAiFA3ZQqP,0.562,0.755,7,-4.367,0,0.112,2.25e-05,0.143,0.609,83.997,277693,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Bad Bunny,LAS QUE NO IBAN A SALIR,BAD CON NICKY,5bmSver2b3ZXyuyLKtgnFI,0.59,0.729,7,-4.95,0,0.0893,0.0,0.659,0.712,93.094,202240,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Luis Figueroa,Hasta el Sol de Hoy,Hasta el Sol de Hoy - Versión Salsa,7064YUYdHypgqgH7mKlAgw,0.678,0.654,2,-5.661,1,0.0404,2.39e-05,0.11,0.533,90.015,236612,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Marc Anthony,Tu Vida en la Mía,Tu Vida en la Mía,0amRhMUb9wYrDOmSD938AQ,0.68,0.864,2,-3.16,1,0.0339,0.000309,0.373,0.851,93.528,373200,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Romeo Santos,Golden,Sobredosis (feat. Ozuna),1WbXIpiGBJkCiv3hn40iPB,0.759,0.639,4,-8.085,0,0.0511,0.0,0.23,0.682,128.01,198332,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Camilo,KESI (Remix),KESI - Remix,0IqCoZ168iRc9LqfrYgpZy,0.871,0.815,4,-4.439,1,0.0477,6.18e-06,0.094,0.823,122.959,176575,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Prince Royce,Carita de Inocente (feat. Myke Towers) [Remix],Carita de Inocente (feat. Myke Towers) - Remix,5kQre7o8ky5DXeEPcyaCR1,0.565,0.781,10,-3.358,0,0.061,0.0,0.0984,0.943,129.959,192698,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Aventura,Todavía Me Amas: Lo Mejor de Aventura,El Perdedor,7hLYOkbsngrNAcIXbXfsQu,0.78,0.552,5,-10.63,1,0.0341,0.0,0.134,0.933,128.036,215213,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Zacarias Ferreira,El Amor,La Asesina,1WoDc1x28zHmxnPvvM5GLh,0.81,0.803,3,-3.042,1,0.0349,0.0,0.14,0.883,130.049,204733,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Frank Reyes,Cuando Se Quiere Se Puede,Quién Eres Tu,0D0hqpMEi4aHukh8zP5gSF,0.939,0.635,5,-4.423,0,0.0345,5.72e-05,0.133,0.843,130.937,262587,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Zacarias Ferreira,El Triste,Si Tu Me Dices Ven (HD Digital Remastered),6cyzaOgT4FOQ5V6Tdl9hYx,0.914,0.574,2,-6.332,0,0.0443,0.0,0.174,0.84,109.951,170000,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Aventura,Todavía Me Amas: Lo Mejor de Aventura (Deluxe Edition),Su Veneno,2cxmgpAd57AlUTx3O8e9yk,0.764,0.571,9,-9.561,0,0.0422,0.0,0.117,0.925,123.915,240707,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Romeo Santos,Fórmula Vol. 1,Llévame Contigo,5bK3dAjOf0yLFVLalwX54q,0.813,0.694,7,-5.092,0,0.0319,1.37e-06,0.0919,0.92,119.079,226400,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Juan Luis Guerra 4.40,La Llave De Mi Corazon,Como Yo,6lukSvy0Oh4oImuY0ihOvH,0.822,0.873,5,-3.873,1,0.0611,1.06e-06,0.0677,0.904,129.988,205693,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Ala Jaza,Te Soñe,Te Soñe,4Yd5k09BbVd44b5qaY2TVL,0.736,0.618,11,-9.597,0,0.255,0.00222,0.25,0.575,123.58,242317,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Milly Quezada,20 Exitos Originales,Entre Tu Cuerpo y el Mio,20js1xS9eDxHcHVoVQASPO,0.609,0.851,5,-5.738,1,0.0409,0.0,0.181,0.741,142.655,298107,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Willie Colón,Top Secrets,El Gran Varón,5XWfwjzFNl2pTB737fx7qr,0.645,0.665,7,-5.519,0,0.0384,0.0,0.0391,0.369,94.115,414707,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Marc Anthony,Esencial,Qué Precio Tiene el Cielo - Salsa Version,7D1Dhyy1hySv84aHuyMZlu,0.428,0.897,2,-2.882,1,0.0496,0.0,0.101,0.514,89.982,303480,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Yiyo Sarante,7 Exitos,Corazon de Acero,5Xb1MlGpQi70MW0FiDyceb,0.58,0.783,5,-4.026,0,0.0417,3.93e-06,0.0523,0.939,83.644,225542,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+ChiChi Peralta,Pa' Otro La 'O,Procura,2q9udNV9NK0BL3q9p6TLxf,0.805,0.757,8,-7.46,1,0.0355,0.000839,0.101,0.973,102.14,271031,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Omega,Llego El Real Remix,Llego El Real Remix,0vwDHIuKLryWpMjh1XsOsF,0.668,0.845,5,-6.484,0,0.272,0.00175,0.136,0.624,99.335,221231,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Rochy RD,Ella No Es Tuya (Remix),Ella No Es Tuya - Remix,5YYW3yRktprLRr47WK219Y,0.585,0.611,6,-4.132,1,0.288,0.0,0.649,0.962,97.041,218107,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Bad Bunny,X 100PRE,La Romana,1khmgu0pveJbkbpbkyvcQv,0.655,0.725,0,-5.497,1,0.188,0.00264,0.0611,0.326,125.8,300579,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Bad Bunny,YHLQMDLG,Si Veo a Tu Mamá,41wtwzCZkXwpnakmwJ239F,0.9,0.603,2,-5.313,1,0.0646,4.81e-06,0.134,0.824,129.928,170972,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Arctic Monkeys,Favourite Worst Nightmare,Fluorescent Adolescent,2HYaqJitHc9qiG68vc0JIm,0.651,0.823,1,-5.148,0,0.0282,5.77e-05,0.172,0.817,112.148,179533,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],Imma Be,16sbugRbf9xEKlekuQ7Whm,0.597,0.517,0,-6.963,1,0.365,0.0,0.307,0.412,92.035,257560,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+John Mayer,Continuum,The Heart of Life,78DwRIo6Vj6wqteyerGetr,0.495,0.238,1,-11.026,1,0.03,0.0118,0.0875,0.357,175.958,198200,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+John Mayer,Room For Squares,3x5,2Knlcf82LF6hp6Bf0gldtN,0.502,0.785,5,-6.64,0,0.0275,0.0337,0.111,0.59,96.994,289227,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+John Mayer,Room For Squares,83,0seE1aF8gzSPH79Dcvcbw2,0.704,0.838,2,-5.744,1,0.0289,0.00669,0.121,0.699,121.972,290933,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+John Mayer,The Search for Everything,Emoji of a Wave,5ddXMXmXZ2FN4iliTG20nO,0.494,0.365,11,-8.92,1,0.0279,0.000961,0.139,0.191,165.764,239667,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Reik,Reik,Qué Vida la Mía,0M6KY0x5u65ybXHZ3IAega,0.758,0.802,9,-4.507,1,0.0383,0.0,0.183,0.804,98.022,171320,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Juanes,Mi Sangre,Volverte A Ver,2ZqFfDwNjKvPu3USx3onhO,0.616,0.698,6,-4.932,1,0.0302,0.0,0.208,0.714,85.003,217560,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Lin-Manuel Miranda,Encanto (Banda Sonora Original en Español),"Colombia, Mi Encanto",1DgS5IMm8ffbZ78GbIPlOM,0.718,0.88,0,-7.567,1,0.11,0.0,0.908,0.814,124.007,175280,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Carlos Vives,Más + Corazón Profundo,Ella Es Mi Fiesta,2L2zLsybbySytu4RI5z3aK,0.671,0.872,1,-4.529,0,0.0701,0.0,0.0917,0.757,116.96,246733,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Carlos Vives,Besos en Cualquier Horario,Besos en Cualquier Horario,31nEAXAPZTr21xzxCxF38a,0.769,0.863,0,-2.974,1,0.0676,0.0,0.141,0.755,92.993,180625,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Carlos Vives,La Tierra del Olvido,Pa' Mayté,72wEtgEkcLQ5x4F4ktiVSH,0.716,0.871,0,-7.336,0,0.0606,6.32e-06,0.117,0.967,123.851,188720,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Pablo Alborán,Tanto (Edición Premium),El beso,1u7NKRxUJjPiTaKfHZQ0rE,0.638,0.488,4,-6.021,0,0.0376,0.0,0.278,0.394,117.859,258840,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Drake,Views,Too Good,11KJSRSgaDxqydKYiD2Jew,0.804,0.648,7,-7.805,1,0.117,3.49e-05,0.102,0.392,117.983,263373,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Coldplay,A Head Full of Dreams,Hymn for the Weekend,3RiPr603aXAoi4GHyXx0uy,0.491,0.693,0,-6.487,0,0.0377,6.92e-06,0.325,0.412,90.027,258267,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Coldplay,A Head Full of Dreams,Up&Up,31L9yLXSj6LpCFupyMV6CR,0.479,0.717,7,-5.459,1,0.0605,0.000333,0.102,0.253,163.989,405320,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Plan B,Love And Sex,Candy,2ctjDCCg1wHoQSjIJ8p6U4,0.897,0.864,11,-3.735,0,0.147,0.0,0.517,0.542,95.981,207627,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Plan B,House Of Pleasure,Es un Secreto,0R7DSnSibvuE4PEHqUayqf,0.836,0.777,6,-5.376,0,0.0439,1.68e-06,0.0561,0.504,94.977,190564,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Alejandro Fernández,A Corazón Abierto,Canta Corazón,3npbtkmTdUlRxGFxViDD0K,0.724,0.715,10,-7.738,1,0.0504,0.0,0.0746,0.832,104.06,254600,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Rauw Alejandro,VICE VERSA,Cúrame,3PwRuzdphgedcWVUOVYJ7I,0.765,0.625,9,-3.599,0,0.0548,0.00111,0.112,0.262,102.101,164706,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Aventura,Volví,Volví,2vmfvSoZBFAt9hhRoEByLi,0.725,0.86,1,-3.726,1,0.182,0.000284,0.0674,0.791,175.896,230125,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+El Alfa,La Mamá de la Mamá (Remix),La Mamá de la Mamá (Remix),72LVZma2Bd7Y6imwoSecR6,0.866,0.933,1,-1.897,1,0.146,0.00241,0.805,0.698,130.009,258923,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Bruno Mars,An Evening With Silk Sonic,Skate,4WnmTHCNN45jvQCrlbEWs0,0.708,0.598,5,-8.365,1,0.0291,0.0,0.17,0.698,112.027,203123,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Vicente Garcia,A la Mar,Carmesí,3fk5fBFB27GbWGATdBpOgr,0.809,0.508,1,-9.182,1,0.0328,0.000224,0.105,0.732,121.968,181467,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Paramore,Paramore,Hate to See Your Heart Break,3AX4HIRJY6GT6tgMkO5987,0.592,0.656,5,-8.007,1,0.0262,4.11e-05,0.117,0.436,102.991,309293,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez
+Eladio Carrion,Sauce Boyz 2,No Te Deseo el Mal,3HQxzXOb4p9pfpD5gP38D5,0.886,0.482,7,-9.882,1,0.175,0.0,0.115,0.568,124.956,232560,4,Edith Carolina Gomez Sanchez,Roadtrip🚙,Edith Gomez

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Dire Straits,Dire Straits,Sultans Of Swing,37Tmv4NnfQeb0ZgUC4fOJj,0.733,0.794,5,-10.023,1,0.0307,0.0367,0.33,0.931,148.174,348624,4,Spotify,Rock Mix,Tess
+Aerosmith,Get A Grip,Livin' On The Edge,4avSaixVwu8uqfSs7zgoj3,0.399,0.881,2,-4.341,1,0.0347,0.00429,0.39,0.272,84.58,380893,4,Spotify,Rock Mix,Tess
+Creedence Clearwater Revival,Willy And The Poor Boys (Expanded Edition),Fortunate Son,4BP3uh0hFLFRb5cjsgLqDh,0.64,0.663,0,-7.516,1,0.0374,0.00806,0.152,0.663,132.77,140773,4,Spotify,Rock Mix,Tess
+AC/DC,Back In Black,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.00965,0.0828,0.763,188.386,255493,4,Spotify,Rock Mix,Tess
+Metallica,Metallica,Enter Sandman,5sICkBXVmaCQk5aISGR3x1,0.577,0.828,6,-8.691,0,0.0298,0.0114,0.0581,0.604,123.257,331267,4,Spotify,Rock Mix,Tess
+Led Zeppelin,Led Zeppelin III (Remaster),Immigrant Song - Remaster,78lgmZwycJ3nzsdgmPPGNx,0.564,0.932,11,-10.068,1,0.0554,0.169,0.349,0.619,112.937,146250,4,Spotify,Rock Mix,Tess
+ZZ Top,Tres Hombres (Expanded 2006 Remaster),La Grange - 2005 Remaster,70YvYr2hGlS01bKRIho1HM,0.545,0.64,4,-9.937,0,0.224,0.0304,0.196,0.606,80.544,230480,4,Spotify,Rock Mix,Tess
+Black Sabbath,Paranoid (2009 Remastered Version),Paranoid,1jzDzZWeSDBg5fhNc3tczV,0.429,0.631,4,-11.514,0,0.0769,0.00411,0.175,0.376,162.734,168440,4,Spotify,Rock Mix,Tess
+Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,7o2CTH4ctstm8TNelqjb51,0.454,0.91,6,-7.766,1,0.0448,0.0996,0.116,0.629,125.116,354520,4,Spotify,Rock Mix,Tess
+Rage Against The Machine,Rage Against The Machine - XX (20th Anniversary Special Edition),Killing In The Name,59WN2psjkt1tyaxjspN8fp,0.466,0.833,7,-4.215,1,0.304,0.0,0.0327,0.661,88.785,313573,4,Spotify,Rock Mix,Tess
+Aerosmith,Get A Grip,Cryin',0NJC0FDCODpPUntRTTQq97,0.445,0.856,9,-3.674,1,0.0327,0.0101,0.367,0.486,105.872,308333,3,Spotify,Rock Mix,Tess
+AC/DC,Highway to Hell,Highway to Hell,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.00158,0.156,0.423,115.728,208400,4,Spotify,Rock Mix,Tess
+Deep Purple,Machine Head (Remastered),Smoke On The Water - Remastered 2012,5MMnwYs0hIxkENRsbkWJ2G,0.598,0.676,0,-9.211,1,0.0279,0.225,0.112,0.805,114.169,340742,4,Spotify,Rock Mix,Tess
+Foo Fighters,The Colour And The Shape,Everlong,5UWwZ5lm5PKu6eKsHAGxOk,0.413,0.881,11,-5.541,0,0.0367,0.000308,0.0805,0.364,158.066,250547,4,Spotify,Rock Mix,Tess
+Boston,Boston,More Than a Feeling,1QEEqeFIZktqIpPI4jSVSF,0.377,0.681,7,-8.039,1,0.0298,0.0023,0.0504,0.285,108.789,285133,4,Spotify,Rock Mix,Tess
+Led Zeppelin,Led Zeppelin II (1994 Remaster),Whole Lotta Love - 1990 Remaster,0hCB0YR03f6AmQaHbwWDe8,0.412,0.902,9,-11.6,1,0.405,0.131,0.405,0.422,89.74,333893,4,Spotify,Rock Mix,Tess
+Twisted Sister,Stay Hungry,I Wanna Rock,70Z9t1qhytWtG4cCmmi7mU,0.504,0.911,2,-2.97,1,0.0738,0.0123,0.355,0.671,106.244,179760,4,Spotify,Rock Mix,Tess
+Nirvana,Nevermind (30th Anniversary Super Deluxe),Smells Like Teen Spirit - Remastered,0gucTLf7trAf37Ua1uAyAu,0.489,0.918,1,-4.502,1,0.0554,7.64e-05,0.0908,0.691,116.731,300893,4,Spotify,Rock Mix,Tess
+Black Sabbath,Paranoid (2009 Remastered Version),Iron Man,0TI8TP4FitVPoEHPTySx48,0.332,0.769,9,-11.503,1,0.0765,0.00413,0.0372,0.525,157.378,354774,4,Spotify,Rock Mix,Tess
+The Who,Who's Next (Deluxe Edition),Baba O'Riley,3qiyyUfYe7CRYLucrPmulD,0.489,0.724,5,-8.367,1,0.0352,0.185,0.287,0.15,117.292,300400,4,Spotify,Rock Mix,Tess
+Guns N' Roses,Appetite For Destruction,Welcome To The Jungle,0bVtevEgtDIeRjCJbK3Lmv,0.447,0.954,8,-8.069,1,0.0751,0.403,0.298,0.331,123.453,272027,4,Spotify,Rock Mix,Tess
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,Rock Mix,Tess
+Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Rock and Roll - Remaster,4PRGxHpCpF2yoOHYKQIEwD,0.317,0.887,9,-7.292,1,0.0375,0.00258,0.0891,0.871,169.613,220561,4,Spotify,Rock Mix,Tess
+Scorpions,Crazy World,Wind Of Change,3ovjw5HZZv43SxTwApooCM,0.452,0.524,0,-10.108,1,0.0351,0.0,0.103,0.246,151.505,312360,4,Spotify,Rock Mix,Tess
+Foo Fighters,"Echoes, Silence, Patience & Grace",The Pretender,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,1,0.0431,0.0,0.028,0.365,172.984,269373,4,Spotify,Rock Mix,Tess
+Iron Maiden,Fear of the Dark (2015 Remaster),Fear of the Dark - 2015 Remaster,6p8eFfPw3nQkf37aT3AkmK,0.308,0.866,2,-5.671,0,0.059,0.00141,0.232,0.227,109.825,438120,4,Spotify,Rock Mix,Tess
+AC/DC,Back In Black,You Shook Me All Night Long,2SiXAy7TuUkycRVbbWDEpo,0.532,0.767,7,-5.509,1,0.0574,0.000513,0.39,0.755,127.361,210173,4,Spotify,Rock Mix,Tess
+ZZ Top,Eliminator,Gimme All Your Lovin',0OBwxFLu6Yj61s2OagYbgY,0.63,0.788,5,-6.7,1,0.0298,0.0237,0.0883,0.63,120.059,241080,4,Spotify,Rock Mix,Tess
+Metallica,Metallica,Nothing Else Matters,0nLiqZ6A27jJri2VCalIUs,0.553,0.362,4,-11.218,0,0.0263,6.01e-06,0.075,0.158,142.352,388267,3,Spotify,Rock Mix,Tess
+R.E.M.,Out Of Time (25th Anniversary Edition),Losing My Religion,31AOj9sFz2gM0O3hMARRBx,0.666,0.855,9,-5.051,0,0.0295,1.2e-06,0.0987,0.803,125.639,268427,4,Spotify,Rock Mix,Tess
+The Rolling Stones,Aftermath,"Paint It, Black",63T7DJ1AFDD6Bn8VzG6JE8,0.464,0.795,1,-9.267,1,0.0926,0.00244,0.399,0.612,158.691,202267,4,Spotify,Rock Mix,Tess
+Jimi Hendrix,Are You Experienced,Purple Haze,0wJoRiX5K5BxlqZTolB2LD,0.533,0.905,2,-5.27,1,0.0754,0.578,0.0698,0.486,108.9,170813,4,Spotify,Rock Mix,Tess
+AC/DC,Back In Black,Hells Bells,69QHm3pustz01CJRwdo20z,0.389,0.873,4,-4.768,0,0.0475,0.0055,0.273,0.303,106.767,312293,4,Spotify,Rock Mix,Tess
+Guns N' Roses,Appetite For Destruction,Paradise City,3YBZIN3rekqsKxbJc9FZko,0.273,0.952,11,-8.762,1,0.0843,0.0111,0.142,0.472,100.271,405640,4,Spotify,Rock Mix,Tess
+Black Sabbath,Paranoid (2009 Remastered Version),War Pigs,0W35nxtHtFlseSojmygEsf,0.464,0.612,9,-12.019,1,0.0591,0.00559,0.171,0.496,91.499,474400,4,Spotify,Rock Mix,Tess
+Mötley Crüe,"Girls, Girls, Girls (Deluxe Version)","Girls, Girls, Girls",549Go7a66CX6k523uK9kUv,0.599,0.931,7,-4.653,1,0.0735,6.69e-05,0.392,0.536,140.123,270427,4,Spotify,Rock Mix,Tess
+Whitesnake,Whitesnake (2018 Remaster),Here I Go Again - 2018 Remaster,6Nd6ntkzr4t8o1FKPGOSMt,0.292,0.823,7,-6.763,1,0.0407,7.79e-05,0.155,0.244,89.939,275395,4,Spotify,Rock Mix,Tess
+AC/DC,High Voltage,T.N.T.,7LRMbd3LEoV5wZJvXT1Lwb,0.754,0.759,9,-5.218,1,0.302,0.000108,0.101,0.435,126.366,214667,4,Spotify,Rock Mix,Tess
+Jimi Hendrix,Electric Ladyland,All Along the Watchtower,2aoo2jlRnM3A0NyLQqMN2f,0.438,0.805,8,-6.237,1,0.0624,5.69e-05,0.0842,0.564,113.253,240800,4,Spotify,Rock Mix,Tess
+ZZ Top,Eliminator,Sharp Dressed Man - 2008 Remaster,1UBQ5GK8JaQjm5VbkBZY66,0.601,0.859,5,-5.263,1,0.0276,0.00124,0.0871,0.446,125.145,258027,4,Spotify,Rock Mix,Tess
+Aerosmith,I Don't Want To Miss A Thing EP,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",6lEuFGrUqR9Yc6hSsHPnYP,0.39,0.649,2,-5.163,1,0.0345,0.0,0.216,0.144,121.16,299760,4,Spotify,Rock Mix,Tess
+Dio,Holy Diver,Rainbow In The Dark,5qFxuUIAwJlzO60vqOiL7y,0.508,0.912,9,-8.049,0,0.0368,0.403,0.0492,0.682,117.582,252693,4,Spotify,Rock Mix,Tess
+Bon Jovi,Slippery When Wet,Livin' On A Prayer,37ZJ0p5Jm13JPevGcx4SkF,0.532,0.887,0,-3.757,1,0.0335,0.000214,0.294,0.795,122.511,249293,4,Spotify,Rock Mix,Tess
+Poison,Open Up And Say...Ahh! (20th Anniversary Edition),Every Rose Has Its Thorn - Remastered 2003,43GS3mtezoIFiuIZCLLiDY,0.533,0.637,6,-5.571,1,0.0323,1.12e-05,0.369,0.292,140.167,260173,4,Spotify,Rock Mix,Tess
+The Doors,L.A. Woman,Riders on the Storm,14XWXWv5FoCbFzLksawpEe,0.55,0.722,11,-11.729,0,0.0283,0.0129,0.11,0.716,103.886,434720,4,Spotify,Rock Mix,Tess
+AC/DC,Back In Black,Shoot to Thrill,0C80GCp0mMuBzLf3EAXqxv,0.457,0.904,2,-5.303,1,0.0747,0.0879,0.396,0.48,141.038,317427,4,Spotify,Rock Mix,Tess
+Scorpions,Love At First Sting,Rock You Like A Hurricane,58XWGx7KNNkKneHdprcprX,0.482,0.617,4,-12.931,0,0.0458,0.000146,0.284,0.718,125.697,252493,4,Spotify,Rock Mix,Tess
+KISS,Dressed To Kill,Rock And Roll All Nite,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,1,0.0998,0.0,0.0539,0.902,144.774,168840,4,Spotify,Rock Mix,Tess
+Pink Floyd,The Wall,"Another Brick in the Wall, Pt. 2",4gMgiXfqyzZLMhsksGmbQV,0.693,0.394,0,-15.882,1,0.0428,0.000694,0.247,0.721,104.114,238747,4,Spotify,Rock Mix,Tess
+Eagles,Hotel California (40th Anniversary Expanded Edition),"Hotel California - Live at The Forum, Los Angeles, CA, 10/20-22/1976",0cNwyA4Qiyr29I90ezhr0X,0.427,0.665,2,-8.515,1,0.0405,0.00242,0.699,0.442,142.702,409520,4,Spotify,Rock Mix,Tess

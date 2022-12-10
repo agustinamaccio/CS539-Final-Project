@@ -1,0 +1,33 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Jay Chou,七里香,七里香,3kwqNLXvsjSrIXbVsRBj8q,0.483,0.576,0,-6.911,0,0.028,0.00011,0.278,0.49,142.132,295307,4,ChaoW,喜欢中文歌,Chao Wang
+Jay Chou,范特西,簡單愛,5Jtg0qcTKMHq3HjPVGRFAi,0.858,0.574,0,-6.177,1,0.0288,9.07e-06,0.33,0.527,96.991,270987,4,ChaoW,喜欢中文歌,Chao Wang
+Eric Chou,如果雨之後,永不失聯的愛,46fURCnWErjFdNM2yBJ2c8,0.289,0.43,10,-6.818,1,0.0332,0.0,0.101,0.531,169.511,259600,4,ChaoW,喜欢中文歌,Chao Wang
+JJ Lin,新地球,可惜沒如果,6WoQzK5Exbfcmow1AoNRkl,0.486,0.424,0,-5.755,1,0.0262,0.0,0.116,0.286,79.989,298293,4,ChaoW,喜欢中文歌,Chao Wang
+David Tao,陶喆同名專輯,飛機場的10:30,0v2hRgvRSMnHsTSWyaoKbH,0.494,0.489,6,-9.053,1,0.0895,0.0,0.107,0.417,73.797,280773,4,ChaoW,喜欢中文歌,Chao Wang
+David Tao,黑色柳丁,Melody,6A4wVKbcg0mRriCFjZzX0Z,0.68,0.454,1,-6.123,0,0.0302,1.32e-06,0.102,0.24,109.949,269000,4,ChaoW,喜欢中文歌,Chao Wang
+Sandy Lam,林憶蓮,至少還有你,0fGM6yMJ1swPXt5NI0GCdl,0.479,0.542,4,-5.588,1,0.0322,5.19e-06,0.137,0.347,124.692,274800,4,ChaoW,喜欢中文歌,Chao Wang
+Wanting,Everything In The World [Deluxe Edition],You Exist In My Song,5dyt4y2ubvpyP4ZyfEqkbv,0.474,0.47,1,-6.327,1,0.0341,0.0,0.113,0.27,137.168,214720,4,ChaoW,喜欢中文歌,Chao Wang
+Phil Chang,奇蹟,月亮惹的禍,6ZQ9ROGZW0C92rJN2aJcls,0.618,0.648,7,-6.441,0,0.0369,0.0,0.185,0.444,127.79,262467,4,ChaoW,喜欢中文歌,Chao Wang
+Phil Chang,好男人的情歌 (Remastered),趁早,4lBiUzcG4Gcwb7WQc6jySI,0.567,0.556,10,-6.03,1,0.0323,0.0,0.349,0.238,116.035,300507,4,ChaoW,喜欢中文歌,Chao Wang
+Jin Hai Xin,金海心 精选,那么骄傲,1wgeo3uQ7knGlA4wtN18lS,0.534,0.577,3,-7.231,1,0.0345,0.0,0.332,0.527,148.997,251054,4,ChaoW,喜欢中文歌,Chao Wang
+Karen Mok,做自己 TO BE,電台情歌,4GUkwP7dbOjkoERmJ015J7,0.599,0.569,0,-8.473,0,0.031,0.000445,0.279,0.316,138.021,248373,4,ChaoW,喜欢中文歌,Chao Wang
+Karen Mok,含情莫莫.莫文蔚全精選集,盛夏的果實,1pgF9ARRXIBJlhzQ0XqYdK,0.631,0.304,9,-11.571,0,0.03,5.43e-06,0.279,0.328,165.996,250796,4,ChaoW,喜欢中文歌,Chao Wang
+Karen Mok,含情莫莫.莫文蔚全精選集,陰天,3aYrODYvFONIvLXMc9VwDv,0.718,0.52,10,-9.431,1,0.0374,9.36e-06,0.174,0.262,133.974,242817,4,ChaoW,喜欢中文歌,Chao Wang
+A-Lin,寂寞不痛,給我一個理由忘記,2DcmVSLAg0ZzfOQxDshZHY,0.399,0.512,8,-5.801,1,0.0357,0.0,0.104,0.197,133.175,285547,4,ChaoW,喜欢中文歌,Chao Wang
+Tanya Chua,若你碰到他,紅色高跟鞋,5DSF1VTSaaAFIesJLlltuM,0.476,0.659,11,-4.898,0,0.0251,0.0,0.232,0.492,176.018,206587,4,ChaoW,喜欢中文歌,Chao Wang
+Mao Buyi,平凡的一天,消愁,1eyhZf2stL2a1AXSfeKyYn,0.533,0.384,5,-10.877,0,0.0395,0.0,0.372,0.238,112.024,261347,4,ChaoW,喜欢中文歌,Chao Wang
+Fish Leong,崇拜,會呼吸的痛,5IgElbSREzVyqgf1OCuKJd,0.67,0.518,7,-7.53,1,0.0278,0.0,0.111,0.195,112.006,272973,4,ChaoW,喜欢中文歌,Chao Wang
+Sodagreen,小宇宙,小情歌,4FhJ7YSRxATHnaRg4nGs6t,0.527,0.522,2,-9.29,1,0.0314,0.0,0.0847,0.272,132.066,273573,4,ChaoW,喜欢中文歌,Chao Wang
+Jam Hsiao,愛的時刻 自選輯,新不了情,6TpLVNUQFASvBOuPRFtCfC,0.25,0.386,8,-8.403,1,0.0303,0.0,0.102,0.162,67.907,264813,4,ChaoW,喜欢中文歌,Chao Wang
+Claire Kuo,在樹上唱歌,心牆,0FjrLvldGA3kiwLBxv2PSD,0.7,0.62,3,-5.072,1,0.043,0.0,0.0965,0.338,123.879,226920,4,ChaoW,喜欢中文歌,Chao Wang
+Karen Mok,如果沒有你,如果沒有你,5u6hY0h8gUWfPQSdNuKgQb,0.507,0.281,11,-11.657,1,0.0307,0.0,0.211,0.264,125.893,287013,4,ChaoW,喜欢中文歌,Chao Wang
+Andrew Tan,天后,天后,1SJFfu2ymxqzWf7f2aBRhh,0.488,0.645,9,-4.743,1,0.0251,0.0,0.126,0.196,80.043,285267,4,ChaoW,喜欢中文歌,Chao Wang
+何璐,让她降落,让她降落,7edDHLqqYJAJf8oy1XMrNI,0.403,0.584,0,-9.044,0,0.047,5.75e-06,0.123,0.29,149.307,243592,3,ChaoW,喜欢中文歌,Chao Wang
+容中尔甲,发烧无限,暗香,0uC99NRDsNTOz8lPp39SWy,0.27,0.48,2,-9.102,0,0.0334,5.2e-05,0.113,0.238,139.925,277573,4,ChaoW,喜欢中文歌,Chao Wang
+Xu Wei,"时光, 漫步",蓝莲花,24TQIQpKJWp4isMbulvifs,0.613,0.534,8,-9.946,1,0.024,0.00583,0.2,0.535,90.005,270524,4,ChaoW,喜欢中文歌,Chao Wang
+Elva Hsiao,愛的主打歌 . 吻,愛的主打歌,5rklMDMl2KjHPHlYd2O7ag,0.715,0.808,0,-4.715,1,0.0482,3.05e-05,0.0695,0.76,128.054,286093,4,ChaoW,喜欢中文歌,Chao Wang
+F.I.R.,飛兒樂團,我們的愛,0Q4YuuiCuxIIKUw2fb1cmV,0.509,0.646,5,-4.051,0,0.0301,1.23e-05,0.0989,0.135,136.054,287027,4,ChaoW,喜欢中文歌,Chao Wang
+F.I.R.,飛兒樂團,Lydia,4D4KVgVNxed4Hd3rGWlCo2,0.527,0.733,11,-4.624,0,0.0426,0.0,0.1,0.374,80.973,238933,4,ChaoW,喜欢中文歌,Chao Wang
+F.I.R.,愛‧歌姬,月牙灣,1b5IRT3iraxjHOsKZx93sW,0.414,0.691,2,-5.969,1,0.0304,0.0,0.0756,0.552,174.03,308547,4,ChaoW,喜欢中文歌,Chao Wang
+F.I.R.,飛兒樂團,你的微笑,4eNeCUAnq5XuXwGanJb8qi,0.664,0.929,10,-3.99,0,0.0389,0.0,0.123,0.717,123.997,261493,4,ChaoW,喜欢中文歌,Chao Wang
+F.I.R.,無限,千年之戀,6J3YmODloSi669U6cKbtTH,0.414,0.851,5,-3.115,1,0.11,0.0,0.423,0.256,142.399,228173,4,ChaoW,喜欢中文歌,Chao Wang

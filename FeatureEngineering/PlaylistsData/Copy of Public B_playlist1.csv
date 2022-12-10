@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Tom Odell,Long Way Down (Deluxe),Another Love,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4,Spotify,Life Sucks,Public B
+Billie Eilish,lovely (with Khalid),lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,0.351,0.296,4,-10.109,0,0.0333,0.0,0.095,0.12,115.284,200186,4,Spotify,Life Sucks,Public B
+Sam Smith,In The Lonely Hour,I'm Not The Only One,7795WJLVKJoAyVoOtCWqXN,0.677,0.485,5,-5.795,1,0.0361,2.04e-05,0.0766,0.493,82.001,239317,4,Spotify,Life Sucks,Public B
+Conan Gray,Kid Krow,Heather,4xqrdfXkTW4T0RauPLv3WA,0.357,0.425,5,-7.301,1,0.0333,0.0,0.322,0.27,102.078,198040,3,Spotify,Life Sucks,Public B
+Bruno Mars,Unorthodox Jukebox,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0.0,0.088,0.387,72.795,213827,4,Spotify,Life Sucks,Public B
+Ed Sheeran,x (Deluxe Edition),Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,0.614,0.379,4,-10.48,1,0.0476,0.000464,0.0986,0.201,107.989,258987,4,Spotify,Life Sucks,Public B
+Benson Boone,In The Stars,In The Stars,1ei3hzQmrgealgRKFxIcWn,0.362,0.54,10,-6.031,1,0.0528,0.0,0.139,0.3,78.007,216410,3,Spotify,Life Sucks,Public B
+Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,0.532,0.623,5,-9.208,1,0.0331,7.28e-05,0.0925,0.403,89.937,261923,4,Spotify,Life Sucks,Public B
+Harry Styles,Harry Styles,Sign of the Times,5Ohxk2dO5COHF1krpoPigN,0.516,0.595,5,-4.63,1,0.0313,0.0,0.109,0.222,119.972,340707,4,Spotify,Life Sucks,Public B
+Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,Spotify,Life Sucks,Public B
+Billie Eilish,everything i wanted,everything i wanted,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0,0.0994,0.657,0.106,0.243,120.006,245426,4,Spotify,Life Sucks,Public B
+Coldplay,X&Y,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,0.209,0.417,3,-8.74,1,0.0338,0.00196,0.113,0.124,138.178,295533,4,Spotify,Life Sucks,Public B
+Powfu,death bed (coffee for your head),death bed (coffee for your head),7eJMfftS33KTjuF7lTsMCx,0.726,0.431,8,-8.765,0,0.135,0.0,0.696,0.348,144.026,173333,4,Spotify,Life Sucks,Public B
+James Arthur,YOU,Car's Outside,0otRX6Z89qKkHkQ9OqJpKt,0.338,0.562,9,-7.181,1,0.029,0.0,0.107,0.259,149.907,248373,4,Spotify,Life Sucks,Public B
+Taylor Swift,Red (Taylor's Version),All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,0.631,0.518,0,-8.771,1,0.0303,0.0,0.088,0.205,93.023,613027,4,Spotify,Life Sucks,Public B
+Kodaline,In A Perfect World (Expanded Edition),All I Want,0NlGoUyOJSuSHmngoibVAs,0.188,0.411,0,-9.733,1,0.0484,0.153,0.0843,0.159,187.376,305747,3,Spotify,Life Sucks,Public B
+Calum Scott,Only Human (Deluxe),You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,0.329,0.235,10,-7.699,1,0.0303,0.0,0.137,0.22,171.006,204326,3,Spotify,Life Sucks,Public B
+Alicia Keys,The Diary Of Alicia Keys,If I Ain't Got You,3XVBdLihbNbxUwZosxcGuJ,0.609,0.444,7,-9.129,1,0.106,6.86e-06,0.104,0.166,118.402,228707,3,Spotify,Life Sucks,Public B
+NF,Perception,Let You Down,52okn5MNA47tk87PeZJLEL,0.662,0.714,5,-5.68,0,0.121,0.0,0.179,0.464,147.997,212120,4,Spotify,Life Sucks,Public B
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",when the party's over,43zdsphuZLzwA9k4DJhU0I,0.367,0.111,4,-14.084,1,0.0972,3.97e-05,0.0897,0.198,82.642,196077,4,Spotify,Life Sucks,Public B
+Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,0.522,0.385,0,-7.355,1,0.0288,0.0,0.135,0.236,89.792,207520,4,Spotify,Life Sucks,Public B
+Conan Gray,Kid Krow,Maniac,6KfoDhO4XUWSbnyKjNp9c4,0.628,0.639,8,-5.46,1,0.0435,0.0,0.354,0.493,108.045,185773,4,Spotify,Life Sucks,Public B
+Calum Scott,Only Human (Deluxe),Dancing On My Own,2BOqDYLOJBiMOXShCV1neZ,0.681,0.174,1,-8.745,1,0.0315,3.35e-05,0.0983,0.231,112.672,260285,4,Spotify,Life Sucks,Public B
+James Arthur,Back from the Edge,Train Wreck,55Am8neGJkdj2ADaM3aw5H,0.311,0.485,6,-5.726,0,0.0365,0.0,0.0726,0.225,77.355,208827,4,Spotify,Life Sucks,Public B
+Frank Ocean,Blonde,Ivy,2ZWlPOoWh0626oTaHrnl2a,0.575,0.386,9,-9.584,0,0.037,0.000289,0.229,0.466,116.408,249191,4,Spotify,Life Sucks,Public B
+Sufjan Stevens,Carrie & Lowell,Fourth of July,5Qnrgqy1pAm9GyNQOgyVFz,0.435,0.104,6,-22.39,0,0.0445,0.33,0.119,0.162,120.484,279316,4,Spotify,Life Sucks,Public B
+Meghan Trainor,Title (Deluxe),Like I'm Gonna Lose You (feat. John Legend),2YlZnw2ikdb837oKMKjBkW,0.63,0.53,0,-7.259,1,0.0434,0.0,0.177,0.417,108.038,225053,3,Spotify,Life Sucks,Public B
+Melanie Martinez,Cry Baby (Deluxe Edition),Pacify Her,360Wr96ywrCQq4kTAJ8Pq6,0.576,0.593,9,-6.024,0,0.0306,0.000767,0.237,0.373,157.993,220013,4,Spotify,Life Sucks,Public B
+Post Malone,Stoney (Deluxe),I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,0.556,0.538,8,-5.408,0,0.0382,0.0,0.196,0.291,143.95,223347,4,Spotify,Life Sucks,Public B
+Lauren Spencer Smith,Flowers,Flowers,6Z165JvPnS8PYvGW8oLGLc,0.684,0.449,3,-9.738,1,0.611,0.0,0.0881,0.341,66.165,157373,4,Spotify,Life Sucks,Public B
+Dean Lewis,A Place We Knew,Half A Man,1ugQtcwmKOXvKAYzhjncmv,0.507,0.204,0,-11.575,1,0.0504,0.0,0.143,0.343,77.765,179120,4,Spotify,Life Sucks,Public B
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Hold Me While You Wait,60iSKGrGazRzICtMjADNSM,0.688,0.53,11,-5.507,1,0.0333,0.0,0.0995,0.162,106.958,205687,4,Spotify,Life Sucks,Public B
+James Arthur,Back from the Edge,Can I Be Him,0VhgEqMTNZwYL1ARDLLNCX,0.696,0.543,11,-6.164,1,0.0489,0.0,0.0939,0.479,107.969,246880,4,Spotify,Life Sucks,Public B
+Lord Huron,Strange Trails,The Night We Met,0QZ5yyl6B6utIWkxeBDxQN,0.545,0.366,2,-9.51,1,0.0378,0.267,0.641,0.1,86.997,208212,3,Spotify,Life Sucks,Public B
+gnash,us,"i hate u, i love u (feat. olivia o'brien)",7vRriwrloYVaoAe3a9wJHe,0.492,0.275,6,-13.4,0,0.3,0.0,0.101,0.18,92.6,251034,4,Spotify,Life Sucks,Public B
+Zoe Wees,Control,Control,50Td3qilgs8BLtv8mHyT1t,0.599,0.465,4,-4.95,1,0.0314,1.57e-06,0.149,0.0678,113.82,230880,4,Spotify,Life Sucks,Public B
+Giveon,TAKE TIME,Like I Want You,6qBFSepqLCuh5tehehc1bd,0.678,0.355,10,-7.757,0,0.0627,7.06e-05,0.114,0.438,119.772,260776,3,Spotify,Life Sucks,Public B
+Adele,30,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,0.437,0.565,10,-5.596,1,0.0466,0.0,0.119,0.306,115.389,376169,4,Spotify,Life Sucks,Public B
+One Direction,Midnight Memories (Deluxe),You & I,2afCBiru10AFckfOa49wIa,0.574,0.329,1,-6.829,1,0.0274,0.0,0.0986,0.356,130.993,237933,4,Spotify,Life Sucks,Public B
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",listen before i go,0tMSssfxAL2oV8Vri0mFHE,0.319,0.0561,0,-23.023,1,0.045,0.00384,0.388,0.082,79.764,242652,3,Spotify,Life Sucks,Public B
+Jeremy Zucker,brent,you were good to me,4CxFN5zON70B3VOPBYbd6P,0.561,0.0848,2,-15.099,1,0.0404,2.62e-05,0.112,0.206,102.128,219147,4,Spotify,Life Sucks,Public B
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Forever,12OLyHDxt6dqlAybSPFBK3,0.646,0.355,1,-7.119,1,0.0263,0.0,0.115,0.364,84.988,210863,4,Spotify,Life Sucks,Public B
+James Arthur,James Arthur (Deluxe),Impossible,5yVIlYEHZxQVLyInCdldoS,0.376,0.695,0,-4.782,0,0.0933,0.0,0.11,0.302,169.533,209440,4,Spotify,Life Sucks,Public B
+Labrinth,Jealous - EP,Jealous,4G92yYrUs0cvY7G41YRI0z,0.439,0.153,1,-8.95,1,0.0479,0.0,0.107,0.104,116.76,287693,3,Spotify,Life Sucks,Public B
+Billie Eilish,No Time To Die,No Time To Die,73SpzrcaHk0RQPFP73vqVR,0.38,0.219,4,-13.273,0,0.0358,0.0104,0.0827,0.0517,73.537,242265,4,Spotify,Life Sucks,Public B
+Conan Gray,Kid Krow,Wish You Were Sober,0kn2gu8Pd03DiYHzRvX2Xk,0.701,0.728,2,-5.226,1,0.0468,0.0,0.17,0.696,91.071,168880,4,Spotify,Life Sucks,Public B
+Alex & Sierra,It's About Us,Little Do You Know,1almCHdsfikRPfVB9VrEdT,0.5,0.292,0,-8.554,1,0.0323,0.0,0.188,0.37,145.879,185200,4,Spotify,Life Sucks,Public B
+Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,3VlbOrM6nYPprVvzBZllE5,0.681,0.372,5,-8.237,1,0.0432,0.0,0.169,0.476,91.873,201000,4,Spotify,Life Sucks,Public B
+Ed Sheeran,÷ (Deluxe),Supermarket Flowers,4VuS959DSpr82t3qBqCrWG,0.589,0.242,6,-10.517,1,0.0442,0.0,0.0887,0.257,89.749,221107,4,Spotify,Life Sucks,Public B
+LANY,Malibu Nights,Malibu Nights,0Eqg0CQ7bK3RQIMPw1A7pl,0.559,0.422,11,-11.89,1,0.195,1.99e-06,0.0853,0.191,74.002,286928,4,Spotify,Life Sucks,Public B
+Passenger,All The Little Lights,Let Her Go,1KxwZYyzWNyZSRyErj2ojT,0.479,0.545,7,-7.346,1,0.0688,0.0,0.0963,0.243,74.897,252733,4,Spotify,Life Sucks,Public B
+blackbear,deadroses,idfc,6y6jbcPG4Yn3Du4moXaenr,0.63,0.5,1,-8.755,0,0.0611,4.04e-05,0.114,0.315,144.871,245172,4,Spotify,Life Sucks,Public B
+Jeremy Zucker,glisten,all the kids are depressed,75ls0gurX68lUmMjE7QcsE,0.773,0.437,9,-8.281,1,0.0963,2.42e-05,0.544,0.707,103.861,169973,4,Spotify,Life Sucks,Public B
+One Direction,Take Me Home (Expanded Edition),Little Things,0TAmnCzOtqRfvA38DDLTjj,0.709,0.22,7,-11.856,1,0.0327,0.0,0.175,0.53,110.076,219040,4,Spotify,Life Sucks,Public B
+Haley Reinhart,Better,Can't Help Falling in Love,6yIHGmQLJxWAUZ1ZkENemN,0.41,0.0485,0,-13.918,1,0.038,0.0,0.108,0.247,137.97,173175,4,Spotify,Life Sucks,Public B
+Lorde,Melodrama,Liability,6Kkt27YmFyIFrcX3QXFi2o,0.587,0.229,10,-11.254,0,0.128,0.0,0.1,0.379,75.67,171728,4,Spotify,Life Sucks,Public B
+Conan Gray,Memories,Memories,7AYP21Q4qnxw2WxETEvSRb,0.34,0.684,11,-6.306,1,0.044,0.0,0.348,0.556,112.969,248819,4,Spotify,Life Sucks,Public B
+Adele,25,Love In The Dark,7B5Npv8NjjTCzk8PLpU66h,0.331,0.341,9,-6.057,0,0.0309,0.0,0.109,0.152,109.821,285935,4,Spotify,Life Sucks,Public B
+Charlie Puth,CHARLIE,Loser,1BCXUbnU0486n4eeTyyVIj,0.698,0.623,8,-7.845,0,0.037,0.0856,0.179,0.625,102.002,204376,4,Spotify,Life Sucks,Public B
+Drake,Take Care (Deluxe),Marvins Room,047fCsbO4NdmwCBn8pcUXl,0.492,0.26,9,-17.341,0,0.0921,0.00178,0.0705,0.312,111.519,347227,5,Spotify,Life Sucks,Public B
+Tom Odell,Long Way Down (Deluxe),Heal,4KlL5Bwlm4yHYxr0B2rHci,0.445,0.179,1,-12.938,1,0.0396,0.00056,0.107,0.119,72.246,193080,4,Spotify,Life Sucks,Public B
+James TW,Chapters,When You Love Someone,0TXNKTzawI6VgLoA9UauRp,0.681,0.453,7,-6.09,1,0.0278,0.0,0.0543,0.348,125.772,216560,4,Spotify,Life Sucks,Public B
+Adele,25,When We Were Young,7GgWAITsYJaRM3r50rfh5w,0.376,0.595,3,-5.936,1,0.0496,0.0,0.095,0.265,144.361,290900,4,Spotify,Life Sucks,Public B
+John Mayer,Continuum,Slow Dancing in a Burning Room,2jdAk8ATWIL3dwT47XpRfu,0.667,0.361,1,-8.69,0,0.0273,0.00506,0.0805,0.29,134.018,242000,5,Spotify,Life Sucks,Public B
+Lykke Li,sex money feelings die (slowed version),sex money feelings die - slowed version,0dkvbYmXYEPK7gGMdytmfI,0.797,0.44,5,-6.587,0,0.0594,1.57e-06,0.0849,0.436,111.014,168811,4,Spotify,Life Sucks,Public B
+X Ambassadors,VHS,Unsteady,7lGKEWMXVWWTt3X71Bv44I,0.389,0.665,0,-6.169,1,0.0644,0.000732,0.116,0.199,117.055,193547,4,Spotify,Life Sucks,Public B
+Lewis Capaldi,Breach,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,0.501,0.405,1,-5.679,1,0.0319,0.0,0.105,0.446,109.891,182161,4,Spotify,Life Sucks,Public B
+Coldplay,Parachutes,Trouble,0R8P9KfGJCDULmlEoBagcO,0.565,0.546,11,-7.496,0,0.0314,0.0015,0.17,0.195,139.757,273427,4,Spotify,Life Sucks,Public B
+Olivia O'Brien,hate u love u,hate u love u,6ATgDc6e4sPn84hvJsAmPt,0.407,0.416,6,-8.915,0,0.174,0.0,0.0981,0.246,176.947,175467,4,Spotify,Life Sucks,Public B
+Halsey,hopeless fountain kingdom (Deluxe),Sorry,44n97yHySt0Z9rqPaXgjCK,0.513,0.25,5,-9.376,0,0.0367,0.0,0.117,0.351,74.103,220541,4,Spotify,Life Sucks,Public B
+Taylor Swift,folklore,illicit affairs,2NmsngXHeC1GQ9wWrzhOMf,0.559,0.31,10,-10.445,1,0.0338,0.0,0.106,0.46,119.845,190898,4,Spotify,Life Sucks,Public B
+The 1975,"I like it when you sleep, for you are so beautiful yet so unaware of it",Somebody Else,5hc71nKsUgtwQ3z52KEKQk,0.61,0.788,0,-5.724,1,0.0585,0.0142,0.153,0.472,101.045,347520,4,Spotify,Life Sucks,Public B
+Andra Day,Cheers to the Fall,Rise Up,0tV8pOpiNsKqUys0ilUcXz,0.398,0.316,1,-7.031,1,0.0368,0.0,0.295,0.174,118.582,253342,4,Spotify,Life Sucks,Public B
+Alessia Cara,The Pains Of Growing,Out Of Love,4WzhjxvLP95y7AMDy0Atwb,0.481,0.267,7,-9.249,1,0.0339,0.0,0.249,0.137,117.64,227693,3,Spotify,Life Sucks,Public B
+Christina Perri,lovestrong.,Jar of Hearts,0HZhYMZOcUzZKSFwPOti6m,0.349,0.348,3,-6.142,1,0.0316,0.0,0.12,0.0886,74.541,246587,4,Spotify,Life Sucks,Public B
+Ruth B.,Lost Boy,Lost Boy,4h0zU3O9R5xzuTmNO7dNDU,0.71,0.0565,7,-15.099,1,0.0534,0.0,0.0889,0.348,123.994,275280,4,Spotify,Life Sucks,Public B
+Bon Iver,"For Emma, Forever Ago",Skinny Love,3B3eOgLJSqPEA0RfboIQVM,0.592,0.263,4,-14.029,0,0.0568,5.68e-06,0.127,0.109,76.366,238520,4,Spotify,Life Sucks,Public B
+NF,Mansion,Paralyzed,5DHQKZCOZhGNTbYBCekWx0,0.51,0.643,0,-6.602,1,0.0485,3.22e-06,0.101,0.0397,130.081,270453,4,Spotify,Life Sucks,Public B
+Linkin Park,One More Light,One More Light,3xXBsjrbG1xQIm1xv1cKOt,0.593,0.2,8,-11.063,1,0.0311,0.0,0.0897,0.17,83.966,255067,4,Spotify,Life Sucks,Public B
+John Mayer,Continuum,Gravity,3SktMqZmo3M9zbB7oKMIF7,0.753,0.326,7,-9.883,1,0.0342,0.00131,0.24,0.237,123.799,245827,3,Spotify,Life Sucks,Public B
+Joji,Daylight,Daylight,6Ed1q0X8oSKSm4IIhiQbYg,0.528,0.749,7,-7.571,1,0.0479,9.6e-05,0.0949,0.729,163.944,163906,4,Spotify,Life Sucks,Public B
+James Arthur,Naked,Naked,7krbSH3rd8lhIZvuzTV3Bl,0.529,0.607,6,-6.781,1,0.0574,0.0,0.0631,0.238,101.966,234107,4,Spotify,Life Sucks,Public B
+Harry Styles,Fine Line,To Be So Lonely,5JiH89mHrv9oWHlD0T326z,0.758,0.436,0,-7.269,1,0.0418,1.61e-05,0.335,0.605,104.959,192080,4,Spotify,Life Sucks,Public B
+mxmtoon,the masquerade,prom dress,2xCGBWfzTe8l2kvHpgvB6M,0.56,0.674,10,-6.048,1,0.0446,0.0,0.123,0.421,119.942,197933,4,Spotify,Life Sucks,Public B
+John Mayer,Where the Light Is: John Mayer Live In Los Angeles,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",4LloVtxNZpeh7q7xdi1DQc,0.315,0.296,5,-13.262,1,0.0315,0.0,0.702,0.435,173.509,263573,4,Spotify,Life Sucks,Public B
+Rihanna,A Girl Like Me,Unfaithful,13xxBnXOuiBxVxJI458B0i,0.588,0.391,0,-8.607,0,0.0334,0.0,0.227,0.349,144.069,226973,4,Spotify,Life Sucks,Public B
+FINNEAS,Blood Harmony (Deluxe),Break My Heart Again,0DGh73t9eaZA3X3ZXHf4Qe,0.402,0.151,4,-14.228,0,0.04,0.0,0.0941,0.489,144.071,238013,4,Spotify,Life Sucks,Public B
+Lorde,Melodrama,Supercut,6K8VQ84MqhsoakN5MjrnVR,0.562,0.437,0,-10.229,1,0.052,2.18e-05,0.0806,0.15,124.852,277506,4,Spotify,Life Sucks,Public B
+Birdy,Birdy,Skinny Love,4RL77hMWUq35NYnPLXBpih,0.379,0.29,4,-8.485,1,0.051,0.00106,0.118,0.169,166.467,201080,4,Spotify,Life Sucks,Public B
+Adele,25,All I Ask,05TOt5Vz4StdjMpEdFPlvB,0.591,0.28,4,-5.494,1,0.0283,0.0,0.124,0.348,141.916,271800,4,Spotify,Life Sucks,Public B
+keshi,always,drunk,6D6HVKe7Qu3imn4zzJD0W9,0.691,0.389,4,-8.247,1,0.0367,0.0,0.0941,0.306,104.952,227032,4,Spotify,Life Sucks,Public B
+Sleeping At Last,Turning Page,Turning Page,2kfGoV9a5dbSKCNmUWH2ZF,0.307,0.371,3,-8.498,1,0.0288,0.0253,0.11,0.189,115.241,255893,3,Spotify,Life Sucks,Public B
+carolesdaughter,Violent,Violent,7CFfqRW50ffULvBv7lfIIg,0.797,0.755,2,-5.393,1,0.0293,2.26e-06,0.124,0.411,129.955,135878,4,Spotify,Life Sucks,Public B
+Usher,Confessions (Expanded Edition),Burn,7z3N2W7Xz1t2G2sAO8wFVH,0.796,0.477,1,-7.161,1,0.108,0.0,0.12,0.685,119.928,231933,4,Spotify,Life Sucks,Public B
+Tate McRae,feel like shit,feel like shit,2EBnvom1dTybtm75a3Xh1T,0.508,0.378,7,-7.158,1,0.0473,0.0,0.119,0.161,144.962,204315,4,Spotify,Life Sucks,Public B
+Tom Walker,Leave a Light On,Leave a Light On,6lOWoTqVnAWXchddtTH31W,0.586,0.624,5,-5.946,1,0.113,1.78e-06,0.133,0.267,68.976,185863,4,Spotify,Life Sucks,Public B
+Imagine Dragons,Evolve,Next To Me,31VOknKjFrEX47bZXzqcoF,0.301,0.672,2,-4.497,1,0.0623,3.1e-05,0.0609,0.384,169.497,230289,3,Spotify,Life Sucks,Public B
+Beyoncé,B'Day Deluxe Edition,Irreplaceable,6RX5iL93VZ5fKmyvNXvF1r,0.447,0.694,7,-4.637,0,0.382,5.46e-06,0.167,0.509,175.868,227853,4,Spotify,Life Sucks,Public B
+Birdy,Not About Angels,Not About Angels,5sF7hdYvhrcgNq8NZjfK8L,0.405,0.111,0,-11.879,1,0.0369,4.37e-05,0.0872,0.219,116.86,189475,4,Spotify,Life Sucks,Public B
+Post Malone,Twelve Carat Toothache (Deluxe),Waiting For Never,753lkDSNs2u188xbl8Vrnx,0.593,0.834,10,-3.738,1,0.0424,0.0,0.191,0.555,151.944,196987,4,Spotify,Life Sucks,Public B

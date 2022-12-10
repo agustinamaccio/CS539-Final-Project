@@ -1,0 +1,64 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Drake,Dark Lane Demo Tapes,Time Flies,5H4mXWKcicuLKDn4Jy0sK7,0.864,0.477,10,-5.786,1,0.224,0,0.182,0.5,86.46,192932,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Jaden,Rainbow Bap,Rainbow Bap,5xAOiPReWwiepAJWmLQDYZ,0.739,0.46,1,-8.305,0,0.211,0.00107,0.125,0.231,97.962,280878,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Mac Miller,Circles,Hand Me Downs,2Yv2mHzr5AQavVdwQjEokV,0.677,0.33,2,-11.198,1,0.149,0.000871,0.064,0.336,68.985,298440,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Drake,Dark Lane Demo Tapes,Chicago Freestyle (feat. Giveon),4wVOKKEHUJxHCFFNUWDn0B,0.735,0.449,10,-7.507,1,0.347,0,0.113,0.0397,122.947,220488,4,Dominic Nguyen,Night shift,Dominic Nguyen
+BROCKHAMPTON,iridescence,SAN MARCOS,1Bn8jBSmtSQdvAFXU3ok1w,0.388,0.503,0,-5.628,1,0.0316,0,0.111,0.53,73.965,286707,4,Dominic Nguyen,Night shift,Dominic Nguyen
+6LACK,East Atlanta Love Letter,Stan,1mggAh6xgnKUT6ukw3AU9A,0.333,0.328,3,-9.144,1,0.0401,0.000173,0.127,0.152,92.889,303750,1,Dominic Nguyen,Night shift,Dominic Nguyen
+The Weeknd,Trilogy,The Party & The After Party,0dcf0L6F1LUA1nE2zWH4J2,0.438,0.634,5,-7.456,0,0.337,0,0.113,0.397,203.585,459387,4,Dominic Nguyen,Night shift,Dominic Nguyen
+The Weeknd,Trilogy,Twenty Eight,1FJrsh1NbV9eRw5JQt3M4e,0.639,0.633,3,-7.338,0,0.0352,0.000218,0.111,0.243,129.996,258453,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Frank Ocean,Swim Good,Swim Good,3CgZCQyuyxHRMWB9BTwmni,0.653,0.668,0,-8.183,1,0.0881,0.00269,0.0731,0.711,160.048,257187,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Frank Ocean,Blonde,Nights,7eqoqGkKwgOaWNNHx90uEZ,0.457,0.551,5,-9.36,0,0.167,1.15e-06,0.113,0.428,89.87,307151,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Drake,Take Care (Deluxe),Buried Alive Interlude,1ZyudLFv35SRvY5SvTZqJx,0.711,0.543,0,-12.692,1,0.112,0,0.505,0.801,102.01,150960,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Drake,Take Care (Deluxe),Over My Dead Body,2Gnsof1hvZzjE1xdLRpjtf,0.489,0.57,1,-10.291,1,0.306,2.1e-06,0.179,0.584,185.516,272573,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kanye West,My Beautiful Dark Twisted Fantasy,Runaway,3DK6m7It6Pw857FcQftMds,0.374,0.568,1,-3.825,0,0.109,0.00219,0.513,0.111,84.733,547733,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Miguel,War & Leisure,Come Through and Chill (feat. J. Cole & Salaam Remi),1m8WpLYXEiNVZchsWEcCSy,0.461,0.653,6,-8.617,1,0.327,0,0.197,0.588,81.628,322000,1,Dominic Nguyen,Night shift,Dominic Nguyen
+Miguel,Wildheart (Deluxe Version),leaves,4yPnPn9UENvl7KntadUiKS,0.579,0.457,4,-4.985,1,0.0286,0,0.116,0.32,127.02,202560,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Miguel,Wildheart (Deluxe Version),coffee,6vMpPxLV0F5Diwcs6awI1Z,0.556,0.618,10,-7.471,0,0.0463,0.000351,0.153,0.121,80.985,286573,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Miguel,All I Want Is You,Girl With The Tattoo Enter.lewd,1eUGmzzvahJjOSWgDHuRlv,0.372,0.239,6,-11.314,0,0.0296,0.000175,0.168,0.127,113.451,102813,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Wale,Ambition,Lotus Flower Bomb (feat. Miguel),3MAgQuClHcAV8E9CbeBS6f,0.512,0.598,9,-4.959,0,0.115,0,0.0881,0.345,70.189,213253,4,Dominic Nguyen,Night shift,Dominic Nguyen
+PARTYNEXTDOOR,PARTYNEXTDOOR,Break from Toronto,79MSEdtXuudhGhC5AtG07g,0.596,0.678,9,-5.18,1,0.0335,0.004,0.418,0.259,117.066,99213,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Justin Bieber,Purpose (Deluxe),No Sense,5L9WFUodzACitS1TiGm7Mi,0.643,0.499,2,-6.795,0,0.0308,0,0.108,0.363,133.978,275040,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Travis Scott,Rodeo (Expanded Edition),90210 (feat. Kacy Hill),51EC3I1nQXpec4gDk0mQyP,0.402,0.526,9,-6.741,0,0.0904,8.33e-06,0.105,0.312,81.404,339067,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Travis Scott,Rodeo (Expanded Edition),Maria I'm Drunk (feat. Justin Bieber & Young Thug),6Yqmv7XJLCrQEauMbPGZSw,0.648,0.631,4,-5.662,0,0.103,0,0.12,0.142,105.989,349933,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Mac Miller,Spotify Singles,Dunno - Recorded at Spotify Studios NYC,6eIEJLVaPTU3NuctqdWCzJ,0.523,0.153,1,-12.785,1,0.0689,0.000944,0.114,0.184,84.659,224347,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Gallant,Ology,Jupiter,3d0idY4xKsPSn0MUI6KYvy,0.554,0.707,5,-7.352,1,0.0475,1.97e-06,0.372,0.435,100.029,276733,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kanye West,The Life Of Pablo,Wolves,4vgVpxNTdfmcbBvk6hMPn4,0.551,0.403,1,-8.02,1,0.061,0.00219,0.133,0.119,78.252,301587,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Miguel,Kaleidoscope Dream,Do You...,4THgRPmLvhNmM9Lzj8qrvH,0.593,0.589,11,-6.401,1,0.0366,3.88e-06,0.0937,0.306,148.055,207920,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kid Cudi,Man On The Moon: The End Of Day,Pursuit Of Happiness (Nightmare),5iSEsR6NKjlC9SrIJkyL3k,0.63,0.605,0,-8.951,1,0.0414,9.29e-05,0.298,0.266,115.277,295293,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),Man On The Moon,78T9DulqSBWqkaxczcGBfk,0.649,0.659,0,-8.924,1,0.066,2.71e-05,0.359,0.497,90.991,210893,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Prince,Purple Rain,Purple Rain,54X78diSLoUDI3joC2bjMz,0.367,0.452,10,-10.422,1,0.0307,0.00228,0.689,0.189,113.066,520787,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Daniel Caesar,Get You - Single,Japanese Denim,1boXOL0ua7N2iCOUVI1p9F,0.707,0.238,3,-8.818,1,0.0379,2.42e-06,0.0842,0.345,124.156,270847,3,Dominic Nguyen,Night shift,Dominic Nguyen
+Frank Ocean,Novacane,Novacane,4osgfFTICMkcGbbigdsa53,0.762,0.508,3,-9.112,1,0.0919,0.00126,0.16,0.37,93.51,302347,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Joji,Nectar,Normal People (feat. rei brown),4UiogCfzKQW98U1GTCivsn,0.678,0.685,10,-9.439,1,0.0472,0.736,0.099,0.637,173.104,166883,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Justin Bieber,Changes,Habitual,40qyPyljksBEqlNw5sW37T,0.764,0.443,4,-6.625,1,0.0439,1.96e-05,0.0749,0.63,138.999,168200,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Mac Miller,Swimming,Come Back to Earth,01z2fBGB8Hl3Jd3zXe4IXR,0.272,0.238,2,-12.148,0,0.0349,0.00925,0.275,0.119,83.507,161840,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Justin Bieber,Purpose (Deluxe),No Pressure,23UV8pJEvRnAZd6ZAXBC0H,0.644,0.595,1,-6.877,1,0.215,0,0.279,0.554,148.889,286853,3,Dominic Nguyen,Night shift,Dominic Nguyen
+Justin Bieber,Changes,E.T.A.,6PzOPrXx8tJEqace76yrv2,0.465,0.494,4,-7.595,0,0.066,0,0.127,0.457,127.298,176733,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Sam Smith,STRIPPED,Fix You - Live,631IWTIEv7QkxFbu26BhxI,0.345,0.34,1,-9.337,1,0.0342,1.74e-05,0.125,0.302,136.219,257651,4,Dominic Nguyen,Night shift,Dominic Nguyen
+The 1975,Notes On A Conditional Form,Tonight (I Wish I Was Your Boy),7DmTaJoM7L020qm3egqNsM,0.478,0.456,7,-6.844,1,0.0529,1.98e-05,0.214,0.268,171.9,247265,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Gallant,Sweet Insomnia,Hips,7v00teEVSFnBZLSZIJACDx,0.707,0.51,5,-7.384,1,0.293,0,0.103,0.393,78.07,193000,4,Dominic Nguyen,Night shift,Dominic Nguyen
+dvsn,Morning After,Run Away,0xD824qQkuonQNHe2dSeI4,0.764,0.33,2,-12.801,0,0.0427,0.506,0.139,0.0686,119.978,140293,4,Dominic Nguyen,Night shift,Dominic Nguyen
+John Mayer,The Search for Everything,Rosie,5KsLlcmWDoHUoJFzRw14wD,0.758,0.465,7,-6.547,1,0.0374,5.13e-05,0.116,0.758,138.9,240627,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Gallant,Sleep on It,Sleep On It,5S5Cf673GkmYWBJNcGAVuP,0.725,0.592,7,-7.533,1,0.147,0,0.462,0.6,112.134,216837,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Coldplay,X&Y,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,0.209,0.417,3,-8.74,1,0.0338,0.00196,0.113,0.124,138.178,295533,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Alicia Keys,Girl On Fire,Fire We Make,5VIUVUvwHPM2vJaQpznd5W,0.434,0.403,10,-11.791,1,0.205,3.81e-06,0.0617,0.383,67.363,321360,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Usher,Confessions (Expanded Edition),Simple Things,4rO5VOxTbRSRuuwCQ5D1Bl,0.844,0.579,1,-5.202,1,0.0516,0,0.0588,0.775,90.489,280467,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Tracy Chapman,Tracy Chapman,Fast Car,2M9ro2krNb7nr7HSprkEgo,0.711,0.292,4,-15.523,0,0.037,0,0.131,0.194,103.951,296800,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Alicia Keys,Un-thinkable (I'm Ready) (feat. Drake) [Remix],Un-thinkable (I'm Ready) (feat. Drake) - Remix,4o4wEDRqotccDTXiQ7TORu,0.531,0.603,7,-6.242,1,0.0944,0,0.11,0.228,86.162,282027,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Post Malone,beerbongs & bentleys,Stay,4H7WNRErSbONkM06blBoGc,0.507,0.48,5,-5.418,1,0.0266,0,0.147,0.35,86.046,204427,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Giveon,TAKE TIME,Like I Want You,6qBFSepqLCuh5tehehc1bd,0.678,0.355,10,-7.757,0,0.0627,7.06e-05,0.114,0.438,119.772,260776,3,Dominic Nguyen,Night shift,Dominic Nguyen
+John Mayer,Where the Light Is: John Mayer Live In Los Angeles,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",4LloVtxNZpeh7q7xdi1DQc,0.315,0.296,5,-13.262,1,0.0315,0,0.702,0.435,173.509,263573,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Majid Jordan,The Space Between,Outro,3n3yyaEP6DRbhtN9sWAOeU,0.606,0.198,0,-15.323,0,0.0343,0.689,0.0923,0.161,75.645,261213,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Russ,SHAKE THE SNOW GLOBE (DELUXE),3AM,6xRNqXP3baPR9buXr8vreM,0.569,0.657,0,-6.639,1,0.0425,0,0.108,0.111,73.008,200548,4,Dominic Nguyen,Night shift,Dominic Nguyen
+RINI,My Favourite Clothes,My Favourite Clothes,2ZwIO3ufWLFYxtEoam9ydu,0.746,0.339,2,-9.041,1,0.144,1.36e-05,0.0838,0.291,119.924,257000,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Vince Staples,"Yo Love (From ""Queen & Slim: The Soundtrack"")","Yo Love - From ""Queen & Slim: The Soundtrack""",3Vj8RQkFwOmDvUrwu6MtQZ,0.703,0.573,0,-9.032,1,0.0724,3.13e-06,0.0987,0.491,147.038,143830,4,Dominic Nguyen,Night shift,Dominic Nguyen
+the15th,A9PARITIONS -,9 Milli (R U Down),0POmQnPsDrLB3oi5ACEils,0.671,0.595,0,-6.785,0,0.237,0,0.357,0.453,88.003,248732,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Frank Ocean,Lens,Lens,371H6HjS4SXGbQ9IVfFUIL,0.681,0.333,9,-8.582,1,0.0974,0,0.086,0.564,118.05,227655,4,Dominic Nguyen,Night shift,Dominic Nguyen
+6LACK,East Atlanta Love Letter,Pretty Little Fears (feat. J. Cole),4at3d5QWnlibMVN75ECDrp,0.61,0.458,9,-11.336,1,0.36,0.000103,0.0852,0.246,192.099,240342,4,Dominic Nguyen,Night shift,Dominic Nguyen
+John Mayer,Where the Light Is: John Mayer Live In Los Angeles,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",4LloVtxNZpeh7q7xdi1DQc,0.315,0.296,5,-13.262,1,0.0315,0,0.702,0.435,173.509,263573,4,Dominic Nguyen,Night shift,Dominic Nguyen
+orion XV,placeholder 1,placeholder 1,2vFnUpDC3Od8V5SBr1Y2Mm,0.683,0.66,9,-6.81,0,0.0689,0.00693,0.0873,0.528,92.99,225985,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Joji,Nectar,Afterthought,1ggYjU6zdFHgANcku82boU,0.668,0.547,1,-8.024,1,0.0353,0.0766,0.0931,0.192,83.5,194871,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kendrick Lamar,Mr. Morale & The Big Steppers,Count Me Out,7pj6P5WnxkZsw3XRc8eMe1,0.776,0.431,4,-7.544,0,0.091,0,0.153,0.495,133.999,283642,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Kendrick Lamar,Mr. Morale & The Big Steppers,Die Hard,6gI9b2VsoWhjhIuIeToDVs,0.775,0.736,1,-8.072,0,0.247,0.00116,0.127,0.362,100.988,239027,4,Dominic Nguyen,Night shift,Dominic Nguyen
+Diplo,Diplo Presents Thomas Wesley Chapter 1: Snake Oil,Heartless (feat. Morgan Wallen),3FU6urUVsgXa6RBuV2PdRk,0.765,0.556,11,-6.417,1,0.0512,0,0.0824,0.274,111.033,169227,4,Dominic Nguyen,Night shift,Dominic Nguyen

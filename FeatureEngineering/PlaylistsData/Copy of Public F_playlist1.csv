@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Natalie Cole,Inseparable,This Will Be (An Everlasting Love),0PDCewmZCp0P5s00bptcdd,0.685,0.623,8,-11.146,1,0.042,0.00234,0.0295,0.896,126.739,171960,4,Spotify,Grandma's Home,Public F
+Frankie Valli & The Four Seasons,The Very Best of Frankie Valli & The 4 Seasons,Can't Take My Eyes off You,6ft9PAgNOjmZ2kFVP7LGqb,0.575,0.764,4,-7.448,1,0.0746,1.07e-05,0.0692,0.536,123.821,203240,4,Spotify,Grandma's Home,Public F
+Sixpence None The Richer,Sixpence None the Richer,Kiss Me,754kgU5rWscRTfvlsuEwFp,0.526,0.749,3,-6.964,1,0.0283,1.76e-06,0.0692,0.421,99.982,208680,4,Spotify,Grandma's Home,Public F
+Dean Martin,Everybody Loves Somebody,Everybody Loves Somebody,5I9sHwLDX28tLtzVgKLtpr,0.366,0.391,3,-12.322,1,0.0425,0.0,0.352,0.461,119.182,164547,3,Spotify,Grandma's Home,Public F
+Stephen Sanchez,Until I Found You,Until I Found You,0T5iIrXA4p5GsubkhuBIKV,0.539,0.508,10,-6.05,1,0.0288,0.0,0.174,0.227,101.358,177720,3,Spotify,Grandma's Home,Public F
+Sam Smith,In The Lonely Hour,I'm Not The Only One,7795WJLVKJoAyVoOtCWqXN,0.677,0.485,5,-5.795,1,0.0361,2.04e-05,0.0766,0.493,82.001,239317,4,Spotify,Grandma's Home,Public F
+Engelbert Humperdinck,A Man Without Love,A Man Without Love,0oUBuOO4g9P4lREqfqR5nq,0.538,0.467,2,-9.589,1,0.0327,0.0,0.115,0.507,111.766,203133,4,Spotify,Grandma's Home,Public F
+The Police,Synchronicity (Remastered 2003),Every Breath You Take,1JSTJqkT5qHq8MDJnJbRE1,0.82,0.452,1,-9.796,1,0.0348,0.00294,0.0714,0.74,117.401,253920,4,Spotify,Grandma's Home,Public F
+Harry Belafonte,Jump Up Calypso,Jump in the Line,1zW2csx1vVJrKfvDrFQNVt,0.594,0.889,5,-7.775,1,0.246,0.0,0.124,0.8,116.187,221704,4,Spotify,Grandma's Home,Public F
+Norah Jones,Feels Like Home,Sunrise,7zkLpY72g6lKQbiHDqri1S,0.526,0.299,8,-13.797,1,0.031,0.097,0.106,0.679,156.848,200627,4,Spotify,Grandma's Home,Public F
+Fleetwood Mac,Rumours (Super Deluxe),Dreams - 2004 Remaster,0ofHAoxe9vBkTCp2UQIavz,0.828,0.492,0,-9.744,1,0.0276,0.00428,0.128,0.789,120.151,257800,4,Spotify,Grandma's Home,Public F
+Ray LaMontagne,Gossip In The Grain,You Are the Best Thing,1jyddn36UN4tVsJGtaJfem,0.578,0.727,10,-4.872,1,0.0332,1.99e-05,0.172,0.885,170.593,231840,4,Spotify,Grandma's Home,Public F
+Marvin Gaye,United,Ain't No Mountain High Enough,7tqhbajSfrz2F7E1Z75ASX,0.663,0.6,7,-10.87,1,0.032,0.0,0.184,0.8,129.991,151667,4,Spotify,Grandma's Home,Public F
+ABBA,Super Trouper,Our Last Summer,6hHXft1nFyvfVv6UoRToPZ,0.504,0.528,2,-7.889,1,0.0244,6.28e-05,0.432,0.414,98.341,259733,4,Spotify,Grandma's Home,Public F
+The Beatles,Abbey Road (Remastered),Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,0.557,0.54,9,-10.484,1,0.0347,0.00248,0.179,0.394,129.171,185733,4,Spotify,Grandma's Home,Public F
+Elvis Presley,Blue Hawaii,Can't Help Falling in Love,44AyOl4qVkzS48vBsbNXaC,0.396,0.293,2,-14.062,1,0.0275,0.000196,0.105,0.343,100.307,182360,3,Spotify,Grandma's Home,Public F
+Vance Joy,Dream Your Life Away (Special Edition),Riptide,3JvrhDOgAt6p7K8mDyZwRd,0.484,0.731,1,-6.694,1,0.0379,0.0,0.151,0.51,101.654,204280,4,Spotify,Grandma's Home,Public F
+Jason Mraz,We Sing. We Dance. We Steal Things.,I'm Yours,1EzrEOXmMH3G43AXT1y7pA,0.703,0.444,11,-9.331,1,0.0417,0.0,0.0973,0.712,150.96,242947,4,Spotify,Grandma's Home,Public F
+Van Morrison,Blowin' Your Mind!,Brown Eyed Girl,3yrSvpt2l1xhsV9Em88Pul,0.491,0.583,7,-10.964,1,0.0376,0.0,0.406,0.908,150.566,183307,4,Spotify,Grandma's Home,Public F
+The Temptations,The Temptations Sing Smokey,My Girl,745H5CctFr12Mo7cqa1BMH,0.572,0.418,0,-10.738,1,0.0349,0.0,0.0961,0.694,104.566,165000,4,Spotify,Grandma's Home,Public F
+The Mamas & The Papas,If You Can Believe Your Eyes & Ears,California Dreamin' - Single Version,4s6LhHAV5SEsOV0lC2tjvJ,0.552,0.608,1,-9.786,0,0.0345,0.0,0.0533,0.637,112.367,162373,4,Spotify,Grandma's Home,Public F
+Otis Redding,The Dock of the Bay (Mono),(Sittin' On) the Dock of the Bay,3zBhihYUHBmGd2bcQIobrF,0.769,0.367,2,-11.226,1,0.0312,1.62e-05,0.081,0.535,103.621,163756,4,Spotify,Grandma's Home,Public F
+"Grover Washington, Jr.",Anthology,Just the Two of Us (feat. Bill Withers),1ko2lVN0vKGUl9zrU0qSlT,0.749,0.497,10,-12.609,0,0.105,0.0499,0.0504,0.585,95.818,438493,4,Spotify,Grandma's Home,Public F
+Corinne Bailey Rae,Corinne Bailey Rae,Put Your Records On,2nGFzvICaeEWjIrBrL2RAx,0.739,0.511,9,-7.844,1,0.0362,1.34e-06,0.133,0.542,96.038,215360,4,Spotify,Grandma's Home,Public F
+Bee Gees,How Can You Mend A Broken Heart,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",2cX2coZS1PYBfPs8wgbdWE,0.601,0.703,7,-6.24,1,0.0379,8.4e-05,0.571,0.673,106.164,196213,4,Spotify,Grandma's Home,Public F
+Bill Withers,Menagerie,Lovely Day,0bRXwKfigvpKZUurwqAlEh,0.692,0.651,9,-8.267,1,0.0324,0.00241,0.105,0.706,97.923,254560,4,Spotify,Grandma's Home,Public F
+Etta James,At Last!,At Last,4Hhv2vrOTy89HFRcjU3QOx,0.274,0.348,5,-8.631,1,0.0293,0.0133,0.334,0.328,87.43,179693,3,Spotify,Grandma's Home,Public F
+Commodores,Commodores,Easy,1JQ6Xm1JrvHfvAqhl5pwaA,0.589,0.384,10,-15.075,0,0.0332,2.8e-05,0.0596,0.354,132.909,256427,4,Spotify,Grandma's Home,Public F
+Edison Lighthouse,Love Grows (Where My Rosemary Goes) & Other Gems,Love Grows (Where My Rosemary Goes),5Ts1DYOuouQLgzTaisxWYh,0.568,0.824,9,-4.613,1,0.0299,0.0,0.0855,0.753,108.625,174760,4,Spotify,Grandma's Home,Public F
+Various Artists,Top Gun - Motion Picture Soundtrack (Special Expanded Edition),"Take My Breath Away - Love Theme from ""Top Gun""",15MJ5NThPjj6xhPcts8MiY,0.497,0.719,6,-9.397,1,0.0266,0.0,0.411,0.547,95.769,255733,4,Spotify,Grandma's Home,Public F
+Aretha Franklin,Aretha Now,I Say a Little Prayer,3NfxSdJnVdon1axzloJgba,0.592,0.355,9,-14.051,1,0.0352,0.0,0.0585,0.499,133.032,216773,4,Spotify,Grandma's Home,Public F
+Maroon 5,Songs About Jane: 10th Anniversary Edition,Sunday Morning,5qII2n90lVdPDcgXEEVHNy,0.608,0.768,0,-5.227,1,0.0475,0.0,0.0629,0.809,88.059,244880,4,Spotify,Grandma's Home,Public F
+Rupert Holmes,Partners In Crime,Escape (The Pina Colada Song),5IMtdHjJ1OtkxbGe4zfUxQ,0.836,0.509,0,-13.668,1,0.0548,4.1e-06,0.0436,0.949,138.714,276493,4,Spotify,Grandma's Home,Public F
+Michael Bublé,Michael Bublé,Sway,2ajUl8lBLAXOXNpG4NEPMz,0.713,0.639,2,-5.529,0,0.0313,0.0,0.0878,0.737,125.959,188067,4,Spotify,Grandma's Home,Public F
+Frankie Valli & The Four Seasons,Who Loves You,"December, 1963 (Oh What a Night!)",1hQFF33xi8ruavZNyovtUN,0.737,0.495,1,-13.489,1,0.027,9.12e-06,0.0542,0.967,104.409,197147,4,Spotify,Grandma's Home,Public F
+King Harvest,Dancing in the Moonlight,Dancing in the Moonlight,0q21FNwES2bbtcduB6kjEU,0.657,0.435,10,-15.707,1,0.0552,0.0,0.167,0.771,135.975,181133,4,Spotify,Grandma's Home,Public F
+Four Tops,Four Tops Second Album,"I Can't Help Myself (Sugar Pie, Honey Bunch)",6b6IMqP565TbtFFZg9iFf3,0.667,0.599,0,-8.894,1,0.0291,0.0,0.107,0.971,127.935,160280,4,Spotify,Grandma's Home,Public F
+ABBA,Voulez-Vous,Chiquitita,762B4bOcXF7I2Y8UlKTyTy,0.5,0.554,9,-8.108,1,0.0354,3.72e-06,0.312,0.372,84.229,326320,4,Spotify,Grandma's Home,Public F
+Frank Sinatra,The World We Knew,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,0.257,0.338,4,-12.902,1,0.0357,0.0,0.252,0.544,207.356,162493,4,Spotify,Grandma's Home,Public F
+Stevie Wonder,For Once In My Life,For Once In My Life,4kP69y3GKHi9tXckfgp4bK,0.524,0.519,6,-11.903,1,0.043,0.0,0.523,0.847,110.121,169800,4,Spotify,Grandma's Home,Public F
+Enya,A Day Without Rain,Only Time,6FLwmdmW77N1Pxb1aWsZmO,0.418,0.249,3,-13.744,1,0.0301,0.661,0.112,0.213,82.803,218547,4,Spotify,Grandma's Home,Public F
+Nat King Cole,L-O-V-E,L-O-V-E,4QxDOjgpYtQDxxbWPuEJOy,0.425,0.373,4,-7.543,1,0.0801,0.0,0.077,0.663,78.231,155307,4,Spotify,Grandma's Home,Public F
+Laufey,Everything I Know About Love,Valentine,6cx5CvFhqN19efStehJqoW,0.472,0.204,3,-13.065,1,0.0452,0.0,0.107,0.224,82.51,168907,4,Spotify,Grandma's Home,Public F
+Gladys Knight & The Pips,Imagination (Expanded Edition),Midnight Train to Georgia,7MF7QAodbGzNYav5ZfIhAY,0.595,0.379,10,-12.058,0,0.0454,2.81e-05,0.1,0.448,92.006,279333,4,Spotify,Grandma's Home,Public F
+The Foundations,The Foundations,Build Me Up Buttercup,6sPOmDulFtLzfX25zICNrC,0.659,0.513,0,-7.186,1,0.0293,0.0,0.283,0.855,133.609,177533,4,Spotify,Grandma's Home,Public F
+Stevie Wonder,Talking Book,You Are The Sunshine Of My Life,0n2pjCIMKwHSXoYfEbYMfX,0.519,0.46,11,-14.53,1,0.0688,5.97e-05,0.243,0.675,132.082,178200,4,Spotify,Grandma's Home,Public F
+The O'Jays,Back Stabbers,Love Train,28285KFbyCq8sJofn58qlD,0.743,0.572,0,-9.627,1,0.0493,1.44e-05,0.163,0.675,122.658,178400,4,Spotify,Grandma's Home,Public F
+The Lovin' Spoonful,Do you Believe In Magic,Do You Believe in Magic?,1udKn1oNKYQSQ9OmiIWCMu,0.553,0.738,0,-7.963,1,0.0457,0.0,0.339,0.759,138.602,125827,4,Spotify,Grandma's Home,Public F
+Bobby Darin,That's All,Beyond the Sea,3KzgdYUlqV6TOG7JCmx2Wg,0.521,0.516,2,-7.456,0,0.0369,0.0,0.257,0.569,136.483,172480,4,Spotify,Grandma's Home,Public F
+Wabie,Cyclones and Hey Lover,Hey Lover!,7rC3P7tpWriaC4hYWKwGQd,0.586,0.744,4,-10.142,1,0.0508,0.000172,0.372,0.523,117.006,162560,4,Spotify,Grandma's Home,Public F
+Van Morrison,Moondance (Deluxe Edition),Moondance - 2013 Remaster,683b4ikwa62JevCjwrmfg6,0.606,0.282,9,-12.207,0,0.0339,8.3e-06,0.152,0.563,67.409,274040,4,Spotify,Grandma's Home,Public F
+ABBA,Arrival,Fernando,4BM8yJ0PzBi2ZewpMTOxtx,0.354,0.535,9,-8.876,1,0.0303,2.9e-06,0.0808,0.434,110.821,252960,4,Spotify,Grandma's Home,Public F
+Amos Lee,Supply And Demand,Sweet Pea,4KqBoq7MoDJeVsvUHTjXCM,0.946,0.289,11,-9.413,1,0.0584,2e-05,0.234,0.816,102.073,129627,4,Spotify,Grandma's Home,Public F
+Louis Armstrong,Highlights From His Decca Years,La vie en rose - Single Version,3yYfoYGVpriV4fG9L1ogsD,0.558,0.123,0,-10.396,1,0.0525,0.00121,0.0916,0.341,70.16,206333,4,Spotify,Grandma's Home,Public F
+Carole King,Tapestry,You've Got a Friend,1qhp5owrFGeZ5Jgin28nwR,0.473,0.263,8,-10.684,1,0.0336,4.41e-05,0.123,0.461,169.094,308973,4,Spotify,Grandma's Home,Public F
+Dolly Parton,Here You Come Again,Here You Come Again,6H7nDglS6xWpRidbhMwI2L,0.585,0.511,1,-9.37,1,0.0391,0.007,0.0392,0.552,105.898,179491,4,Spotify,Grandma's Home,Public F
+Bee Gees,E.S.P.,You Win Again,5mwzpzRue1SBWwrbbhXfbf,0.547,0.831,11,-11.298,0,0.0319,8.34e-06,0.222,0.909,168.581,241400,4,Spotify,Grandma's Home,Public F
+James Taylor,Gorilla (2019 Remaster),How Sweet It Is (To Be Loved By You) - 2019 Remaster,75Nlnd9AJ4CYrLXgWGsuTF,0.764,0.628,0,-10.961,1,0.048,0.0,0.0977,0.823,109.008,216387,4,Spotify,Grandma's Home,Public F
+The Flamingos,Flamingo Serenade,I Only Have Eyes for You,3YdKJzcoMZMacISlpY4QoP,0.552,0.313,5,-12.41,1,0.0296,0.0017,0.12,0.303,88.554,202773,3,Spotify,Grandma's Home,Public F
+Four Tops,Four Tops,Baby I Need Your Loving,3aCbwWCYCT3MJjZeUnlcp4,0.632,0.686,0,-6.116,0,0.0395,0.0,0.193,0.65,121.414,166027,4,Spotify,Grandma's Home,Public F
+Sonny & Cher,Look At Us,I Got You Babe,4SGBuq37Ol4HJr7pQqFMKa,0.629,0.795,6,-6.02,1,0.0278,5.44e-06,0.132,0.6,110.583,190080,3,Spotify,Grandma's Home,Public F
+Lou Rawls,All Things In Time,You'll Never Find Another Love Like Mine,6OylYIXrIH2E3hgg7Dqz5M,0.691,0.718,2,-8.457,1,0.0317,4.81e-05,0.108,0.934,110.623,266200,4,Spotify,Grandma's Home,Public F
+Carole King,Tapestry,I Feel the Earth Move,1BWsOxeMx83OrKGCV4gxly,0.711,0.576,7,-8.784,0,0.0305,0.00226,0.0528,0.644,120.117,178560,4,Spotify,Grandma's Home,Public F
+Bette Midler,Beaches (Original Soundtrack Recording),Wind Beneath My Wings,2Pxqs0WmxxHTV5QaTdmt3Q,0.51,0.458,10,-7.566,1,0.0289,0.0,0.0853,0.177,123.694,293853,4,Spotify,Grandma's Home,Public F
+Captain & Tennille,Love Will Keep Us Together,Love Will Keep Us Together,4pCNJwixy2ImFncaPY2yE2,0.621,0.788,4,-4.326,1,0.0314,0.0,0.305,0.926,129.62,205493,4,Spotify,Grandma's Home,Public F
+Aretha Franklin,Aretha Now,You Send Me,4VijLEUxHEzbWKYL5u9wuN,0.512,0.303,3,-13.547,1,0.0374,0.0,0.0803,0.629,102.908,149627,4,Spotify,Grandma's Home,Public F
+The Mamas & The Papas,Deliver,Dedicated To The One I Love,1mFrjW8e8fuAOowlU3Q3Dr,0.396,0.452,7,-8.809,1,0.0326,0.0,0.192,0.307,103.264,178733,4,Spotify,Grandma's Home,Public F
+Elvis Presley,NBC-TV Special (Live),If I Can Dream - Live from the '68 Comeback Special,1Uxk2dxmATlKH5quLX2iFG,0.346,0.62,7,-9.247,1,0.0432,0.00393,0.599,0.391,93.932,200058,3,Spotify,Grandma's Home,Public F
+Maxine Nightingale,Right Back Where We Started From,Right Back Where We Started From,00s8dO3RWrFkBqC9JIy6ag,0.692,0.653,5,-5.715,1,0.0392,0.00707,0.455,0.901,148.018,192267,4,Spotify,Grandma's Home,Public F
+Marvin Gaye,How Sweet It Is To Be Loved By You,How Sweet It Is (To Be Loved By You),2zF8ro2hX0aEYaqXQdEKW1,0.653,0.49,0,-10.106,1,0.0408,4.13e-06,0.0832,0.963,110.202,177773,4,Spotify,Grandma's Home,Public F
+Engelbert Humperdinck,A Man Without Love,Quando Quando Quando,03MOcbkkoNLjP0G91iODSB,0.366,0.589,0,-8.956,1,0.0333,1.15e-06,0.0791,0.84,175.935,201440,4,Spotify,Grandma's Home,Public F
+Mary Wells,Mary Wells Sings My Guy,My Guy,4591VqUIXysNlmI5NcAIUd,0.691,0.581,10,-7.85,1,0.065,4.62e-05,0.147,0.91,126.615,174440,4,Spotify,Grandma's Home,Public F
+Carl Carlton,Everlasting: The Best Of Carl Carlton,Everlasting Love,5i7rT8lbGzjj1n7TTXR5U8,0.546,0.828,4,-4.771,1,0.0394,0.03,0.372,0.401,121.418,153947,4,Spotify,Grandma's Home,Public F
+Elton John,To Be Continued...,Don't Go Breaking My Heart,5pKJtX4wBeby9qIfFhyOJj,0.742,0.863,5,-7.823,1,0.038,5.59e-06,0.0699,0.776,131.193,271133,4,Spotify,Grandma's Home,Public F
+The Mamas & The Papas,If You Can Believe Your Eyes & Ears,"Monday, Monday - Single Version",3EFb1qDgIqf9MegIryKtDj,0.488,0.464,1,-9.496,1,0.0284,0.0,0.57,0.709,109.853,208293,4,Spotify,Grandma's Home,Public F

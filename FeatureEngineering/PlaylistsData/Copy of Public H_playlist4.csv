@@ -1,0 +1,61 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Green Day,Dookie,She,4wsQGsdf8D0Bj26cGdvreB,0.37,0.937,1,-3.939,0,0.0356,0.00817,0.0904,0.874,93.307,134293,4,Spotify,Raised on Punk,Public H
+blink-182,Enema Of The State,All The Small Things,2m1hi0nfMR9vdGC8UcrnwU,0.434,0.897,0,-4.918,1,0.0488,0.0,0.612,0.684,148.726,167067,4,Spotify,Raised on Punk,Public H
+Jimmy Eat World,Bleed American,The Middle,6GG73Jik4jUlQCkKg9JuGO,0.643,0.849,2,-5.428,1,0.0526,0.0,0.058,0.903,162.152,165853,4,Spotify,Raised on Punk,Public H
+The Clash,Combat Rock (Remastered),Should I Stay or Should I Go - Remastered,39shmbIHICJ2Wxnk1fPSdz,0.743,0.836,2,-6.465,1,0.116,0.0,0.384,0.82,113.375,188987,4,Spotify,Raised on Punk,Public H
+My Chemical Romance,The Black Parade,Welcome to the Black Parade,5wQnmLuC1W7ATsArWACrgW,0.217,0.905,2,-4.103,1,0.0752,0.00011,0.222,0.236,96.95,311107,4,Spotify,Raised on Punk,Public H
+The Offspring,Smash,Self Esteem,1FkoVC85Ds3mFoK0fVqEqP,0.488,0.862,0,-7.595,1,0.0476,0.0,0.359,0.706,104.56,257827,4,Spotify,Raised on Punk,Public H
+Green Day,Dookie,When I Come Around,1Dr1fXbc2IxaK1Mu8P8Khz,0.531,0.909,11,-4.236,1,0.034,0.0,0.231,0.814,97.546,178000,4,Spotify,Raised on Punk,Public H
+Good Charlotte,The Young and The Hopeless,The Anthem,0BRHnOFm6sjxN1i9LJrUDu,0.494,0.939,1,-3.127,1,0.126,0.0,0.139,0.893,177.751,175093,4,Spotify,Raised on Punk,Public H
+Simple Plan,"No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",I'm Just a Kid,6otiaV2fagE3s8IvP6WkwG,0.527,0.834,1,-5.531,1,0.0447,0.000102,0.0993,0.422,110.065,198333,4,Spotify,Raised on Punk,Public H
+My Chemical Romance,Three Cheers for Sweet Revenge,Helena,5dTHtzHFPyi8TlTtzoz1J9,0.356,0.96,4,-3.487,1,0.104,0.0,0.209,0.0857,125.921,204733,4,Spotify,Raised on Punk,Public H
+The All-American Rejects,Move Along,Dirty Little Secret,5lDriBxJd22IhOH9zTcFrV,0.465,0.954,10,-4.251,1,0.044,5.38e-06,0.573,0.458,143.85,193653,4,Spotify,Raised on Punk,Public H
+Dropkick Murphys,The Warrior's Code,I'm Shipping Up To Boston,7rSERmjAT38lC5QhJ8hnQc,0.452,0.928,2,-3.133,1,0.079,0.000637,0.226,0.6,129.188,153600,4,Spotify,Raised on Punk,Public H
+The Mighty Mighty Bosstones,Let's Face It,The Impression That I Get,1ru5R5iSawvuMELqKXxLjS,0.418,0.945,4,-5.406,1,0.118,0.0123,0.23,0.696,181.174,194760,4,Spotify,Raised on Punk,Public H
+The Clash,London Calling (Remastered),Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,0.762,0.722,2,-8.712,1,0.0428,0.000368,0.132,0.966,122.769,194667,4,Spotify,Raised on Punk,Public H
+Fugazi,13 Songs,Waiting Room,2DBlfjL5chsdeULzhTp5K8,0.618,0.716,6,-8.224,0,0.0367,0.822,0.179,0.545,92.174,173267,4,Spotify,Raised on Punk,Public H
+Hole,Live Through This,Violet,6CHENx8iqzMwavTIz8s0gm,0.287,0.78,7,-6.493,1,0.0469,3.71e-05,0.184,0.383,167.278,204933,4,Spotify,Raised on Punk,Public H
+Millencolin,Pennybridge Pioneers,No Cigar,3KLkRy9l3us98SIp6mmxkk,0.383,0.986,9,-2.796,1,0.0617,0.0,0.179,0.578,157.871,163227,4,Spotify,Raised on Punk,Public H
+Rancid,...And Out Come The Wolves,Ruby Soho,1pNlZQeoPnlxqf1Mjgm0H2,0.505,0.938,7,-5.381,1,0.0432,0.00218,0.177,0.961,161.842,157533,4,Spotify,Raised on Punk,Public H
+Elvis Costello & The Attractions,This Year's Model (2021 Remaster),Pump It Up - 2021 Remaster,3oyc1mIdCBGaU55wX7otqM,0.645,0.809,11,-6.12,1,0.0385,0.00108,0.106,0.966,138.978,196680,4,Spotify,Raised on Punk,Public H
+The Hives,Veni Vidi Vicious,Hate To Say I Told You So,6xxXrNJnnsQNLdgNk8S4y8,0.451,0.929,5,-5.021,1,0.0549,0.00785,0.442,0.378,135.767,199760,4,Spotify,Raised on Punk,Public H
+Bad Religion,Recipe For Hate,American Jesus,5TZn3LQSWwVPnBlPgFKb54,0.404,0.985,0,-4.173,1,0.0491,0.0,0.192,0.697,181.406,197667,4,Spotify,Raised on Punk,Public H
+Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),Sheena Is a Punk Rocker - 2017 Remaster,61MZN0yyMWSEwrLPUUGfgJ,0.42,0.965,0,-1.986,1,0.0403,0.000335,0.0784,0.846,176.243,169920,4,Spotify,Raised on Punk,Public H
+Pennywise,Pennywise (2005 Remaster),Bro Hymn - 2005 Remaster,1ybhXkz4S8k9fdBZNBan7L,0.408,0.82,0,-5.116,1,0.0423,6.58e-06,0.689,0.382,98.288,180893,4,Spotify,Raised on Punk,Public H
+The Offspring,Smash,Gotta Get Away,0vQPY1VCcvZa2Mm6QM63Le,0.568,0.826,4,-7.634,0,0.0402,8.56e-06,0.0789,0.796,132.782,232160,4,Spotify,Raised on Punk,Public H
+Siouxsie and the Banshees,Through The Looking Glass (Remastered And Expanded),The Passenger,6EZDbjz2X5XzgIZCtbsrXh,0.457,0.93,2,-4.544,0,0.0673,6.27e-05,0.135,0.294,139.819,309307,4,Spotify,Raised on Punk,Public H
+The Cramps,Off The Bone,Human Fly,0ElRzK07sc9eszyk1ea9Ab,0.531,0.849,9,-10.754,1,0.111,0.00763,0.186,0.305,119.516,136427,4,Spotify,Raised on Punk,Public H
+Social Distortion,Social Distortion,Story of My Life,4Q4w8aRdfhIIEhBututktL,0.328,0.884,6,-7.982,1,0.0338,0.0166,0.327,0.686,201.868,346333,4,Spotify,Raised on Punk,Public H
+Less Than Jake,Hello Rockview,All My Best Friends Are Metalheads,1hh4GY1zM7SUAyM3a2ziH5,0.582,0.91,4,-4.566,1,0.107,1.03e-06,0.0992,0.733,92.179,211400,4,Spotify,Raised on Punk,Public H
+Simple Plan,Still Not Getting Any,Welcome to My Life,714Lw0m2SmCEhKSPw0Dn8J,0.421,0.858,1,-4.535,1,0.0963,0.0,0.067,0.491,173.255,206773,4,Spotify,Raised on Punk,Public H
+Anti-Flag,For Blood And Empire,This Is the End (For You My Friend),1jvqZQtbBGK5GJCGT615ao,0.546,0.875,1,-3.631,1,0.0445,0.0,0.0669,0.765,101.693,192067,4,Spotify,Raised on Punk,Public H
+Against Me!,White Crosses,I Was a Teenage Anarchist,5UwGMbEKlvXFj7DXI1d0P1,0.448,0.952,10,-3.477,1,0.0803,0.00145,0.109,0.489,152.958,195160,4,Spotify,Raised on Punk,Public H
+Ramones,End of the Century (Expanded 2005 Remaster),Rock 'n' Roll High School - 2002 Remaster,4FzPIalyruWIiefI91qe4B,0.499,0.87,0,-4.431,1,0.126,0.0,0.0512,0.893,188.853,137400,4,Spotify,Raised on Punk,Public H
+Stiff Little Fingers,Inflammable Material,Alternative Ulster,2yE3bwbhqypdsuhmv48Svn,0.439,0.971,11,-5.855,0,0.177,1.34e-05,0.255,0.24,118.369,163880,4,Spotify,Raised on Punk,Public H
+Operation Ivy,Operation Ivy (2007 Remaster),Sound System - 2007 Remaster,4Pmo0mMgiyBCj1Zd7Axsi1,0.569,0.954,2,-4.82,1,0.126,0.000265,0.0768,0.574,91.205,134027,4,Spotify,Raised on Punk,Public H
+The Go-Go's,Beauty And The Beat (30th Anniversary Deluxe Edition),We Got The Beat - 2011 Remaster,5o37x6LpNSec4jSfPIChsQ,0.595,0.996,2,-3.418,1,0.0599,0.0345,0.0351,0.376,152.049,151107,4,Spotify,Raised on Punk,Public H
+The Bouncing Souls,How I Spent My Summer Vacation,True Believers,4fRmFVMd0c1SGfzazBJIM8,0.237,0.981,0,-4.32,1,0.0989,3.81e-05,0.202,0.475,98.181,150293,4,Spotify,Raised on Punk,Public H
+AFI,All Hallows EP,The Boy Who Destroyed The World,7mXieDbl55P3L8kPE33gcC,0.232,0.978,4,-5.766,0,0.0836,0.00395,0.321,0.578,163.712,185360,4,Spotify,Raised on Punk,Public H
+Refused,The Shape Of Punk To Come (Deluxe Edition),New Noise,35iLpqqQg4KrfYAzbvN1vH,0.686,0.667,9,-10.263,1,0.0587,0.00664,0.405,0.332,105.917,310200,4,Spotify,Raised on Punk,Public H
+Social Distortion,Social Distortion,Ring of Fire,3hKScGxI28Zor6zJ7JL7aS,0.336,0.942,5,-9.252,0,0.0492,0.0291,0.0833,0.703,179.874,230773,4,Spotify,Raised on Punk,Public H
+Ramones,Rocket to Russia (40th Anniversary Deluxe Edition),Rockaway Beach - 2017 Remaster,2HZGsnMByx3V8KmNW6LqWF,0.426,0.921,2,-2.469,1,0.0529,1.38e-06,0.169,0.895,187.415,126453,4,Spotify,Raised on Punk,Public H
+Face To Face,Don't Turn Away,Disconnected,4TOIJR7F0dH2k32a70YS8F,0.427,0.978,11,-6.639,1,0.0774,7.01e-06,0.335,0.747,193.707,207733,4,Spotify,Raised on Punk,Public H
+Goldfinger,The Best Of Goldfinger,Superman,6cL7NCFSvqWrBH5r4mkvVV,0.436,0.935,2,-3.946,1,0.0538,0.000141,0.0821,0.901,194.902,185600,4,Spotify,Raised on Punk,Public H
+Adolescents,Adolescents,Amoeba,1xQE0QHrmJUQweLoMB0ZWC,0.231,0.962,4,-7.341,1,0.0753,0.00175,0.803,0.534,189.29,186627,4,Spotify,Raised on Punk,Public H
+Veruca Salt,American Thighs,Seether,1SY2vughwKmVPm1Lmf5Nl7,0.612,0.848,8,-9.178,1,0.0463,0.00319,0.0687,0.632,136.196,196573,4,Spotify,Raised on Punk,Public H
+Bad Religion,The Process Of Belief,Sorrow,5KiS8SFnu21xI74mHgfZ3D,0.514,0.911,7,-4.595,1,0.0528,4.78e-06,0.0736,0.848,139.971,201293,4,Spotify,Raised on Punk,Public H
+Hüsker Dü,Candy Apple Grey,Don't Want to Know If You Are Lonely,4tPFEWRuNQhibDQSGB2PVE,0.305,0.965,0,-5.926,1,0.0809,0.00124,0.317,0.644,90.81,210867,4,Spotify,Raised on Punk,Public H
+The Dead Milkmen,Beelzebubba,Punk Rock Girl,1l04CzFskMiq7c30lZvr7i,0.557,0.699,2,-11.625,0,0.0453,0.0,0.536,0.887,129.492,158333,4,Spotify,Raised on Punk,Public H
+The Stooges,Raw Power,Search and Destroy - Iggy Pop Mix,00sydAz6PeOxYzwG1dRIPi,0.235,0.977,6,0.878,1,0.107,0.00604,0.172,0.241,152.952,208133,4,Spotify,Raised on Punk,Public H
+Lagwagon,Let's Talk About Feelings,May 16,2y2E0ix0iJWQWUMmlbTWjg,0.337,0.985,2,-4.675,1,0.0787,0.00027,0.238,0.371,103.95,176960,4,Spotify,Raised on Punk,Public H
+Dropkick Murphys,Blackout,Worker's Song,6GHfiU4OrRvOVuC9yn8Txl,0.388,0.973,3,-2.091,1,0.0904,0.0,0.141,0.5,96.631,212373,4,Spotify,Raised on Punk,Public H
+Lars Frederiksen and the Bastards,Lars Frederiksen And The Bastards,To Have And To Have Not,2KeEzXxpADVpW1gbUj0rS7,0.278,0.956,7,-1.664,1,0.082,0.0,0.504,0.517,168.331,166573,4,Spotify,Raised on Punk,Public H
+Social Distortion,Somewhere Between Heaven And Hell,Bad Luck,6Y19VBGJBoixg6umIkE7ar,0.551,0.936,1,-6.654,1,0.049,2.04e-06,0.211,0.519,124.748,264973,4,Spotify,Raised on Punk,Public H
+Rancid,Let's Go,Salvation,6b769E9sQf0kZTILVjSDaH,0.47,0.895,9,-8.083,1,0.0476,5.45e-05,0.296,0.877,141.951,173103,4,Spotify,Raised on Punk,Public H
+The Interrupters,Fight the Good Fight,Title Holder,5dt0dBcBTgGb7Gt5hNTG91,0.429,0.991,11,-4.03,1,0.207,0.104,0.368,0.645,176.058,161680,4,Spotify,Raised on Punk,Public H
+The Aquabats!,The Fury of the Aquabats!,Super Rad!,0wZuFLzQhVAJU9JSmdixTE,0.513,0.926,11,-4.36,1,0.136,0.000237,0.0648,0.931,172.68,182800,4,Spotify,Raised on Punk,Public H
+Sleater-Kinney,The Woods,Modern Girl,2GOQVqZ3uVp7LKVAY1T0mk,0.539,0.652,11,-5.08,1,0.0289,0.129,0.104,0.196,130.851,181453,4,Spotify,Raised on Punk,Public H
+Nirvana,Nirvana,Sliver,6vA9MwQSTgsGw2aaiVQdq2,0.418,0.836,5,-5.658,1,0.0693,0.0012,0.102,0.46,141.313,131120,4,Spotify,Raised on Punk,Public H
+Iggy Pop,A Million In Prizes: Iggy Pop Anthology (Edited Version),Lust For Life,0kvH59HS2T2m4bsXJhBGNC,0.372,0.976,9,-4.329,1,0.0483,2.47e-06,0.158,0.714,101.285,312040,4,Spotify,Raised on Punk,Public H
+Against Me!,New Wave (U.S. Version),White People for Peace,53S5rCt8LFsocU95QXoK1X,0.422,0.992,8,-2.362,1,0.107,1.17e-05,0.15,0.396,158.005,211387,4,Spotify,Raised on Punk,Public H
+The Damned,Damned Damned Damned,New Rose,5eKQ424akKiDjpSveU7I2Y,0.191,0.969,1,-7.557,0,0.1,9.05e-06,0.277,0.265,173.763,162347,4,Spotify,Raised on Punk,Public H

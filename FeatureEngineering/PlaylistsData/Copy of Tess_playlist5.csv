@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+First Aid Kit,Stay Gold,My Silver Lining,6tCLQ3LO1V9l6qdrrwdV6q,0.479,0.725,2,-4.671,1,0.0335,0.000129,0.209,0.43,101.938,215493,4,Spotify,Folk & Acoustic Mix,Tess
+Bon Iver,"For Emma, Forever Ago",Flume,0bhBtXHQX3u6dSAPF59qGx,0.448,0.143,11,-17.012,1,0.0328,0.0356,0.109,0.0873,132.829,219000,4,Spotify,Folk & Acoustic Mix,Tess
+Radical Face,The Family Tree: The Branches,The Mute,3ZSU40Dx9UN1Lq1gFbjqQM,0.701,0.385,1,-11.652,1,0.0348,0.103,0.111,0.222,111.226,236267,4,Spotify,Folk & Acoustic Mix,Tess
+Richard Thompson,Rumor And Sigh,1952 Vincent Black Lightning,1KueOLeUZpaNRK2InckxVT,0.488,0.209,10,-19.549,1,0.0369,5.05e-06,0.103,0.362,120.63,283493,4,Spotify,Folk & Acoustic Mix,Tess
+John Prine,Fair and Square,Clay Pigeons,5UDoMj8EIEXrQ4N0UR0nos,0.585,0.233,10,-15.949,1,0.028,0.000611,0.114,0.481,140.666,267133,4,Spotify,Folk & Acoustic Mix,Tess
+The Secret Sisters,You Don't Own Me Anymore,Kathy's Song,6i6hIiqSXwfzU4B2Tbtw4S,0.36,0.0932,10,-19.422,1,0.0345,0.000747,0.0855,0.328,175.108,223587,3,Spotify,Folk & Acoustic Mix,Tess
+Phil Ochs,There But For Fortune,When I'm Gone,0yQ9vnsC7CyPMwAQ3BlWcJ,0.404,0.093,3,-19.036,1,0.0486,7.53e-05,0.717,0.244,80.224,253573,4,Spotify,Folk & Acoustic Mix,Tess
+Joan Baez,Diamonds & Rust,Diamonds And Rust,4O0sGJdqpHMaWz7KoVd7tb,0.506,0.343,5,-12.153,0,0.03,0.0,0.141,0.265,130.052,286107,4,Spotify,Folk & Acoustic Mix,Tess
+Aoife O'Donovan,Loretta,Loretta,724mTUDtMwxfB2G023Kerf,0.536,0.419,3,-9.122,1,0.0453,9.43e-05,0.151,0.571,97.322,148523,4,Spotify,Folk & Acoustic Mix,Tess
+Donovan,What's Bin Did and What's Bin Hid,Catch the Wind,6aXKbU2QGsOms8UT3eUOg1,0.385,0.305,3,-12.167,1,0.0296,7.69e-06,0.128,0.547,173.377,173813,3,Spotify,Folk & Acoustic Mix,Tess
+Gregory Alan Isakov,This Empty Northern Hemisphere,Big Black Car,3Kj2EWpIBnvETsYq4cq0IH,0.6,0.186,3,-15.926,1,0.0317,0.00102,0.104,0.468,110.044,217467,4,Spotify,Folk & Acoustic Mix,Tess
+Nick Drake,Pink Moon,Place To Be,5QUeSXjTMHbq1fW5da2waF,0.547,0.38,5,-9.521,1,0.0282,0.152,0.107,0.395,83.579,160926,4,Spotify,Folk & Acoustic Mix,Tess
+Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Wild World,7mjSHL2Eb0kAwiKbvNNyD9,0.48,0.542,0,-8.51,1,0.0348,0.000609,0.113,0.567,152.853,200560,4,Spotify,Folk & Acoustic Mix,Tess
+I'm With Her,Call My Name,Call My Name - Acoustic,2TpebHjbc4D2OPrCar0119,0.57,0.186,5,-10.604,0,0.0316,0.0,0.115,0.314,76.118,197458,4,Spotify,Folk & Acoustic Mix,Tess
+Dead Horses,My Mother the Moon,Turntable,0Dp07EA5ybveKSUE27CuEd,0.603,0.575,0,-10.325,1,0.0285,0.00183,0.12,0.673,95.116,196173,1,Spotify,Folk & Acoustic Mix,Tess
+Terry Callier,The New Folk Sound Of Terry Callier (Deluxe Edition),900 Miles,0zVduthKvT1FEsUGFWT9Xo,0.311,0.249,2,-16.052,1,0.0312,5.35e-05,0.108,0.0445,104.511,307880,4,Spotify,Folk & Acoustic Mix,Tess
+Sarah Jarosz,Spotify Singles,When Doves Cry - Recorded At Spotify Studios NYC,4LLTqpc4ywNrx89seBQi3w,0.77,0.335,9,-10.095,1,0.0634,7.59e-05,0.168,0.489,127.905,280828,4,Spotify,Folk & Acoustic Mix,Tess
+Watchhouse,Blindfaller,Wildfire,6VfY0sgS4j4JpFQH8kk4XA,0.648,0.352,4,-10.11,1,0.0278,0.262,0.106,0.173,121.461,329893,4,Spotify,Folk & Acoustic Mix,Tess
+Gregory Alan Isakov,"That Sea, The Gambler",The Stable Song,3G9ETaH55bMQx8hwNhAgbU,0.626,0.432,2,-11.948,1,0.0283,0.00239,0.127,0.361,137.93,360933,4,Spotify,Folk & Acoustic Mix,Tess
+The Milk Carton Kids,Prologue,Michigan,6RGGOBfNQLOvQhyl1oG2oD,0.539,0.241,10,-14.65,1,0.0349,0.00413,0.109,0.203,122.115,330773,4,Spotify,Folk & Acoustic Mix,Tess
+Nick Drake,Pink Moon,Pink Moon,4KROoGIaPaR1pBHPnR3bwC,0.642,0.427,3,-8.471,1,0.0402,0.0904,0.124,0.404,82.344,124001,4,Spotify,Folk & Acoustic Mix,Tess
+Humbird,Pharmakon,Pharmakon,2J2oWsC3KGoqdUMIwcMRMU,0.687,0.234,9,-12.559,1,0.029,7.72e-06,0.116,0.339,95.023,155352,4,Spotify,Folk & Acoustic Mix,Tess
+Richie Havens,Live At The Cellar Door and at the Santa Monica Civic Auditorium,Here Comes The Sun,0hhzJEusz6r7f0eL1Uc8kw,0.698,0.643,2,-16.985,1,0.0649,0.0799,0.704,0.714,128.22,254000,4,Spotify,Folk & Acoustic Mix,Tess
+Jackson C. Frank,Jackson C. Frank (2001 Remastered Version),Blues Run the Game - 2001 Remaster,51QHQSU5C4WE7KqoqeNOCM,0.374,0.121,1,-13.921,1,0.0309,0.00349,0.102,0.413,166.212,211987,4,Spotify,Folk & Acoustic Mix,Tess
+Leonard Cohen,Songs Of Love And Hate,Famous Blue Raincoat,77K5TB5KZmDZCoJCdd1NvE,0.474,0.0404,9,-22.208,0,0.0387,0.000263,0.111,0.18,119.415,310773,3,Spotify,Folk & Acoustic Mix,Tess
+Sarah Jarosz,Build Me Up From Bones,Build Me Up From Bones,1I9dSqB5XSdwOfn9M8zpRg,0.53,0.283,5,-11.962,1,0.0367,0.000141,0.106,0.282,114.982,216173,4,Spotify,Folk & Acoustic Mix,Tess
+Little May,For The Company,Boardwalks - Remastered 2015/ Bonus Track,23Zlb66N7xcIWbpt2C1bsi,0.662,0.384,6,-12.634,1,0.0281,0.0565,0.117,0.261,128.992,199360,4,Spotify,Folk & Acoustic Mix,Tess
+I'm With Her,Send My Love (To Your New Lover) [Live],Send My Love (To Your New Lover) - Live,0dGjfWSQNYuF7e6dYv9yrs,0.49,0.296,6,-9.589,0,0.0485,0.000979,0.691,0.498,160.824,225034,4,Spotify,Folk & Acoustic Mix,Tess
+Angel Snow,Secret (Acoustic),Secret - Acoustic,7khUiiyqFAluYRsw1ZKcWS,0.599,0.295,3,-11.548,1,0.0264,0.000921,0.102,0.145,112.579,190000,4,Spotify,Folk & Acoustic Mix,Tess
+John Prine,Souvenirs,Souvenirs,0YqwZcztnGN3Rjh4yPGmic,0.544,0.36,4,-11.862,1,0.0287,0.00481,0.112,0.763,153.206,222867,4,Spotify,Folk & Acoustic Mix,Tess
+Sarah Jarosz,Undercurrent,Take Me Back,3CiZBMNMkRm8CzPD4ZLM6C,0.416,0.192,11,-12.525,1,0.034,1.5e-05,0.107,0.222,102.49,154200,4,Spotify,Folk & Acoustic Mix,Tess
+Ocie Elliott,Take Me Home,Take Me Home,6EWEyqtjFLafS95ncL4not,0.738,0.232,6,-11.113,1,0.0283,0.000689,0.0992,0.192,109.839,181958,4,Spotify,Folk & Acoustic Mix,Tess
+Gregory Alan Isakov,Evening Machines,San Luis,7gDNQLV9cr8449LFrQbk5J,0.567,0.434,7,-12.755,0,0.0349,0.257,0.115,0.254,82.459,272347,4,Spotify,Folk & Acoustic Mix,Tess
+Simon & Garfunkel,Bridge Over Troubled Water,The Boxer,76TZCvJ8GitQ2FA1q5dKu0,0.439,0.488,11,-14.464,1,0.0615,0.000339,0.16,0.629,93.017,308520,4,Spotify,Folk & Acoustic Mix,Tess
+Old Sea Brigade,Old Sea Brigade,Love Brought Weight,66deoxrDAEK7Qg1p0Vioxe,0.366,0.327,7,-15.603,1,0.0344,0.363,0.0759,0.066,116.66,185747,4,Spotify,Folk & Acoustic Mix,Tess
+Don McLean,American Pie,Vincent,0VNzEY1G4GLqcNx5qaaTl6,0.419,0.085,7,-19.387,1,0.0362,5.33e-06,0.34,0.458,91.509,243493,3,Spotify,Folk & Acoustic Mix,Tess
+Harrison Storm,Breathe Again (Acoustic),Breathe Again - Acoustic,2Y29DHOl92FAqXy6Oe6f5h,0.649,0.433,10,-7.826,0,0.0365,0.0,0.146,0.183,122.948,198382,4,Spotify,Folk & Acoustic Mix,Tess
+John Hiatt,Terms of My Surrender,Long Time Comin',4OfCkjpcpqKgr9igYyOSHm,0.649,0.419,4,-9.583,1,0.0264,0.532,0.0833,0.264,99.018,252093,4,Spotify,Folk & Acoustic Mix,Tess
+Rayland Baxter,Feathers & Fishhooks,Olivia,40DGtj95w54IDSbA7BWn3o,0.629,0.551,7,-9.44,1,0.0321,2.88e-05,0.0889,0.698,81.995,233693,4,Spotify,Folk & Acoustic Mix,Tess
+Simon & Garfunkel,"Wednesday Morning, 3 A.M.",Sparrow,7pz0HomuJsxkbrNQUHNYBE,0.382,0.218,5,-15.761,1,0.0302,0.000665,0.108,0.321,130.696,167160,4,Spotify,Folk & Acoustic Mix,Tess
+Sarah Jarosz,Follow Me Down,Ring Them Bells,0lNFlRQ1I20Ch9I5vlRiMX,0.454,0.301,11,-11.557,1,0.0346,1.73e-06,0.0868,0.536,163.832,210080,4,Spotify,Folk & Acoustic Mix,Tess
+Ocie Elliott,Wait for You,Wait for You,4du1sHf5pUhdEEwqtmOAi2,0.652,0.243,1,-11.868,1,0.034,0.034,0.11,0.193,136.007,193936,4,Spotify,Folk & Acoustic Mix,Tess
+Sons Of The East,Sons Of The East,California,46BuJdwxV43a6qLrICP27l,0.251,0.656,0,-7.46,1,0.0448,0.00151,0.152,0.53,82.956,222187,4,Spotify,Folk & Acoustic Mix,Tess
+Bob Dylan,Nashville Skyline,Girl from the North Country,4K1imZQQ0yKtJ40vGmUajS,0.607,0.142,7,-23.455,1,0.0382,0.000197,0.121,0.305,118.867,220400,4,Spotify,Folk & Acoustic Mix,Tess
+John Martyn,Solid Air,Over The Hill,4doNObRI4sHz3klm81tZmu,0.613,0.46,9,-13.006,0,0.0316,0.0044,0.136,0.759,93.846,172440,4,Spotify,Folk & Acoustic Mix,Tess
+Fleet Foxes,Crack-Up,"If You Need To, Keep Time on Me",7d0XkI4iJ32nxeFAHFXbLQ,0.521,0.22,9,-10.202,1,0.0314,0.00814,0.179,0.135,104.03,210507,4,Spotify,Folk & Acoustic Mix,Tess
+Arlo Guthrie,Alice's Restaurant,Alice's Restaurant Massacree,4OjKHySJHstsImlUW3qfml,0.561,0.366,9,-14.14,1,0.327,0.0,0.813,0.646,78.659,1116933,4,Spotify,Folk & Acoustic Mix,Tess
+Langhorne Slim,The Spirit Moves,Changes,0gKiONJeEtwb3hps4sUgyn,0.668,0.367,11,-11.002,1,0.0285,0.00521,0.103,0.342,110.21,161907,4,Spotify,Folk & Acoustic Mix,Tess
+"Crosby, Stills & Nash","Crosby, Stills & Nash",Helplessly Hoping - 2005 Remaster,1UKobFsdqNXQb8OthimCKe,0.483,0.159,7,-13.648,1,0.0353,0.0,0.111,0.423,146.721,157893,4,Spotify,Folk & Acoustic Mix,Tess
+Nick Drake,Pink Moon,From The Morning,6meH4I9A4WZtD3z8hnQKqr,0.644,0.325,0,-11.056,1,0.036,0.0511,0.11,0.367,108.933,150851,4,Spotify,Folk & Acoustic Mix,Tess

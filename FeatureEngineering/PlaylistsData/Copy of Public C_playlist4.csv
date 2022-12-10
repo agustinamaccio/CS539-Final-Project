@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+The Killers,Hot Fuss,Mr. Brightside,003vvx7Niy0yvhvHt4a68B,0.352,0.911,1,-5.23,1,0.0747,0,0.0995,0.236,148.033,222973,4,Spotify,The 2000s Indie Scene,Public C
+MGMT,Oracular Spectacular,Time to Pretend,4iG2gAwKXsOcijVaVXzRPW,0.438,0.94,2,-3.249,1,0.0452,0.0777,0.3,0.421,100.99,261000,3,Spotify,The 2000s Indie Scene,Public C
+Franz Ferdinand,Franz Ferdinand,Take Me Out,20I8RduZC2PWMWTDCZuuAN,0.277,0.663,4,-8.821,0,0.0377,0.00051,0.136,0.527,104.561,237027,4,Spotify,The 2000s Indie Scene,Public C
+Empire of the Sun,Walking On A Dream (10th Anniversary Edition),Walking On A Dream,5r5cp9IpziiIsR6b93vcnQ,0.871,0.701,5,-5.594,0,0.0458,7.52e-06,0.0589,0.716,126.975,198440,4,Spotify,The 2000s Indie Scene,Public C
+M.I.A.,Kala,Paper Planes,1ixbwbeBi5ufN4noUKmW5a,0.447,0.848,2,-6.175,1,0.222,7.46e-05,0.65,0.485,172.253,205200,4,Spotify,The 2000s Indie Scene,Public C
+Keane,Hopes And Fears,Somewhere Only We Know,0ll8uFnc0nANY35E0Lfxvg,0.453,0.655,9,-4.22,1,0.0259,7.61e-06,0.0849,0.368,172.012,236160,4,Spotify,The 2000s Indie Scene,Public C
+Modest Mouse,Good News For People Who Love Bad News,Float On,2lwwrWVKdf3LR9lbbhnr6R,0.649,0.888,6,-4.807,1,0.0293,2.23e-06,0.0888,0.553,100.975,208467,4,Spotify,The 2000s Indie Scene,Public C
+MGMT,Oracular Spectacular,Kids,1jJci4qxiYcOHhQR247rEU,0.451,0.931,9,-3.871,1,0.0719,0.0049,0.361,0.172,122.961,302840,4,Spotify,The 2000s Indie Scene,Public C
+KT Tunstall,Eye To The Telescope,Suddenly I See,5p9XWUdvbUzmPCukOmwoU3,0.587,0.767,0,-5.713,1,0.0449,0,0.112,0.664,100.38,201707,4,Spotify,The 2000s Indie Scene,Public C
+La Roux,La Roux,Bulletproof,3kMrazSvILsgcwtidZd1Qd,0.674,0.882,3,-2.771,0,0.0477,6.47e-05,0.068,0.682,123.016,205733,4,Spotify,The 2000s Indie Scene,Public C
+Florence + The Machine,Lungs (Deluxe Edition),Dog Days Are Over,1YLJVmuzeM2YSUkCCaTNUB,0.492,0.81,7,-5.315,1,0.0847,0.00379,0.117,0.245,149.954,251840,4,Spotify,The 2000s Indie Scene,Public C
+Empire of the Sun,Walking On A Dream (10th Anniversary Edition),We Are The People,3zEN0ii6s4DHHBpnTp3RP7,0.675,0.781,4,-5.404,0,0.0306,0.0143,0.422,0.534,122.989,267373,4,Spotify,The 2000s Indie Scene,Public C
+Grizzly Bear,Veckatimest,Two Weeks,0iTpQYzJnYgh7kIxyq8A2O,0.537,0.712,5,-5.597,1,0.0286,0.00568,0.08,0.704,159.871,243160,4,Spotify,The 2000s Indie Scene,Public C
+Edward Sharpe & The Magnetic Zeros,Up from Below,Home,7w5cxTEzp1rfV3KCy0Bd5N,0.542,0.589,2,-6.623,1,0.0318,0.000522,0.177,0.137,111.665,303200,4,Spotify,The 2000s Indie Scene,Public C
+MGMT,Oracular Spectacular,Electric Feel,3FtYbEfBqAlGO46NUDQSAt,0.763,0.803,1,-3.713,1,0.0351,0.285,0.348,0.561,103.04,229640,3,Spotify,The 2000s Indie Scene,Public C
+The Shins,"Oh, Inverted World (20th Anniversary Remaster)",New Slang - 2021 Remaster,0NslHuacjxQYfUTOW3HCIV,0.67,0.403,0,-10.623,1,0.031,0.0903,0.0858,0.622,129.984,230867,4,Spotify,The 2000s Indie Scene,Public C
+Arctic Monkeys,Favourite Worst Nightmare (Standard Version),Fluorescent Adolescent,7e8utCy2JlSB8dRHKi49xM,0.646,0.813,6,-5.29,0,0.0288,2.26e-05,0.144,0.821,112.115,173493,4,Spotify,The 2000s Indie Scene,Public C
+Radical Face,Ghost,"Welcome Home, Son",6HTVZeVQ9J6Uiq6tHESxU9,0.587,0.497,6,-10.757,1,0.0307,0.782,0.142,0.401,144.972,287634,3,Spotify,The 2000s Indie Scene,Public C
+Mumford & Sons,Sigh No More,Little Lion Man,4B4vB3oB8csotplfoQcAd6,0.52,0.496,5,-8.121,1,0.0271,2.05e-05,0.0905,0.496,138.81,247002,4,Spotify,The 2000s Indie Scene,Public C
+Bright Eyes,"I'm Wide Awake, It's Morning",First Day of My Life,0eBryM7ePQH3Klt3jz8xZd,0.596,0.253,1,-14.369,0,0.0349,5.17e-05,0.102,0.368,95.162,188878,4,Spotify,The 2000s Indie Scene,Public C
+Two Door Cinema Club,Tourist History,What You Know,3GBApU0NuzH4hKZq4NOSdA,0.563,0.739,6,-4.239,0,0.0416,1.45e-05,0.0822,0.775,139.0,191707,4,Spotify,The 2000s Indie Scene,Public C
+Fleet Foxes,Fleet Foxes,White Winter Hymnal,0GegHVxeozw3rdjte45Bfx,0.628,0.5,6,-9.66,0,0.0268,0,0.244,0.68,124.932,147027,4,Spotify,The 2000s Indie Scene,Public C
+Yeah Yeah Yeahs,Fever To Tell (Deluxe Remastered),Maps,0hDQV9X1Da5JrwhK8gu86p,0.502,0.941,7,-5.194,1,0.0716,0.319,0.553,0.124,119.783,219987,4,Spotify,The 2000s Indie Scene,Public C
+Crystal Castles,Crystal Castles,Crimewave,3TjliM0xQ3fkza0RpINRrq,0.746,0.691,4,-7.533,0,0.0403,0.0259,0.205,0.888,119.982,258453,4,Spotify,The 2000s Indie Scene,Public C
+Vampire Weekend,Vampire Weekend,A-Punk,3AydAydLzyyZutA0375XIz,0.551,0.819,2,-4.489,1,0.0525,0.0437,0.153,0.846,174.917,137760,4,Spotify,The 2000s Indie Scene,Public C
+Phoenix,Wolfgang Amadeus Phoenix,1901,1Ug5wxoHthwxctyWTUMGta,0.59,0.829,0,-5.649,1,0.0419,3.99e-05,0.19,0.704,144.099,193107,4,Spotify,The 2000s Indie Scene,Public C
+OK Go,Oh No,Here It Goes Again,1pHP4JeQV9wDx87D6qH9hD,0.537,0.882,0,-2.306,1,0.0403,9.06e-05,0.12,0.81,145.729,179813,4,Spotify,The 2000s Indie Scene,Public C
+The Killers,Hot Fuss,Smile Like You Mean It,3KANrKOFYyAxfjQJHkgBdb,0.346,0.965,3,-4.255,0,0.146,0.012,0.214,0.384,125.043,234107,4,Spotify,The 2000s Indie Scene,Public C
+Mumford & Sons,Babel (Deluxe Version),I Will Wait,1fXiYSWmkKJfRKMegCkI11,0.478,0.758,1,-5.4,1,0.0331,0.00717,0.312,0.452,131.109,276720,4,Spotify,The 2000s Indie Scene,Public C
+Matt and Kim,Grand,Daylight,57i3M29DWoo7RDk0Tf0LZG,0.57,0.798,9,-4.92,1,0.0323,0.000128,0.178,0.671,103.303,171333,4,Spotify,The 2000s Indie Scene,Public C
+Klaxons,Myths Of The Near Future,Golden Skans,6BqWhxll86CGGE6WxgdRqG,0.463,0.836,2,-2.776,0,0.0381,7.38e-06,0.25,0.713,141.955,165120,4,Spotify,The 2000s Indie Scene,Public C
+The Strokes,Is This It,Last Nite,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,1,0.0296,0.000137,0.0975,0.79,104.061,193373,4,Spotify,The 2000s Indie Scene,Public C
+Passion Pit,Manners,Sleepyhead,4prEPl61C8qZpeo3IkYSMl,0.568,0.719,8,-5.406,1,0.0354,1.84e-06,0.233,0.539,106.036,174760,4,Spotify,The 2000s Indie Scene,Public C
+Bon Iver,Blood Bank,Blood Bank,15WbjBy1bzH1UsUldBwwlW,0.493,0.372,7,-11.889,1,0.0331,0.0308,0.117,0.25,116.86,285160,4,Spotify,The 2000s Indie Scene,Public C
+The Temper Trap,Conditions,Sweet Disposition,5RoIXwyTCdyUjpMMkk4uPd,0.531,0.821,2,-6.812,1,0.0439,0.171,0.124,0.34,129.139,230800,4,Spotify,The 2000s Indie Scene,Public C
+Keane,Hopes And Fears,Everybody's Changing,5hkdfA87RZvNaxl6XiveOA,0.515,0.835,0,-3.564,1,0.0293,0.000235,0.101,0.457,94.015,215160,4,Spotify,The 2000s Indie Scene,Public C
+Cold War Kids,Robbers & Cowards,Hang Me Up To Dry,3IXRdLsQib8m0hBbQpe7T8,0.509,0.922,9,-2.823,0,0.031,0.00117,0.496,0.645,92.5,218787,4,Spotify,The 2000s Indie Scene,Public C
+Mumford & Sons,Sigh No More,The Cave,3vUn7FE3ZaQgJmkhIrIirF,0.594,0.51,4,-9.621,1,0.0383,7.27e-05,0.0959,0.368,141.979,217984,4,Spotify,The 2000s Indie Scene,Public C
+The xx,xx,Intro,5VfEuwErhx6X4eaPbyBfyu,0.617,0.778,9,-8.872,0,0.027,0.925,0.128,0.152,100.363,127920,4,Spotify,The 2000s Indie Scene,Public C
+Lykke Li,Youth Novels,Little Bit,0Ps4Eh6SQjeLnubbCsQTDD,0.819,0.736,7,-6.504,1,0.0416,0.00161,0.109,0.701,120.318,273427,4,Spotify,The 2000s Indie Scene,Public C
+Zero 7,Simple Things,In The Waiting Line,5ARrtxJLVCeTv5TWo1oKgC,0.561,0.33,5,-13.51,1,0.0268,0.134,0.106,0.378,79.01,271520,4,Spotify,The 2000s Indie Scene,Public C
+STRFKR,Starfucker,Rawnald Gregory Erickson the Second,4j4pPKE3xAblPIbhxScC1j,0.9,0.538,7,-7.879,1,0.0343,0.843,0.287,0.713,95.508,173693,4,Spotify,The 2000s Indie Scene,Public C
+Arcade Fire,Funeral,Wake Up,6Hmj7SrLRbreLVfVS7mV1S,0.252,0.8,0,-4.845,1,0.0368,0.0538,0.118,0.29,139.361,335333,4,Spotify,The 2000s Indie Scene,Public C
+Bombay Bicycle Club,I Had The Blues But I Shook Them Loose,Always Like This,73M2Vb5MfZh8iGKudkMtlw,0.659,0.591,1,-6.713,1,0.0313,0.000861,0.0862,0.707,121.14,245640,4,Spotify,The 2000s Indie Scene,Public C
+The Shins,Wincing The Night Away,Australia,47TQjzeG4KI0XWWb0wkbri,0.416,0.827,4,-5.177,1,0.0384,0.000242,0.277,0.87,169.902,236712,4,Spotify,The 2000s Indie Scene,Public C
+The Postal Service,Give Up (Deluxe 10th Anniversary Edition),Such Great Heights - Remastered,4G21jWo0Cm6lOIUNnZ2mUI,0.644,0.808,5,-7.268,1,0.0513,0.187,0.0652,0.175,174.98,266507,4,Spotify,The 2000s Indie Scene,Public C
+Phoenix,Wolfgang Amadeus Phoenix,Lisztomania,7fmJGzyvOcbh6UANsH8Cp6,0.64,0.789,0,-6.691,1,0.0359,0.00388,0.53,0.311,97.539,241640,4,Spotify,The 2000s Indie Scene,Public C
+Washed Out,Life of Leisure,Feel It All Around,4V0x90QcMh4ZxwHzEWOdtK,0.34,0.737,8,-4.681,1,0.0582,0.762,0.0699,0.499,172.022,192080,4,Spotify,The 2000s Indie Scene,Public C
+Modest Mouse,We Were Dead Before The Ship Even Sank,Dashboard,0Fe3WxeO6lZZxj7ytvbDUh,0.639,0.903,11,-5.013,0,0.0371,7.06e-05,0.174,0.96,135.938,246173,4,Spotify,The 2000s Indie Scene,Public C
+Jet,Get Born,Look What You've Done,0ZSmRnXnP5fdANtVlCok1g,0.398,0.547,0,-6.846,1,0.0261,0.00143,0.146,0.305,73.396,230880,4,Spotify,The 2000s Indie Scene,Public C
+Beach House,Beach House,Master of None,3stWWPN41byqp8loPdy92u,0.492,0.344,5,-15.259,1,0.0259,0.531,0.0933,0.247,86.485,199414,4,Spotify,The 2000s Indie Scene,Public C
+Phantogram,Eyelid Movies,When I'm Small,21nf6u3sQbfViHX7wNZmhK,0.646,0.758,10,-4.34,1,0.0314,0.097,0.103,0.424,91.998,249067,4,Spotify,The 2000s Indie Scene,Public C
+LCD Soundsystem,This Is Happening,Dance Yrself Clean,2cmRpmO04TLaKPzmAzySYZ,0.739,0.611,11,-9.829,1,0.0622,0.725,0.04,0.794,98.004,536471,4,Spotify,The 2000s Indie Scene,Public C
+The Kooks,Inside In / Inside Out,Naive,2RUhtNBh43RtSg0WBPPq3m,0.547,0.816,8,-6.165,0,0.0624,0,0.127,0.722,102.765,203507,4,Spotify,The 2000s Indie Scene,Public C
+Metric,Fantasies,Help I'm Alive,0cahtHEywK64NSWqm2SDTi,0.57,0.884,5,-4.55,0,0.0601,0.00322,0.364,0.405,118.485,286013,4,Spotify,The 2000s Indie Scene,Public C
+Florence + The Machine,Lungs (Deluxe Edition),Cosmic Love,0CSTvWUps1YmpQoXXay9ol,0.524,0.803,9,-5.56,0,0.0366,0.000191,0.115,0.0827,140.003,255133,4,Spotify,The 2000s Indie Scene,Public C
+Feist,The Reminder,1234,2CzWeyC9zlDpIOZPUUKrBW,0.71,0.484,2,-7.415,1,0.049,3.93e-06,0.0879,0.576,109.951,183667,4,Spotify,The 2000s Indie Scene,Public C
+Death Cab for Cutie,Plans,Soul Meets Body,5yc59J3MR3tVDPTOgwgRI5,0.621,0.853,2,-5.735,0,0.0253,3.26e-06,0.0893,0.714,128.142,229413,4,Spotify,The 2000s Indie Scene,Public C
+Sufjan Stevens,Illinois,Chicago,1yupbrI7ROhigIHpQBevPh,0.582,0.464,7,-9.657,1,0.0304,0,0.0892,0.446,124.97,364613,4,Spotify,The 2000s Indie Scene,Public C
+Miike Snow,Miike Snow,Animal,6vSq5q5DCs1IvwKIq53hj2,0.774,0.721,6,-6.662,0,0.0773,6.49e-06,0.0952,0.654,118.048,263427,4,Spotify,The 2000s Indie Scene,Public C
+Various Artists,Pleasantville -Music From The Motion Picture,Across the Universe,6ZQgooEk8PvsLxedYaT6Oa,0.578,0.481,4,-10.545,1,0.0317,0.00299,0.0951,0.548,129.881,307333,4,Spotify,The 2000s Indie Scene,Public C
+Dr. Dog,Heart It Races (Cover Version),Heart It Races - Cover Version,0SyOHG2V9CgMSlebbnyoLJ,0.65,0.694,10,-7.435,1,0.0342,0.134,0.404,0.775,98.611,231880,4,Spotify,The 2000s Indie Scene,Public C
+Zero 7,Simple Things,Destiny,27ViQppP3LZPCJl2A0w9kp,0.63,0.576,7,-9.046,0,0.0304,0.686,0.129,0.471,138.009,338280,4,Spotify,The 2000s Indie Scene,Public C
+The Dandy Warhols,Welcome To The Monkey House,We Used To Be Friends,7hpFYWL3cw5m4y70cce7Zb,0.712,0.665,6,-4.878,0,0.0266,0.192,0.306,0.594,105.284,199960,4,Spotify,The 2000s Indie Scene,Public C
+The xx,xx,Crystalised,33R3swWziWYmnDYvZqcZVS,0.762,0.484,11,-12.368,0,0.0311,0.389,0.0841,0.415,122.916,201947,4,Spotify,The 2000s Indie Scene,Public C
+Vampire Weekend,Vampire Weekend,Oxford Comma,0ful4PHfTIxzXiZSZsXQ0H,0.692,0.717,0,-4.226,1,0.0498,0.00123,0.044,0.973,119.902,195733,4,Spotify,The 2000s Indie Scene,Public C
+Two Door Cinema Club,Tourist History,Something Good Can Work,59kNaCxnyX7Ezt1m6KxGLY,0.647,0.834,0,-5.321,1,0.0326,0.000689,0.182,0.641,119.925,164187,4,Spotify,The 2000s Indie Scene,Public C
+Hot Chip,Made In The Dark,Ready For The Floor,6q6PeTloTbL2vb1Gt9sQQc,0.764,0.759,1,-5.443,0,0.0413,0,0.0746,0.937,128.999,234240,4,Spotify,The 2000s Indie Scene,Public C
+Yeah Yeah Yeahs,It's Blitz!,Heads Will Roll,4WiIscpBgQFm5qIyjoH7M4,0.562,0.903,8,-4.46,0,0.0296,0.0939,0.298,0.791,132.009,221000,4,Spotify,The 2000s Indie Scene,Public C
+Rogue Wave,Eyes,Eyes,1a9czdo8IX5InOiSOg6xpv,0.642,0.462,1,-8.026,1,0.0294,2.51e-06,0.106,0.484,130.015,148867,4,Spotify,The 2000s Indie Scene,Public C
+Death Cab for Cutie,Transatlanticism (10th Anniversary Edition),The Sound of Settling,0PTYTZvNNtlvdOwWRYrbfC,0.423,0.761,6,-6.593,1,0.0278,0.000535,0.215,0.781,175.349,132507,4,Spotify,The 2000s Indie Scene,Public C
+Dido,Life For Rent,White Flag,4kbz7rHVbyjKasuuqelccQ,0.512,0.525,5,-6.823,1,0.0401,3.3e-06,0.081,0.294,169.951,240040,4,Spotify,The 2000s Indie Scene,Public C
+Portugal. The Man,The Satanic Satanist,People Say,0WTq8iUzSlGDAbowEdRKKD,0.543,0.768,0,-5.914,1,0.0288,6.72e-06,0.779,0.681,79.965,179360,4,Spotify,The 2000s Indie Scene,Public C
+Interpol,Turn On The Bright Lights,PDA,286mFeYjBJ9fkioaIzaxoN,0.237,0.911,6,-5.833,0,0.0708,0.877,0.0935,0.247,138.227,299773,4,Spotify,The 2000s Indie Scene,Public C
+Frou Frou,Details,Let Go,3xKTpGCsafXzV4muM1Hpl3,0.524,0.559,5,-8.319,1,0.0298,5.94e-05,0.14,0.202,140.043,253893,4,Spotify,The 2000s Indie Scene,Public C

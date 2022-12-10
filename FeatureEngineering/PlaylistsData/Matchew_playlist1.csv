@@ -1,0 +1,81 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Peach Tree Rascals,Mariposa,Mariposa,4ja2gzrNh9VNigzoXfmbwD,0.676,0.525,9,-5.88,1,0.028,0,0.356,0.421,112.011,210000,4,Matchew,Jamming,Matchew
+Jaden,ERYS (Deluxe),Summertime In Paris,6XNANAB7sFvkfho6bMCp7o,0.569,0.86,9,-4.116,1,0.043,0,0.153,0.289,90.937,270960,4,Matchew,Jamming,Matchew
+Lil Tecca,We Love You Tecca,DUI,4Bhdiu8zhwQR3tXy8YMbCj,0.774,0.409,8,-8.688,0,0.336,1.12e-06,0.12,0.424,86.52,134520,4,Matchew,Jamming,Matchew
+EDEN,vertigo,crash,7EkMIQ2PzEzwQroLl6dUvw,0.503,0.212,0,-12.735,0,0.0658,0.000293,0.12,0.185,118.492,232412,4,Matchew,Jamming,Matchew
+Drake,Views,Feel No Ways,3cjF2OFRmip8spwZYQRKxP,0.582,0.677,7,-7.081,1,0.172,6.6e-06,0.122,0.205,193.818,240653,4,Matchew,Jamming,Matchew
+Alina Baraz,The Color Of You,Electric (feat. Khalid),2mj7x99sNUsVHPBRK51zlG,0.599,0.396,10,-10.489,0,0.0392,2.19e-05,0.102,0.134,111.072,246327,4,Matchew,Jamming,Matchew
+Grouplove,Never Trust a Happy Song,Tongue Tied,0GO8y8jQk1PkHzS31d699N,0.56,0.936,3,-5.835,1,0.0439,0,0.161,0.371,112.96,218013,4,Matchew,Jamming,Matchew
+Rex Orange County,Bcos U Will Never B Free,Corduroy Dreams,02tvc9CFnTyHuSRlGeNv9w,0.608,0.305,4,-14.037,1,0.053,0,0.103,0.222,113.818,206975,4,Matchew,Jamming,Matchew
+Rex Orange County,Loving Is Easy (feat. Benny Sings),Loving Is Easy (feat. Benny Sings),5EYi2rH4LYs6M21ZLOyQTx,0.756,0.609,3,-7.927,1,0.0544,0.00482,0.0959,0.537,117.024,155720,4,Matchew,Jamming,Matchew
+Rex Orange County,Pony,Pluto Projector,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,Matchew,Jamming,Matchew
+SZA,The Weekend (Funk Wav Remix),The Weekend - Funk Wav Remix,0P6AWOA4LG1XOctzaVu5tt,0.775,0.573,11,-4.933,1,0.0585,0,0.126,0.667,101.925,171806,4,Matchew,Jamming,Matchew
+FINNEAS,Let’s Fall In Love For The Night,Let's Fall in Love for the Night,7kQkmyoHCEqwe7QwDbkSXM,0.737,0.408,5,-7.941,1,0.104,0,0.171,0.374,127.921,190348,4,Matchew,Jamming,Matchew
+SZA,Good Days,Good Days,3YJJjQPAbDT7mGpX3WtQ9A,0.436,0.655,1,-8.37,0,0.0583,8.1e-06,0.688,0.412,121.002,279204,4,Matchew,Jamming,Matchew
+Lucy Ellis,Just the Two of Us,Just the Two of Us,2B6Fn22qyvDyWBXP2hYfJd,0.491,0.12,7,-18.077,1,0.0476,0,0.187,0.242,134.365,208170,4,Matchew,Jamming,Matchew
+Ritt Momney,Put Your Records On,Put Your Records On,6AGOKlMZWLCaEJGnaROtF9,0.399,0.491,6,-10.778,0,0.0538,0.00089,0.11,0.151,91.066,210463,4,Matchew,Jamming,Matchew
+Neon Trees,Picture Show,Everybody Talks,2iUmqdfGZcHIhS3b9E9EWq,0.471,0.924,8,-3.906,1,0.0586,0,0.313,0.725,154.961,177280,4,Matchew,Jamming,Matchew
+Kid Travis,Strawberry Skies,Strawberry Skies,0GiAmOCAtzGPfjfjGAXQ04,0.65,0.462,11,-6.587,0,0.089,0,0.159,0.649,89.887,165333,4,Matchew,Jamming,Matchew
+Pink Sweat$,PINK PLANET,Honesty,19gCnDoMbugHhF7eMpLpe1,0.66,0.139,6,-16.339,0,0.0323,1.1e-05,0.105,0.312,79.975,189000,4,Matchew,Jamming,Matchew
+Wallows,Nothing Happens,Are You Bored Yet? (feat. Clairo),57RA3JGafJm5zRtKJiKPIm,0.682,0.683,8,-6.444,0,0.0287,2.32e-05,0.273,0.64,120.023,178000,4,Matchew,Jamming,Matchew
+Khalid,Talk,Talk,0rTV5WefWd1J3OwIheTzxM,0.9,0.4,0,-8.443,1,0.124,0,0.0876,0.338,136.001,197487,4,Matchew,Jamming,Matchew
+Juice,Audrey Tell Me,Audrey Tell Me,2rzLMSlgENndN9bZ3QKnJv,0.525,0.83,1,-3.671,1,0.0634,0,0.112,0.675,114.108,254621,4,Matchew,Jamming,Matchew
+Paramore,Paramore,Still into You,1yjY7rpaAQvKwpdUliHx0d,0.602,0.923,5,-3.763,1,0.044,0,0.0561,0.765,136.01,216013,4,Matchew,Jamming,Matchew
+khai dreams,Summer Is Like a Dream,Drifting Away,6R5JpLDVRgRI6P2OQCjA4n,0.521,0.268,1,-15.199,1,0.0407,0.177,0.0718,0.272,119.879,192500,4,Matchew,Jamming,Matchew
+khai dreams,Through and Through,Through and Through,4RHyIzFRht2z17XeHB9dsF,0.851,0.424,6,-9.307,1,0.0463,0,0.0843,0.591,94.927,113684,4,Matchew,Jamming,Matchew
+Harmless,I'm Sure,Swing Lynn,6hIOunhsLUT66KQgZV5dMD,0.462,0.945,2,-1.887,1,0.0399,0.746,0.11,0.477,165.153,321438,4,Matchew,Jamming,Matchew
+Mac Miller,Circles,Good News,1DWZUa5Mzf2BwzpHtgbHPY,0.794,0.32,1,-12.92,0,0.173,0.134,0.112,0.241,174.088,342040,4,Matchew,Jamming,Matchew
+"Tyler, The Creator",CALL ME IF YOU GET LOST,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),5B0kgjHULYJhAQkK5XsMoC,0.493,0.653,0,-5.666,0,0.0466,0,0.511,0.852,142.347,121573,4,Matchew,Jamming,Matchew
+Mac Miller,Circles,That's On Me,0udOCZp7yk0Ml92C0k8H8D,0.583,0.499,10,-10.086,1,0.0261,0.0104,0.33,0.342,155.199,217868,3,Matchew,Jamming,Matchew
+Rex Orange County,Sunflower,Sunflower,4EpZ4eYuZOwPSSwyqpdHnJ,0.384,0.765,6,-4.463,1,0.0579,0.00352,0.522,0.567,129.903,252231,4,Matchew,Jamming,Matchew
+Clairo,Immunity,Sofia,7B3z0ySL9Rr0XvZEAjWZzM,0.744,0.619,0,-9.805,1,0.039,0.00372,0.231,0.641,112.997,188387,4,Matchew,Jamming,Matchew
+Coldplay,Parachutes,Sparks,7D0RhFcb3CrfPuTJ0obrod,0.371,0.268,1,-10.506,1,0.0281,0.0517,0.104,0.165,102.617,227093,3,Matchew,Jamming,Matchew
+Clairo,Pretty Girl,Pretty Girl,0KyAGiNGUytG5JLxJu4F6l,0.93,0.611,0,-4.406,1,0.0415,0.00124,0.0592,0.695,112.127,178352,4,Matchew,Jamming,Matchew
+girl in red,we fell in love in october / forget her,we fell in love in october,1BYZxKSf0aTxp8ZFoeyM3d,0.566,0.366,7,-12.808,1,0.028,0.181,0.155,0.237,129.959,184154,4,Matchew,Jamming,Matchew
+The Rare Occasions,Futureproof,Notion,4cHKd6qPMR1TMx55KHlida,0.307,0.884,9,-3.825,1,0.0813,0.00103,0.0849,0.314,159.579,195121,4,Matchew,Jamming,Matchew
+Ant Saunders,Yellow Hearts,Yellow Hearts,2W4yABdLc4Jnds67Poi5Nl,0.866,0.438,7,-8.943,1,0.0719,0,0.0743,0.695,129.039,223258,4,Matchew,Jamming,Matchew
+Charlie Burg,"One, Violet",Lovesong (The Way) [feat. Bluets],4JkKXuKp2RdbE5M7L4z19Z,0.555,0.468,9,-7.64,1,0.0592,0,0.172,0.41,113.345,239523,3,Matchew,Jamming,Matchew
+Jex Nwalor,"Time Goes ""Bye""","Time Goes ""Bye""",5JIkpWBTRbDUacnjHeBwt9,0.645,0.261,4,-11.578,1,0.0627,4.38e-05,0.118,0.216,123.742,261028,3,Matchew,Jamming,Matchew
+Maasho,Fresh Air,Fresh Air,1NFNa1nGPnwdmcHO5XQ7Ui,0.785,0.66,3,-3.189,1,0.101,0,0.104,0.475,129.998,210462,4,Matchew,Jamming,Matchew
+Souly Had,B.L.I.S.S.,Paradise,2NUJIki3P8No8XGj3wralO,0.667,0.517,1,-7.787,1,0.0414,0.00197,0.104,0.37,109.812,178987,4,Matchew,Jamming,Matchew
+Peach Tree Rascals,Plus,Plus,6E6n27YzMs6wbiYnERsj3k,0.567,0.287,1,-11.219,1,0.281,2.69e-06,0.0925,0.564,178.068,272718,4,Matchew,Jamming,Matchew
+Kevin Abstract,ARIZONA BABY,Peach,5JRMqkR82k2fdDEAim9SCN,0.646,0.682,7,-5.847,1,0.0759,4.84e-06,0.107,0.421,131.895,176732,4,Matchew,Jamming,Matchew
+Yeek,Cleaner Air,Cleaner Air,3uwrczwM9A3xX63jlcRhIC,0.717,0.797,7,-5.393,1,0.0368,0.000694,0.0836,0.849,77.492,128129,4,Matchew,Jamming,Matchew
+Crumb,Locket,Locket,2vfPsGhqMbqmhjMGQ52dYf,0.393,0.481,1,-10.458,1,0.0273,0.725,0.0869,0.0773,98.463,318379,4,Matchew,Jamming,Matchew
+The Walters,Goodbye Baby,Goodbye Baby,70QqoQ3krRFUHfEzit7vjT,0.748,0.422,7,-10.008,1,0.0294,0.00277,0.392,0.595,111.141,151683,4,Matchew,Jamming,Matchew
+Keanu Bicol,i won't run,i won't run,3ykvobAQxQ5VlcDOMKXI4M,0.525,0.688,11,-8.691,1,0.0363,0.104,0.355,0.772,170.895,158947,4,Matchew,Jamming,Matchew
+Chase Atlantic,Chase Atlantic,Swim,3M0lSi5WW79CXQamgSBIjx,0.666,0.542,8,-6.429,1,0.0392,0,0.0765,0.0771,120.134,228787,4,Matchew,Jamming,Matchew
+Vance Joy,Nation of Two,Saturday Sun,2RiBogNRfulkNf7fVbPOrJ,0.637,0.864,8,-4.381,1,0.0468,0,0.222,0.706,99.995,214720,4,Matchew,Jamming,Matchew
+grentperez,Cherry Wine,Cherry Wine,1a1LrfgkTvfHFykIxcv8WU,0.761,0.565,11,-7.016,0,0.0411,0,0.0825,0.583,105.008,173286,4,Matchew,Jamming,Matchew
+Coyote Theory,Color,This Side of Paradise,79EkGysjP2dL5GdpeQjRxT,0.306,0.664,9,-6.07,1,0.0276,7.5e-06,0.135,0.321,158.283,242010,4,Matchew,Jamming,Matchew
+Arctic Monkeys,Favourite Worst Nightmare (Standard Version),505,58ge6dfP91o9oXMzq3XkIS,0.52,0.852,0,-5.866,1,0.0543,5.79e-05,0.0733,0.234,140.267,253587,4,Matchew,Jamming,Matchew
+Of Monsters and Men,My Head Is An Animal,Little Talks,2ihCaVdNZmnHZWt0fvAM7B,0.457,0.757,1,-5.177,1,0.032,0,0.146,0.417,102.961,266600,4,Matchew,Jamming,Matchew
+Lonely God,Marlboro Nights,Marlboro Nights,755inykyaG4w22GWAsA3MX,0.466,0.823,2,-6.635,1,0.311,0.000321,0.332,0.782,175.797,68523,4,Matchew,Jamming,Matchew
+The Walters,I Love You So,I Love You So,4SqWKzw0CbA05TGszDgMlc,0.575,0.648,10,-4.891,1,0.0358,0,0.115,0.466,75.977,160240,4,Matchew,Jamming,Matchew
+khai dreams,Now and Then,Sunkissed,1tD8J13a74q8fBqXwAP50j,0.766,0.354,6,-9.486,1,0.0543,0,0.381,0.792,153.902,126464,4,Matchew,Jamming,Matchew
+boy pablo,Roy Pablo,"Dance, Baby!",5EV4bGHxVN0kHpcAFvgnTt,0.602,0.601,9,-8.521,1,0.0411,0.0046,0.312,0.856,122.017,198000,4,Matchew,Jamming,Matchew
+Beach Bunny,Prom Queen,Painkiller,78j9wYboWAkB0UxVVq0X0H,0.371,0.778,4,-7.969,1,0.0497,0.000311,0.169,0.482,122.719,216146,4,Matchew,Jamming,Matchew
+Trevor Dering,Sammy Sosa,Sammy Sosa,1YBoDFYiAuPL2fOSVui9iY,0.636,0.485,10,-9.208,1,0.0328,0,0.155,0.248,121.952,213934,3,Matchew,Jamming,Matchew
+Nicky Youre,Sunroof,Sunroof,3RfTeIrWS8LNrfHYwechtt,0.768,0.716,10,-5.11,1,0.0404,0,0.15,0.841,131.43,163026,4,Matchew,Jamming,Matchew
+Billie Eilish,Happier Than Ever,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,0.332,0.225,0,-8.697,1,0.0348,0.00349,0.128,0.297,81.055,298899,3,Matchew,Jamming,Matchew
+slchld,modern breakups,maybe we need a break,2P2r0647uy5pKUikGZ7q9B,0.446,0.409,9,-4.812,1,0.0547,0,0.0891,0.348,80.111,184833,5,Matchew,Jamming,Matchew
+Gareth.T,boyfriend material,boyfriend material,20dYdhOwY8nfGsVaIockAR,0.794,0.454,4,-7.848,1,0.0477,0,0.127,0.913,144.926,150298,4,Matchew,Jamming,Matchew
+Ruel,Free Time,Painkiller,1YlulsUKDduOmC7WxvXYPW,0.683,0.42,5,-6.51,1,0.0542,0,0.225,0.469,128.621,213507,4,Matchew,Jamming,Matchew
+Rex Orange County,Best Friend,Best Friend,47Bg6IrMed1GPbxRgwH2aC,0.575,0.714,6,-5.247,1,0.0596,0,0.115,0.32,144.982,262231,4,Matchew,Jamming,Matchew
+Dayglow,Fuzzybrain,Hot Rod,0zePbRMJ9sd7wsZRlbPQua,0.707,0.767,7,-7.072,1,0.0323,0.000295,0.169,0.832,139.985,204014,4,Matchew,Jamming,Matchew
+ROLE MODEL,our little angel - EP,blind,0NuWgxEp51CutD2pJoF4OM,0.765,0.663,0,-5.223,1,0.0652,0.000297,0.0924,0.686,150.091,153293,4,Matchew,Jamming,Matchew
+ROLE MODEL,"oh, how perfect",hello!,7a2IJHzw9WJjoknwdnCop0,0.791,0.462,10,-4.023,1,0.0383,0,0.0991,0.556,125.913,188547,4,Matchew,Jamming,Matchew
+khai dreams,Lost in You,Lost in You,5mkRGTbm3BwPzNQL9oBV9e,0.771,0.607,5,-12.02,0,0.113,0,0.122,0.79,90.039,101000,4,Matchew,Jamming,Matchew
+Surfaces,Surf,24 / 7 / 365,0ClnfM4PI0wjlCVTJc9lP7,0.752,0.65,4,-6.194,1,0.0334,1.38e-06,0.313,0.904,141.16,177000,4,Matchew,Jamming,Matchew
+A-Wall,Helios,Loverboy,0qXP5fMhxGzxALOkXYUxfP,0.604,0.466,0,-10.093,1,0.0315,0.0334,0.093,0.499,120.045,224520,4,Matchew,Jamming,Matchew
+JVKE,this is what falling in love feels like,this is what falling in love feels like,4UG2Fm0E98LhE2dlNxiAXx,0.424,0.438,11,-5.53,1,0.0553,0,0.0837,0.325,128.983,120308,5,Matchew,Jamming,Matchew
+Grady,The in Between,CAN YOU HEAR THE MOON,7pcANiSH8mEKLUIPAxiSDr,0.343,0.503,6,-6.018,0,0.0623,0.00184,0.42,0.5,146.11,182534,4,Matchew,Jamming,Matchew
+Fitz and The Tantrums,More Than Just a Dream (Deluxe Edition),Out of My League,2AYEOC02WLhUiOoaig2SEH,0.545,0.968,9,-3.553,0,0.0853,0.00325,0.331,0.527,169.965,209386,4,Matchew,Jamming,Matchew
+boy pablo,Wachito Rico,hey girl,5x9r0HaFznxQ32J2JZFhub,0.585,0.487,6,-10.038,1,0.0395,0.0605,0.0868,0.89,99.933,187000,4,Matchew,Jamming,Matchew
+Clairo,Immunity,Softly,4PvbbMYL4fkToni5BLaYRb,0.759,0.436,0,-11.233,0,0.0419,0.0113,0.102,0.782,94.03,185307,4,Matchew,Jamming,Matchew
+Clairo,4EVER,4EVER,5mIOsPuQdXchVY0jB5NO9Q,0.75,0.585,9,-7.576,0,0.0285,0.00552,0.155,0.584,102.331,159595,4,Matchew,Jamming,Matchew
+Clairo,Flaming Hot Cheetos,Flaming Hot Cheetos,1F6IbA7di42uPc3cff8PXV,0.817,0.551,7,-9.33,0,0.133,0.000151,0.101,0.142,109.966,123884,4,Matchew,Jamming,Matchew
+Beach Bunny,Honeymoon,Cloud 9,6vFsBXYczYsP0H3lgunZOm,0.637,0.929,4,-3.593,1,0.0491,2.62e-05,0.344,0.902,80.974,147351,4,Matchew,Jamming,Matchew
+Steve Lacy,The Lo-Fis,Infrunami,0f8eRy9A0n6zXpKSHSCAEp,0.826,0.299,9,-7.721,1,0.0446,0.0952,0.0758,0.215,97.012,178328,4,Matchew,Jamming,Matchew
+Dayglow,Fuzzybrain,Can I Call You Tonight?,64lsIF5pw0sJY0gV5kz0RN,0.641,0.842,9,-7.27,1,0.0292,0.91,0.419,0.5,129.98,278769,4,Matchew,Jamming,Matchew
+Aidan Bissett,More Than Friends,More Than Friends,1Ph96WpdjNlwD6iKRE2Xa3,0.559,0.655,6,-6.792,1,0.051,0.000155,0.124,0.667,160.016,183012,4,Matchew,Jamming,Matchew

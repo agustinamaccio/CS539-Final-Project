@@ -1,0 +1,99 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Allen Stone,Radius,Circle,6fzWG7kpaLXJqYpXt3HAOg,0.662,0.454,1,-6.719,0,0.0353,0,0.11,0.27,135.025,209518,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Allen Stone,Allen Stone,Unaware,5kJwePyb1DXdUId90Ug99J,0.519,0.567,11,-8.507,1,0.0491,0.000144,0.116,0.51,116.967,349493,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Adele,19,Chasing Pavements - Live At The Hotel Cafe,1V8pHaJd5NdZVvWg6uM55l,0.505,0.322,0,-8.268,0,0.038,0,0.69,0.189,78.582,226587,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Adele,21,Turning Tables,5O6yk6U8L3rTbFsIwuqe8H,0.305,0.452,0,-6.077,0,0.0293,1.68e-05,0.129,0.21,79.83,250133,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Adele,When We Were Young,When We Were Young,7A2eDNBgJrEVE87C8pOMqN,0.381,0.594,3,-5.97,1,0.0486,0,0.0925,0.273,143.86,290907,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Battle Studies,Perfectly Lonely,42dbDZX9bsEGqMZWYmnR7J,0.678,0.53,0,-8.515,1,0.024,0.000274,0.0437,0.678,91.779,268093,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Coldplay,Ghost Stories,Another's Arms,22uzF19LxQW87kOVkR79Fq,0.516,0.572,8,-9.037,1,0.0291,0.254,0.139,0.351,160.023,234413,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Legend,DARKNESS AND LIGHT,Overload (feat. Miguel),37exBefsiwr3rmQ7xcQnEJ,0.571,0.409,9,-7.111,1,0.109,0,0.18,0.315,118.703,200293,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Beyoncé,B'Day,Resentment,7zt3bDTgxn03ZfV9xHqOs5,0.378,0.565,6,-5.388,1,0.0493,0,0.13,0.482,102.131,280693,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Keane,The Best Of Keane (Deluxe Edition),Somewhere Only We Know,7AQAlklmptrrkBSeujkXsD,0.442,0.606,9,-5.825,1,0.0259,1.43e-05,0.0973,0.359,171.982,235880,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Tori Kelly,Unbreakable Smile,Falling Slow,2jotacrxKMZ96oSIYDb1C9,0.644,0.472,5,-8.384,1,0.0648,1.08e-05,0.106,0.43,143.913,234667,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jason Mraz,"Tonight, Not Again: Jason Mraz Live at the Eagles Ballroom","Absolutely Zero - Live at the Eagles Ballroom, Milwaukee, WI, 10/28/2003",0man2fi5YqmLzEIzc1zzUK,0.343,0.554,5,-6.228,1,0.0314,0,0.969,0.148,130.458,375000,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Tori Kelly,Handmade Songs By Tori Kelly,All In My Head,098tAg0yjz9ds5oys4MAPG,0.675,0.506,6,-7.69,1,0.0857,0,0.0586,0.322,129.884,210895,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bruno Mars,Unorthodox Jukebox,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0,0.088,0.387,72.795,213827,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Battle Studies,All We Ever Do Is Say Goodbye,5DydMbw2U5Oh1OckJIsniN,0.559,0.51,5,-8.294,0,0.0247,5.31e-05,0.242,0.327,129.881,275267,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Continuum,Gravity,3SktMqZmo3M9zbB7oKMIF7,0.753,0.326,7,-9.883,1,0.0342,0.00131,0.24,0.237,123.799,245827,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Kim Hyun Joong,Kim HyunJoong Greatest Hits Collection,Because I'm Stupid (Acoustic Version),7paCrsW1WnT4MPbIQF6Zkk,0.698,0.437,10,-8.152,0,0.0259,0,0.0993,0.548,92.069,303077,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jayesslee,Jayesslee Studio Sessions,Officially Missing You (Studio Sessions),47vHy3Z7oTrCyjHZmkKn4M,0.714,0.399,7,-6.865,1,0.0277,2.64e-06,0.0912,0.43,93.973,223004,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Parachute,Hurricane,Hurricane,24VXyepFBQVZYa4q24cqVw,0.566,0.797,7,-5.05,0,0.0475,0,0.254,0.478,144.878,250773,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Clean Bandit,Tears (Acoustic Piano Version; Instrumental),Tears - Acoustic Piano Version; Instrumental,3foAHYDoyz3Xc48rbfxLLg,0.324,0.188,5,-17.115,0,0.0544,0.899,0.113,0.0953,78.531,241087,5,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Legend,Once Again,Another Again,4LvzLhylddOXjfdZZJZVPC,0.526,0.837,6,-6.565,1,0.282,1.23e-06,0.286,0.438,82.196,241733,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jensen & The Flips,Honeymoon,Borrowed,3dBeHYGQYzoUbqooBfVIZa,0.573,0.0719,4,-16.173,1,0.0468,1.27e-06,0.0947,0.204,109.422,339453,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Childish Gambino,What Kind Of Love,What Kind Of Love,3dDGmTHmzYpfZivVzd7W0d,0.38,0.154,2,-25.105,1,0.0354,0.00212,0.0986,0.287,80.596,242973,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Coldplay,A Rush of Blood to the Head,The Scientist,75JFxkI2RXiU7L9VXzMkle,0.557,0.442,5,-7.224,1,0.0243,1.46e-05,0.11,0.213,146.277,309600,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Frank Ocean,Blonde,Self Control,5RRbTnSvlD5AUYsQ1Cizor,0.545,0.21,8,-10.43,1,0.0337,0,0.372,0.446,80.058,249668,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Gallant,In The Room: Blue Bucket Of Gold (feat. Sufjan Stevens),Blue Bucket Of Gold (feat. Sufjan Stevens),4YpXh79QlhOJkY6xo1nptr,0.367,0.0809,2,-19.351,1,0.0313,2.35e-05,0.0826,0.204,70.239,244904,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Sara Bareilles,Little Voice,Gravity,4oa14QBfWRDfJy2agySy0L,0.27,0.275,0,-10.357,1,0.0356,0,0.146,0.231,168.964,232760,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bruno Mars,Unorthodox Jukebox,If I Knew,7lXOqE38eCr979gp27O5wr,0.522,0.413,3,-5.86,1,0.0316,0,0.0854,0.49,175.972,132640,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,161DnLWsx1i3u1JT05lzqU,0.498,0.59,1,-4.721,0,0.032,0,0.107,0.0784,145.867,217867,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jason Mraz,We Sing. We Dance. We Steal Things. (Deluxe Edition),A Beautiful Mess,4Ux2zfVJbSWowyQxm3YbSu,0.494,0.231,4,-12.04,1,0.034,0,0.215,0.144,120.263,337840,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Legend,Once Again,Again,5hJsV8ZJc1oHfVxqP7l1fd,0.37,0.313,5,-10.357,0,0.0754,0,0.113,0.157,172.616,301800,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Continuum,I Don't Trust Myself (With Loving You),5NkK3VXzNEAcHCUDtIZnFO,0.842,0.384,9,-11.384,0,0.0354,0.000505,0.0998,0.604,84.026,292013,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Continuum,Slow Dancing in a Burning Room,3f8Uygfz3CIpUCo6H6iNOJ,0.668,0.361,1,-8.69,0,0.0273,0.00506,0.0805,0.288,134.15,242000,5,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Continuum,In Repair,7MRn6wgG0ReDRNYV5wJeGX,0.427,0.588,2,-6.721,1,0.0293,0.0014,0.0697,0.394,145.099,367813,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Labrinth,Jealous,Jealous,4L2K7JKseFCBoHMZEAszW0,0.439,0.153,1,-8.95,1,0.0479,0,0.107,0.104,116.76,287693,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Liv Dawson,Reflection,Reflection,4eaJO9wWl81U1Crx2jP63H,0.558,0.377,6,-9.032,1,0.0315,1.6e-05,0.0549,0.0687,85.881,237177,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Lukas Graham,Lukas Graham,What Happened to Perfect,67DNRQWjRLMFvekBRprYtW,0.647,0.529,9,-6.524,1,0.0975,0,0.0879,0.145,139.997,236853,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Sam Smith,In The Lonely Hour (Drowning Shadows Edition),Leave Your Lover,14Ch95oEbCcSBNX7gZdag9,0.445,0.26,4,-8.775,1,0.0435,3.27e-06,0.105,0.423,143.431,188377,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Shawn Mendes,Illuminate,Three Empty Words,5A6C0axHkoZ02fVXtLJJeY,0.631,0.422,0,-9.72,1,0.0312,0,0.151,0.503,95.786,199013,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Tori Kelly,Foreword,Paper Hearts,4X8jImpljCdt2eDge8OzoQ,0.416,0.233,3,-10.988,1,0.0347,0,0.0934,0.242,68.853,199584,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+ZAYN,Mind Of Mine (Deluxe Edition),fOoL fOr YoU,6lvsJDZ7336YmpBzcNGhbe,0.52,0.513,7,-7.208,1,0.0256,0,0.0976,0.17,77.903,202213,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+James Bay,Chaos And The Calm,Let It Go,13HVjjWUZFaWilh2QUJKsP,0.546,0.311,1,-10.396,1,0.0288,1.65e-05,0.107,0.246,147.464,260533,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Set It Off,Duality,Miss Mysterious,0Hkyfh5yN9mSehPH10wzcR,0.393,0.54,1,-5.974,1,0.0278,0,0.108,0.39,76.303,271040,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+TastyTreat,Sideways (feat. Marco Foster),Sideways (feat. Marco Foster),4LRtHe80xFad3wEz3DWdoR,0.608,0.671,3,-5.673,1,0.0397,9.01e-06,0.124,0.146,129.755,229189,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Allen Stone,Radius (Deluxe Edition),Faithful - Bonus Track,01UlCyz9z8PANm9oE22RlB,0.623,0.679,1,-5.486,0,0.0665,4.52e-05,0.304,0.536,150.086,181003,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Daniel Merriweather,Love & War,Water And A Flame (feat. Adele),54CBVACBxJ1Sa58aWw4QSP,0.558,0.689,2,-4.89,0,0.0408,0,0.194,0.546,148.118,219187,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Daniel Caesar,We Find Love - Single,We Find Love,6EzSYsuIZvfUu81OjctbBt,0.52,0.367,5,-8.776,1,0.0299,0,0.109,0.358,77.957,254521,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+John Mayer,Continuum,I'm Gonna Find Another You,0bYDebBlQxsDR4hCgbbpOW,0.511,0.34,9,-9.928,1,0.0299,0.00876,0.0763,0.269,75.328,163027,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+The Script,#3,Six Degrees of Separation,4IACOiO4fczuCkYFdYxDGu,0.517,0.828,4,-4.223,1,0.0493,0,0.901,0.516,147.956,232253,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Evanescence,Fallen,My Immortal,4UzVcXufOhGUwF56HT7b8M,0.19,0.265,9,-9.206,1,0.0356,0,0.134,0.101,79.012,262533,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Ricky Montgomery,Montgomery Ricky,Mr Loverman,5VrQtf7PVUmprxvDL1n4eU,0.641,0.527,0,-6.697,1,0.0256,2.51e-05,0.25,0.485,130.018,216880,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Harry Styles,Harry Styles,Sign of the Times,5Ohxk2dO5COHF1krpoPigN,0.516,0.595,5,-4.63,1,0.0313,0,0.109,0.222,119.972,340707,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+The Fray,How To Save A Life,How to Save a Life,5fVZC9GiM4e8vu99W0Xf6J,0.64,0.743,10,-4.08,1,0.0379,0,0.101,0.361,122.035,262533,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,3VlbOrM6nYPprVvzBZllE5,0.681,0.372,5,-8.237,1,0.0432,0,0.169,0.476,91.873,201000,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Leroy Sanchez,Elevated,I'll Leave It to You,5zk1YsGQSDG3A4qdrDDx9c,0.562,0.157,11,-10.454,1,0.103,0,0.112,0.164,80.322,222122,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+AILEE,"Guardian (Original Television Soundtrack), Pt. 9",I Will Go To You Like the First Snow,2BPXILn0MqOe5WroVXlvN1,0.497,0.431,5,-4.755,0,0.0287,0,0.153,0.167,133.675,229678,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Steven Universe,"Steven Universe, Vol. 1 (Original Soundtrack)",It's Over Isn't It,4P0yLay4gFvWWKxM6egrn7,0.552,0.199,0,-12.192,1,0.0571,0,0.107,0.4,114.94,138006,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bazzi,COSMIC,Honest,11Tfh16o0SW8KdiQdeESEX,0.677,0.594,7,-6.264,1,0.0695,0,0.118,0.427,76.996,175093,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bazzi,COSMIC,Mirror,2hxWNzVB1LPieCA9dU6k0P,0.793,0.77,5,-4.403,1,0.0551,0,0.219,0.56,149.982,140390,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Bazzi,COSMIC,Dreams,6fZpcVRr45Z6fLtciswBBU,0.663,0.666,6,-5.441,1,0.125,3.85e-06,0.222,0.605,159.983,147021,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Rome Hero Foxes,I / O,Falling out of Love With You,2sRcrWsi9hBDsHU12KqaZ6,0.461,0.275,10,-8.998,0,0.0306,0,0.109,0.214,78.97,221772,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",listen before i go,0tMSssfxAL2oV8Vri0mFHE,0.319,0.0561,0,-23.023,1,0.045,0.00384,0.388,0.082,79.764,242652,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+gny,before after hours,no stars,1jyA9FeQchlln6AiLbjPDX,0.635,0.44,7,-10.343,1,0.0764,0.00258,0.13,0.133,100.142,154800,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Why The Face,If I Lost You,If I Lost You,0NveJXlqPbr4FT8pPmQAC0,0.505,0.516,10,-7.997,0,0.0532,0,0.136,0.326,119.766,166500,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Colde,Your Dog Loves You,Your Dog Loves You,2XdyebP7KxClMOse2C5iyA,0.667,0.233,9,-11.862,1,0.0302,2.69e-05,0.154,0.131,101.865,270003,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+joan,i loved you first,i loved you first,3FpEXAupLwCHwzeUBxF99S,0.556,0.276,0,-9.603,1,0.0269,6.89e-06,0.0999,0.216,75.02,227068,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Raveena,Lucid,Mama,20VdNP6JaftxMQE2AxWCcS,0.492,0.42,11,-9.687,1,0.0745,0.0101,0.0803,0.291,72.875,240002,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Daniel Caesar,Won't Live Here,Won't Live Here,6GMblDhPDP420uc77vmqTc,0.315,0.227,5,-13.27,0,0.0313,0,0.377,0.199,140.071,312115,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Lawrence,Living Room,Almost Grown,5lTPGDWxdEKVRc4gKpUPmg,0.334,0.244,11,-8.887,1,0.0335,0,0.186,0.0641,130.358,325000,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+yourness,籠の中に鳥,籠の中に鳥,12w8fa09F3TDzKi9x6TLrl,0.406,0.705,2,-4.65,1,0.0345,4.21e-06,0.113,0.3,161.863,316545,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+NIKI,NIKI Acoustic Sessions: Head In The Clouds II,La La Lost You - Acoustic Version,5WkCcSa78lM1Ym4LXzJUiN,0.606,0.196,1,-11.652,1,0.0553,0,0.348,0.391,100.873,208511,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Cody Fry,Photograph,Photograph,1uXH4OpzVZPEBbI3mGkxZz,0.397,0.251,1,-10.346,1,0.0337,0.0001,0.0841,0.286,113.712,209520,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+RADWIMPS,Weathering With You -Complete Version-,Is There Still Anything That Love Can Do? (English Version),5s5TLBSbM6AEeOIF2GqQcO,0.412,0.418,9,-6.142,1,0.034,0,0.102,0.265,141.341,405520,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+george,[Vol.40] You Hee yul's Sketchbook 10th Anniversary Project : 20th Voice 'Sketchbook X george',Rain,7ruHWh1EsTcTbs6ZZ4DScg,0.441,0.337,0,-10.79,1,0.0435,0.000306,0.377,0.133,134.675,196307,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+NIKI,Zephyr,Around,6tv9CzrMUHQFrm9VHHO1hv,0.485,0.125,0,-16.486,1,0.0438,3.88e-06,0.108,0.153,130.234,183547,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jason Mraz,Mr. A-Z,Mr. Curiosity,7MxhtoiYMmro4VyBzUFm0P,0.558,0.216,10,-12.373,1,0.0446,1.22e-06,0.0958,0.211,95.907,235027,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Daniel Caesar,Pilgrim's Paradise,Streetcar,7Cu2COdH93MnuireuKNiS3,0.41,0.298,3,-11.796,1,0.0473,0,0.158,0.142,109.651,246972,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Steven Universe,"Steven Universe, Vol. 2 (Original Soundtrack)",That Distant Shore (feat. Jennifer Paz),5jkqtU2FUFMUlvJfW9cKRD,0.442,0.269,2,-10.119,1,0.0539,0,0.243,0.104,91.711,106237,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+One Direction,Made In The A.M. (Deluxe Edition),If I Could Fly,5CRVwXGikmqzoRO6q7FeAg,0.565,0.245,5,-9.132,1,0.0262,0,0.0998,0.307,75.055,230320,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Jason Mraz,We Sing. We Dance. We Steal Things.,A Beautiful Mess,4HMVeqf1r9cH240Ann9sJ3,0.494,0.231,4,-12.04,1,0.034,0,0.215,0.144,120.263,337840,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+88rising,Head In The Clouds II,Strange Land,5DrCWAaQ8zklweBa9abFIu,0.65,0.265,1,-15.357,1,0.0503,0.385,0.115,0.156,75.002,175734,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+SUD,Sila,Sila,2IMODbij0lZ5CuAjZi0IDE,0.635,0.376,9,-6.1,1,0.0457,0,0.109,0.28,124.57,326000,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Panic! At The Disco,Live in Chicago,She Had the World - Alternate Version,5u0tZTbEUR43UZhwQyKsW4,0.298,0.242,9,-11.849,1,0.0309,0,0.0944,0.37,78.489,223453,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+The Script,The Script,The Man Who Can't Be Moved,2Vq4bs08YppE2hqA2vpEcr,0.609,0.629,10,-5.024,1,0.0264,0,0.0978,0.325,99.955,241467,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Lukas Graham,Lukas Graham,Funeral,630aEV7ZOzv5BcWxzXFokR,0.749,0.35,3,-6.82,1,0.038,6.27e-06,0.0948,0.423,94.867,244627,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Daniel Caesar,We Find Love - Single,Blessed,0LHK3azcoAZxWZBhNd2BLo,0.457,0.269,11,-11.949,1,0.0382,2.64e-06,0.105,0.444,116.947,240247,1,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Sung Si Kyung,I Still,I Still,61sCtXb7Hx7nZMlZfAhpW2,0.521,0.451,0,-6.679,1,0.0311,0,0.0773,0.383,65.916,240089,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Eric Nam,Hold Me,Hold Me,6N0uDUUQRQd7lIIFU2aaEQ,0.584,0.566,1,-7.395,1,0.0395,0,0.107,0.204,128.037,227235,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+UMI,Butterfly,Butterfly,4qkVALwOxCIEZ7I5gkZ3m4,0.785,0.27,5,-14.457,1,0.0892,0.00132,0.0953,0.12,131.894,160500,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Various Artists,Songkites: Season of Love,Hell,2o6wStOj1CW8oD2GLnc3bU,0.423,0.0794,2,-13.492,1,0.0549,0,0.0772,0.121,182.316,303075,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Eloise,This Thing Called Living,Left Side,6WpE1zKOrnVKNDUHzwsUJ7,0.715,0.237,0,-13.42,1,0.0849,1.47e-06,0.186,0.375,114.908,144963,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Kany García,Soy Yo,Confieso,44kI7aJvJAYJkREVk0Rmei,0.476,0.244,9,-8.361,1,0.0997,0,0.0975,0.36,177.688,224227,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+asiatic.wav,Pills,Pills,2fHOiCZWlGwLCEJx1Mpn3z,0.744,0.318,10,-13.501,1,0.0506,0.00568,0.0505,0.609,139.994,200000,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Ben&Ben,"Beautiful Girl - Recorded at Kodama Studios, Philippines","Beautiful Girl - Recorded at Kodama Studios, Philippines",2rSEuTXuRnGOHcU5JuoW13,0.246,0.323,5,-9.469,1,0.0331,0,0.357,0.18,165.58,180545,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+keshi,always,us,3r9eGg4SVPbhtiPTA9UkmK,0.394,0.282,8,-9.873,1,0.0367,0,0.342,0.296,118.317,248011,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+UMI,Introspection Reimagined,Introspection Reimagined,1zQnPw58ITvKYIhk5lvlDV,0.604,0.487,4,-9.124,0,0.0823,0.0127,0.0976,0.417,85.342,302973,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Joji,Glimpse of Us,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe
+Rex Orange County,Pony,Pluto Projector,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,Gabrielle Cabebe,I'm Not Sad,Gabrielle Cabebe

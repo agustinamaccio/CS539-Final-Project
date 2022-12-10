@@ -1,0 +1,10 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Amy Winehouse,Back To Black (Deluxe Edition),Back To Black,3FAclTFfvUuQYnEsptbK8w,0.403,0.422,7,-13.964,0,0.0373,2.05e-05,0.0861,0.378,122.728,241293,4,ChaoW,in the mood for love,Chao Wang
+Amy Winehouse,Back To Black (Deluxe Edition),Rehab,3N4DI1vuTSX1tz7fa2NQZw,0.407,0.558,0,-13.609,1,0.0552,1.51e-06,0.34,0.777,71.815,214947,4,ChaoW,in the mood for love,Chao Wang
+Amy Winehouse,Back To Black (Deluxe Edition),You Know I'm No Good,0DMRKqrpd0QO4RWiEdMib0,0.694,0.496,9,-14.222,1,0.0329,0.00356,0.0644,0.799,103.372,257187,4,ChaoW,in the mood for love,Chao Wang
+Amy Winehouse,Back To Black (Deluxe Edition),Love Is A Losing Game,3uliGwmB52ZA7brgpZMzyH,0.484,0.293,0,-16.544,1,0.0311,0.00627,0.146,0.562,165.008,155413,4,ChaoW,in the mood for love,Chao Wang
+Duffy,Rockferry,Mercy,78twQ5XCFJMTE37ZSU0gsj,0.793,0.859,0,-3.774,1,0.0332,0.000356,0.133,0.964,129.911,219920,4,ChaoW,in the mood for love,Chao Wang
+Stevie Wonder,Songs In The Key Of Life,I Wish,687YZan9Gol1UVvbpUSO6Y,0.821,0.721,10,-10.401,0,0.0515,7.37e-06,0.0664,0.885,105.866,252373,4,ChaoW,in the mood for love,Chao Wang
+Marvin Gaye,Let's Get It On (Deluxe Edition),Let's Get It On,39l1UORIhuHvUWfxG53tRZ,0.539,0.599,3,-10.638,1,0.0483,0.0,0.0754,0.636,167.7,290933,4,ChaoW,in the mood for love,Chao Wang
+Ed Sheeran,x (Deluxe Edition),Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,0.614,0.379,4,-10.48,1,0.0476,0.000464,0.0986,0.201,107.989,258987,4,ChaoW,in the mood for love,Chao Wang
+Marvin Gaye,United,Ain't No Mountain High Enough,7tqhbajSfrz2F7E1Z75ASX,0.663,0.6,7,-10.87,1,0.032,0.0,0.184,0.8,129.991,151667,4,ChaoW,in the mood for love,Chao Wang

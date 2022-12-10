@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+SHINee,Married To The Music - The 4th Album Repackage,Black Hole,2ZnLUog2mtfL4dhoZ0Lta9,0.671,0.957,0,-3.006,0,0.0452,0,0.263,0.895,117.062,172395,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gallant,Ology,Episode,7BHrM7SmnxwdIbvpaFwpVv,0.567,0.703,1,-3.997,1,0.0439,6.68e-05,0.103,0.547,109.86,276827,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Frank Ocean,channel ORANGE,Sweet Life,6MEDfjHxnVNcYmHe3mM6L2,0.479,0.558,11,-6.074,1,0.179,0,0.0808,0.8,83.465,262680,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gallant,Ology,Bourbon,3Dp5SHGbRIqjGGI3cPdESA,0.515,0.664,0,-7.032,1,0.0647,0,0.106,0.501,153.896,279360,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gallant,Skipping Stones,Borderline,1628bePljyUphqBPlobmbg,0.474,0.432,2,-6.864,0,0.0268,9.26e-06,0.19,0.204,127.851,213680,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+제이심포니,JS-시네마,까짓 사랑을,2dTRcmrkiumWuiR4eW556Z,0.655,0.488,1,-5.691,1,0.0288,0,0.203,0.342,92.051,223095,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Lukas Graham,Lukas Graham,Drunk in the Morning,3xi7d2yGx09UKMAAr7A3az,0.768,0.744,2,-4.721,1,0.0426,0,0.177,0.691,93.537,203080,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Passion Pit,Gossamer,Constant Conversations,3p9x4bK5bwmgXE6POMvOp0,0.56,0.799,5,-4.466,0,0.0675,0.0679,0.304,0.304,69.972,235600,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+William Singe,How Deep Is Your Love,How Deep Is Your Love,0pmSbpYeNlImxN5BzWH5zg,0.695,0.369,10,-10.944,1,0.122,0,0.104,0.398,115.245,136229,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Trevor Wesley,Chivalry Is Dead - Single,Chivalry Is Dead,6kOrmPz9pkGzL4umBBRmWy,0.69,0.732,6,-5.499,1,0.0444,0,0.0579,0.661,129.875,209446,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gallant,Weight in Gold (The Remixes),Weight in Gold - Louis Futon,7xsdtQsh9LsEbozDga5X8D,0.363,0.703,5,-5.033,0,0.275,0,0.254,0.335,179.313,241803,3,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Spencer Kane,Can't Sleep Love,Can't Sleep Love,5tFQQTNaj3EguPWqknAHVg,0.731,0.53,11,-8.678,0,0.0462,0,0.123,0.582,94.501,177670,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Snakehips,All My Friends (feat. Tinashe & Chance the Rapper),All My Friends (feat. Tinashe & Chance the Rapper),6TaqooOXAEcijL6G1AWS2K,0.681,0.521,0,-5.849,1,0.141,8.41e-05,0.108,0.181,94.997,229747,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Logic,Under Pressure (Deluxe),Intro,4nkRk3BRQaW941xxtZVBew,0.511,0.413,2,-10.839,1,0.0725,0,0.219,0.736,80.595,182800,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+John Mayer,The Search for Everything - Wave Two,Still Feel Like Your Man,3pdWCmUno1bWzYIdYwoiMM,0.861,0.593,2,-6.692,1,0.0683,0.0021,0.244,0.501,106.024,236693,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Michael Jackson,Off the Wall,I Can't Help It,1HibhNhwk2tljwC4BGGLXV,0.684,0.394,5,-19.075,0,0.0908,5.76e-06,0.178,0.429,100.068,269333,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Kanye West,Graduation,Good Morning,27eO3EGKIUU7yug1eOxUZu,0.577,0.646,0,-5.902,1,0.13,4.18e-05,0.17,0.575,169.769,195093,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Flume,Skin,Tiny Cities (feat. Beck),518jjSIh6TgdMpIaDiJEsI,0.531,0.684,6,-4.718,1,0.0557,0.000307,0.092,0.374,71.049,236625,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Kanye West,Graduation,Everything I Am,1XQhZctQWzkznclbmbE7FQ,0.587,0.631,1,-6.811,1,0.308,1.54e-06,0.138,0.733,80.108,227893,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Ta-ku,Beat Sketches Vol. 1,Why,1ucAWCSmjbaElrFC8PAVSF,0.666,0.788,4,-8.07,0,0.0619,0.922,0.179,0.376,94.049,286094,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Anderson .Paak,Malibu,The Dreamer (feat. Talib Kweli & Timan Family Choir),2sNhYJ2ggd9BadlTXU3Mah,0.52,0.778,9,-4.161,1,0.26,0,0.896,0.388,164.677,339973,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Miguel,Pineapple Skies,Pineapple Skies,5AfJXFkWlmLBJhI23TNCIK,0.654,0.587,10,-6.331,1,0.0439,0,0.589,0.288,100.014,281360,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Kendrick Lamar,Black Panther The Album Music From And Inspired By,The Ways (with Swae Lee),5jyyPsIGM2yqkZN9R3TmvN,0.727,0.72,11,-5.856,0,0.0488,1.21e-06,0.176,0.589,140.08,238893,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Bobby Caldwell,What You Won't Do for Love,What You Won't Do for Love,7dL8FCLzEaWC2A3qWQuz1q,0.642,0.397,6,-16.842,1,0.0639,0.000834,0.106,0.798,84.064,286493,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Phum Viphurit,Lover Boy,Lover Boy,2rd4FH1cSaWGc0ZiUaMbX9,0.798,0.556,11,-8.597,1,0.0303,0.000353,0.0959,0.627,109.994,236727,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Various Artists,Pure... Chillout,The Highways of My Life,1ejmbZpkz1yLQw1Y8m76rU,0.418,0.44,4,-13.83,1,0.0374,0.000179,0.284,0.25,131.065,256227,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Sure Sure,Funky Galileo,Funky Galileo,0TAHhMjG17P5pzlSm1sgSl,0.802,0.325,10,-9.327,1,0.0466,0.162,0.156,0.648,110.995,246200,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+khai dreams,Now and Then,Sunkissed,1tD8J13a74q8fBqXwAP50j,0.766,0.354,6,-9.486,1,0.0543,0,0.381,0.792,153.902,126464,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+MAX,Blueberry Eyes (feat. SUGA of BTS),Blueberry Eyes (feat. SUGA of BTS),5dn6QANKbf76pANGjMBida,0.746,0.611,0,-7.034,0,0.101,0.000922,0.133,0.411,149.967,172245,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Kanye West,The College Dropout,Family Business,6wFxUq7Gr44N3uwLjVQRR0,0.726,0.533,0,-7.49,1,0.216,0,0.475,0.548,93.702,278893,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+slchld,"my insecurities, not yours","she likes spring, I prefer winter",2sFF0K2eHIClZYUqIbAwdb,0.326,0.66,9,-6.68,1,0.0674,0,0.264,0.471,78.29,207436,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Doja Cat,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),748mdHapucXQri7IAO8yFK,0.762,0.701,8,-3.541,1,0.0286,0.000158,0.123,0.742,110.968,208867,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Still Woozy,Lately EP,Ipanema,0phxK01nh2jkPnYe9wLfdO,0.755,0.477,1,-11.461,1,0.218,0.077,0.268,0.874,147.451,127044,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gallant,Cave Me In,Cave Me In,79ptYtWnpAnsQutzg2xSFk,0.689,0.512,1,-6.206,1,0.0509,2.07e-06,0.106,0.619,90.091,214159,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+tobi lou,Skin Care Tutorial 2020,Skin Care Tutorial 2020,4LmN889VhPSNg9N6q6805g,0.868,0.567,8,-7.27,1,0.187,0,0.0947,0.697,138.049,173913,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Cautious Clay,Cheesin',"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",6lIRYe72fn1pf7TNqfI0ul,0.818,0.623,9,-5.901,0,0.043,0,0.112,0.968,120.104,138000,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+The Weeknd,I Feel It Coming,I Feel It Coming,0VeYT2aD9t65JgofFZGpKl,0.768,0.814,0,-5.91,0,0.151,0,0.0839,0.541,92.979,269187,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+John Mayer,Room For Squares,Why Georgia,1c7UYTut2SBOPq64o2t0uN,0.608,0.639,7,-7.205,1,0.0246,5.94e-05,0.0893,0.369,96.915,268973,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Sun Rai,Pocket Music,San Francisco Street,5pjWzUc1tVcewUTdDJd6Ce,0.877,0.542,2,-9.102,1,0.0419,0.132,0.0858,0.509,111.474,266704,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+"Tyler, The Creator",Flower Boy,See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,6,-9.222,1,0.0959,7.49e-06,0.109,0.62,78.558,180387,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Us The Duo,No Matter Where You Are,Make You Mine,1ZWFt1f25IDDHsyx2rlcSV,0.596,0.576,5,-6.346,1,0.0317,4.82e-06,0.111,0.47,142.875,216240,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Solange,Sol-Angel and the Hadley St. Dreams (Deluxe),"I Decided, Part 1",5x9a0HprRP6RDfVxTs0dxf,0.808,0.728,5,-5.198,0,0.059,0.000128,0.0666,0.685,135.928,253330,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Wale,Ambition,Lotus Flower Bomb (feat. Miguel),3MAgQuClHcAV8E9CbeBS6f,0.512,0.598,9,-4.959,0,0.115,0,0.0881,0.345,70.189,213253,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Big Pun,Endangered Species,Still Not a Player (feat. Joe),5kWShBA43yNFBzHk7g1Mtd,0.891,0.704,4,-4.128,0,0.283,0.00553,0.119,0.896,94.119,236267,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Miguel,War & Leisure,Banana Clip,6xagjcywpcyNFghafZPQJv,0.638,0.708,1,-5.342,0,0.0754,0,0.177,0.606,84.978,201627,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Lil Wayne,Tha Carter III,Mrs. Officer,0EHR9OObFtjlhQB8wSt1m7,0.92,0.553,6,-5.068,1,0.191,0,0.0767,0.947,112.022,286907,5,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Bruno Mars,Leave The Door Open,Leave The Door Open,7MAibcTli4IisCtbHKrGMh,0.586,0.616,5,-7.964,1,0.0324,0,0.0927,0.719,148.088,242096,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Phum Viphurit,"Hello, Anxiety","Hello, Anxiety",1ZseaIKt19broBzze3F8hz,0.84,0.495,9,-9.54,1,0.0406,0.552,0.103,0.808,125.993,264762,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Michael Jackson,XSCAPE,Love Never Felt So Good,0S5EEpFAHcT7cm5XOASc29,0.634,0.87,5,-5.277,1,0.0362,0,0.18,0.514,116.967,235400,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Phum Viphurit,Bangkok Balter Club,Softly Spoken,58ZHuSI9SWvWU66n43kafK,0.74,0.544,2,-12.847,1,0.0335,0.00961,0.0967,0.45,100.979,266139,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Janet Jackson,The Velvet Rope,Together Again,1GrikfH0jDejDvrxo84n4P,0.873,0.593,7,-8.942,1,0.103,0.00697,0.104,0.495,123.091,301200,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Stevie Wonder,Talking Book,You Are The Sunshine Of My Life,0n2pjCIMKwHSXoYfEbYMfX,0.519,0.46,11,-14.53,1,0.0688,5.97e-05,0.243,0.675,132.082,178200,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Electric Light Orchestra,Out of the Blue,Mr. Blue Sky,2RlgNHKcydI9sayD2Df2xp,0.388,0.338,10,-10.054,1,0.0329,3.73e-06,0.248,0.478,177.765,303373,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Donnie Trumpet & The Social Experiment,Surf,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,0.511,0.596,0,-6.56,1,0.224,0,0.0798,0.554,158.063,226014,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Janelle Monáe,The Electric Lady,Electric Lady (feat. Solange),69vzkewKl2LPquyEiqD8BB,0.621,0.722,7,-7.002,1,0.0542,3.74e-05,0.0808,0.451,94.985,308893,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Childish Gambino,Because The Internet,3005,3Z2sglqDj1rDRMF5x0Sz2R,0.473,0.461,6,-6.474,0,0.333,0,0.0973,0.615,165.985,234213,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Logic,Everybody,Black SpiderMan,7BKUWh5sdtdS17crohRe4L,0.611,0.867,1,-5.298,1,0.0896,0.000105,0.346,0.336,140.032,331267,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Wale,Shine,Running Back (feat. Lil Wayne),2h3i5tGUl6hMu572umjcGo,0.587,0.671,2,-4.48,1,0.144,0,0.161,0.1,127.133,215360,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Childish Gambino,3.15.20,53.49,2alJKJoqOOEPVU1Do3eIjJ,0.518,0.952,6,-5.274,0,0.198,0,0.381,0.622,171.905,235280,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Bren Joy,Twenties,Henny in the Hamptons,4kWfgyx4baqZctv8N3zxwt,0.633,0.635,1,-6.786,0,0.118,0,0.207,0.464,87.927,197375,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Cody Fry,Thinking About You,Thinking About You,3ZFm04HXSV7PeLl7DsuZuM,0.914,0.524,5,-6.917,0,0.0805,0.00298,0.0794,0.908,98.966,227853,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+88rising,Head In The Clouds II,Indigo,349Wc5mDu52d4Uv8Eg9WZv,0.819,0.664,7,-5.612,1,0.0828,1.75e-06,0.263,0.71,144.988,173473,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+ALI,LOST IN PARADISE,LOST IN PARADISE,145wBbokDZTFZLFHOtZrzG,0.648,0.908,6,-3.946,0,0.0796,1.72e-06,0.0772,0.734,121.993,328960,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+NATHY PELUSO,Calambre,PURO VENENO,3R3dCLLjNrtLAUEs8CU6g0,0.78,0.852,10,-5.456,0,0.0554,2.63e-06,0.35,0.856,99.958,247653,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+ODESZA,In Return,Say My Name (feat. Zyra),1LeItUMezKA1HdCHxYICed,0.749,0.745,6,-7.367,0,0.0479,0.395,0.0748,0.347,115.048,262957,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Beyoncé,4,Party (feat. André 3000),42qh86p7TLXyumxSHn65kc,0.648,0.593,10,-6.267,1,0.0509,0,0.169,0.719,160.984,245480,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Chance the Rapper,The Big Day,All Day Long,1g3ErLqysBJ5EIGdYYMWFZ,0.767,0.884,2,-3.674,1,0.161,0,0.103,0.717,123.01,208238,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+UMI,Introspection Reimagined,Open Up Reimagined,69hBYwtZzy2tGJI6P4571F,0.467,0.553,9,-5.682,0,0.115,4.88e-06,0.12,0.465,94.201,220120,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+IV Of Spades,Mundo,Mundo,4u8RkgV6P4TLi89SmlUtv8,0.705,0.401,6,-8.9,1,0.0376,8.66e-06,0.0735,0.481,140.031,349713,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Bruno Mars,Skate,Skate,2sXf2JdbB2GlNju00kw9WE,0.708,0.598,5,-8.365,1,0.0291,0,0.17,0.698,112.027,203123,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Leven Kali,Leven Kali: Low Tide,Cassandra,2MWzmWSgPB5UZ2sLskqfNA,0.764,0.654,6,-6.76,0,0.0429,1.79e-06,0.0634,0.519,113.435,174973,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+KYLE,Just A Picture,Just A Picture,3yqsrYme138DD5pwu7cn0R,0.842,0.576,7,-7.452,1,0.182,0,0.0414,0.866,120.201,240816,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+MAX,Acid Dreams,Acid Dreams,3XEdqQtGHAM5huMrs3RaKN,0.817,0.509,0,-4.17,1,0.0839,2.53e-05,0.111,0.77,99.988,183930,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Lawrence,Living Room,Probably Up,13HalBseZHAT19C6jWs1Ma,0.735,0.609,10,-5.574,1,0.0557,3.11e-05,0.381,0.704,95.489,254653,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Ben&Ben,"Pebble House, Vol. 1: Kuwaderno",Kasayaw,6pfFeZffoaxQGmvYSLM8wI,0.67,0.836,2,-5.11,0,0.0749,1.29e-05,0.112,0.833,116.984,227578,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+SZA,The Weekend (Funk Wav Remix),The Weekend - Funk Wav Remix,0P6AWOA4LG1XOctzaVu5tt,0.775,0.573,11,-4.933,1,0.0585,0,0.126,0.667,101.925,171806,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+"Earth, Wind & Fire","The Best Of Earth, Wind & Fire Vol. 1",September,2grjqo0Frpf2okIBiifQKs,0.697,0.832,9,-7.264,1,0.0298,0.00131,0.269,0.979,125.926,215093,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Lawrence,Breakfast,Do You Wanna Do Nothing with Me?,2M7UdnD0fEaryh8TnCvqFX,0.548,0.611,1,-9.0,0,0.131,0.00247,0.0762,0.725,201.985,251853,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Zack Tabudlo,Habang Buhay,Habang Buhay,0zANeX4R6uWb82gCQAguOD,0.62,0.668,9,-5.719,1,0.0305,0,0.362,0.183,118.013,244068,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Samm Henshaw,Broke,Broke,1JqcZQCnxjDOfZZwQidb1H,0.751,0.684,1,-4.325,1,0.303,5.92e-06,0.18,0.864,89.984,207722,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Cory Wong,Live in the U.K.,Pleasin' - Live in Manchester,3Ig7BGLHcr1CIuzESPhkjr,0.528,0.787,7,-6.95,1,0.0617,0.029,0.945,0.878,179.152,269397,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Vulfpeck,Hill Climber,Half of the Way,3uFp6gGgNMtSEmzx1cHTG4,0.688,0.731,2,-6.387,1,0.0766,0,0.085,0.728,107.195,196905,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Anderson .Paak,Oxnard,Headlow (feat. Norelle),0L38hbPRV0C4x6CH7WZe1W,0.751,0.724,1,-8.053,0,0.0734,0.000141,0.208,0.509,100.044,250773,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Childish Gambino,3.15.20,19.10,5X4R93Qcw54yp9Utwy7Mlr,0.715,0.597,0,-8.939,1,0.0749,0.00273,0.0925,0.186,114.98,308547,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Domo Genesis,Genesis,Dapper (feat. Anderson .Paak),2Nh2cMryoXl7BrZoIeN2Pr,0.753,0.594,1,-9.486,0,0.0816,0,0.391,0.562,112.568,193093,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Kany García,DPM (De Pxta Madre),DPM (De Pxta Madre),37vqi0b9BqN0XN7QHLHTQ8,0.495,0.672,2,-6.246,1,0.259,0,0.126,0.687,170.166,181685,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+The Brook & The Bluff,Yard Sale,Misnomer,3awBLJoDSXa3TjQeDNhGlq,0.471,0.492,10,-9.043,1,0.0468,0.000668,0.137,0.38,116.361,223240,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Phony Ppl,Yesterday's Tomorrow,End of The niGht.,2p4ARx5nk3b9Jh07ivQR1c,0.809,0.671,8,-7.4,0,0.0837,8.1e-05,0.469,0.651,109.967,194680,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+george,Digging Club Seoul Pt. 1,After a long time 디깅클럽서울 Version,6ZZ1TUyOtjK2zJjNrVDDMU,0.6,0.611,5,-8.784,0,0.0328,0.00385,0.25,0.416,93.009,250951,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+HONNE,Gone Are the Days (Shimokita Import),3am,1WH96QFPIhxlnATR0K90KX,0.73,0.655,7,-7.154,0,0.0739,0.0094,0.658,0.518,100.003,228406,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Quelle Chris,Sudden Death,Sudden Death,2mNNAGjwvx83Xiuvkc7m0j,0.608,0.87,2,-4.344,0,0.0287,0.847,0.067,0.704,157.118,221283,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),5iUQMwxUPdJBFeGkePtM66,0.836,0.67,5,-6.907,0,0.23,0.000355,0.0837,0.556,107.018,305350,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Various Artists,Color Esperanza 2020,Color Esperanza 2020,3eSJmGWqoBRx5wbFCtvPtz,0.591,0.785,9,-7.768,1,0.161,0,0.126,0.785,106.002,217547,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Frankie Ruiz,Voy Pa'Encima,Desnúdate Mujer,65nL3OLuHHfEYxKkHMQ1fL,0.658,0.744,7,-10.057,1,0.0365,2.39e-05,0.308,0.9,99.613,287120,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Scary Pockets,Dreams / Just the Two of Us Mashup,Dreams / Just the Two of Us Mashup,1oLsTurIgqGmspifbtbTO5,0.621,0.684,1,-5.731,1,0.0604,0,0.183,0.815,75.157,196864,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Gareth Donkin,Dreaming,Dreaming,3vJgLX7Q0En7PgeFhchPiK,0.819,0.38,2,-13.6,1,0.0865,0.000648,0.258,0.634,119.965,266000,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+NIKI,Every Summertime,Every Summertime,68HocO7fx9z0MgDU0ZPHro,0.628,0.676,6,-4.227,1,0.0424,6.94e-05,0.0978,0.723,78.996,215687,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+The Emotions,Rejoice,Best of My Love,2M2WJ7gBlcKNxdhyfPp9zY,0.784,0.713,0,-6.865,1,0.0339,0.14,0.0904,0.97,115.443,220560,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Frankie Valli & The Four Seasons,The Very Best of Frankie Valli & The 4 Seasons,Can't Take My Eyes off You,6ft9PAgNOjmZ2kFVP7LGqb,0.575,0.764,4,-7.448,1,0.0746,1.07e-05,0.0692,0.536,123.821,203240,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe
+Zack Tabudlo,Asan Ka Na Ba,Asan Ka Na Ba,5MYPzdIWgx3pMLRGlq2fVq,0.676,0.768,5,-5.695,0,0.0294,0.00147,0.345,0.493,105.999,241132,4,Gabrielle Cabebe,goodfeels.exe,Gabrielle Cabebe

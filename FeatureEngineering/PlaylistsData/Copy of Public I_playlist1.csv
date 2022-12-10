@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Maroon 5,Hands All Over (Deluxe),Misery,6KBYk8OFtod7brGuZ3Y67q,0.704,0.81,4,-4.874,0,0.0425,0,0.216,0.726,102.98,216200,4,Spotify,Raised on Pop,Public I
+Britney Spears,Oops!... I Did It Again,Lucky,2TTYIwTM2iLC1YOyHuhRMt,0.765,0.791,8,-5.707,1,0.0317,0.000154,0.0669,0.966,95.026,206227,4,Spotify,Raised on Pop,Public I
+Nelly Furtado,"Whoa, Nelly!",I'm Like A Bird,4sUoWHVnJl8z3t4zdqf6xB,0.622,0.608,10,-5.085,1,0.036,5.38e-06,0.273,0.607,89.661,243160,4,Spotify,Raised on Pop,Public I
+Whitney Houston,Whitney,I Wanna Dance with Somebody (Who Loves Me),2tUBqZG2AbRi7Q0BIrVrEj,0.709,0.824,1,-8.824,1,0.0453,0.000307,0.0888,0.867,118.818,291293,4,Spotify,Raised on Pop,Public I
+Bruno Mars,Doo-Wops & Hooligans,Just the Way You Are,7BqBn9nzAq8spo5e7cZ0dJ,0.635,0.841,5,-5.379,1,0.0422,0,0.0622,0.424,109.021,220734,4,Spotify,Raised on Pop,Public I
+Erasure,The Innocents,Chains of Love,1I0qu4PsBjAHfJHy9wy5AA,0.747,0.698,0,-11.22,1,0.0333,4.53e-05,0.384,0.788,122.11,215347,4,Spotify,Raised on Pop,Public I
+Corinne Bailey Rae,Corinne Bailey Rae,Put Your Records On,2nGFzvICaeEWjIrBrL2RAx,0.739,0.511,9,-7.844,1,0.0362,1.34e-06,0.133,0.542,96.038,215360,4,Spotify,Raised on Pop,Public I
+Various Artists,'80s Pop Hits,Footloose,1KjqybxJeKMlq1h5s6YhIt,0.603,0.807,9,-8.571,1,0.0534,0.000467,0.0794,0.659,173.911,225800,4,Spotify,Raised on Pop,Public I
+Maroon 5,Songs About Jane,She Will Be Loved,7sapKrjDij2fpDVj0GxP66,0.706,0.713,0,-5.512,0,0.0301,0,0.132,0.544,102.037,257133,4,Spotify,Raised on Pop,Public I
+Backstreet Boys,Millennium,I Want It That Way,47BBI51FKFwOMlIiX6m8ya,0.689,0.694,6,-5.83,0,0.027,0,0.148,0.482,99.039,213307,4,Spotify,Raised on Pop,Public I
+Billy Joel,An Innocent Man,Uptown Girl,5zA8vzDGqPl2AzZkEYQGKh,0.701,0.944,4,-2.986,1,0.0455,0,0.601,0.792,128.993,197707,4,Spotify,Raised on Pop,Public I
+Various Artists,'80s Pop Hits,Girls Just Want to Have Fun,0uqOqX59mgWBqfPAdX0BDK,0.704,0.646,6,-9.415,1,0.037,1.42e-05,0.549,0.713,120.54,227867,4,Spotify,Raised on Pop,Public I
+Train,Drops Of Jupiter,Drops of Jupiter (Tell Me),2hKdd3qO7cWr2Jo0Bcs0MA,0.481,0.638,0,-5.862,1,0.0276,0,0.154,0.497,79.064,259933,4,Spotify,Raised on Pop,Public I
+Natasha Bedingfield,Unwritten,Unwritten,3U5JVgI2x4rDyHGObzJfNf,0.706,0.8,5,-6.333,1,0.0399,0,0.0822,0.629,100.011,259333,4,Spotify,Raised on Pop,Public I
+Michelle Branch,The Spirit Room,Everywhere,1u0l8zWpQeMYStFkc2mLD7,0.523,0.828,1,-4.696,1,0.0762,0.000255,0.165,0.476,96.952,214827,4,Spotify,Raised on Pop,Public I
+Vanessa Carlton,Be Not Nobody,A Thousand Miles,4w1lzcaoZ1IC2K5TwjalRP,0.56,0.825,11,-3.862,1,0.0379,0,0.161,0.268,94.931,237493,4,Spotify,Raised on Pop,Public I
+Jason Mraz,We Sing. We Dance. We Steal Things.,I'm Yours,1EzrEOXmMH3G43AXT1y7pA,0.703,0.444,11,-9.331,1,0.0417,0,0.0973,0.712,150.96,242947,4,Spotify,Raised on Pop,Public I
+Donna Lewis,Now in a Minute,I Love You Always Forever,1PEqh7awkpuepLBSq8ZwqD,0.744,0.453,5,-11.977,1,0.0348,0.421,0.0898,0.122,103.773,239960,4,Spotify,Raised on Pop,Public I
+Mariah Carey,Daydream,Always Be My Baby,2aBxt229cbLDOvtL7Xbb9x,0.65,0.531,4,-8.335,1,0.0364,0,0.249,0.487,78.946,258133,4,Spotify,Raised on Pop,Public I
+Ace of Base,The Sign,The Sign,0hrBpAOgrt8RXigk83LLNE,0.808,0.786,4,-6.897,0,0.0447,0.0701,0.0574,0.899,96.987,191240,4,Spotify,Raised on Pop,Public I
+Katy Perry,Teenage Dream,Firework,29192Seg7hQqLi5gW5eOBt,0.638,0.832,8,-5.039,1,0.049,0,0.113,0.648,124.071,227893,4,Spotify,Raised on Pop,Public I
+Janet Jackson,Together Again,Together Again,2nnU5UH4paoRkWCC7fSR2P,0.898,0.648,7,-8.779,1,0.0869,0.0377,0.0611,0.724,123.096,248667,4,Spotify,Raised on Pop,Public I
+Justin Timberlake,The 20/20 Experience (Deluxe Version),Mirrors,4rHZZAmHpZrA3iH5zx8frV,0.574,0.512,5,-6.664,0,0.0503,0,0.0946,0.512,76.899,484147,4,Spotify,Raised on Pop,Public I
+Natalie Cole,Inseparable,This Will Be (An Everlasting Love),0PDCewmZCp0P5s00bptcdd,0.685,0.623,8,-11.146,1,0.042,0.00234,0.0295,0.896,126.739,171960,4,Spotify,Raised on Pop,Public I
+Savage Garden,Affirmation,I Knew I Loved You,6nozDLxeL0TE4MS9GqYU1v,0.61,0.497,9,-9.88,1,0.0279,6.11e-05,0.0884,0.739,85.031,250360,4,Spotify,Raised on Pop,Public I
+TLC,Crazysexycool,Waterfalls,6qspW4YKycviDFjHBOaqUY,0.769,0.505,1,-7.345,1,0.0829,7.49e-05,0.0777,0.757,171.804,279507,4,Spotify,Raised on Pop,Public I
+*NSYNC,No Strings Attached,Bye Bye Bye,62bOmKYxYg7dhrC6gH9vFn,0.61,0.926,8,-4.843,0,0.0479,0.0012,0.0821,0.861,172.638,200400,4,Spotify,Raised on Pop,Public I
+Robyn,Robyn Is Here,Show Me Love - Radio Version,6SluaPiV04KOaRTOIScoff,0.546,0.643,6,-4.069,0,0.0437,0,0.213,0.704,181.838,229227,4,Spotify,Raised on Pop,Public I
+Sheryl Crow,Tuesday Night Music Club,All I Wanna Do,3ZpQiJ78LKINrW9SQTgbXd,0.82,0.528,9,-11.179,1,0.0321,0.0186,0.257,0.931,120.091,272107,4,Spotify,Raised on Pop,Public I
+Kelly Clarkson,Breakaway,Since U Been Gone,3xrn9i8zhNZsTtcoWgQEAd,0.662,0.741,0,-5.406,1,0.0334,0.0303,0.114,0.404,131.0,188960,4,Spotify,Raised on Pop,Public I
+Jason Mraz,Waiting for My Rocket to Come,The Remedy (I Won't Worry),4tK4ARuilOrBzwVQK73E0Y,0.589,0.867,10,-4.523,1,0.0385,0,0.306,0.795,94.52,256441,4,Spotify,Raised on Pop,Public I
+Maroon 5,Songs About Jane,Sunday Morning,1YI0uK36eupTmw9F8kHysr,0.607,0.76,0,-5.229,1,0.0482,0,0.0595,0.805,88.059,244867,4,Spotify,Raised on Pop,Public I
+John Mayer,Room For Squares,No Such Thing,6Vecwo7AHst9V2CE3kmwr0,0.668,0.739,4,-4.919,1,0.0308,0,0.13,0.571,131.918,231467,4,Spotify,Raised on Pop,Public I
+Natalie Imbruglia,Glorious: The Singles 97-07,Torn,3APayTEWiUl9Ssep4BOXR2,0.558,0.928,5,-3.04,1,0.0356,5.44e-05,0.696,0.6,96.313,244813,4,Spotify,Raised on Pop,Public I
+Gavin DeGraw,Chariot,I Don't Want to Be,4vl2zwXsTmAxgu9iY0g6UK,0.423,0.862,0,-5.13,0,0.0695,0,0.133,0.462,154.756,217760,4,Spotify,Raised on Pop,Public I
+Adele,21,Someone Like You,1zwMYTA5nlNjZxYrvBB2pV,0.556,0.319,9,-8.251,1,0.0281,0,0.0996,0.294,135.187,285240,4,Spotify,Raised on Pop,Public I
+Annie Lennox,Diva,Walking on Broken Glass,4CcSw8wQAHYf4XNckayPoc,0.749,0.562,0,-8.45,1,0.0281,1.1e-06,0.105,0.807,115.008,253296,4,Spotify,Raised on Pop,Public I
+Spice Girls,Spiceworld,Spice Up Your Life,5qGwqO0lkbBXw4xNfzT7SF,0.556,0.993,1,-5.067,1,0.0464,0.0341,0.403,0.702,124.016,173667,4,Spotify,Raised on Pop,Public I
+Backstreet Boys,Millennium,Larger Than Life,6sbXGUn9V9ZaLwLdOfpKRE,0.661,0.973,0,-2.994,0,0.037,1.74e-05,0.617,0.75,108.037,232827,4,Spotify,Raised on Pop,Public I
+Santana,Supernatural (Remastered),Smooth (feat. Rob Thomas),0n2SEXB2qoRQg171q7XqeW,0.609,0.923,9,-3.908,1,0.0338,4.73e-06,0.295,0.961,115.996,294987,4,Spotify,Raised on Pop,Public I
+No Doubt,Tragic Kingdom,Don't Speak,6urCAbunOQI4bLhmGpX7iS,0.52,0.709,5,-7.125,0,0.0352,1.78e-05,0.18,0.536,76.039,263560,4,Spotify,Raised on Pop,Public I
+Macy Gray,On How Life Is,I Try,5TAf4lnZCZTLlZHNZMLFLi,0.593,0.642,2,-7.284,1,0.0299,0.000582,0.0804,0.736,76.403,239440,4,Spotify,Raised on Pop,Public I
+Wilson Phillips,Wilson Phillips,Hold On,4VZDv8sASBS8UruUBGTFdk,0.679,0.657,5,-9.897,1,0.0255,0,0.0497,0.546,97.8,266867,4,Spotify,Raised on Pop,Public I
+The Fray,How To Save A Life,How to Save a Life,5fVZC9GiM4e8vu99W0Xf6J,0.64,0.743,10,-4.08,1,0.0379,0,0.101,0.361,122.035,262533,4,Spotify,Raised on Pop,Public I
+Whitney Houston,Whitney Houston,How Will I Know,5tdKaKLnC4SgtDZ6RlWeal,0.832,0.544,6,-12.697,1,0.0442,0.000139,0.632,0.928,119.49,275533,4,Spotify,Raised on Pop,Public I
+Destiny's Child,Survivor,"Independent Women, Pt. 1",5EDUIiDf1Sp6nVnmCMRxa2,0.517,0.598,6,-3.751,0,0.263,2.22e-06,0.183,0.922,96.933,221627,4,Spotify,Raised on Pop,Public I
+Sheryl Crow,C'Mon C'Mon,Soak Up The Sun,215JYyyUnrJ98NK3KEwu6d,0.717,0.733,4,-4.985,1,0.0427,0,0.136,0.713,119.996,292307,4,Spotify,Raised on Pop,Public I
+Céline Dion,The Very Best of Celine Dion,That's the Way It Is,5s4catxeZsaWFnOrvrXZHf,0.634,0.886,9,-5.424,1,0.0434,0,0.118,0.577,93.04,241373,4,Spotify,Raised on Pop,Public I
+Alanis Morissette,Jagged Little Pill (2015 Remaster),You Learn - 2015 Remaster,4l7YIni9bAiGwWMqK5wvgV,0.401,0.706,8,-7.554,1,0.0404,0,0.0916,0.458,168.669,239640,4,Spotify,Raised on Pop,Public I
+Hanson,Middle Of Nowhere,MMMBop,0lnxrQAd9ZxbhBBe7d8FO8,0.683,0.937,9,-6.335,1,0.0449,0.0046,0.07,0.619,104.872,268653,4,Spotify,Raised on Pop,Public I
+ABBA,Arrival,Dancing Queen,0GjEhVFGZW8afUYGChu3Rr,0.543,0.87,9,-6.514,1,0.0428,0.000939,0.792,0.754,100.804,230400,4,Spotify,Raised on Pop,Public I
+Hootie & The Blowfish,Cracked Rear View,Only Wanna Be with You,1OFKUn2VLafrHj7ybnap0Q,0.49,0.873,6,-5.861,1,0.0355,5.19e-06,0.118,0.513,103.272,229587,4,Spotify,Raised on Pop,Public I
+K-Ci & JoJo,Love Always,All My Life,5GorFaKkP2mLREQvhSblIg,0.629,0.511,1,-8.651,1,0.0326,3.91e-06,0.0588,0.181,128.038,331240,4,Spotify,Raised on Pop,Public I
+Kelly Clarkson,Thankful,Miss Independent,2CZi8d774dBB0wiuWMIpr8,0.655,0.623,11,-6.302,0,0.116,0.000346,0.0652,0.615,175.973,214787,4,Spotify,Raised on Pop,Public I
+Justin Bieber,My World 2.0,Baby,6epn3r7S14KUqlReYr77hA,0.728,0.859,5,-5.237,0,0.137,0,0.111,0.535,65.043,214240,4,Spotify,Raised on Pop,Public I
+Annie Lennox,Medusa,"No More ""I Love You's""",2Pn5gvVioma5LHPxgEBBmD,0.372,0.57,3,-7.305,1,0.0305,2.57e-06,0.141,0.234,179.907,291333,4,Spotify,Raised on Pop,Public I
+Cher,Heart Of Stone,If I Could Turn Back Time,6mYrhCAGWzTdF8QnKuchXM,0.658,0.575,11,-10.365,1,0.0267,0,0.122,0.504,108.329,239827,4,Spotify,Raised on Pop,Public I
+Elton John,Madman Across The Water,Tiny Dancer,2TVxnKdb3tqe1nhQWwwZCO,0.414,0.428,0,-11.097,1,0.0278,0.000243,0.148,0.282,145.075,377093,4,Spotify,Raised on Pop,Public I
+Natalie Merchant,Ophelia,Kind & Generous,6VrjF67WFChXh8uYYBfeRr,0.593,0.611,3,-6.773,1,0.0504,0.533,0.605,0.473,93.171,241013,4,Spotify,Raised on Pop,Public I
+Paula Abdul,Forever Your Girl,Straight Up,5xl5582IihbEZAnfj0xyso,0.769,0.826,7,-8.252,1,0.0624,0.0177,0.0638,0.762,95.862,250032,4,Spotify,Raised on Pop,Public I
+Kylie Minogue,Fever,Can't Get You out of My Head,3E7ZwUMJFqpsDOJzEkBrQ7,0.766,0.563,9,-7.516,0,0.0339,0.683,0.115,0.964,126.007,230640,4,Spotify,Raised on Pop,Public I
+Tina Turner,Foreign Affair,The Best,6pPWRBubXOBAHnjl5ZIujB,0.662,0.737,0,-9.54,1,0.0296,0.0191,0.119,0.744,103.867,329800,4,Spotify,Raised on Pop,Public I
+Diana Ross,Diana,I'm Coming Out,3SnGymj6ijE2iuUfWxLo1q,0.72,0.828,5,-9.211,1,0.0462,0.429,0.0839,0.768,110.071,323347,4,Spotify,Raised on Pop,Public I
+The Corrs,In Blue,Breathless,5OQGeJ1ceykovrykZsGhqL,0.607,0.82,11,-7.754,1,0.0597,6.8e-05,0.269,0.768,126.988,207507,4,Spotify,Raised on Pop,Public I
+Sara Bareilles,Little Voice,Love Song,4E6cwWJWZw2zWf7VFbH7wf,0.583,0.786,2,-3.142,0,0.0301,0,0.188,0.573,123.055,258827,4,Spotify,Raised on Pop,Public I
+Matchbox Twenty,Yourself or Someone Like You,3AM,5vYA1mW9g2Coh1HUFUSmlb,0.521,0.673,8,-8.685,1,0.0284,0,0.12,0.543,108.031,225947,4,Spotify,Raised on Pop,Public I
+Billy Joel,The Stranger (Legacy Edition),Just the Way You Are,49MHCPzvMLXhRjDantBMVH,0.589,0.453,7,-8.912,1,0.0397,2.54e-05,0.134,0.513,139.148,290573,4,Spotify,Raised on Pop,Public I
+Daryl Hall & John Oates,Voices,You Make My Dreams (Come True),4o6BgsqLIBViaGVbx5rbRk,0.751,0.501,5,-12.151,1,0.0551,0.112,0.0467,0.902,167.057,190627,4,Spotify,Raised on Pop,Public I
+Madonna,Madonna (Reissue),Holiday,3ibAzRj9JnowdoLkyllk3n,0.813,0.699,7,-8.656,1,0.0458,0.0135,0.0527,0.732,117.548,231560,4,Spotify,Raised on Pop,Public I
+The Cardigans,First Band On The Moon (Remastered),Lovefool,7aQjPecQdIuNd1sz3KCDhD,0.704,0.636,9,-6.029,1,0.0252,0,0.35,0.89,111.845,193953,4,Spotify,Raised on Pop,Public I
+Paula Cole,This Fire,I Don't Want to Wait,5MDQNJ7SZTytJwCbWKqJDL,0.41,0.468,11,-8.177,1,0.0553,1.19e-05,0.0426,0.475,177.508,320027,4,Spotify,Raised on Pop,Public I
+Stevie Nicks,Crystal Visions...The Very Best of Stevie Nicks,Edge of Seventeen,2id8E4WvczfKHB4LHI7Np3,0.59,0.828,0,-6.28,1,0.0439,5.57e-06,0.0868,0.636,111.353,329680,4,Spotify,Raised on Pop,Public I
+Wham!,Make It Big,Wake Me Up Before You Go-Go,0ikz6tENMONtK6qGkOrU3c,0.62,0.573,0,-11.893,1,0.0423,0,0.0607,0.897,81.548,231333,4,Spotify,Raised on Pop,Public I
+Kelly Clarkson,Stronger (Deluxe Version),Stronger (What Doesn't Kill You),6D60klaHqbCl9ySc8VcRss,0.562,0.939,0,-4.282,1,0.0475,0,0.112,0.684,116.044,221947,4,Spotify,Raised on Pop,Public I
+Sixpence None The Richer,Sixpence None the Richer,There She Goes,43z6scIZU2QcEieMQFAJRG,0.498,0.789,10,-5.724,1,0.0319,5.83e-06,0.104,0.455,120.176,164280,4,Spotify,Raised on Pop,Public I
+Sheryl Crow,Sheryl Crow,Everyday Is A Winding Road,0t6DAi9KEiaWOtgTTXGhD2,0.629,0.673,6,-8.285,1,0.0406,3.64e-05,0.1,0.717,112.955,256000,4,Spotify,Raised on Pop,Public I
+Lisa Loeb,Stay (I Missed You),Stay (I Missed You),00U1MDChdOTxWwtKoOoBXE,0.612,0.591,1,-7.02,1,0.051,0,0.111,0.349,160.659,184333,4,Spotify,Raised on Pop,Public I
+"10,000 Maniacs",Our Time in Eden,These Are Days,786h4kDeZiX5nYvOwA3wtE,0.611,0.833,3,-7.554,1,0.0351,0.000204,0.0923,0.793,108.498,219893,4,Spotify,Raised on Pop,Public I
+Bonnie Tyler,The Very Best of Bonnie Tyler,Total Eclipse of the Heart,7wuJGgpTNzbUyn26IOY6rj,0.431,0.723,8,-5.887,1,0.0568,0,0.374,0.19,130.141,267360,4,Spotify,Raised on Pop,Public I
+Lionel Richie,The Definitive Collection,"Endless Love - From ""The Endless Love"" Soundtrack",0FGxAEMIE5GhyFqFMHRWaO,0.456,0.332,10,-9.775,1,0.025,0.000248,0.138,0.237,93.633,266267,4,Spotify,Raised on Pop,Public I
+Bananarama,Bananarama (Collector's Edition),Cruel Summer,2EGaDf0cPX789H3LNeB03D,0.666,0.871,1,-6.017,0,0.0272,0.0208,0.263,0.936,108.501,215326,4,Spotify,Raised on Pop,Public I
+Gnarls Barkley,St. Elsewhere,Crazy,2N5zMZX7YeL1tico8oQxa9,0.835,0.741,8,-1.609,1,0.0339,0.0577,0.0826,0.612,111.963,182066,4,Spotify,Raised on Pop,Public I
+Trolls,TROLLS (Original Motion Picture Soundtrack),"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",1WkMMavIMc4JZ8cfMmxHkI,0.669,0.832,0,-5.721,1,0.0682,0,0.0968,0.7,113.035,237547,4,Spotify,Raised on Pop,Public I
+Kylie Minogue,Kylie,The Loco-Motion,2pX5qSgxQFwlrkjxph8fxb,0.748,0.915,3,-5.23,1,0.0376,0.0585,0.0235,0.763,129.0,193920,4,Spotify,Raised on Pop,Public I
+Sara Bareilles,The Blessed Unrest,Brave,6Uy6K3KdmUdAfelUp0SeXn,0.551,0.836,10,-3.838,0,0.0524,2.1e-05,0.0425,0.758,185.063,220573,4,Spotify,Raised on Pop,Public I
+Various Artists,Dirty Dancing: Anniversary Edition,"(I've Had) The Time of My Life - 12"" Version",6mLVtOXSp8zzUVbQGLetBA,0.677,0.871,9,-6.542,1,0.0496,0.00133,0.132,0.538,108.704,406947,4,Spotify,Raised on Pop,Public I
+Céline Dion,Falling into You,"Because You Loved Me (Theme from ""Up Close and Personal"")",28UMiBhn383n9S7GL4tsxD,0.615,0.467,1,-9.883,1,0.0327,0,0.099,0.177,119.919,273667,4,Spotify,Raised on Pop,Public I
+Christina Aguilera,Christina Aguilera (Expanded Edition),Come on over Baby (All I Want Is You) - Radio Version,7A0apkTSTvMbSI7yplcmlh,0.829,0.915,8,-3.205,1,0.106,1.25e-05,0.246,0.779,118.903,203333,4,Spotify,Raised on Pop,Public I
+Bee Gees,How Can You Mend A Broken Heart,Stayin Alive,5ubvP9oKmxLUVq506fgLhk,0.702,0.773,10,-9.256,0,0.0343,0.00871,0.147,0.953,103.564,285373,4,Spotify,Raised on Pop,Public I
+Oasis,(What's The Story) Morning Glory? (Deluxe Remastered Edition),Wonderwall - Remastered,7ygpwy2qP3NbrxVkHvUhXY,0.375,0.893,2,-4.097,1,0.0406,0,0.187,0.434,174.323,258773,4,Spotify,Raised on Pop,Public I
+Irene Cara,What A Feeling,What A Feeling,0aAR5HogGoT68EWFbyRFqx,0.532,0.729,10,-6.84,1,0.0474,0,0.366,0.595,121.97,244533,4,Spotify,Raised on Pop,Public I
+ABBA,Super Trouper,Super Trouper,0J2p4KYdr6Mg4ET6JPlbe1,0.764,0.626,0,-8.274,1,0.0288,6.35e-06,0.201,0.961,118.34,252853,4,Spotify,Raised on Pop,Public I
+Fleetwood Mac,Fleetwood Mac,Landslide,5ihS6UUlyQAfmp48eSkxuQ,0.414,0.161,7,-22.32,0,0.0318,0.000223,0.117,0.423,159.375,199493,4,Spotify,Raised on Pop,Public I
+Elton John,Elton John,Your Song,38zsOOcu31XbbYj9BIPUF1,0.554,0.315,3,-11.028,1,0.0298,5.53e-06,0.101,0.325,128.157,241787,4,Spotify,Raised on Pop,Public I
+Seal,Seal,Kiss from a Rose,3YKptz29AsOlm7WAVnztBh,0.584,0.533,10,-7.11,0,0.0305,0,0.306,0.224,131.745,288427,3,Spotify,Raised on Pop,Public I
+Cyndi Lauper,She's So Unusual,Time After Time,7o9uu2GDtVDr9nsR7ZRN73,0.726,0.449,0,-9.206,1,0.0286,1.34e-06,0.0824,0.294,130.388,241333,4,Spotify,Raised on Pop,Public I
+Carole King,Tapestry,I Feel the Earth Move,1BWsOxeMx83OrKGCV4gxly,0.711,0.576,7,-8.784,0,0.0305,0.00226,0.0528,0.644,120.117,178560,4,Spotify,Raised on Pop,Public I
+Colbie Caillat,Coco,Bubbly,0rFOs9paloAvEtzwDX1Kmc,0.697,0.474,9,-6.663,1,0.0351,0,0.11,0.249,127.904,196280,4,Spotify,Raised on Pop,Public I
+Matchbox Twenty,Mad Season,If You're Gone,2f5N826udWfjT9iomeaBJt,0.544,0.659,9,-7.191,1,0.0298,1.33e-06,0.126,0.361,109.933,274933,4,Spotify,Raised on Pop,Public I
+Tracy Chapman,Tracy Chapman,Fast Car,2M9ro2krNb7nr7HSprkEgo,0.711,0.292,4,-15.523,0,0.037,0,0.131,0.194,103.951,296800,4,Spotify,Raised on Pop,Public I

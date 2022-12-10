@@ -1,0 +1,81 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Steve Lacy,Dark Red,Dark Red,3EaJDYHA0KnX88JvDhL9oa,0.603,0.784,6,-4.023,1,0.062,8.32e-06,0.119,0.769,172.041,173104,4,Spotify,Alternative 10s,Public D
+Arctic Monkeys,AM,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,0.548,0.532,5,-7.596,1,0.0323,0.000263,0.217,0.405,85.03,272394,4,Spotify,Alternative 10s,Public D
+Grimes,Visions,Genesis,3cjvqsvvU80g7WJPMVh8iq,0.611,0.677,10,-6.745,0,0.034,0.0698,0.241,0.233,166.04,255320,4,Spotify,Alternative 10s,Public D
+Frank Ocean,Blonde,Pink + White,3xKsf9qdS1CyvXSMEid6g8,0.545,0.545,9,-7.362,1,0.107,5.48e-05,0.417,0.549,159.94,184516,3,Spotify,Alternative 10s,Public D
+girl in red,we fell in love in october / October Passed Me By,we fell in love in october,6IPwKM3fUUzlElbvKw2sKl,0.566,0.366,7,-12.808,1,0.028,0.181,0.155,0.237,129.96,184154,4,Spotify,Alternative 10s,Public D
+Joji,BALLADS 1,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,0.515,0.479,3,-7.458,1,0.0261,0.00598,0.191,0.284,88.964,209274,4,Spotify,Alternative 10s,Public D
+Tame Impala,Currents,The Less I Know The Better,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,1,0.0284,0.00678,0.167,0.785,116.879,216320,4,Spotify,Alternative 10s,Public D
+Foster The People,Torches,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,0.733,0.71,5,-5.849,0,0.0292,0.115,0.0956,0.965,127.975,239600,4,Spotify,Alternative 10s,Public D
+Lana Del Rey,Norman Fucking Rockwell!,Doin' Time,0Oqc0kKFsQ6MhFOLBNZIGX,0.641,0.559,7,-11.132,0,0.0355,0.00402,0.0937,0.523,144.982,202193,4,Spotify,Alternative 10s,Public D
+Mac DeMarco,Salad Days,Chamber Of Reflection,7H7NyZ3G075GqPx2evsfeb,0.538,0.557,11,-8.678,1,0.0914,0.914,0.102,0.506,131.03,231724,4,Spotify,Alternative 10s,Public D
+BØRNS,Dopamine,Electric Love,2GiJYvgVaD2HtM8GqD9EgQ,0.611,0.797,6,-7.627,0,0.0533,0.00137,0.26,0.518,120.041,218107,4,Spotify,Alternative 10s,Public D
+Clairo,Immunity,Sofia,7B3z0ySL9Rr0XvZEAjWZzM,0.744,0.619,0,-9.805,1,0.039,0.00372,0.231,0.641,112.997,188387,4,Spotify,Alternative 10s,Public D
+Frank Ocean,Blonde,Ivy,2ZWlPOoWh0626oTaHrnl2a,0.575,0.386,9,-9.584,0,0.037,0.000289,0.229,0.466,116.408,249191,4,Spotify,Alternative 10s,Public D
+Arctic Monkeys,AM,Snap Out Of It,0NdTUS4UiNYCNn5FgVqKQY,0.728,0.638,5,-6.455,0,0.0336,0.0,0.116,0.872,130.014,193030,4,Spotify,Alternative 10s,Public D
+Kendrick Lamar,To Pimp A Butterfly,Alright,3iVcZ5G6tvkXZkZKlMpIUs,0.796,0.766,7,-5.974,1,0.238,0.0,0.0827,0.558,110.034,219333,4,Spotify,Alternative 10s,Public D
+Lorde,Pure Heroine,Royals,2dLLR6qlu5UJ5gk0dKz0h3,0.674,0.428,7,-9.504,1,0.122,0.0,0.132,0.337,84.878,190185,4,Spotify,Alternative 10s,Public D
+Thundercat,Drunk,Them Changes,7CH99b2i1TXS5P8UUyWtnM,0.657,0.562,8,-8.6,1,0.0601,0.00143,0.101,0.704,81.657,188454,4,Spotify,Alternative 10s,Public D
+Wallows,Nothing Happens,Are You Bored Yet? (feat. Clairo),57RA3JGafJm5zRtKJiKPIm,0.682,0.683,8,-6.444,0,0.0287,2.32e-05,0.273,0.64,120.023,178000,4,Spotify,Alternative 10s,Public D
+Mac DeMarco,2,My Kind of Woman,6jgkEbmQ2F2onEqsEhiliL,0.501,0.765,6,-7.063,0,0.0281,0.49,0.184,0.46,91.771,190846,4,Spotify,Alternative 10s,Public D
+George Ezra,Wanted on Voyage (Expanded Edition),Budapest,2ixsaeFioXJmMgkkbd4uj1,0.717,0.455,5,-8.303,1,0.0276,0.0,0.11,0.389,127.812,200733,4,Spotify,Alternative 10s,Public D
+Frank Ocean,Blonde,White Ferrari,2LMkwUfqC6S6s6qDVlEuzV,0.501,0.0958,0,-15.605,1,0.0433,0.0,0.298,0.204,108.741,248808,4,Spotify,Alternative 10s,Public D
+Tame Impala,Currents,Eventually,5M4yti0QxgqJieUYaEXcpw,0.424,0.615,9,-6.217,0,0.0325,0.000389,0.0844,0.155,77.935,318591,4,Spotify,Alternative 10s,Public D
+Grouplove,Never Trust a Happy Song,Tongue Tied,0GO8y8jQk1PkHzS31d699N,0.56,0.936,3,-5.835,1,0.0439,0.0,0.161,0.371,112.96,218013,4,Spotify,Alternative 10s,Public D
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",you should see me in a crown,3XF5xLJHOQQRbWya6hBp7d,0.678,0.533,4,-10.485,1,0.186,0.219,0.139,0.323,150.455,180953,4,Spotify,Alternative 10s,Public D
+Rex Orange County,Best Friend,Best Friend,3rPtS4nfpy7PsARctAWpzd,0.576,0.714,6,-5.247,1,0.0595,0.0,0.115,0.321,144.981,262231,4,Spotify,Alternative 10s,Public D
+Gorillaz,Plastic Beach,On Melancholy Hill,0q6LuUqGLUiCPP1cbdwFs3,0.689,0.739,2,-5.81,1,0.026,0.509,0.064,0.578,120.423,233867,4,Spotify,Alternative 10s,Public D
+Lorde,Pure Heroine,Team,3G6hD9B2ZHOsgf4WfNu7X1,0.69,0.578,6,-7.436,1,0.0929,0.0,0.305,0.416,99.961,193059,4,Spotify,Alternative 10s,Public D
+Portugal. The Man,Woodstock,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,0.801,0.795,1,-5.115,0,0.0504,0.000113,0.0717,0.754,79.028,163253,4,Spotify,Alternative 10s,Public D
+Phoebe Bridgers,Stranger in the Alps,Motion Sickness,5xo8RrjJ9CVNrtRg2S3B1R,0.651,0.546,1,-9.021,1,0.0357,0.0437,0.0842,0.623,107.021,229760,4,Spotify,Alternative 10s,Public D
+Tame Impala,The Slow Rush,Borderline,5hM5arv9KDbCHS0k9uqwjr,0.621,0.873,5,-3.067,0,0.0369,9.1e-06,0.0824,0.873,97.96,237800,4,Spotify,Alternative 10s,Public D
+girl in red,i wanna be your girlfriend,i wanna be your girlfriend,5PjdC2gMATetx5xdnwGUu7,0.541,0.382,7,-14.323,1,0.035,0.000836,0.304,0.343,155.901,204991,4,Spotify,Alternative 10s,Public D
+Bakar,Hell N Back,Hell N Back,3NRql0A1Ef4RCvT473iqgD,0.584,0.684,10,-4.314,0,0.567,9.05e-05,0.112,0.72,210.164,213573,4,Spotify,Alternative 10s,Public D
+M.I.A.,Matangi,Bad Girls,6nzXkCBOhb2mxctNihOqbb,0.639,0.912,1,-2.621,1,0.0615,0.0,0.097,0.343,143.448,227520,4,Spotify,Alternative 10s,Public D
+The 1975,A Brief Inquiry Into Online Relationships,It's Not Living (If It's Not With You),3TgMcrV32NUKjEG2ujn9eh,0.618,0.837,1,-5.338,1,0.0304,0.000378,0.0618,0.526,121.227,248336,4,Spotify,Alternative 10s,Public D
+Tame Impala,Lonerism,Feels Like We Only Go Backwards,0LtOwyZoSNZKJWHqjzADpW,0.303,0.9,2,-2.352,0,0.0574,0.635,0.11,0.491,149.508,192960,4,Spotify,Alternative 10s,Public D
+Kendrick Lamar,To Pimp A Butterfly,King Kunta,0N3W5peJUQtI4eyR6GJT5O,0.884,0.657,6,-4.569,0,0.0977,0.0,0.154,0.489,107.059,234693,4,Spotify,Alternative 10s,Public D
+Mura Masa,Mura Masa,Love$ick (feat. A$AP Rocky),3sTN90bIP2cJ1783ctHykO,0.625,0.763,8,-4.997,0,0.129,0.0106,0.214,0.721,88.753,192160,4,Spotify,Alternative 10s,Public D
+girl in red,bad idea!,bad idea!,57j65yC2HggQfmYNc6rdOK,0.513,0.807,1,-6.095,1,0.0481,0.0548,0.246,0.419,162.026,219638,4,Spotify,Alternative 10s,Public D
+Milky Chance,Sadnecessary,Stolen Dance,6vECYJHxYmm3Ydt3fF01pE,0.885,0.581,11,-8.813,1,0.0378,0.000204,0.0759,0.728,114.016,313684,4,Spotify,Alternative 10s,Public D
+Tame Impala,Currents,Let It Happen,2X485T9Z5Ly0xyaghN73ed,0.602,0.881,1,-5.875,0,0.0443,0.0266,0.111,0.577,125.012,467587,4,Spotify,Alternative 10s,Public D
+Faye Webster,Atlanta Millionaires Club,Kingston,5WbfFTuIldjL9x7W6y5l7R,0.73,0.355,10,-9.13,0,0.0359,0.00155,0.117,0.56,142.143,202653,4,Spotify,Alternative 10s,Public D
+Frank Ocean,channel ORANGE,Pyramids,4QhWbupniDd44EDtnh2bFJ,0.4,0.65,5,-6.104,0,0.0466,7.62e-05,0.791,0.15,107.989,592920,4,Spotify,Alternative 10s,Public D
+Lorde,Melodrama,Green Light,6ie2Bw3xLj2JcGowOlcMhb,0.594,0.721,2,-7.812,1,0.0957,8.55e-06,0.0879,0.253,128.942,234653,4,Spotify,Alternative 10s,Public D
+The 1975,"I like it when you sleep, for you are so beautiful yet so unaware of it",Somebody Else,5hc71nKsUgtwQ3z52KEKQk,0.61,0.788,0,-5.724,1,0.0585,0.0142,0.153,0.472,101.045,347520,4,Spotify,Alternative 10s,Public D
+Matt Maltese,As the World Caves In,As the World Caves In,4JE6agBLHGA5TaF6FlqfBD,0.331,0.45,10,-5.362,1,0.034,0.00464,0.22,0.18,123.829,218755,4,Spotify,Alternative 10s,Public D
+alt-J,An Awesome Wave,Breezeblocks,3n69hLUdIsSa1WlRmjMZlW,0.615,0.658,5,-7.299,1,0.0343,0.000911,0.205,0.293,150.093,227080,4,Spotify,Alternative 10s,Public D
+Metronomy,The English Riviera,The Look,6zfczP87XO2SxWlQtnjFNa,0.638,0.535,9,-7.792,0,0.0415,0.0391,0.0837,0.504,84.947,277653,4,Spotify,Alternative 10s,Public D
+M83,"Hurry Up, We're Dreaming",Midnight City,1eyzqe2QqGZUmfcPZtrIyt,0.526,0.712,11,-6.525,0,0.0356,0.0,0.179,0.32,105.009,241440,4,Spotify,Alternative 10s,Public D
+Michael Kiwanuka,Cold Little Heart (Radio Edit),Cold Little Heart - Radio Edit,7KX65PC1UZuImsUInThbav,0.629,0.58,7,-6.208,0,0.0278,0.000353,0.436,0.655,110.264,210300,4,Spotify,Alternative 10s,Public D
+Young the Giant,Young The Giant (Special Edition),Cough Syrup,1UqhkbzB1kuFwt2iy4h29Q,0.534,0.721,11,-7.307,0,0.0417,6.24e-06,0.115,0.225,128.978,249520,3,Spotify,Alternative 10s,Public D
+Lana Del Rey,Honeymoon,High By The Beach,7g3htkaLz4ETFn0cifwM3y,0.536,0.486,11,-11.067,0,0.0346,0.00788,0.12,0.0968,131.988,257573,4,Spotify,Alternative 10s,Public D
+Parcels,Tieduprightnow,Tieduprightnow,66tkDkPsznE5zIHNt4QkXB,0.863,0.533,5,-7.986,0,0.0484,0.00126,0.0794,0.738,102.025,249957,4,Spotify,Alternative 10s,Public D
+The Neighbourhood,Wiped Out!,R.I.P. 2 My Youth,07VBqWH6NG8L2ad3l84UKk,0.353,0.686,7,-5.704,0,0.0534,0.0,0.123,0.177,94.47,205280,4,Spotify,Alternative 10s,Public D
+The 1975,A Brief Inquiry Into Online Relationships,Love It If We Made It,6WmIyn2fx1PKQ0XDpYj4VR,0.472,0.745,4,-5.297,1,0.0356,2.74e-05,0.0957,0.0631,180.06,252926,4,Spotify,Alternative 10s,Public D
+Grimes,Visions,Oblivion,3LGsgpx4TfxhXbr07OFKqs,0.697,0.529,2,-8.838,1,0.0338,0.896,0.0895,0.486,155.974,251267,4,Spotify,Alternative 10s,Public D
+George Ezra,Staying at Tamara's,Paradise,38zwkK6TtTjIW9tpYBfZ3D,0.642,0.881,11,-3.537,1,0.0393,0.0,0.21,0.913,138.03,222045,4,Spotify,Alternative 10s,Public D
+Lana Del Rey,Ultraviolence (Deluxe),Shades Of Cool,4VSg5K1hnbmIg4PwRdY6wV,0.262,0.482,2,-6.863,0,0.0302,0.0161,0.244,0.0878,137.918,342093,3,Spotify,Alternative 10s,Public D
+The Naked And Famous,"Passive Me, Aggressive You",Young Blood,25nzKGDiua1lE9Qo5V19GL,0.579,0.865,6,-4.692,1,0.0302,0.000221,0.649,0.358,104.99,246600,4,Spotify,Alternative 10s,Public D
+Mitski,Puberty 2,Your Best American Girl,7g5qe8VITjr13RIe8uM2p6,0.362,0.258,7,-9.655,1,0.0315,0.00714,0.231,0.133,77.021,212184,4,Spotify,Alternative 10s,Public D
+Sam Fender,Hypersonic Missiles,Will We Talk?,5g0HSob4PEq7M8blV6y70i,0.296,0.925,1,-0.783,1,0.0767,0.000315,0.0797,0.607,204.111,162600,4,Spotify,Alternative 10s,Public D
+Flume,Skin,Never Be Like You (feat. Kai),5WI2ltQIdwgzf1SNE76JyR,0.444,0.557,0,-5.476,1,0.0602,0.0,0.152,0.296,115.058,234910,4,Spotify,Alternative 10s,Public D
+Foals,Holy Fire,My Number,04caEZhAsQKnWqKsMwk9ud,0.639,0.715,6,-8.954,0,0.0392,0.000552,0.619,0.813,128.072,238853,4,Spotify,Alternative 10s,Public D
+Glass Animals,How To Be A Human Being,Youth,1LPGwuFgIzbJoShfDdw7MY,0.648,0.718,9,-7.765,0,0.0298,0.00156,0.112,0.785,96.017,230693,4,Spotify,Alternative 10s,Public D
+Lana Del Rey,Norman Fucking Rockwell!,Venice Bitch,3hwQhakFwm9soLEBnSDH17,0.368,0.286,9,-13.031,0,0.0294,0.177,0.099,0.312,77.826,577199,4,Spotify,Alternative 10s,Public D
+alt-J,This Is All Yours,Left Hand Free,4iEOVEULZRvmzYSZY2ViKN,0.697,0.877,3,-4.465,1,0.0462,0.00943,0.083,0.802,101.99,173631,4,Spotify,Alternative 10s,Public D
+Passion Pit,Gossamer,Take a Walk,4Sfa7hdVkqlM8UW5LsSY3F,0.566,0.755,11,-5.526,1,0.0368,0.0,0.315,0.445,101.006,264493,4,Spotify,Alternative 10s,Public D
+Maggie Rogers,Heard It In A Past Life,Alaska,4HfLQJtVT1KiX1eVedDyTm,0.847,0.386,9,-10.668,0,0.0507,0.00176,0.108,0.178,104.001,188000,4,Spotify,Alternative 10s,Public D
+No Rome,RIP Indo Hisashi,Narcissist (feat. The 1975),4qjLvvBh5ZeKEPyShKRf06,0.543,0.682,3,-5.81,1,0.113,1.53e-06,0.085,0.424,179.969,195502,4,Spotify,Alternative 10s,Public D
+MØ,Final Song,Final Song,4qqArAiTPueDxIp7cf87h7,0.695,0.672,1,-6.109,0,0.0345,7.95e-05,0.0756,0.245,104.988,235827,4,Spotify,Alternative 10s,Public D
+Gerry Cinnamon,Erratic Cinematic,Sometimes,58dwGk4l4ju8pI9YWsTHWD,0.639,0.699,9,-6.736,1,0.0304,0.0,0.0739,0.959,150.01,196600,4,Spotify,Alternative 10s,Public D
+The 1975,A Brief Inquiry Into Online Relationships,TOOTIMETOOTIMETOOTIME,33DzKnwuBE6lfOiADwzd5E,0.667,0.824,8,-5.867,1,0.0665,0.0152,0.0933,0.518,114.998,207851,4,Spotify,Alternative 10s,Public D
+Foals,What Went Down,Mountain at My Gates,3f7OyfSoDbQC0LRDQiytPp,0.495,0.931,2,-5.336,0,0.0469,0.0819,0.246,0.617,104.05,244293,4,Spotify,Alternative 10s,Public D
+Lana Del Rey,Born To Die – Paradise Edition (Special Version),Video Games,3WD91HQDBIavSapet3ZpjG,0.39,0.252,6,-9.666,0,0.0298,0.0,0.0887,0.181,122.053,281947,4,Spotify,Alternative 10s,Public D
+The War On Drugs,Lost In The Dream,Red Eyes,0rUIff1QHd5zlOBtlHVqd9,0.464,0.814,10,-6.371,1,0.0369,0.2,0.162,0.467,161.845,298920,4,Spotify,Alternative 10s,Public D
+Sufjan Stevens,Carrie & Lowell,Death with Dignity,73uJybGAhwGRD9MZYrOmTY,0.514,0.16,4,-21.04,1,0.0383,0.0176,0.113,0.395,169.898,239508,4,Spotify,Alternative 10s,Public D
+Broken Bells,Broken Bells,The High Road,5cwN1htZyoWqZCc33f3RfE,0.61,0.638,0,-6.574,1,0.0238,6.59e-06,0.283,0.603,79.955,232200,4,Spotify,Alternative 10s,Public D
+Solange,A Seat at the Table,Cranes in the Sky,48EjSdYh8wz2gBxxqzrsLe,0.719,0.615,6,-5.972,1,0.045,0.000147,0.235,0.465,96.988,250973,4,Spotify,Alternative 10s,Public D
+Mac DeMarco,Salad Days,Salad Days,5VdaMUzoQetwxQwtWAd022,0.431,0.771,5,-7.176,1,0.0375,0.0214,0.121,0.772,201.002,145893,4,Spotify,Alternative 10s,Public D
+Lucy Dacus,Historian,Night Shift,1yYlpGuBiRRf33e1gY61bN,0.48,0.311,9,-7.887,1,0.0258,1.52e-05,0.113,0.162,86.15,391829,4,Spotify,Alternative 10s,Public D
+beabadoobee,The Moon Song,The Moon Song,3s9eWdn8IymCPvVLcKpjww,0.405,0.0854,0,-15.488,1,0.0336,0.0121,0.139,0.148,93.768,141040,4,Spotify,Alternative 10s,Public D

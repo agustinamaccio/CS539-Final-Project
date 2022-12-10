@@ -1,0 +1,42 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Dan + Shay,Good Things,"10,000 Hours (with Justin Bieber)",4j5ffIFh7bFT7GZciP1TCy,0.654,0.63,10,-4.644,1,0.0259,0,0.111,0.43,89.991,167693,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,If I Know Me,Chasin' You,5MwynWK9s4hlyKHqhkNn4A,0.631,0.591,7,-5.785,1,0.0277,0,0.11,0.489,97.074,205453,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Dustin Lynch,Blue In The Sky,Thinking 'Bout You (feat. MacKenzie Porter),4wBjKhJx6JnGoNJfJs24pd,0.403,0.711,8,-4.189,1,0.0569,0,0.109,0.801,203.803,170560,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Luke Combs,This One's for You Too (Deluxe Edition),She Got the Best of Me,698eQRku24PIYPQPHItKlA,0.533,0.907,11,-3.793,1,0.0406,0,0.386,0.7,150.99,183160,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Brett Young,Brett Young,In Case You Didn't Know,10M2Ex445zw585Ducldzkw,0.607,0.536,10,-7.306,1,0.0305,0,0.102,0.434,147.986,224853,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Brett Young,Ticket To L.A.,Catch,53cGGBxGPaRjP0HVUESyW5,0.566,0.765,2,-6.337,1,0.0439,0,0.0783,0.604,156.036,196440,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Diplo,Diplo Presents Thomas Wesley Chapter 1: Snake Oil,Heartless (feat. Morgan Wallen),3FU6urUVsgXa6RBuV2PdRk,0.765,0.556,11,-6.417,1,0.0512,0,0.0824,0.274,111.033,169227,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,Thought You Should Know,Thought You Should Know,6NHpyYvJyQsg2nXXzGYc2R,0.529,0.695,6,-6.174,1,0.0278,1.24e-05,0.142,0.514,139.993,215572,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,Dangerous: The Double Album,More Than My Hometown,5OELUCYgOHKFAvCERnAvfS,0.62,0.869,6,-5.479,1,0.0462,0,0.131,0.597,126.019,216573,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Kane Brown,Different Man,Thank God,1brnLTvarI9D1hLP6z2Ar8,0.738,0.455,3,-8.735,1,0.0352,0,0.107,0.441,99.945,174560,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Kane Brown,Be Like That (feat. Swae Lee & Khalid),Be Like That - feat. Swae Lee & Khalid,5f1joOtoMeyppIcJGZQvqJ,0.727,0.626,7,-8.415,1,0.0726,2.58e-05,0.126,0.322,86.97,191406,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,Dangerous: The Double Album,Somebody’s Problem,42lqBjPYlmL1EXpMDXvhSN,0.658,0.538,5,-7.676,1,0.0289,0,0.123,0.62,136.967,161773,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,If I Know Me,Whiskey Glasses,6foY66mWZN0pSRjZ408c00,0.614,0.68,6,-4.58,1,0.0289,1.84e-06,0.115,0.707,149.959,234347,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Morgan Wallen,You Proof,You Proof,5uU1uuyaUIBOiiUSQG7Wl3,0.731,0.85,9,-4.913,1,0.0336,0,0.605,0.644,119.706,157478,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,2016,5ehN5A3B3lDwmFCYO63Wk6,0.52,0.384,6,-8.168,1,0.0362,0,0.103,0.328,149.536,235053,5,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Sinning With You,Sinning With You,7aP3ZnCrfQLFBFK4RiXpG2,0.744,0.505,4,-5.943,1,0.0333,0,0.247,0.294,122.015,196453,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Montevallo,Leave The Night On,3wx2kQWPn9p5UppQbNhPAk,0.514,0.951,9,-3.813,1,0.0603,0,0.349,0.838,171.96,192160,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Montevallo,Make You Miss Me,0xwPzLmBAYro8BUz7MrtAo,0.614,0.472,7,-6.626,1,0.0297,0,0.111,0.168,146.005,225693,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Zac Brown Band,The Foundation,Chicken Fried,0LQtEJt7x0s6knb6RKdRYc,0.566,0.713,6,-4.25,1,0.0418,0,0.114,0.805,169.861,238147,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Downtown's Dead,42xmT5zcFAhCKfkLjpG0bv,0.363,0.688,11,-5.796,1,0.0865,0,0.135,0.413,81.982,213987,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Kinfolks,52lGuLAkIVbm4LZkSf9nj0,0.569,0.807,0,-4.584,1,0.0464,0,0.164,0.883,76.011,181933,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Sinning With You,1lGteWyWcTweQh7MCyIgLb,0.742,0.464,4,-7.682,1,0.0351,0,0.158,0.256,121.979,196453,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Nothing Lasts Forever,1akkt9lBMizLf2sJGSrla1,0.467,0.444,10,-7.181,1,0.0604,0,0.158,0.187,173.829,184320,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,That Ain't Beautiful,41UPpkBX72iB1MSNW2NSwM,0.635,0.468,1,-10.062,1,0.0471,2.32e-06,0.0737,0.3,89.985,164747,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Between The Pines (Acoustic Mixtape),Come Over - Acoustic Mixtape,5ZuDo4T5NU7jg5y0yV2Otk,0.373,0.431,2,-7.979,1,0.0278,0,0.0904,0.211,84.567,241867,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Montevallo,Take Your Time,6DEaND0SHv3sC11xobZLiy,0.558,0.719,11,-5.603,1,0.0419,0,0.212,0.483,158.031,243707,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Downtown's Dead,Downtown's Dead,5eFfsbjSouG8qOpg9ZqDl6,0.624,0.696,11,-6.006,1,0.0469,0,0.132,0.392,82.001,213987,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Montevallo,House Party,1TwLKNsCnhi1HxbIi4bAW0,0.747,0.861,8,-5.251,1,0.0514,0,0.026,0.859,103.966,190240,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Hard To Forget,10xuH52YSXHWFwCaF1fsDd,0.689,0.689,4,-5.517,1,0.045,0,0.57,0.664,130.069,204760,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Body Like A Back Road,Body Like A Back Road,7mldq42yDuxiUNn08nvzHO,0.732,0.458,5,-7.225,1,0.0311,0,0.136,0.661,98.938,165387,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,Montevallo,Break Up In A Small Town,7aftSOGSOpSoIlVAQVBb71,0.579,0.776,8,-5.365,1,0.173,0,0.239,0.434,136.044,229880,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,23,23,4PuAqZlL1tkidkuxfDlLbF,0.641,0.78,3,-5.138,1,0.0852,0,0.143,0.693,98.004,179720,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Ingrid Andress,Wishful Drinking (with Sam Hunt),Wishful Drinking (with Sam Hunt),3HGnIIdHYIbkowzLk8UHbE,0.678,0.528,10,-7.317,1,0.0551,0,0.0734,0.614,79.018,194545,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Luke Combs,This One's for You Too (Deluxe Edition),Beautiful Crazy,2rxQMGVafnNaRaXlRMWPde,0.551,0.402,11,-7.431,1,0.0262,0,0.0928,0.382,103.313,193200,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Darius Rucker,Learn To Live,Alright,5JlH51YDYsGj2dyEJKKjcN,0.601,0.806,7,-4.579,1,0.0345,0,0.185,0.711,89.87,231920,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Darius Rucker,True Believers,Wagon Wheel,3xdjjKMcMOFgo1eQrfbogM,0.537,0.66,9,-7.174,1,0.0296,0,0.135,0.574,148.096,298373,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Sam Hunt,SOUTHSIDE,Breaking Up Was Easy In The 90's,4sf2L157iEgAR7yrCNLgSq,0.562,0.649,9,-5.4,1,0.0494,0,0.341,0.376,145.913,215933,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Dan + Shay,Dan + Shay,Tequila,42fw0rxRO2xbesF6mJfd4Y,0.489,0.581,11,-5.731,1,0.0281,0,0.132,0.494,86.016,196747,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Shania Twain,Come On Over,You're Still The One,1wb4P4F0sxAQ2KXrRvsx6n,0.585,0.494,3,-8.751,1,0.0353,0,0.0886,0.634,133.822,212200,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Shania Twain,Come On Over,That Don't Impress Me Much,4FUfoWMypAyWbOavmYyeNu,0.757,0.757,1,-7.598,1,0.0389,0,0.0474,0.967,124.956,218867,4,Dominic Nguyen,Cantry,Dominic Nguyen
+Chris Stapleton,Traveller,Tennessee Whiskey,3fqwjXwUGN6vbzIwvyFMhx,0.392,0.37,9,-10.888,1,0.0298,0.0096,0.0821,0.512,48.718,293293,4,Dominic Nguyen,Cantry,Dominic Nguyen

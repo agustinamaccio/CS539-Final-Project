@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Common Kings,Summer Anthems,Alcoholic,1hUekE1ArfXmZGK3eeb5Pb,0.597,0.604,6,-10.154,0,0.222,0,0.172,0.951,72.704,170027,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian N.I.N.E.,Press Play,You Baby,2ewJuyk4eWf3G8arju6AvU,0.861,0.597,0,-5.754,0,0.0673,0,0.101,0.81,124.998,215053,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,Sweet Lover,Sweet Lover,5FwJTGPejXDWPakMzG0zxW,0.971,0.498,6,-6.201,1,0.0584,0,0.0295,0.904,110.029,222500,4,Spotify,Wade In Your Water Radio,Eliza
+MAGIC!,Don't Kill the Magic,Let Your Hair Down,0uQSHrFDVtbQyxNFCwm1EC,0.649,0.592,10,-6.924,1,0.0497,0.000529,0.182,0.466,148.01,265693,4,Spotify,Wade In Your Water Radio,Eliza
+Deach,Be with You,Be with You,5IpkgmIfXyuB9KVAdmirz4,0.661,0.532,0,-7.401,1,0.3,0,0.157,0.803,179.864,242667,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Hits & Mrs,Before You Go,0lMwaf3vDIAfv8ZOhnXCSG,0.627,0.686,0,-8.48,1,0.0502,0,0.192,0.588,87.021,191000,4,Spotify,Wade In Your Water Radio,Eliza
+The Green,The Green,Love I,4H1aZMAqnzICsnFVDf6Lxc,0.848,0.463,7,-9.009,1,0.0854,0,0.103,0.948,133.0,218240,4,Spotify,Wade In Your Water Radio,Eliza
+Katchafire,Down With You - Single,Down With You,4hd7l6rGzpqVL4PwHRamrA,0.782,0.606,0,-5.742,1,0.0623,0,0.0648,0.871,77.517,210051,4,Spotify,Wade In Your Water Radio,Eliza
+Adeaze,Always & for Real,A Life with You,61uQYPlrQ9BGusRmLKoEDE,0.562,0.546,9,-6.24,1,0.0281,0,0.14,0.375,126.039,274293,4,Spotify,Wade In Your Water Radio,Eliza
+Shaggy,"Out Of Many, One Music",You Girl (feat. Ne-Yo),6N7xh7rXiGyrU3B9MewF2z,0.769,0.652,6,-5.09,0,0.117,0,0.0467,0.923,79.146,245133,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Summer Anthems,She’s a Professional,0DL2BnZPksVzCKaNoTcs1V,0.663,0.566,10,-8.475,1,0.249,0,0.143,0.827,84.031,200840,4,Spotify,Wade In Your Water Radio,Eliza
+Three Houses Down,Love & Affection,Love & Affection,3kbrIhpuDBQPr7E9r2VWPR,0.643,0.585,4,-5.969,0,0.244,0,0.0942,0.678,80.062,223360,4,Spotify,Wade In Your Water Radio,Eliza
+Josh WaWa White,Line Em Up,Movin' About My Ways (feat. Dak),6AAgV2gjVmiv9x45AAA8EP,0.861,0.238,7,-11.367,1,0.147,2.13e-06,0.0257,0.792,90.009,289072,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian Mystik,Elevator Musiq,Mr Mista,3Lw3CevoovMWjPXX6KHSH8,0.742,0.696,6,-4.077,0,0.0527,0,0.0924,0.905,95.007,254707,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,Just so Fyne (Remastered),Luvin Comes Down - Remastered,0LYcVL9WtHak9HR4UHWjhz,0.749,0.527,7,-7.859,1,0.0762,1.76e-05,0.217,0.716,160.004,275500,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Hits & Mrs,Since I Woke Up,4qJbmR0S20KT0DkZLNGk4G,0.688,0.673,3,-6.279,0,0.0955,0,0.157,0.61,150.025,232013,4,Spotify,Wade In Your Water Radio,Eliza
+Akoostikz,Run Come Your Love,Run Come Your Love,2e0VGbVH40D8eIrbeCGbAZ,0.714,0.53,9,-10.154,1,0.118,0,0.0849,0.627,150.019,204194,4,Spotify,Wade In Your Water Radio,Eliza
+Katchafire,Say What You're Thinking,Love Letter,6swAqbmAJ7m19IxoHK1y5Z,0.824,0.584,7,-4.188,1,0.0536,0.115,0.081,0.971,145.016,213733,4,Spotify,Wade In Your Water Radio,Eliza
+Deach,Tell No Lie,Tell No Lie,5wavp0humcxJoOPsdsZh1d,0.778,0.678,0,-7.456,1,0.167,0,0.186,0.436,77.454,201290,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian N.I.N.E.,Press Play,Be Your Man,0UxGJcWb5MGtAu1vycuEbJ,0.789,0.495,11,-7.556,0,0.0794,0.000109,0.0646,0.232,81.315,219787,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Summer Anthems,Wade In Your Water,6DoYk3QIvkDs60S1d01vbx,0.598,0.687,7,-9.021,1,0.0955,0,0.112,0.626,75.169,184013,4,Spotify,Wade In Your Water Radio,Eliza
+Dirty Heads,Cabin By the Sea,Best of Us,02p3SB7cipcWK3STz7aLbK,0.74,0.703,9,-7.663,1,0.0543,0,0.17,0.961,81.984,187064,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,Can You Be Mine,Can You Be Mine,4g8s0IRnSbBrQDQyEBSZkV,0.79,0.648,0,-7.176,1,0.0491,0,0.0618,0.964,149.992,263619,4,Spotify,Wade In Your Water Radio,Eliza
+Three Houses Down,Smile,Smile,3avCcm2lZJN7ZFdXmhO9FO,0.798,0.616,8,-6.276,1,0.11,0,0.358,0.866,78.025,233040,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian Mystik,Freshmen,Robbin' Hood Heroes,5laP2pd9pT6O6rfW8oq2zB,0.537,0.343,7,-11.192,0,0.123,0,0.105,0.489,80.205,190093,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Hits & Mrs,On The Low,3aVhk9FXO4p6cCh0nU94dv,0.647,0.571,10,-8.332,1,0.109,0,0.0916,0.649,171.995,174013,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian N.I.N.E.,Press Play,Show Me,0ERGzuyTquZmQwOmeZLZpr,0.875,0.376,10,-11.342,1,0.0457,2.68e-05,0.0878,0.91,129.998,262973,4,Spotify,Wade In Your Water Radio,Eliza
+Adeaze,Rise & Shine,Got My Girl for Life,1y3V8QfOvABCUsYtoA6FY0,0.775,0.65,0,-6.63,1,0.047,0,0.124,0.935,93.965,171027,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,Ain't What I'm Looking For,Ain't What I'm Looking For,0ARfBKkzIlv62rbFb9lW3q,0.766,0.473,9,-10.089,1,0.0332,0,0.3,0.954,134.033,230000,4,Spotify,Wade In Your Water Radio,Eliza
+PT,Completion,My Baby,7HqPIVRvsMtknmboPnfXkk,0.806,0.717,6,-5.798,1,0.1,0,0.075,0.729,123.996,225097,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Summer Anthems,24/7,0e3aRkhcCdkYN62p2PFfD3,0.643,0.647,0,-9.061,1,0.0795,0,0.334,0.632,76.948,185480,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian Mystik,Freshmen,9.2.5,2D4kYm9I1e8ahrKTbaP2we,0.809,0.666,11,-8.968,1,0.1,0,0.0494,0.839,102.969,281387,4,Spotify,Wade In Your Water Radio,Eliza
+CRSB,WeAreCRSB,Casanova,23hEB41RCCbhECpFLPkzhc,0.858,0.538,4,-6.092,1,0.227,0,0.0946,0.916,149.956,211634,4,Spotify,Wade In Your Water Radio,Eliza
+Adeaze,Always & for Real (Deluxe Edition),Memory Lane,00EhzXcoejkD5RWoS8L4IX,0.781,0.606,9,-4.952,1,0.396,0,0.0361,0.899,92.978,224480,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,By Your Side,By Your Side,55b8P7xATsPBDs1oGMOC8b,0.723,0.563,6,-7.596,1,0.0483,0,0.0461,0.781,87.551,231500,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,One Day,Today's a New Day,1rLR7rxNKCos7pBIiiFngZ,0.794,0.714,1,-7.098,1,0.305,6.09e-06,0.192,0.294,170.028,213187,4,Spotify,Wade In Your Water Radio,Eliza
+Sammielz,Let Us Be,Let Us Be,55s9PxKuaXXghXrp1hDUSF,0.685,0.459,11,-7.412,1,0.0405,0,0.136,0.752,90.057,258625,4,Spotify,Wade In Your Water Radio,Eliza
+BrownHill,First Love,My Girl,1wOx5iSGBe7D9sqQTf5qJE,0.719,0.595,9,-10.091,1,0.0415,1.61e-06,0.133,0.735,74.982,214587,4,Spotify,Wade In Your Water Radio,Eliza
+Bo Napoleon,If That's Ok,If That's Ok,7wQ9DeZTB7OJ8rnrxeUHSl,0.687,0.491,5,-8.636,1,0.368,5.25e-06,0.0901,0.663,169.938,196197,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian Mystik,Elevator Musiq,Nesian 101,5X9PEJpCOCy7MccX8eOMuM,0.831,0.868,0,-4.562,1,0.101,2.7e-06,0.0524,0.711,120.024,281853,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Summer Anthems,Sickness,2SUSpC1KJad5v51mSmw1QS,0.715,0.631,0,-9.383,1,0.0462,0,0.091,0.782,89.929,211747,4,Spotify,Wade In Your Water Radio,Eliza
+Fia,Love Me,Love Me,3zfn7mpuEfL0C4x6MTjTAr,0.729,0.546,11,-4.484,0,0.212,0,0.097,0.75,98.091,264403,4,Spotify,Wade In Your Water Radio,Eliza
+The Green,The Green,I'm Yours,2LcmUm7w5WNAJe08nkSmvq,0.846,0.384,10,-10.301,1,0.0688,0,0.0828,0.674,123.051,220818,4,Spotify,Wade In Your Water Radio,Eliza
+Katchafire,Legacy,Addicted,5f4itgIzjuv3VWX9j6Af3M,0.632,0.624,7,-7.487,1,0.217,0,0.338,0.801,175.196,203267,4,Spotify,Wade In Your Water Radio,Eliza
+Anuhea,For Love,Higher Than the Clouds,13Dq0Ed9wyBU7mpoENkaS0,0.671,0.714,2,-5.996,0,0.06,0,0.191,0.764,161.972,223360,4,Spotify,Wade In Your Water Radio,Eliza
+Common Kings,Hits & Mrs,I Want It All,2tDllnM2Xu4DOIm3vN9XAL,0.756,0.708,2,-7.703,1,0.0542,0,0.0665,0.677,128.991,230613,4,Spotify,Wade In Your Water Radio,Eliza
+Deach,Slow It Down (Remix),Slow It Down - Remix,7wvkNAcCqWGfzwkf9TKtHd,0.777,0.553,11,-7.417,0,0.0959,0,0.123,0.692,130.047,223527,4,Spotify,Wade In Your Water Radio,Eliza
+Nesian N.I.N.E.,Press Play,Honey Do,3s7r9merCsywS1BukH65Hc,0.74,0.608,11,-7.974,1,0.0438,4.27e-05,0.169,0.742,78.999,249080,4,Spotify,Wade In Your Water Radio,Eliza
+Bo Napoleon,Nice to See U Trying,Nice to See U Trying,102OPCavQ3XebsX5nLyzEi,0.679,0.517,7,-7.394,1,0.189,0,0.0691,0.702,76.543,177512,4,Spotify,Wade In Your Water Radio,Eliza
+Lomez Brown,Just so Fyne (Remastered),All My Life - Remastered,2FGkEKhuoaIhBHcRrN1b3s,0.911,0.543,8,-8.385,1,0.0425,1.19e-06,0.076,0.96,129.988,260000,4,Spotify,Wade In Your Water Radio,Eliza

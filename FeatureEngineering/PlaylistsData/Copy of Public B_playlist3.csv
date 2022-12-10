@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Maya Delilah,Pretty Face,Pretty Face,76FIWDl9FJBphuJhjPkYtr,0.658,0.35,9,-6.626,1,0.037,1.18e-05,0.716,0.417,116.123,204908,3,Spotify,Retro Pop,Public B
+Ashe,omw,omw,46b0Hj6XPgIrwKURVsZeVA,0.723,0.853,4,-5.508,1,0.0712,0.0425,0.171,0.735,155.085,171162,4,Spotify,Retro Pop,Public B
+Drugdealer,Hiding in Plain Sight,Baby,7bxXiHye5YkfWVzB1KpKDu,0.686,0.589,9,-8.721,1,0.0312,0.00194,0.25,0.812,124.001,216573,4,Spotify,Retro Pop,Public B
+Ebony Loren,All That I Need,All That I Need,1YEc4P48PIWSPNip6FaI3T,0.807,0.31,2,-8.069,1,0.0761,0.0,0.169,0.63,117.968,222458,4,Spotify,Retro Pop,Public B
+Jonathan Roy,Stay in Bed and F*** (While The World Burns),Stay in Bed and F*** (While The World Burns),07DAMNunYyHvoG6PC88laF,0.509,0.537,5,-6.839,1,0.154,0.0,0.0892,0.588,71.9,164533,4,Spotify,Retro Pop,Public B
+Meghan Trainor,Takin' It Back,Made You Look,0QHEIqNKsMoOY5urbzN48u,0.838,0.525,10,-3.562,1,0.0665,1.92e-06,0.0771,0.884,144.981,134256,4,Spotify,Retro Pop,Public B
+Harrison Finks,Making it Right,Making it Right,6Hjy33Aku74bDdbLWhe6U6,0.577,0.787,7,-7.258,1,0.262,0.0,0.166,0.827,174.059,137799,4,Spotify,Retro Pop,Public B
+Stacey Ryan,Fall In Love Alone,Fall In Love Alone,5xwBIieMMFUmLDgvG4DjFe,0.676,0.625,7,-5.455,0,0.0711,0.000119,0.127,0.522,171.883,205428,4,Spotify,Retro Pop,Public B
+Young Gun Silver Fox,Ticket To Shangri-La,Rolling Back,1irJhcpldknFoEzcqO75qB,0.722,0.627,5,-8.378,1,0.0288,1.2e-05,0.108,0.971,117.033,223720,4,Spotify,Retro Pop,Public B
+The Weeknd,Dawn FM,Out of Time,2SLwbpExuoBDZBpjfefCtV,0.65,0.76,0,-4.422,0,0.0446,0.0,0.339,0.838,93.057,214194,4,Spotify,Retro Pop,Public B
+Sarah Kang,end credits,end credits,4IEGZYUSKkgWMy8vpp1Z7H,0.383,0.271,0,-12.538,1,0.0832,0.0,0.368,0.341,69.234,248500,3,Spotify,Retro Pop,Public B
+Stephen Sanchez,Until I Found You (Em Beihold Version),Until I Found You (with Em Beihold) - Em Beihold Version,1Y3LN4zO1Edc2EluIoSPJN,0.551,0.55,10,-5.339,1,0.0286,0.0,0.202,0.342,101.19,176440,3,Spotify,Retro Pop,Public B
+MAX,IT'S YOU (feat. keshi),IT'S YOU (feat. keshi),5SMCxRA6hB2jEhroaYfw6N,0.697,0.368,2,-9.708,1,0.056,0.00016,0.135,0.451,90.011,173428,4,Spotify,Retro Pop,Public B
+Rex Orange County,AMAZING,AMAZING,6FtIK0IkmG33lKbc1pyAlZ,0.719,0.461,8,-8.191,1,0.0454,0.0,0.0875,0.548,123.915,209200,4,Spotify,Retro Pop,Public B
+Bruno Mars,An Evening With Silk Sonic,Skate,7jvCeWOSnJs2N3spqobWnO,0.708,0.598,5,-8.365,1,0.0291,0.0,0.17,0.698,112.027,203123,4,Spotify,Retro Pop,Public B
+Meghan Trainor,Don't I Make It Look Easy,Don't I Make It Look Easy,0Bm2kjXM4w6JlwS6jpTmfO,0.628,0.742,0,-4.51,1,0.0668,0.0,0.274,0.829,148.756,154888,4,Spotify,Retro Pop,Public B
+John Legend,LEGEND,Wonder Woman,3BLWGYOcy1svvsBByeFxLh,0.628,0.476,0,-4.947,1,0.0352,0.0,0.121,0.336,147.915,168562,4,Spotify,Retro Pop,Public B
+Khruangbin,Texas Moon,Mariella,3dvXRk7TZ929m21p49RR5P,0.593,0.576,2,-10.331,1,0.032,0.718,0.0827,0.559,109.935,310554,4,Spotify,Retro Pop,Public B
+Tai Verdes,LAst dAy oN EaRTh,LAst dAy oN EaRTh,0fVDu1evgjX9CFD0cmuRrM,0.494,0.553,5,-5.57,1,0.197,4.17e-05,0.218,0.359,82.061,172756,4,Spotify,Retro Pop,Public B
+Brett Eldredge,Songs About You,Songs About You,7qox7CiK5Kf25oBxCA0rY5,0.649,0.558,8,-4.863,1,0.0253,0.0,0.172,0.635,89.988,202387,4,Spotify,Retro Pop,Public B
+Black Pumas,Black Pumas,Colors,6d4FWjx72iuRWzn1HwywLK,0.391,0.692,1,-6.543,0,0.0462,1.58e-05,0.191,0.56,180.008,246587,4,Spotify,Retro Pop,Public B
+Ray LaMontagne,Gossip In The Grain,You Are the Best Thing,1jyddn36UN4tVsJGtaJfem,0.578,0.727,10,-4.872,1,0.0332,1.99e-05,0.172,0.885,170.593,231840,4,Spotify,Retro Pop,Public B
+Meghan Trainor,Bad For Me (feat. Teddy Swims),Bad For Me (feat. Teddy Swims),7fHeyjwJRzbIlGm4DAvLJ1,0.678,0.575,0,-4.896,1,0.0565,0.0,0.16,0.274,88.068,213284,4,Spotify,Retro Pop,Public B
+Andy Grammer,Joy,Joy,4Hn4zAkBUaNnT8m9p7cYaf,0.675,0.793,2,-6.0,1,0.157,0.0,0.103,0.233,111.907,193621,4,Spotify,Retro Pop,Public B
+Bruno Major,A Song For Every Moon,Places We Won't Walk,0wfnEetPwlLHmnzhRXvPuk,0.392,0.0894,3,-16.046,1,0.0476,6.06e-05,0.108,0.195,87.641,169410,3,Spotify,Retro Pop,Public B
+Vulfpeck,Thrill of the Arts,Back Pocket,1DrlLvlYd1FIjNavRm6NdX,0.839,0.585,2,-7.738,1,0.153,0.00281,0.0435,0.89,89.821,181260,4,Spotify,Retro Pop,Public B
+88rising,Shang-Chi and The Legend of The Ten Rings: The Album,Fire In The Sky,3zpGIFghtnVlwMXWyKW474,0.668,0.856,1,-6.386,0,0.0453,0.0446,0.096,0.737,79.008,201787,4,Spotify,Retro Pop,Public B
+Durand Jones & The Indications,Private Space,Witchoo,6W9rbkBueZQrwuzO24GHZ2,0.803,0.59,11,-11.187,0,0.0798,0.00216,0.0605,0.743,118.022,222901,4,Spotify,Retro Pop,Public B
+Tai Verdes,sheluvme,sheluvme,64Ds8EuwkeGSOeXDzXLRZz,0.543,0.677,8,-5.203,1,0.284,1.19e-05,0.239,0.712,82.36,150840,4,Spotify,Retro Pop,Public B
+Juke Ross,Fresh Roses,Fresh Roses,05RmevbSKDvHHKpYBoXYfR,0.763,0.296,1,-10.611,0,0.0457,0.0,0.135,0.206,90.959,201093,4,Spotify,Retro Pop,Public B
+Sam Ryder,Somebody,Somebody,4cB03uRsnOSABer7gv7gPt,0.61,0.877,5,-4.976,1,0.198,0.0,0.485,0.802,87.024,199187,4,Spotify,Retro Pop,Public B
+Jon Batiste,WE ARE,FREEDOM,2QOB5UiRKggr2j9uMD3GYK,0.873,0.651,1,-4.179,1,0.0374,0.000107,0.213,0.828,115.002,178290,4,Spotify,Retro Pop,Public B
+Laufey,Everything I Know About Love,Beautiful Stranger,38TpUKiHQZyBKiD9LMMy6X,0.609,0.231,1,-12.348,1,0.0375,5.63e-05,0.316,0.354,84.007,201267,3,Spotify,Retro Pop,Public B
+Leon Bridges,Coming Home (Deluxe),Smooth Sailin',3jpeI1goQHPIwwCMxrLrwx,0.641,0.721,11,-6.788,0,0.0451,7.15e-06,0.246,0.753,67.055,183333,4,Spotify,Retro Pop,Public B
+Ben Rector,The Joy of Music,Living My Best Life,0R7EWhquaAICmyE5MZqt3q,0.566,0.733,4,-5.302,1,0.0699,1.55e-06,0.362,0.636,178.828,215213,4,Spotify,Retro Pop,Public B
+Sammy Rae & The Friends,The Good Life,Kick It to Me,6QZbDUZEgkwaVWROtWzjQ0,0.597,0.675,2,-6.431,1,0.0569,1.45e-05,0.168,0.823,160.057,387600,4,Spotify,Retro Pop,Public B
+St. Paul & The Broken Bones,Young Sick Camellia,Apollo,4lhhYqzREcts4uOOqWHjRJ,0.712,0.8,9,-5.068,0,0.0377,0.185,0.0938,0.685,107.047,283880,4,Spotify,Retro Pop,Public B
+Jesse Barrera,Maybe We Could Be a Thing,Maybe We Could Be a Thing,2yjDmSX8ukT00SXmRs04T6,0.684,0.482,4,-9.272,1,0.0287,0.000325,0.116,0.62,94.996,176242,4,Spotify,Retro Pop,Public B
+L.A.B.,L.A.B IV,Yes I Do,1Cda2BAeOs8r6X7ptFPkW2,0.847,0.517,10,-7.786,1,0.029,0.0165,0.072,0.848,96.009,310760,4,Spotify,Retro Pop,Public B
+Allen Stone,Building Balance,Consider Me,6eA8pANu9ryDcoTTe5myKk,0.469,0.664,9,-5.138,0,0.0806,0.0,0.101,0.527,77.767,184952,4,Spotify,Retro Pop,Public B
+Michael Kiwanuka,Money,Money (with Tom Misch),2LUTN2pDXUplYlc7WjE1Mm,0.774,0.419,4,-9.649,0,0.0758,0.0698,0.029,0.644,118.008,291569,4,Spotify,Retro Pop,Public B
+Ben Rector,The Joy of Music,Steady Love,6UOkF086zUgYXnqFxqUvEI,0.678,0.277,11,-10.537,1,0.0602,3.91e-06,0.104,0.238,76.935,224333,4,Spotify,Retro Pop,Public B
+Lana Del Rey,Buddy's Rendezvous,Buddy's Rendezvous,7qqrGV5WpQnMKqVTsDZd9J,0.289,0.324,5,-9.866,1,0.0301,0.00368,0.112,0.244,77.94,301480,4,Spotify,Retro Pop,Public B
+Lord Huron,Long Lost,Not Dead Yet,6xVd8klTvL6ZRovgIhIs98,0.489,0.816,7,-7.681,0,0.0338,0.148,0.0876,0.64,74.017,177366,4,Spotify,Retro Pop,Public B
+Lake Street Dive,Automatic,Automatic,27KqSOzLiN6p9sjs95MnZg,0.837,0.666,1,-7.175,1,0.0461,0.000207,0.0721,0.924,101.977,238613,4,Spotify,Retro Pop,Public B
+Charlotte Day Wilson,ALPHA,I Can Only Whisper (feat. BADBADNOTGOOD),5qXwFOkT3lrEonTzsYCeZ1,0.611,0.446,2,-9.297,1,0.0355,0.0363,0.281,0.465,84.938,164693,4,Spotify,Retro Pop,Public B
+Wilder Woods,Wilder Woods,Supply & Demand,0tsUIJakq2RksuC1YixAHX,0.492,0.804,8,-5.053,1,0.078,1.55e-06,0.071,0.574,159.956,196451,4,Spotify,Retro Pop,Public B
+The Knocks,Slow Song (with Dragonette),Slow Song (with Dragonette),7HDcd1vyDdNWq897wSILCZ,0.77,0.743,6,-3.251,1,0.0299,0.0003,0.144,0.843,123.014,253723,4,Spotify,Retro Pop,Public B
+Ray LaMontagne,MONOVISION,Strong Enough,1M1xjg2N1i5EKosEPtx2T7,0.717,0.706,2,-8.612,1,0.0278,1.51e-05,0.184,0.967,130.543,214653,4,Spotify,Retro Pop,Public B
+Little Big Town,All Summer,All Summer,4MA8WJAhL0P3hbD5SrZUUv,0.747,0.743,4,-4.524,1,0.0313,0.0,0.0772,0.8,118.024,171773,4,Spotify,Retro Pop,Public B
+Jon Batiste,WE ARE,I NEED YOU,0RDUnNaGubiseI1W9T3YTf,0.817,0.639,6,-6.383,1,0.164,0.0,0.138,0.887,112.951,157133,4,Spotify,Retro Pop,Public B
+Leif Vollebekk,New Ways,Hot Tears,1aU0F8KL0vaKQacSMQRN9d,0.699,0.453,11,-9.67,0,0.0428,0.00308,0.0958,0.68,150.231,247267,4,Spotify,Retro Pop,Public B
+Lord Huron,Mine Forever,Mine Forever,6fGNYNyM6PL9qE6kkFaW49,0.569,0.76,0,-5.507,1,0.0294,0.29,0.274,0.393,122.972,288283,4,Spotify,Retro Pop,Public B
+Noel Gallagher's High Flying Birds,Back the Way We Came: Vol. 1 (2011 - 2021),We're On Our Way Now,3PwJ7f9g2BEmAfyuLfDZlk,0.347,0.744,7,-5.203,0,0.0341,0.00897,0.097,0.283,159.911,248000,4,Spotify,Retro Pop,Public B
+Vulfpeck,"The Joy of Music, The Job of Real Estate",LAX,1o0nAjgZwMDK9TI4TTUSNn,0.8,0.599,0,-7.357,1,0.0344,0.00547,0.0587,0.908,128.381,225666,4,Spotify,Retro Pop,Public B
+Teddy Swims,Sleep is Exhausting,dose,26ETsbVhx34daSYeBGmvgl,0.75,0.581,4,-5.011,1,0.0437,0.0,0.153,0.612,119.995,180807,4,Spotify,Retro Pop,Public B
+CMAT,If My Wife New I'd Be Dead (Deluxe),I Don't Really Care for You,38x9U1nlxCblWCmu6g4mPy,0.716,0.703,7,-4.183,0,0.0418,1.09e-05,0.111,0.736,117.998,244693,4,Spotify,Retro Pop,Public B
+Michael Bublé,Higher,Baby I'll Wait,7zqznhNk8DZbwo8fWIF82V,0.506,0.612,11,-6.297,1,0.0607,0.0,0.116,0.527,139.931,143386,3,Spotify,Retro Pop,Public B
+Rebecca Ferguson,Heaven (Expanded Edition),Glitter & Gold,5Q6mIVCErKoI6zb7wxJlBs,0.588,0.695,10,-4.393,0,0.0262,0.0,0.0553,0.793,175.911,209587,4,Spotify,Retro Pop,Public B
+Brett Dennen,See the World,Paul Newman Daytona Rolex,4pAjn6PcQp81T2BKOzPOtn,0.645,0.766,0,-8.284,0,0.0872,0.000164,0.151,0.665,157.963,201227,4,Spotify,Retro Pop,Public B
+James Morrison,Greatest Hits,Precious Love (Refreshed),2Qi7xDDXuuiwPYnVMBsTfo,0.396,0.643,0,-4.306,1,0.0513,0.0,0.1,0.604,83.747,240053,4,Spotify,Retro Pop,Public B
+Samm Henshaw,Untidy Soul,Grow,2YyVFxsdtALHVaEJPC8mbA,0.672,0.672,9,-7.693,1,0.0847,0.000489,0.0823,0.807,85.012,180523,4,Spotify,Retro Pop,Public B
+Michael Kiwanuka,Light (Edit),Light - Edit,0h04eWLXS72ITUgN4PKnLg,0.285,0.613,5,-8.934,1,0.0328,0.0809,0.103,0.456,161.775,185373,4,Spotify,Retro Pop,Public B
+Alabama Shakes,Sound & Color (Deluxe),Shoegaze,7lCPtVW9VLsn5EGuibqctU,0.559,0.781,9,-5.337,1,0.0305,0.566,0.129,0.672,117.896,179482,4,Spotify,Retro Pop,Public B
+Sarah Kang,about time,about time,2khJckZKgm10rTK583uKuQ,0.713,0.421,11,-8.692,1,0.0362,2.32e-06,0.139,0.59,79.005,193047,3,Spotify,Retro Pop,Public B
+Yola,Walk Through Fire (Deluxe Edition),I Don't Wanna Lie,6CgsttSWDA2sISZQp1upXK,0.562,0.821,5,-5.082,1,0.0277,0.0,0.519,0.893,105.512,181535,4,Spotify,Retro Pop,Public B
+spill tab,Velcro (feat. Gus Dapperton),Velcro (feat. Gus Dapperton),4jN6jgeKdFG7oBeXg3qC26,0.594,0.577,4,-6.98,1,0.0637,0.0,0.123,0.369,145.059,192794,4,Spotify,Retro Pop,Public B
+Michael Kiwanuka,KIWANUKA,Hero,2Y61ZvCuuLOhdkgl1B9ekh,0.532,0.942,4,-3.395,0,0.0348,0.848,0.104,0.533,95.065,199133,4,Spotify,Retro Pop,Public B
+Gabriels,Angels & Queens - Part I,If You Only Knew,2Tv98WrbvTsQfa2xH5OSwO,0.296,0.363,10,-8.506,1,0.048,0.0874,0.609,0.284,180.073,252136,3,Spotify,Retro Pop,Public B
+Wyn Starks,Black Is Golden,Dancing My Way,2t8bKoVLWfyPVAybGJqc8u,0.715,0.708,0,-7.398,1,0.18,8.46e-05,0.225,0.766,168.844,184849,4,Spotify,Retro Pop,Public B
+Spencer Sutherland,Everybody,Everybody,01YZSZi4jNs7QjEXn6eM6Y,0.634,0.727,6,-4.204,0,0.0454,0.0,0.331,0.796,99.999,197291,3,Spotify,Retro Pop,Public B
+Jon Batiste,Sweet,Sweet - Single Edit,7uYpvX8Gb7CUubdJcRt8E0,0.602,0.642,7,-4.929,1,0.0419,0.0,0.146,0.687,148.02,158239,4,Spotify,Retro Pop,Public B
+Haley Joelle,Magical Thinking,Magical Thinking,5ITq6ybkDsjEr8GbYam8Nl,0.376,0.2,5,-11.908,1,0.0367,0.0,0.129,0.371,92.571,173986,4,Spotify,Retro Pop,Public B
+Train,AM Gold,AM Gold,6ttjTA8589PqK8DF9SBEC7,0.537,0.866,1,-2.229,0,0.053,0.0,0.0446,0.454,139.892,169228,4,Spotify,Retro Pop,Public B
+Gregory Porter,Dry Bones,Dry Bones,6XbYqxCWmzo5stjfaKgXEi,0.662,0.783,10,-4.374,0,0.156,6.78e-05,0.0597,0.736,149.959,189602,4,Spotify,Retro Pop,Public B
+Yola,Stand For Myself,Dancing Away In Tears,5PPrN7zj104wLUtAofZvwb,0.726,0.551,8,-7.983,1,0.0288,0.000234,0.108,0.803,106.218,228000,4,Spotify,Retro Pop,Public B
+Yuna,Y1,Pantone 17 13 30,2GeR7M97pCrWrMh8d6BlrF,0.738,0.324,0,-10.622,1,0.0304,0.00277,0.0791,0.266,88.004,186818,4,Spotify,Retro Pop,Public B
+Quinn Devlin,California Wine,California Wine,1HtLKqdCmOmM3zQxBzueUI,0.628,0.814,8,-6.41,1,0.0454,0.00925,0.118,0.731,125.09,187232,4,Spotify,Retro Pop,Public B
+Mt. Joy,Strangers,Strangers,73WyCOipkJRtIH8klizJd5,0.564,0.636,7,-8.136,1,0.0418,0.0224,0.0807,0.218,101.913,193187,4,Spotify,Retro Pop,Public B
+Benny Sings,It Will Come In Time,It Will Come In Time,2eqocLN1rW8h10svumB8wd,0.939,0.292,6,-10.638,0,0.0593,0.00361,0.0861,0.955,97.007,173863,4,Spotify,Retro Pop,Public B
+Brett Eldredge,Holy Water,Holy Water,0iXqDv92jTifES3rxAYDNc,0.425,0.362,9,-8.191,1,0.0356,1.16e-06,0.107,0.209,95.253,165253,4,Spotify,Retro Pop,Public B
+Lake Street Dive,Obviously,Hypotheticals - Edit,1x05ZRPr2FprwUP7MjWefh,0.703,0.691,1,-6.121,1,0.0417,0.0914,0.23,0.715,164.101,190648,4,Spotify,Retro Pop,Public B
+Dora Jar,comfortably in pain,Lagoon,4ZCjHrvSjyp7bltVJtGvNt,0.648,0.562,9,-6.124,1,0.0535,3.24e-05,0.1,0.374,72.014,153315,4,Spotify,Retro Pop,Public B
+Jon Batiste,WE ARE (The Deluxe Edition),SING,6x9CsGaWqqtaggNYelyWO5,0.607,0.54,8,-6.64,1,0.0372,6.21e-06,0.307,0.29,89.969,191208,4,Spotify,Retro Pop,Public B
+Michael Bublé,Higher,Bring It On Home to Me,5bVFeC0hVdaA29A1V6hIqY,0.4,0.505,7,-4.735,1,0.0403,0.0,0.091,0.465,105.614,275818,3,Spotify,Retro Pop,Public B
+Zella Day,Golden,Golden,37EENqOKD6uxLwthqxhKLt,0.726,0.761,5,-5.587,1,0.0307,1.35e-06,0.221,0.848,99.985,201653,4,Spotify,Retro Pop,Public B
+Adi Oasis,Adi Oasis,Whisper My Name,0dTye9Nu4yiVfmIlyI8PEE,0.644,0.554,10,-6.478,0,0.0269,0.00287,0.152,0.868,86.05,241058,4,Spotify,Retro Pop,Public B
+CAMPBELL,Where the Light Is,Where the Light Is,73Jp82FaQRWl6iii1Gl0lw,0.668,0.648,2,-5.787,1,0.0364,0.0,0.114,0.541,95.999,230102,4,Spotify,Retro Pop,Public B
+Andy Grammer,Good Man (First Love),Good Man (First Love),3HxTb6ITqXf7RMjX2DGVv5,0.584,0.498,3,-5.444,1,0.0316,0.0,0.136,0.122,88.096,160361,4,Spotify,Retro Pop,Public B
+Hajaj,Last Call For Coco,Let Me Get To Know You,1QudNKU0D6MxhlakgIul9Z,0.771,0.369,10,-13.027,1,0.06,5.78e-05,0.11,0.704,85.978,206754,4,Spotify,Retro Pop,Public B
+Jon Batiste,WE ARE (The Deluxe Edition),ADULTHOOD,0jqWdGvgLX2oOG70eIcwko,0.709,0.43,2,-8.256,1,0.41,0.00294,0.155,0.782,171.936,223816,3,Spotify,Retro Pop,Public B
+Michael Kiwanuka,KIWANUKA,Final Days,4CJiAsRwM7MaCgWlnFaSRz,0.602,0.776,6,-6.741,0,0.0438,0.171,0.577,0.419,110.89,250933,4,Spotify,Retro Pop,Public B
+Grace Potter,Love Is Love,Love Is Love,3evHzU2xmG80c3jS4YT6ZI,0.562,0.579,8,-7.138,1,0.0483,0.0,0.175,0.389,153.075,186783,4,Spotify,Retro Pop,Public B
+Zella Day,Dance For Love,Dance For Love,7hredXafMauuh15FNDEPnQ,0.696,0.758,6,-6.252,0,0.038,0.00197,0.135,0.87,107.998,262536,4,Spotify,Retro Pop,Public B
+Mica Millar,Heaven Knows,Flashlights,4QChFDoSayiY4DxxMjDNOf,0.673,0.383,9,-7.814,0,0.0363,0.0,0.111,0.434,96.937,194267,4,Spotify,Retro Pop,Public B
+Lawrence,Don't Lose Sight,Don't Lose Sight (Acoustic),5DGgATX8r6d53OU6eT0Dzt,0.33,0.608,5,-3.447,1,0.0602,0.0,0.475,0.346,171.502,406187,4,Spotify,Retro Pop,Public B
+Gavin DeGraw,Face The River,Face The River,4ESI02gRSgi4HlZMH0JDyF,0.43,0.467,3,-8.176,1,0.0468,0.0,0.0785,0.157,124.877,216867,4,Spotify,Retro Pop,Public B
+Cisco Adler,Catch My Wave,Catch My Wave,7k94tKY98gAeq1sTvPPRWW,0.705,0.564,7,-5.498,1,0.0263,0.0,0.117,0.493,93.554,194387,4,Spotify,Retro Pop,Public B
+Juke Ross,Chapter 2,Drifting Apart,5Pr6R1aGN7tk18HslPUrSW,0.374,0.458,4,-8.773,0,0.203,0.00018,0.109,0.314,199.053,209293,4,Spotify,Retro Pop,Public B
+Stephen Day,On Top of the World,On Top of the World,5erTPoeHKb7wOHzqFw4msd,0.882,0.477,2,-7.858,1,0.053,7.83e-05,0.0859,0.835,120.015,239045,4,Spotify,Retro Pop,Public B

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+ABBA,Arrival,Dancing Queen,0GjEhVFGZW8afUYGChu3Rr,0.543,0.87,9,-6.514,1,0.0428,0.000939,0.792,0.754,100.804,230400,4,Spotify,Happy Days,Public E
+Jackie Wilson,Higher And Higher,(Your Love Keeps Lifting Me) Higher & Higher,5qyq1H5OPMlfuvZQ1wQNo7,0.634,0.677,2,-7.19,1,0.0448,0.0,0.0902,0.939,95.792,179120,4,Spotify,Happy Days,Public E
+Marvin Gaye,United,Ain't No Mountain High Enough,7tqhbajSfrz2F7E1Z75ASX,0.663,0.6,7,-10.87,1,0.032,0.0,0.184,0.8,129.991,151667,4,Spotify,Happy Days,Public E
+Herman's Hermits,Herman's Hermits Retrospective,I'm Into Something Good,3z6m2FukK7Vd5xYrjOLDLR,0.592,0.458,0,-8.2,1,0.0296,0.0,0.237,0.723,133.551,153507,4,Spotify,Happy Days,Public E
+The Beatles,Abbey Road (Remastered),Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,0.557,0.54,9,-10.484,1,0.0347,0.00248,0.179,0.394,129.171,185733,4,Spotify,Happy Days,Public E
+Sly & The Family Stone,Stand,Everyday People,4ZVZBc5xvMyV3WzWktn8i7,0.807,0.497,7,-10.656,1,0.0297,0.0327,0.043,0.765,114.524,141507,4,Spotify,Happy Days,Public E
+Ben E. King,Don't Play That Song (Mono),Stand by Me,3SdTKo2uVsxFblQjpScoHy,0.65,0.306,9,-9.443,1,0.0393,7.07e-06,0.0707,0.605,118.068,180056,4,Spotify,Happy Days,Public E
+Van Morrison,Blowin' Your Mind!,Brown Eyed Girl,3yrSvpt2l1xhsV9Em88Pul,0.491,0.583,7,-10.964,1,0.0376,0.0,0.406,0.908,150.566,183307,4,Spotify,Happy Days,Public E
+The Mamas & The Papas,If You Can Believe Your Eyes & Ears,California Dreamin' - Single Version,4s6LhHAV5SEsOV0lC2tjvJ,0.552,0.608,1,-9.786,0,0.0345,0.0,0.0533,0.637,112.367,162373,4,Spotify,Happy Days,Public E
+Neil Diamond,Sweet Caroline,Sweet Caroline,62AuGbAkt8Ox2IrFFb8GKV,0.529,0.127,11,-16.066,1,0.0274,0.000109,0.237,0.578,63.05,203573,4,Spotify,Happy Days,Public E
+The Jackson 5,Diana Ross Presents The Jackson 5,I Want You Back,5LxvwujISqiB8vpRYv887S,0.469,0.538,8,-13.559,1,0.0571,0.00012,0.37,0.886,196.605,176333,4,Spotify,Happy Days,Public E
+ABBA,Abba,Mamma Mia,2TxCwUlqaOH3TIyJqGgR91,0.749,0.748,2,-7.011,1,0.0323,0.000443,0.469,0.827,137.547,213267,4,Spotify,Happy Days,Public E
+Stevie Wonder,"Signed, Sealed And Delivered","Signed, Sealed, Delivered (I'm Yours)",2eF8pWbiivYsYRpbntYsnc,0.675,0.597,5,-11.329,1,0.0337,0.0,0.0986,0.828,108.875,161160,4,Spotify,Happy Days,Public E
+The Turtles,Happy Together,Happy Together,1JO1xLtVc8mWhIoE3YaCL0,0.584,0.367,6,-9.638,0,0.0328,1.38e-05,0.0818,0.588,120.175,176293,4,Spotify,Happy Days,Public E
+Simon & Garfunkel,Bookends,"Mrs. Robinson - From ""The Graduate"" Soundtrack",0iOZM63lendWRTTeKhZBSC,0.606,0.457,6,-14.035,0,0.0497,2.53e-05,0.0747,0.813,92.033,244027,4,Spotify,Happy Days,Public E
+John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads","Take Me Home, Country Roads",1QbOvACeYanja5pbnJbAmk,0.38,0.43,9,-12.564,1,0.0288,1.71e-05,0.188,0.547,82.204,197813,4,Spotify,Happy Days,Public E
+Aretha Franklin,I Never Loved a Man the Way I Love You,Respect,7s25THrKz86DM225dOYwnr,0.805,0.558,0,-5.226,1,0.041,2.2e-05,0.0546,0.965,114.95,147600,4,Spotify,Happy Days,Public E
+The Supremes,The Supremes A' Go-Go (Expanded Edition),You Can't Hurry Love,1OppEieGNdItZbE14gLBEv,0.63,0.711,10,-9.34,1,0.0472,0.0,0.0813,0.659,96.912,167933,4,Spotify,Happy Days,Public E
+Roy Orbison,"Oh, Pretty Woman","Oh, Pretty Woman",48i055G1OT5KxGGftwFxWy,0.619,0.603,9,-9.481,1,0.0342,0.0,0.0721,0.958,127.433,178933,4,Spotify,Happy Days,Public E
+Looking Glass,Looking Glass,Brandy (You're a Fine Girl),2BY7ALEWdloFHgQZG6VMLA,0.716,0.625,1,-11.369,0,0.0601,1.97e-05,0.134,0.826,125.276,186827,4,Spotify,Happy Days,Public E
+Four Tops,Four Tops Second Album,"I Can't Help Myself (Sugar Pie, Honey Bunch)",6b6IMqP565TbtFFZg9iFf3,0.667,0.599,0,-8.894,1,0.0291,0.0,0.107,0.971,127.935,160280,4,Spotify,Happy Days,Public E
+Marvin Gaye,In The Groove,I Heard It Through The Grapevine,1tqT6DhmsrtQgyCKUwotiw,0.711,0.362,3,-10.851,0,0.0381,0.0,0.127,0.616,117.287,194293,4,Spotify,Happy Days,Public E
+Tom Jones,Along Came Jones,It's Not Unusual,3TlIt0ReIxPsVZcOEivT5U,0.476,0.722,0,-10.017,1,0.0646,0.0,0.184,0.909,92.966,119800,4,Spotify,Happy Days,Public E
+The Foundations,The Foundations,Build Me Up Buttercup,6sPOmDulFtLzfX25zICNrC,0.659,0.513,0,-7.186,1,0.0293,0.0,0.283,0.855,133.609,177533,4,Spotify,Happy Days,Public E
+Frankie Valli & The Four Seasons,The Very Best of Frankie Valli & The 4 Seasons,Can't Take My Eyes off You,6ft9PAgNOjmZ2kFVP7LGqb,0.575,0.764,4,-7.448,1,0.0746,1.07e-05,0.0692,0.536,123.821,203240,4,Spotify,Happy Days,Public E
+The Monkees,"The Birds, The Bees, & The Monkees",Daydream Believer,7uEcCGtM1FBBGIhPozhJjv,0.51,0.488,7,-10.304,1,0.0304,0.0,0.11,0.649,125.683,179613,4,Spotify,Happy Days,Public E
+The Lovin' Spoonful,Do you Believe In Magic,Do You Believe in Magic?,1udKn1oNKYQSQ9OmiIWCMu,0.553,0.738,0,-7.963,1,0.0457,0.0,0.339,0.759,138.602,125827,4,Spotify,Happy Days,Public E
+The Ronettes,Be My Baby: The Very Best of The Ronettes,Be My Baby,2G2YzndIA6jeWFPBXhUjh5,0.511,0.769,4,-7.032,1,0.042,0.0,0.0921,0.818,129.657,160907,4,Spotify,Happy Days,Public E
+Sam Cooke,The Man Who Invented Soul,(What A) Wonderful World,2g2GkH3vZHk4lWzBjgQ6nY,0.691,0.507,11,-10.23,1,0.0343,0.0,0.457,0.885,128.518,125440,4,Spotify,Happy Days,Public E
+Dion,Runaround Sue,Runaround Sue,1DndHckdH9m5rp6gYP086b,0.364,0.607,2,-9.791,1,0.125,0.0,0.251,0.598,79.987,171600,4,Spotify,Happy Days,Public E
+"Earth, Wind & Fire",September,September,7Cuk8jsPPoNYQWXK9XRFvG,0.694,0.831,9,-7.288,1,0.0301,0.000892,0.25,0.98,125.901,215080,4,Spotify,Happy Days,Public E
+The Supremes,Where Did Our Love Go,Baby Love,5uES1C2NgkdrNHiCwf9jRr,0.595,0.643,5,-9.275,1,0.0365,0.0,0.538,0.73,135.633,158040,4,Spotify,Happy Days,Public E
+Buddy Holly,Buddy Holly,Everyday,39lnzOIUCSNaQmgBHoz7rt,0.747,0.219,3,-12.562,1,0.0371,2.57e-05,0.107,0.498,135.562,129120,4,Spotify,Happy Days,Public E
+The Archies,"The Very Best Of ""The Archies""","Sugar, Sugar",3iSws76HjaU7k49EqJVTfF,0.736,0.871,2,-2.786,1,0.0278,0.0,0.108,0.967,122.395,167187,4,Spotify,Happy Days,Public E
+Martha Reeves & The Vandellas,Heat Wave,(Love Is Like A) Heat Wave,3VgrSJEKBRT3xmwzpaxxEF,0.514,0.624,0,-9.287,0,0.0842,0.00517,0.307,0.755,166.726,163053,4,Spotify,Happy Days,Public E
+The Beach Boys,"Shut Down, Vol. 2 (Remastered)",Don't Worry Baby - Remastered 2001,1GLmaPfulP0BrfijohQpN5,0.487,0.464,4,-9.821,1,0.03,0.00531,0.105,0.851,121.242,169933,4,Spotify,Happy Days,Public E
+The Marvelettes,Please Mr. Postman,Please Mr. Postman - Single Version / Mono,6jX5mso4x00c1EiNMrTU9U,0.785,0.776,2,-5.259,1,0.0312,0.0,0.181,0.967,121.505,148040,4,Spotify,Happy Days,Public E
+Sonny & Cher,Look At Us,I Got You Babe,4SGBuq37Ol4HJr7pQqFMKa,0.629,0.795,6,-6.02,1,0.0278,5.44e-06,0.132,0.6,110.583,190080,3,Spotify,Happy Days,Public E
+The Byrds,Mr. Tambourine Man,Mr. Tambourine Man,2HCaIYjkvWSZzaSKUoOh3d,0.456,0.47,2,-9.564,1,0.0294,3.76e-05,0.444,0.639,120.336,149467,4,Spotify,Happy Days,Public E
+Jay & The Americans,Come A Little Bit Closer: The Best Of Jay & The Americans,Come A Little Bit Closer,252YuUdUaC5OojaBU0H1CP,0.636,0.684,3,-9.302,1,0.057,0.0015,0.534,0.881,132.509,166667,4,Spotify,Happy Days,Public E
+Lesley Gore,I'll Cry If I Want To,It's My Party,1Pq47iFLC5U7j8xeNiNcuS,0.692,0.501,9,-11.708,1,0.0625,0.0,0.0393,0.961,128.388,140000,4,Spotify,Happy Days,Public E
+The Shirelles,Remember When,Will You Love Me Tomorrow,25IiJu0DjOqsnQXgNHWp5i,0.527,0.308,0,-11.809,1,0.0284,4.25e-05,0.0921,0.514,136.297,160865,4,Spotify,Happy Days,Public E
+Captain & Tennille,Love Will Keep Us Together,Love Will Keep Us Together,4pCNJwixy2ImFncaPY2yE2,0.621,0.788,4,-4.326,1,0.0314,0.0,0.305,0.926,129.62,205493,4,Spotify,Happy Days,Public E
+Manfred Mann,Down the Road Apiece - the Recordings 1963-1966,Do Wah Diddy Diddy - 2007 Remaster,48ZjHLkaHpXIlGGYUlb3bZ,0.66,0.583,4,-7.361,1,0.0512,0.0,0.0553,0.941,125.44,144147,4,Spotify,Happy Days,Public E
+The Chiffons,The Chiffons Absolutely The Best!,One Fine Day,6vcG9EgeqJUSmmF65lxUm6,0.251,0.868,1,-2.685,1,0.128,7.34e-06,0.814,0.599,177.13,128200,4,Spotify,Happy Days,Public E
+Buddy Holly,That'll Be The Day,That'll Be The Day,50RwvvEKX5Q7AZt8FTAwIF,0.536,0.637,2,-7.774,1,0.0343,0.0,0.0838,0.798,115.24,150133,4,Spotify,Happy Days,Public E
+Four Tops,Reach Out,Reach Out I'll Be There,6Pkj4nv5K53i64cLVgkVyY,0.607,0.599,3,-8.908,0,0.0282,0.0,0.188,0.735,119.842,178533,4,Spotify,Happy Days,Public E
+The Everly Brothers,The Very Best of The Everly Brothers,Wake up Little Susie,11fNLqDB47gMKj7BHhR2Qr,0.709,0.62,2,-9.382,1,0.034,0.0,0.0426,0.936,93.723,123520,4,Spotify,Happy Days,Public E
+Various Artists,"Atlantic 60th: Soul, Sweat And Strut",(Sittin' On) the Dock of the Bay,50uGbeaQIxKiSc7jvRTjWx,0.484,0.312,2,-13.522,1,0.0535,1.65e-06,0.0601,0.598,205.981,166827,4,Spotify,Happy Days,Public E
+The Cascades,Rhythm Of The Rain,Rhythm of the Rain,7GHf8dQ2wA71wYOuRsQCZP,0.659,0.66,0,-8.337,1,0.0441,0.000217,0.136,0.672,116.634,146360,4,Spotify,Happy Days,Public E

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Harry Styles,Harry's House,As It Was,4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,Spotify,Pop Mix,Tess
+Adele,30,Easy On Me,46IZ0fSY2mpAiktS3KOqds,0.604,0.366,5,-7.519,1,0.0282,0.0,0.133,0.13,141.981,224695,4,Spotify,Pop Mix,Tess
+Bruno Mars,Doo-Wops & Hooligans,The Lazy Song,386RUes7n1uM1yfzgeUuwp,0.794,0.711,8,-5.124,0,0.0699,0.0,0.0955,0.955,174.915,189109,4,Spotify,Pop Mix,Tess
+Shawn Mendes,Illuminate,Treat You Better,3QGsuHI8jO1Rx4JWLUh9jd,0.444,0.819,10,-4.078,0,0.341,0.0,0.107,0.747,82.695,187973,4,Spotify,Pop Mix,Tess
+Charlie Puth,Voicenotes,Attention,5cF0dROlMOK5uNZtivgu50,0.775,0.613,3,-4.586,0,0.0542,2.33e-05,0.134,0.797,100.066,208787,4,Spotify,Pop Mix,Tess
+Maroon 5,V,Sugar,2iuZJX9X9P0GKaE93xcPjk,0.748,0.788,1,-7.055,1,0.0334,0.0,0.0863,0.884,120.076,235493,4,Spotify,Pop Mix,Tess
+Ariana Grande,Dangerous Woman,Side To Side,44ONERBHALxftQNWq6dmyd,0.65,0.736,6,-5.84,0,0.229,0.0,0.235,0.612,159.174,226160,4,Spotify,Pop Mix,Tess
+Clean Bandit,What Is Love? (Deluxe Edition),Rockabye (feat. Sean Paul & Anne-Marie),2hrUO4drrO63i7FYbCLBl2,0.717,0.73,9,-4.729,0,0.0568,0.0,0.398,0.792,102.002,251173,4,Spotify,Pop Mix,Tess
+DNCE,DNCE,Cake By The Ocean,76hfruVvmfQbw0eYn1nmeC,0.774,0.753,4,-5.446,0,0.0517,0.0,0.0371,0.896,119.002,219147,4,Spotify,Pop Mix,Tess
+Shawn Mendes,Illuminate (Deluxe),Mercy,0AS63m1wHv9n4VVRizK6Hc,0.555,0.662,11,-4.952,0,0.0827,0.0,0.111,0.356,148.128,208733,4,Spotify,Pop Mix,Tess
+Camila Cabello,Camila,Havana (feat. Young Thug),1rfofaqEpACxVEHIZBJe6W,0.765,0.523,2,-4.333,1,0.03,3.56e-05,0.132,0.394,104.988,217307,4,Spotify,Pop Mix,Tess
+The Chainsmokers,Memories...Do Not Open,Something Just Like This,6RUKPb4LETWmmr3iAEQktW,0.617,0.635,11,-6.769,0,0.0317,1.44e-05,0.164,0.446,103.019,247160,4,Spotify,Pop Mix,Tess
+Dua Lipa,Future Nostalgia,Break My Heart,017PF4Q3l4DBUiWoXk4OWT,0.73,0.729,4,-3.434,0,0.0884,1.39e-06,0.349,0.467,113.011,221820,4,Spotify,Pop Mix,Tess
+Ava Max,Heaven & Hell,Sweet but Psycho,7DnAm9FOTWE3cUvso43HhI,0.72,0.706,1,-4.719,1,0.0473,0.0,0.166,0.62,133.002,187436,4,Spotify,Pop Mix,Tess
+Demi Lovato,Demi,Heart Attack,1V6gIisPpYqgFeWbMLI0bA,0.504,0.785,8,-4.802,1,0.104,0.0,0.239,0.502,173.968,210840,4,Spotify,Pop Mix,Tess
+Ariana Grande,Dangerous Woman,Into You,76FZM38RC8XaAjJ77CVTNe,0.623,0.734,9,-5.95,1,0.107,1.9e-06,0.145,0.372,107.853,244453,4,Spotify,Pop Mix,Tess
+Lady Gaga,ARTPOP,Applause,5ka2ajep9OAvU5Sgduhiex,0.669,0.78,7,-4.287,0,0.053,1.63e-06,0.143,0.738,139.945,212333,4,Spotify,Pop Mix,Tess
+Dua Lipa,Future Nostalgia,Love Again,4rPkN1FMzQyFNP9cLUGIIB,0.659,0.667,11,-4.668,0,0.0339,2.85e-05,0.1,0.468,115.982,258004,4,Spotify,Pop Mix,Tess
+Clean Bandit,What Is Love? (Deluxe Edition),Symphony (feat. Zara Larsson),72gv4zhNvRVdQA0eOenCal,0.715,0.605,0,-5.128,0,0.0428,1.41e-05,0.189,0.454,122.956,212733,4,Spotify,Pop Mix,Tess
+Anne-Marie,Speak Your Mind (Deluxe),2002,2BgEsaKNfHUdlh97KmvFyo,0.697,0.683,1,-2.881,0,0.117,0.0,0.137,0.603,96.133,186987,4,Spotify,Pop Mix,Tess
+Ariana Grande,Sweetener,no tears left to cry,2qT1uLXPVPzGgFOx4jtEuo,0.699,0.713,9,-5.507,0,0.0594,3.11e-06,0.294,0.354,121.993,205920,4,Spotify,Pop Mix,Tess
+The Chainsmokers,Closer,Closer,7BKLCZ1jbUBVqRi2FVlTVw,0.748,0.524,8,-5.599,1,0.0338,0.0,0.111,0.661,95.01,244960,4,Spotify,Pop Mix,Tess
+Sia,1000 Forms Of Fear,Elastic Heart,6kwAbEjseqBob48jCus7Sz,0.421,0.791,9,-4.998,1,0.0496,1.48e-05,0.146,0.499,130.075,257200,4,Spotify,Pop Mix,Tess
+Selena Gomez,Revival (Deluxe),Same Old Love,6ZANrVuAMp2rpjhfbOuJly,0.672,0.593,11,-4.01,0,0.0304,0.0,0.214,0.438,98.02,229080,4,Spotify,Pop Mix,Tess
+Marshmello,Happier,Happier,2dpaYNEQHiRxtZbfNsse99,0.687,0.792,5,-2.749,1,0.0452,0.0,0.167,0.671,100.015,214290,4,Spotify,Pop Mix,Tess
+Dua Lipa,Future Nostalgia,Physical,3AzjcOeAmA57TIOr9zF1ZW,0.647,0.844,0,-3.756,1,0.0457,0.000658,0.102,0.746,146.967,193829,4,Spotify,Pop Mix,Tess
+Ariana Grande,Sweetener,God is a woman,5OCJzvD7sykQEKHH7qAC3C,0.602,0.658,1,-5.934,1,0.0558,6e-05,0.237,0.268,145.031,197547,4,Spotify,Pop Mix,Tess
+Bruno Mars,24K Magic,That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,0.853,0.56,1,-4.961,1,0.0406,0.0,0.0944,0.86,134.066,206693,4,Spotify,Pop Mix,Tess
+Zedd,The Middle,The Middle,09IStsImFySgyp0pIQdqAc,0.753,0.657,7,-3.061,1,0.0449,0.0,0.112,0.437,107.01,184732,4,Spotify,Pop Mix,Tess
+Katy Perry,Teenage Dream,Teenage Dream,5jzKL4BDMClWqRguW5qZvh,0.719,0.798,10,-4.582,1,0.0361,2.34e-06,0.134,0.591,120.011,227741,4,Spotify,Pop Mix,Tess
+Sia,This Is Acting,Cheap Thrills,27SdWb2rFzO6GWiYDBTD9j,0.628,0.698,6,-5.608,0,0.105,0.00143,0.0907,0.732,89.976,211667,4,Spotify,Pop Mix,Tess
+Taylor Swift,reputation,Look What You Made Me Do,1P17dC1amhFzptugyAO7Il,0.766,0.709,9,-6.471,0,0.123,1.41e-05,0.126,0.506,128.07,211853,4,Spotify,Pop Mix,Tess
+Shawn Mendes,Handwritten,Stitches,3zkWCteF82vJwv0hRLba76,0.746,0.754,1,-6.684,1,0.0676,0.0,0.0486,0.746,149.882,206880,4,Spotify,Pop Mix,Tess
+Carly Rae Jepsen,Kiss,Call Me Maybe,20I6sIOMTCkB6w7ryavxtO,0.783,0.58,7,-6.548,1,0.0408,2.28e-06,0.108,0.66,120.021,193400,4,Spotify,Pop Mix,Tess
+Dua Lipa,Future Nostalgia (The Moonlight Edition),We're Good,1diS6nkxMQc3wwC4G1j0bh,0.722,0.588,6,-5.932,1,0.0544,0.0,0.183,0.59,134.01,165507,4,Spotify,Pop Mix,Tess
+Ariana Grande,Dangerous Woman,Everyday,30TmLgK0ja5O8q9l4BShIX,0.637,0.733,7,-4.387,0,0.0553,0.0,0.162,0.432,131.005,194840,4,Spotify,Pop Mix,Tess
+Bruno Mars,24K Magic,24K Magic,6b8Be6ljOzmkOmFslEb23P,0.818,0.803,1,-4.282,1,0.0797,0.0,0.153,0.632,106.97,225983,4,Spotify,Pop Mix,Tess
+Jessie J,Who You Are (Platinum Edition),Domino,2fQxE0jVrjNMT9oJAXtSJR,0.758,0.557,7,-4.568,1,0.034,0.0,0.0418,0.781,126.986,231840,4,Spotify,Pop Mix,Tess
+Meghan Trainor,Title (Deluxe),Lips Are Movin,6gj08XDlv9Duc2fPOxUmVD,0.775,0.825,7,-5.402,1,0.0464,1.03e-06,0.111,0.95,139.091,182667,4,Spotify,Pop Mix,Tess
+Katy Perry,PRISM,Unconditionally,009ImBOrIUlWgla8U05RAC,0.432,0.725,7,-4.862,1,0.0431,0.0,0.208,0.353,128.902,228879,4,Spotify,Pop Mix,Tess
+Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Swalla (feat. Nicki Minaj & Ty Dolla $ign),6kex4EBAj0WHXDKZMEJaaF,0.696,0.817,1,-3.862,1,0.109,0.0,0.187,0.782,98.064,216409,4,Spotify,Pop Mix,Tess
+Taylor Swift,1989 (Deluxe),Blank Space,1u8c2t2Cy7UBoG4ArRcF5g,0.76,0.703,5,-5.412,1,0.054,0.0,0.0913,0.57,95.997,231827,4,Spotify,Pop Mix,Tess
+Tove Lo,Queen Of The Clouds,Habits (Stay High),14OxJlLdcHNpgsm4DRwDOB,0.729,0.65,5,-3.539,1,0.0313,6.69e-05,0.0829,0.347,110.02,209160,4,Spotify,Pop Mix,Tess
+Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,0yvPEnB032fojLfVluFjUv,0.706,0.643,11,-6.929,0,0.234,0.0,0.262,0.885,143.931,203760,4,Spotify,Pop Mix,Tess
+Lady Gaga,ARTPOP,G.U.Y.,4rYLpaNFzt6pkQnrCvVHUw,0.616,0.919,5,-3.468,0,0.0401,0.0,0.117,0.572,110.008,232667,4,Spotify,Pop Mix,Tess
+Maroon 5,V,Maps,4gbVRS8gloEluzf0GzDOFc,0.742,0.713,1,-5.522,0,0.0303,0.0,0.059,0.879,120.032,189960,4,Spotify,Pop Mix,Tess
+Tuğba Yurt,İnceden İnceden,İnceden İnceden,3TFMVGgmdXF8Iab5OoLkdF,0.707,0.712,7,-5.564,0,0.0471,0.0,0.0862,0.408,126.008,191628,4,Spotify,Pop Mix,Tess
+Bebe Rexha,Expectations,I'm a Mess,04ZTP5KsCypmtCmQg5tH9R,0.63,0.694,11,-6.257,0,0.0253,0.0,0.0719,0.216,97.005,195519,4,Spotify,Pop Mix,Tess
+Bazzi,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),4VUwkH455At9kENOfzTqmF,0.638,0.717,2,-4.722,1,0.0337,0.0,0.105,0.249,100.027,180000,4,Spotify,Pop Mix,Tess
+Calvin Harris,This Is What You Came For,This Is What You Came For,0azC730Exh71aQlOt9Zj3y,0.631,0.927,9,-2.787,0,0.0332,0.119,0.148,0.465,123.962,222160,4,Spotify,Pop Mix,Tess

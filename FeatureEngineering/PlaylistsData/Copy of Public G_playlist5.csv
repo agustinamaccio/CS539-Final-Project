@@ -1,0 +1,41 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Outkast,Speakerboxxx/The Love Below,Hey Ya!,2PpruBYCo4H7WOBJ7Q2EwM,0.727,0.974,4,-2.261,0,0.0664,0.000532,0.174,0.965,79.526,235213,4,Spotify,Raised on Hip Hop,Public G
+Ms. Lauryn Hill,The Miseducation of Lauryn Hill,Doo Wop (That Thing),0uEp9E98JB5awlA084uaIg,0.535,0.505,2,-8.926,0,0.245,0.0,0.0923,0.495,99.935,320267,4,Spotify,Raised on Hip Hop,Public G
+MC Hammer,Please Hammer Don't Hurt 'Em,U Can't Touch This,1B75hgRqe7A4fwee3g3Wmu,0.867,0.517,11,-13.222,0,0.0875,0.000339,0.0864,0.866,133.148,257360,4,Spotify,Raised on Hip Hop,Public G
+Various Artists,Bad Boy's 10th Anniversary- The Hits,I'll Be Missing You (feat. 112),3QHONiXGMGU3z68mQInncF,0.862,0.479,7,-9.199,1,0.0645,0.00126,0.589,0.924,109.877,301520,4,Spotify,Raised on Hip Hop,Public G
+Will Smith,Big Willie Style,Gettin' Jiggy Wit It,0weAUscowxeqDtpCgtbpgp,0.881,0.874,6,-4.505,1,0.139,1.14e-06,0.154,0.858,107.891,227933,4,Spotify,Raised on Hip Hop,Public G
+A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Can I Kick It?,3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,0,-6.547,1,0.274,0.000699,0.129,0.744,96.662,251573,4,Spotify,Raised on Hip Hop,Public G
+The Pharcyde,Bizarre Ride II The Pharcyde,Passin' Me By,4G3dZN9o3o2X4VKwt4CLts,0.759,0.756,4,-8.145,0,0.266,2.36e-06,0.265,0.613,87.059,303493,4,Spotify,Raised on Hip Hop,Public G
+Beastie Boys,Hello Nasty (Deluxe Version/Remastered 2009),Intergalactic - Remastered 2009,5fpizYGbi5IQoEraj6FP0R,0.734,0.864,2,-6.119,1,0.303,9.85e-06,0.246,0.47,105.932,231493,4,Spotify,Raised on Hip Hop,Public G
+Skee-Lo,I Wish,I Wish,3LklW07tvdx2AHsgfi1Mng,0.669,0.809,7,-7.146,1,0.147,0.0,0.38,0.572,97.885,249293,4,Spotify,Raised on Hip Hop,Public G
+DJ Jazzy Jeff & The Fresh Prince,Greatest Hits,The Fresh Prince of Bel-Air,0UREO3QWbXJW3gOUXpK1am,0.824,0.684,10,-7.354,0,0.0935,1.45e-06,0.0481,0.87,101.152,177267,4,Spotify,Raised on Hip Hop,Public G
+Fugees,The Score (Expanded Edition),"No Woman, No Cry",5bUVHuzQh5mkvMPjUU074i,0.846,0.326,0,-13.909,1,0.152,3.97e-05,0.28,0.367,88.988,273093,4,Spotify,Raised on Hip Hop,Public G
+Eric B. & Rakim,Don't Sweat The Technique,Don't Sweat The Technique,48ZUwXrEOhaXLCxvmRYhZv,0.737,0.89,4,-8.443,1,0.158,0.00171,0.0801,0.809,105.848,262800,4,Spotify,Raised on Hip Hop,Public G
+Digable Planets,Reachin' (A New Refutation Of Time And Space),Rebirth Of Slick (Cool Like Dat),26q6YTrXt9l8qshIveiTX9,0.884,0.334,1,-18.943,0,0.228,0.0588,0.107,0.571,98.315,261267,4,Spotify,Raised on Hip Hop,Public G
+Black Sheep,A Wolf In Sheep's Clothing,The Choice Is Yours (Revisited),4k9EkhkFZY8Bk41Qi0Ob7P,0.867,0.679,10,-12.028,0,0.207,1.59e-06,0.0742,0.68,101.293,243200,4,Spotify,Raised on Hip Hop,Public G
+Handsome Boy Modeling School,So...How's Your Girl?,The Truth,5l7icgnicl7JToRxPkSXyy,0.703,0.393,2,-10.88,1,0.0455,6.09e-06,0.113,0.478,79.653,337200,4,Spotify,Raised on Hip Hop,Public G
+Guru,Jazzmatazz Volume 1,Loungin',1VzhfMEGIIkn5hFITMJzW1,0.716,0.58,10,-12.747,0,0.239,6.71e-06,0.906,0.707,99.077,279640,4,Spotify,Raised on Hip Hop,Public G
+Arrested Development,"3 Years, 5 Months And 2 Days In The Life Of...",Mr. Wendal,5DOYik1z3Of1wAFfY3dYbC,0.884,0.37,8,-11.353,1,0.112,0.00423,0.026,0.883,109.997,247507,4,Spotify,Raised on Hip Hop,Public G
+Del The Funky Homosapien,The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook,Mistadobalina,0KQd3QY1Y8zC2rfO4ZBQRC,0.85,0.797,10,-7.429,0,0.136,8.38e-06,0.34,0.63,99.615,260307,4,Spotify,Raised on Hip Hop,Public G
+The Sugarhill Gang,The Showdown: The Sugarhill Gang vs. Grandmaster Flash & The Furious Five,Rapper's Delight,7sZDbHZiuHEzS00vzCuhqS,0.9,0.845,11,-7.306,0,0.257,0.0,0.0724,0.914,111.187,427360,4,Spotify,Raised on Hip Hop,Public G
+DJ Jazzy Jeff & The Fresh Prince,Homebase,Summertime,20XdEFyaUR9C7aDIdq2OAd,0.677,0.539,7,-14.439,1,0.063,1.84e-06,0.845,0.469,95.116,270973,4,Spotify,Raised on Hip Hop,Public G
+Fugees,Greatest Hits,Killing Me Softly With His Song,2HAVFycrhtbmLxyyxpm6JI,0.765,0.437,4,-10.122,0,0.0727,1.31e-06,0.167,0.498,92.402,290293,4,Spotify,Raised on Hip Hop,Public G
+Various Artists,Profilin': The Hits,It Takes Two,3Yxmpx64AdWAzG3qAD4Dty,0.767,0.776,2,-8.915,1,0.144,0.0,0.326,0.608,111.686,301893,4,Spotify,Raised on Hip Hop,Public G
+Jungle Brothers,Done By The Forces Of Nature,Doin' Our Own Dang,4fuLWKNpY01OLMT9tARnB4,0.835,0.447,6,-14.901,1,0.22,0.00876,0.108,0.839,113.082,258933,4,Spotify,Raised on Hip Hop,Public G
+Arrested Development,"3 Years, 5 Months And 2 Days In The Life Of...",Tennessee,1aaoIHFT9UqhlaEwLAhh00,0.822,0.661,1,-10.234,0,0.164,3.95e-06,0.315,0.67,99.883,272707,4,Spotify,Raised on Hip Hop,Public G
+Public Enemy,It Takes A Nation Of Millions To Hold Us Back,Bring The Noise,6jg8Y7gArYgZeXUBPMre0V,0.795,0.824,4,-12.23,0,0.238,0.0,0.0728,0.794,110.202,226173,4,Spotify,Raised on Hip Hop,Public G
+The Notorious B.I.G.,Life After Death (2014 Remaster),Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster,7xykwR6UJ4XNND931IsDLW,0.833,0.929,6,-2.816,0,0.0666,0.0,0.317,0.9,104.397,257787,4,Spotify,Raised on Hip Hop,Public G
+Run–D.M.C.,King Of Rock (Expanded Edition),King of Rock,7112WRQXlBGe4Os43yw8gV,0.825,0.857,2,-3.389,0,0.0448,0.0,0.0461,0.791,98.204,314147,4,Spotify,Raised on Hip Hop,Public G
+Monie Love,Down to Earth,It's a Shame (My Sister),6ir6C7AHGMVLGQN7hv7gTA,0.859,0.609,1,-10.695,1,0.113,8.6e-05,0.315,0.488,107.972,222840,4,Spotify,Raised on Hip Hop,Public G
+Eric B. & Rakim,Paid In Full,I Know You Got Soul,5D2lp16FQ0VIfLGRDn5jcG,0.89,0.86,6,-8.755,0,0.231,0.000175,0.319,0.763,104.054,284467,4,Spotify,Raised on Hip Hop,Public G
+LL COOL J,Radio,I Can't Live Without My Radio,2qfTGzETefwtBWKDThZjnU,0.764,0.508,10,-13.165,0,0.515,0.00996,0.0917,0.862,179.257,327400,4,Spotify,Raised on Hip Hop,Public G
+Kurtis Blow,Kurtis Blow,The Breaks,5TvcggVu3s2P1fMAS8BupX,0.91,0.576,11,-13.256,0,0.109,0.0023,0.195,0.907,112.877,463733,4,Spotify,Raised on Hip Hop,Public G
+Kool Moe Dee,Knowledge Is King,I Go To Work,6tGtBvK6DezcjbtUxXGyxe,0.847,0.828,6,-12.497,1,0.0795,1.53e-06,0.101,0.451,125.764,282093,4,Spotify,Raised on Hip Hop,Public G
+Heavy D & The Boyz,Big Tyme,We Got Our Own Thang,0yndiszlOMgxOu3y2vKZvB,0.799,0.621,7,-12.762,1,0.0681,3.1e-06,0.0913,0.663,114.12,232293,4,Spotify,Raised on Hip Hop,Public G
+Poor Righteous Teachers,Holy Intellect (Expanded Edition),Rock Dis Funky Joint,4sqa3la7lW1uCj10PuUiJK,0.913,0.699,7,-10.255,1,0.253,0.0,0.0572,0.709,95.707,311080,4,Spotify,Raised on Hip Hop,Public G
+Run–D.M.C.,RUN-DMC (Expanded Edition),Rock Box,2XYNq7LIQrh82m7LPiPN8w,0.777,0.892,0,-4.555,1,0.0932,1.79e-06,0.384,0.648,100.231,330573,4,Spotify,Raised on Hip Hop,Public G
+Kid 'N Play,2 Hype,Gittin' Funky,1gnOtJnOZErFPsADj08XVr,0.846,0.577,1,-16.938,1,0.155,3.08e-05,0.215,0.432,104.961,284040,4,Spotify,Raised on Hip Hop,Public G
+Monie Love,Down to Earth,Monie in the Middle,6RiQpptxeHspavyW50JiEw,0.776,0.69,10,-13.493,0,0.0473,0.000843,0.0548,0.694,115.039,224827,4,Spotify,Raised on Hip Hop,Public G
+Dana Dane,Dana Dane with Fame,This Be the Def Beat,3vzFcaVtFsxJxXsI5MrHri,0.814,0.539,6,-11.494,0,0.385,0.0,0.162,0.795,184.882,198880,4,Spotify,Raised on Hip Hop,Public G
+The Roots,Things Fall Apart,The Next Movement,6oObYkdW3HMbqCV3AhSfVR,0.749,0.707,1,-7.98,1,0.341,0.0,0.28,0.469,95.108,250200,4,Spotify,Raised on Hip Hop,Public G
+Queen Latifah,Ladies First,Ladies First - Radio Edit,2kdJAbzcLT7XEQ0QeZERIB,0.833,0.72,11,-13.455,1,0.218,0.0,0.339,0.759,108.141,229896,4,Spotify,Raised on Hip Hop,Public G

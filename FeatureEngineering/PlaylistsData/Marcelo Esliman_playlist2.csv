@@ -1,0 +1,60 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Jack Johnson,Brushfire Fairytales [Remastered (Bonus Version)],Flake,7hOXiS6kDP4vYIh9DBsNgK,0.758,0.654,5,-10.98,1,0.04,0.0197,0.199,0.962,97.657,281749,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Cranberries,"Everybody Else Is Doing It, So Why Can't We?",Linger,0gEyKnHvgkrkBM6fbeHdwK,0.439,0.434,7,-14.918,1,0.0265,4.87e-05,0.14,0.204,94.845,274707,4,Marce Esliman,Scar tisue,Marcelo Esliman
+R.E.M.,Out Of Time (25th Anniversary Edition),Losing My Religion,31AOj9sFz2gM0O3hMARRBx,0.666,0.855,9,-5.051,0,0.0295,1.2e-06,0.0987,0.803,125.639,268427,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Offspring,Americana,Why Don't You Get A Job,0sNKiz82ATCvT3f3XVVUUj,0.766,0.882,5,-4.478,1,0.0719,2.3e-06,0.281,0.544,107.932,172467,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Verve,Urban Hymns (Remastered 2016),Bitter Sweet Symphony,57iDDD9N9tTWe75x6qhStw,0.356,0.917,9,-6.006,1,0.0479,0.0,0.406,0.518,171.176,357267,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Californication (Deluxe Edition),Scar Tissue,1G391cbiT3v3Cywg8T7DM1,0.595,0.717,0,-4.803,1,0.0295,0.00274,0.108,0.547,88.969,215907,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Blind Melon,Blind Melon,No Rain,6txWz9UapYHVxEd7dDIHXT,0.389,0.476,9,-9.342,1,0.0316,5.09e-05,0.255,0.566,148.117,217107,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Counting Crows,August And Everything After,Mr. Jones,5DiXcVovI0FcY2s0icWWUu,0.578,0.817,0,-6.542,1,0.0363,3.06e-06,0.285,0.726,141.621,272293,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Under the Bridge,3d9DChrdc6BOeFsbrZ3Is0,0.559,0.345,4,-13.496,1,0.0459,0.000105,0.141,0.458,84.581,264307,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Pearl Jam,Last Kiss,Last Kiss,0QnONzv3TvHAWk294h6DaQ,0.622,0.692,7,-6.97,1,0.0276,0.000158,0.193,0.774,112.053,195467,4,Marce Esliman,Scar tisue,Marcelo Esliman
+R.E.M.,Out Of Time (25th Anniversary Edition),Shiny Happy People,1v2zyAJrChw5JnfafSkwkJ,0.452,0.909,9,-3.977,1,0.0366,0.0603,0.23,0.805,124.623,225787,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,By the Way (Deluxe Edition),The Zephyr Song,1ndGB6rvxKYN9seCYO1dTF,0.725,0.803,2,-4.083,1,0.0337,3.66e-05,0.0891,0.403,117.391,231933,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),1979 - Remastered 2012,5QLHGv0DfpeXLNFo7SFEy1,0.767,0.787,3,-9.897,1,0.0331,0.583,0.0513,0.964,126.879,266200,4,Marce Esliman,Scar tisue,Marcelo Esliman
+R.E.M.,Automatic For The People,Man On The Moon,4jLv3tDBu8ww2R07DvL12s,0.667,0.699,7,-7.574,1,0.026,0.000442,0.201,0.655,118.567,314173,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Soul Asylum,Grave Dancers Union (2022 Remaster),Runaway Train,3TW48DvQ7ChwY1Yy1tkMaP,0.613,0.72,0,-7.957,1,0.0425,0.0,0.104,0.561,117.341,265867,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Wallflowers,Bringing Down The Horse,One Headlight,0z1b34WikhOH9ZxU8QDWcv,0.701,0.539,2,-8.968,1,0.0277,0.005,0.0589,0.752,107.531,312627,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Semisonic,20th Century Masters: The Millennium Collection: Best Of Semisonic,Closing Time,1A5V1sxyCLpKJezp75tUXn,0.478,0.854,7,-5.454,1,0.0289,1.21e-06,0.115,0.274,91.854,274160,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Pearl Jam,Vs.,Daughter - Remastered,53eJFr4Mfbw5PXJ01K6cFw,0.615,0.702,7,-9.686,1,0.0278,0.00431,0.0608,0.734,96.987,234333,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Pearl Jam,Ten,Alive,1L94M3KIu7QluZe63g64rv,0.284,0.875,11,-6.069,0,0.0422,0.000461,0.402,0.595,75.009,340907,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Foo Fighters,There Is Nothing Left To Lose,Learn to Fly,5OQsiBsky2k2kDKy2bX2eT,0.465,0.919,4,-4.025,1,0.0408,2.07e-05,0.262,0.537,135.997,235293,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Incubus,Make Yourself,Drive,7nnWIPM5hwE3DaUBkvOIpy,0.645,0.792,4,-7.34,0,0.036,0.0121,0.119,0.666,90.565,232453,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Spin Doctors,Pocket Full Of Kryptonite (Anniversary Edition),Two Princes,0cuq829zRNq4AEdmDJA4aw,0.544,0.905,7,-10.732,1,0.0646,1.97e-06,0.0532,0.825,103.594,256947,4,Marce Esliman,Scar tisue,Marcelo Esliman
+R.E.M.,Document - 25th Anniversary Edition,The One I Love - Remastered 2012,2fdfsGuqb6SBX5ocoBWHUd,0.488,0.84,2,-4.626,1,0.0356,1.21e-06,0.346,0.559,127.862,197800,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Faith No More,Angel Dust (Deluxe Edition),Easy,4Y3WqmBWmG23thvU9xEhMv,0.506,0.554,10,-6.743,0,0.0339,0.000355,0.112,0.375,124.724,186960,4,Marce Esliman,Scar tisue,Marcelo Esliman
+4 Non Blondes,"Bigger, Better, Faster, More !",What's Up?,0jWgAnTrNZmOGmqgvHhZEm,0.565,0.564,2,-10.044,1,0.0292,0.0,0.114,0.454,134.355,295533,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Stone Temple Pilots,Purple (2019 Remaster),Interstate Love Song - 2019 Remaster,6qLEOZvf5gI7kWE63JE7p3,0.215,0.927,9,-7.327,1,0.0452,0.00661,0.126,0.49,170.814,194853,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),"Tonight, Tonight - Remastered 2012",7bu0znpSbTks0O6I98ij0W,0.277,0.67,6,-9.381,1,0.0376,0.751,0.237,0.217,148.342,254627,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Live,Throwing Copper,Selling The Drama,5hE3T2329sdMmIrHxjhQDL,0.45,0.914,6,-6.741,1,0.0647,8.18e-05,0.101,0.336,124.42,208293,4,Marce Esliman,Scar tisue,Marcelo Esliman
+U2,The Joshua Tree (Super Deluxe),Sweetest Thing,7ndGFo9nZ108KPgXtfYWCe,0.524,0.641,0,-8.967,1,0.0497,2.78e-05,0.159,0.482,141.65,184543,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Foo Fighters,Foo Fighters,Big Me,6pb5BBnIM5IM7R1cqag6rE,0.579,0.708,0,-10.419,1,0.0374,0.0,0.11,0.846,130.97,132840,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Greatest Hits,Soul to Squeeze,3arKRnq9OUd7yq6LRwVW8I,0.663,0.546,5,-5.234,1,0.0269,0.000572,0.107,0.656,88.171,289533,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Stone Temple Pilots,Core,Plush,3jJZVeExYzVYiV6Y9Fl3DX,0.423,0.954,7,-3.157,0,0.047,0.0,0.177,0.5,144.553,310347,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Pearl Jam,Vitalogy,Better Man,2B98ljvzqpCVgt5reTHq28,0.445,0.671,2,-7.937,1,0.0387,1.56e-05,0.0791,0.267,125.712,268587,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Crash Test Dummies,God Shuffled His Feet,Mmm Mmm Mmm Mmm,31v2AQlx4pDI7kmnLxBkem,0.58,0.575,3,-7.72,1,0.0231,1.83e-05,0.0813,0.37,92.934,235173,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,One Hot Minute (Deluxe Edition),My Friends,6HksxcBzMVdT17aq1Q79Xe,0.439,0.709,0,-3.545,1,0.026,0.00152,0.131,0.319,81.331,248640,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Lenny Kravitz,5,Fly Away,1OxcIUqVmVYxT6427tbhDW,0.587,0.872,7,-5.066,1,0.0484,0.0,0.622,0.735,159.925,221333,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Verve,Urban Hymns (Deluxe / Remastered 2016),Lucky Man,2mxPSHEwjJWOQS7lGw6btF,0.407,0.663,2,-7.591,1,0.0305,0.000166,0.0913,0.211,75.989,293587,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Green Day,Dookie,When I Come Around,1Dr1fXbc2IxaK1Mu8P8Khz,0.531,0.909,11,-4.236,1,0.034,0.0,0.231,0.814,97.546,178000,4,Marce Esliman,Scar tisue,Marcelo Esliman
+The Cure,Wish,Friday I'm In Love,4QlzkaRHtU8gAdwqjWmO8n,0.526,0.763,0,-12.663,0,0.0341,6.75e-05,0.359,0.514,136.205,215160,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Foo Fighters,One By One (Expanded Edition),Times Like These,67vYdAAM3oGsEImCRfbtsF,0.376,0.908,4,-3.793,0,0.0879,1.4e-05,0.241,0.266,144.581,265560,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Nirvana,MTV Unplugged In New York,About A Girl,48YkpE5enOln5c7jXSTuHL,0.606,0.769,3,-9.215,0,0.0713,1.64e-05,0.841,0.593,121.042,218000,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Nirvana,MTV Unplugged In New York,All Apologies,3bH8PZsfbCRIoeNiFm7JmU,0.569,0.579,1,-10.988,1,0.0716,2.79e-05,0.109,0.407,108.998,263227,4,Marce Esliman,Scar tisue,Marcelo Esliman
+U2,Pop,Staring At The Sun,3fsTb3a8l5kJrtzpl04Ljr,0.533,0.702,9,-8.504,0,0.0265,0.0221,0.27,0.515,140.201,276800,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Lenny Kravitz,Are You Gonna Go My Way,Are You Gonna Go My Way,45Ia1U4KtIjAPPU7Wv1Sea,0.619,0.67,11,-10.322,0,0.0353,0.0109,0.331,0.777,129.269,211933,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,One Hot Minute (Deluxe Edition),Aeroplane,0VLdJcQUsqHBBwqPp4CIKJ,0.639,0.839,5,-4.703,1,0.0634,3.74e-06,0.468,0.603,101.447,285067,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Radiohead,The Bends,High and Dry,2a1iMaoWQ5MnvLFBDv4qkf,0.419,0.383,4,-11.782,1,0.0256,0.0176,0.0896,0.35,87.568,257480,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Green Day,Nimrod,Good Riddance (Time of Your Life),6ORqU0bHbVCRjXm9AjyHyZ,0.475,0.432,7,-7.844,1,0.0302,0.0,0.161,0.648,94.605,153467,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Aerosmith,Nine Lives,Pink,74uGhWp4BYpjFj1V2DzgoO,0.432,0.751,0,-5.124,1,0.0423,4.58e-06,0.126,0.776,171.85,235360,4,Marce Esliman,Scar tisue,Marcelo Esliman
+U2,Achtung Baby (Deluxe Edition),One,3G69vJMWsX6ZohTykad2AU,0.392,0.534,0,-8.793,1,0.0369,0.00104,0.155,0.325,181.305,276187,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Breaking the Girl,0cG9ocYqYOIVtgiWTmTe3g,0.348,0.686,8,-12.748,0,0.0319,0.00256,0.145,0.635,178.466,295373,3,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Californication,Road Trippin',7Gpr3kKk4BMgItz6UbI73q,0.378,0.474,4,-8.202,0,0.0271,0.00138,0.117,0.38,102.379,204960,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Aerosmith,Get A Grip,Cryin',0NJC0FDCODpPUntRTTQq97,0.445,0.856,9,-3.674,1,0.0327,0.0101,0.367,0.486,105.872,308333,3,Marce Esliman,Scar tisue,Marcelo Esliman
+Nirvana,MTV Unplugged In New York,Come As You Are,3sYWyVGfPuit80szWXhrRA,0.683,0.766,5,-8.733,0,0.041,0.00346,0.0815,0.568,119.19,253907,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Give It Away,0uppYCG86ajpV2hSR3dJJ0,0.666,0.936,7,-9.919,1,0.0476,0.086,0.153,0.776,91.577,282907,4,Marce Esliman,Scar tisue,Marcelo Esliman
+U2,All That You Can't Leave Behind,Beautiful Day,0gzqZ9d1jIKo9psEIthwXe,0.536,0.928,11,-6.492,0,0.0589,0.00134,0.2,0.389,136.258,248400,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Red Hot Chili Peppers,By the Way (Deluxe Edition),By the Way,1f2V8U1BiWaC9aJWmpOARe,0.451,0.97,0,-4.938,1,0.107,0.00355,0.102,0.198,122.444,216933,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Radiohead,OK Computer,Karma Police,63OQupATfueTdZMWTxW03A,0.36,0.501,7,-9.129,1,0.0258,9.32e-05,0.172,0.324,74.807,264067,4,Marce Esliman,Scar tisue,Marcelo Esliman
+Foo Fighters,In Your Honor,Best of You,5FZxsHWIvUsmSK1IAvm2pp,0.366,0.94,1,-5.119,0,0.0696,9.42e-05,0.188,0.369,130.198,255627,4,Marce Esliman,Scar tisue,Marcelo Esliman
+R.E.M.,Out Of Time (25th Anniversary Edition),Shiny Happy People,1v2zyAJrChw5JnfafSkwkJ,0.452,0.909,9,-3.977,1,0.0366,0.0603,0.23,0.805,124.623,225787,4,Marce Esliman,Scar tisue,Marcelo Esliman

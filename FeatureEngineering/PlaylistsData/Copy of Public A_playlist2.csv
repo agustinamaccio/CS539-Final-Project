@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Ariana Grande,Santa Tell Me,Santa Tell Me,0lizgQ7Qw35od7CYaoMBZb,0.525,0.621,7,-7.364,1,0.116,0,0.294,0.591,191.9,204093,4,Spotify,Christmas Pop,Public A
+Mariah Carey,Merry Christmas,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,0.336,0.627,7,-7.463,1,0.0384,0,0.0708,0.35,150.273,241107,4,Spotify,Christmas Pop,Public A
+Kelly Clarkson,Wrapped In Red,Underneath the Tree,3YZE5qDV7u1ZD1gZc47ZeR,0.509,0.812,8,-5.439,1,0.0537,1.99e-05,0.214,0.689,159.878,229640,4,Spotify,Christmas Pop,Public A
+Brenda Lee,Merry Christmas From Brenda Lee,Rockin' Around The Christmas Tree,2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,1,0.0502,0,0.505,0.898,67.196,126267,4,Spotify,Christmas Pop,Public A
+Taylor Swift,Christmas Tree Farm,Christmas Tree Farm,2mvabkN1i2gLnGAPUVdwek,0.598,0.68,7,-4.505,1,0.0331,0,0.324,0.437,134.002,228027,4,Spotify,Christmas Pop,Public A
+George Michael,Twenty Five,Last Christmas - Remastered,6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0,0.0282,0,0.221,0.861,106.856,267160,4,Spotify,Christmas Pop,Public A
+Britney Spears,My Only Wish (This Year),My Only Wish (This Year),0YWUHZPJVg4iujddsJDwhM,0.669,0.843,0,-3.766,1,0.0268,0,0.195,0.702,147.08,255400,4,Spotify,Christmas Pop,Public A
+Michael Bublé,Christmas (Deluxe Special Edition),It's Beginning to Look a Lot like Christmas,5a1iz510sv2W9Dt1MvFd5R,0.339,0.214,4,-11.714,1,0.0375,7.47e-06,0.341,0.363,94.775,206640,3,Spotify,Christmas Pop,Public A
+Gwen Stefani,You Make It Feel Like Christmas (Deluxe Edition - 2020),You Make It Feel Like Christmas (with Blake Shelton),3SjaE7SExrVnRZi45KXT3O,0.635,0.87,2,-4.291,0,0.04,0,0.118,0.912,92.999,156773,4,Spotify,Christmas Pop,Public A
+*NSYNC,Home For Christmas,"Merry Christmas, Happy Holidays",4v9WbaxW8HdjqfUiWYWsII,0.643,0.939,5,-3.967,1,0.0463,0,0.881,0.756,104.999,255307,4,Spotify,Christmas Pop,Public A
+Pentatonix,Holidays Around the World,Kid On Christmas (feat. Meghan Trainor),5glU2EWqa5hpYqGPboSNjV,0.419,0.817,2,-4.704,1,0.0468,0,0.251,0.317,78.107,202600,4,Spotify,Christmas Pop,Public A
+MisterWives,Jingle Bell Rock -Spotify Singles Holiday,Jingle Bell Rock -Spotify Singles Holiday,7Ao5aouOwI94DuwcXa5X1i,0.629,0.657,4,-7.771,1,0.0313,2.74e-05,0.454,0.603,120.013,142893,4,Spotify,Christmas Pop,Public A
+Ryland James,Please Come Home For Christmas,Please Come Home For Christmas,3cZRpCsi78sk2u4XW0vosp,0.399,0.349,9,-9.011,1,0.0271,9e-05,0.101,0.205,172.0,197093,3,Spotify,Christmas Pop,Public A
+Leona Lewis,"Christmas, With Love",One More Sleep,78pn8k7RogKo2oxl0DyX6d,0.638,0.813,11,-3.849,1,0.0362,0,0.344,0.754,112.986,239587,4,Spotify,Christmas Pop,Public A
+John Legend,You Deserve It All,You Deserve It All,2ZAEbbKPNf1Wv1fifB2nyd,0.524,0.739,0,-6.681,1,0.0386,0,0.0636,0.48,83.095,198627,4,Spotify,Christmas Pop,Public A
+sped up nightcore,Snowman (Sped Up Version),Snowman - Sped Up Version,3BwbSLW4YtIGkhCNFsHu52,0.764,0.417,4,-9.16,1,0.0461,0,0.0832,0.575,126.004,137578,3,Spotify,Christmas Pop,Public A
+Hanson,Snowed In,What Christmas Means To Me,5MPd7GzOkGRoFBaSqmqiSL,0.529,0.883,6,-5.848,1,0.0419,0.034,0.145,0.826,167.705,223133,4,Spotify,Christmas Pop,Public A
+Pentatonix,A Pentatonix Christmas Deluxe,Hallelujah,0HZk0QsXPhMNAWNDR3rYE8,0.364,0.378,7,-7.381,0,0.0331,0,0.339,0.366,89.918,268960,3,Spotify,Christmas Pop,Public A
+Kelly Clarkson,When Christmas Comes Around...,"Santa, Can’t You Hear Me",2O3MQ6H3gjrIWDcpeTrikT,0.495,0.896,11,-2.381,1,0.0331,0,0.353,0.462,146.04,242645,4,Spotify,Christmas Pop,Public A
+Sam Smith,Have Yourself A Merry Little Christmas,Have Yourself A Merry Little Christmas,1Qi2wh8fFgDV7tl4Sj3f2K,0.438,0.178,5,-9.402,1,0.0414,0,0.316,0.344,75.248,170964,1,Spotify,Christmas Pop,Public A
+Ralph,Hard Candy Christmas,Hard Candy Christmas,6V5MkZb6BkvfcppHRO8zvf,0.647,0.587,11,-6.311,1,0.037,0,0.0754,0.272,99.966,208800,4,Spotify,Christmas Pop,Public A
+Michael Bublé,Christmas,Holly Jolly Christmas,6tjituizSxwSmBB5vtgHZE,0.647,0.465,7,-8.308,1,0.0428,0,0.0882,0.699,151.251,119787,4,Spotify,Christmas Pop,Public A
+Caylee Hammack,Christmas (Baby Please Come Home),Christmas (Baby Please Come Home),54H84HFq1hUDEOcYxbTjrL,0.3,0.91,3,-2.002,1,0.0533,0,0.0819,0.585,132.242,162840,4,Spotify,Christmas Pop,Public A
+Jonas Brothers,Like It's Christmas,Like It's Christmas,1OjmlSFuzYflWjSMTCyTJv,0.725,0.571,1,-6.007,1,0.102,0,0.0519,0.61,146.035,200880,4,Spotify,Christmas Pop,Public A
+Ava Max,Christmas Without You,Christmas Without You,1QLZKzC2pjP4ySf4ALrNhm,0.654,0.596,1,-4.68,1,0.0458,0,0.11,0.382,118.078,169245,4,Spotify,Christmas Pop,Public A
+Justin Bieber,Under The Mistletoe (Deluxe Edition),Mistletoe,7xapw9Oy21WpfEcib2ErSA,0.657,0.56,6,-9.049,0,0.0467,0,0.0794,0.854,161.993,182947,4,Spotify,Christmas Pop,Public A
+Meghan Trainor,"White Christmas (Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville)","White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",71azyw4EJDlGru5Uw6DGzT,0.566,0.437,9,-10.13,1,0.0359,3.35e-06,0.373,0.513,67.053,194312,4,Spotify,Christmas Pop,Public A
+Sabrina Carpenter,Christmas the Whole Year Round,Christmas the Whole Year Round,065CI94mu3IZwqPU4BX4Cb,0.565,0.898,6,-2.956,1,0.0915,0,0.131,0.962,187.917,179427,4,Spotify,Christmas Pop,Public A
+Tyler Shaw,This Christmas,This Christmas,69ICDnEzZqopqoQ7LG2e2u,0.633,0.525,8,-3.946,1,0.0237,0,0.105,0.544,95.068,147673,4,Spotify,Christmas Pop,Public A
+Mariah Carey,Mariah Carey's Magical Christmas Special (Apple TV+ Original Soundtrack),Oh Santa! (feat. Ariana Grande & Jennifer Hudson),2VkuxjlbnbaBiWYpdBGVol,0.648,0.938,1,-3.298,1,0.115,1.28e-06,0.0564,0.849,78.496,200467,4,Spotify,Christmas Pop,Public A
+Ed Sheeran,Merry Christmas,Merry Christmas,3bH2Eu9A9ymI4UnGHRmoXg,0.594,0.935,0,-2.018,1,0.0357,2.36e-06,0.102,0.602,113.99,208547,4,Spotify,Christmas Pop,Public A
+Katy Perry,Cozy Little Christmas,Cozy Little Christmas,02FaKXXL7KUtRc7K0k54tL,0.774,0.608,7,-6.264,1,0.128,0,0.0895,0.56,137.494,182521,4,Spotify,Christmas Pop,Public A
+Kylie Minogue,Kylie Christmas (Snow Queen Edition),It's the Most Wonderful Time of the Year,4xjKPpeWbUCgQo6VnJLHZB,0.201,0.762,9,-5.802,0,0.0578,0,0.0839,0.436,202.936,164867,3,Spotify,Christmas Pop,Public A
+Carpenters,The Essential Collection (1965-1997),Merry Christmas Darling - Single Version,6W65jVdn0JtttcvFN1KppC,0.363,0.338,7,-8.148,1,0.0283,0,0.132,0.134,81.595,185907,4,Spotify,Christmas Pop,Public A
+Laufey,Love to Keep Me Warm,Love to Keep Me Warm,3bq7dXN7arTdaq8mmKXxob,0.669,0.208,0,-12.539,1,0.0692,0.000524,0.106,0.315,139.928,158133,4,Spotify,Christmas Pop,Public A
+Backstreet Boys,A Very Backstreet Christmas,Christmas in New York,56oYlOg8iTHa99Oo6LikDx,0.254,0.47,4,-7.944,1,0.0288,0,0.274,0.161,96.513,273395,3,Spotify,Christmas Pop,Public A
+Elton John,Caribou,Step Into Christmas,11P4sSu6BH2lAbWk1sL6cK,0.54,0.928,2,-6.252,1,0.0337,1.11e-05,0.314,0.796,140.419,272333,4,Spotify,Christmas Pop,Public A
+Destiny's Child,8 Days Of Christmas,8 Days of Christmas,7o4HtESXicUqk3oRqngIsS,0.685,0.8,9,-1.866,0,0.202,0,0.0799,0.587,99.675,209360,4,Spotify,Christmas Pop,Public A
+Alessia Cara,Make It To Christmas,Make It To Christmas,6RS6rcjnWrdfVuu2U2W2dj,0.522,0.522,2,-7.87,1,0.0383,0,0.438,0.305,77.072,211013,4,Spotify,Christmas Pop,Public A
+Jessie J,This Christmas Day,Man With The Bag,2Ysi49tRdVH74d1Cnc4o94,0.626,0.676,7,-3.178,1,0.0739,0,0.493,0.684,140.677,163560,4,Spotify,Christmas Pop,Public A
+Miley Cyrus,Spotify Singles - Holiday,Sleigh Ride,7enVhl0fuHvQ4ErXvAXYIH,0.583,0.749,2,-8.286,1,0.0453,0,0.151,0.766,166.213,184953,4,Spotify,Christmas Pop,Public A
+Bruce Springsteen,"Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)","Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",6s2wpWPFPAgKg2LXxi1Oee,0.357,0.668,0,-8.444,1,0.0479,1.37e-06,0.727,0.407,139.986,267600,4,Spotify,Christmas Pop,Public A
+Kacey Musgraves,The Kacey Musgraves Christmas Show,Glittery - From The Kacey Musgraves Christmas Show,4dFtIGQBrYjiskk7fN5Wmx,0.509,0.307,1,-9.616,0,0.0307,0,0.701,0.392,85.471,143467,4,Spotify,Christmas Pop,Public A
+Dan + Shay,Pick Out A Christmas Tree,Holiday Party,29mIEUY4YHQmFyZ2tspe71,0.727,0.726,2,-3.813,1,0.0243,0,0.362,0.804,107.956,181027,4,Spotify,Christmas Pop,Public A
+Meghan Trainor,A Very Trainor Christmas (Deluxe),My Kind Of Present,3LOfU1kaplBBNd2jeiGa0N,0.485,0.444,1,-6.232,1,0.195,2.5e-06,0.0969,0.777,179.967,161013,3,Spotify,Christmas Pop,Public A
+Bing Crosby,White Christmas,Mele Kalikimaka (Merry Christmas),04vLj9QUXoKdRlsp3gkURo,0.5,0.224,3,-12.431,1,0.0935,0,0.284,0.62,202.481,175333,4,Spotify,Christmas Pop,Public A
+Caveboy,Jolly Old Saint Nicholas,Jolly Old Saint Nicholas,796k6Hy4NnPq2TSBieDIwH,0.669,0.615,7,-3.567,1,0.0273,0,0.391,0.868,136.077,131471,4,Spotify,Christmas Pop,Public A
+Sarah Connor,Ring Out The Bells,Ring Out The Bells,03qftRowv8aPZnNZbILxUR,0.673,0.813,0,-4.082,1,0.046,0,0.0608,0.771,139.996,239707,4,Spotify,Christmas Pop,Public A
+salem ilese,Thank You Note,Thank You Note,5EHoaIl9RURnb8nhyf26ug,0.637,0.705,10,-7.546,0,0.0502,0,0.0857,0.553,158.013,156266,4,Spotify,Christmas Pop,Public A
+Various Artists,Happiest Season (Music from and Inspired by the Film),Make You Mine This Season,62k0PJ7guenoJoQHUYeN8o,0.603,0.684,1,-6.845,1,0.0312,0.00306,0.255,0.275,131.985,186693,4,Spotify,Christmas Pop,Public A
+Kelly Clarkson,When Christmas Comes Around...,Christmas Isn't Canceled (Just You),4zHDuDQx8dcWVmVVtyIzRO,0.58,0.789,1,-4.918,0,0.0457,0,0.146,0.572,139.901,231549,4,Spotify,Christmas Pop,Public A
+Sia,Everyday Is Christmas (Deluxe Edition),Santa's Coming for Us,1N1ZpYUJc9fwrqk53FGgWv,0.547,0.814,1,-6.191,1,0.12,0,0.0475,0.724,92.986,205267,4,Spotify,Christmas Pop,Public A
+Girls Aloud,Chemistry,Not Tonight Santa,55fhKXmY0UzzGT4AUwNvRe,0.639,0.877,9,-4.615,1,0.042,0,0.205,0.944,137.009,161933,4,Spotify,Christmas Pop,Public A
+JP Saxe,Kissin' In The Cold,Kissin' In The Cold,2nZq5WQOW4FEPxCVTdNGfB,0.528,0.343,0,-7.62,1,0.036,0,0.162,0.342,64.879,224084,4,Spotify,Christmas Pop,Public A
+Michael Bublé,Christmas,Jingle Bells (feat. The Puppini Sisters),4qBejt9FeqLI9blHI1Nq1x,0.702,0.588,5,-5.914,1,0.0563,0,0.198,0.849,122.945,159973,3,Spotify,Christmas Pop,Public A
+Sasha Alex Sloan,I Saw Mommy Kissing Santa Claus,I Saw Mommy Kissing Santa Claus - Spotify Holiday Single,6CXNzOwENnzLV09gvmqrH1,0.65,0.0919,5,-14.901,1,0.0538,0,0.0806,0.245,129.841,122186,4,Spotify,Christmas Pop,Public A
+Darren Criss,A Very Darren Crissmas,Drunk On Christmas,5dvSKxpjDxRNy4Wyuz5g1j,0.674,0.508,5,-6.565,1,0.0336,0,0.143,0.456,111.8,203853,4,Spotify,Christmas Pop,Public A
+Lukas Graham,HERE (For Christmas),HERE (For Christmas),1Cth2nNUYYfCiSoIei6rCi,0.742,0.625,8,-5.296,1,0.059,0,0.148,0.31,114.902,240689,4,Spotify,Christmas Pop,Public A
+Little Mix,Confetti (Expanded Edition),One I've Been Missing,632gXr9GJAsy7UBd7Dg7G4,0.535,0.646,0,-4.377,1,0.0294,0,0.0818,0.37,97.963,192945,3,Spotify,Christmas Pop,Public A
+Ariana Grande,Christmas Kisses,Santa Baby,6YJdPrH3i2POzu7hdHIRrb,0.748,0.778,0,-5.752,1,0.137,0,0.284,0.777,95.989,170933,4,Spotify,Christmas Pop,Public A
+Sigrid,Home To You (This Christmas),Home To You (This Christmas),1SBo8LdLGOieucdStHz6iV,0.616,0.321,8,-5.505,1,0.0313,0,0.148,0.287,139.233,225818,4,Spotify,Christmas Pop,Public A
+Tori Kelly,Let It Snow (with Babyface),Let It Snow (with Babyface),3BhlC2eX8obANfmLEwo1ia,0.414,0.664,1,-5.664,1,0.0415,0,0.271,0.526,137.095,118395,4,Spotify,Christmas Pop,Public A
+OneRepublic,White Christmas,White Christmas,6ufGxYHEaHNoF3Wvr3xMuj,0.422,0.449,5,-8.447,1,0.0302,0,0.21,0.149,108.103,126514,3,Spotify,Christmas Pop,Public A
+John Legend,A Legendary Christmas,The Christmas Song (Chestnuts Roasting On An Open Fire),2cUW96AVns2GoEO3DWGo8v,0.424,0.458,0,-9.22,0,0.0314,2.9e-06,0.287,0.286,91.606,255893,3,Spotify,Christmas Pop,Public A
+Various Artists,A Very Special Christmas 25th Anniversary,Winter Wonderland,0zXjeGMMe7esPTvqJCN5d8,0.609,0.359,5,-6.715,1,0.0468,0,0.221,0.645,145.178,127080,4,Spotify,Christmas Pop,Public A
+Paul McCartney,McCartney II (Special Edition),Wonderful Christmastime - Edited Version / Remastered 2011,1SV1fxF65n9NhRHp3KlBuu,0.774,0.511,11,-8.914,1,0.0319,0,0.0672,0.771,94.736,227653,4,Spotify,Christmas Pop,Public A
+Pentatonix,A Pentatonix Christmas Deluxe,I'll Be Home For Christmas,5P5rUzjpgTkZeQbr0CVdsZ,0.602,0.493,8,-6.907,1,0.0308,0,0.119,0.487,112.979,207560,3,Spotify,Christmas Pop,Public A
+Whitney Houston,Exhale,Do You Hear What I Hear?,5umJVEAPT2SocCoB99ZoaH,0.453,0.741,9,-8.676,1,0.0396,0,0.0729,0.484,72.65,212400,4,Spotify,Christmas Pop,Public A
+Kelly Clarkson,Wrapped In Red,My Favorite Things,3DzYn4QDEQcyLMD1DQTbYw,0.298,0.802,11,-5.134,0,0.145,0,0.207,0.625,179.379,169093,3,Spotify,Christmas Pop,Public A
+John Lennon,Signature Box,Happy Xmas (War Is Over) - Remastered 2010,27RYrbL6S02LNVhDWVl38b,0.321,0.64,2,-10.023,1,0.0324,0,0.718,0.414,146.172,214333,3,Spotify,Christmas Pop,Public A
+Train,"Save Me, San Francisco (Golden Gate Edition)",Shake Up Christmas,1NghHeg0wE32eBYrQBVQXL,0.458,0.831,0,-2.187,1,0.0654,0,0.337,0.572,81.531,232213,4,Spotify,Christmas Pop,Public A
+Gwen Stefani,You Make It Feel Like Christmas,Let It Snow,67ysoHKWwlQXSaqxefj0Ey,0.507,0.87,11,-4.129,1,0.0686,0,0.161,0.591,119.193,133973,4,Spotify,Christmas Pop,Public A
+Noah Cyrus,It's Beginning to Look a Lot Like Christmas,It's Beginning to Look a Lot Like Christmas,5TN42y2ut6ATB0IDEEgQay,0.735,0.237,4,-8.827,1,0.0396,0,0.0901,0.508,94.144,179113,4,Spotify,Christmas Pop,Public A
+Band Aid,Do They Know It’s Christmas?,Do They Know It's Christmas? - 1984 Version,4Yg2w0P29BBBMixyeNjDtj,0.598,0.643,0,-6.933,1,0.0364,3.35e-05,0.0992,0.349,115.41,222533,4,Spotify,Christmas Pop,Public A
+Christina Perri,a very merry perri christmas,merry christmas darling,6brLwOYFXw7rkGOcLntcPZ,0.557,0.322,0,-12.039,1,0.0275,0.000188,0.0985,0.199,75.985,198640,4,Spotify,Christmas Pop,Public A

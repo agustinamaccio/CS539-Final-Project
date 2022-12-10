@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+J. Cole,2014 Forest Hills Drive,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,0.692,0.521,10,-8.465,0,0.33,0,0.0565,0.463,100.45,292987,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,"good kid, m.A.A.d city",Money Trees,2HbKqm4o0w5wEeEFXm2sD4,0.716,0.531,7,-7.355,1,0.122,0,0.224,0.344,71.994,386907,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+"Tyler, The Creator",Cherry Bomb,"BLOW MY LOAD (feat. Wanya Morris, Dâm-Funk, Austin Feinstein & Sydney Bennett)",5DXJ7agkkKytxX8Z2x1fY3,0.397,0.701,1,-7.328,1,0.0737,0.000207,0.749,0.179,74.518,190285,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,I.Crawl,2peoIrd4v8r4HXNPXePIXQ,0.452,0.559,6,-7.848,1,0.0453,1.69e-06,0.109,0.365,132.814,209480,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Camp,Heartbeat,3HooZZPp0evFShqaJ2Pwer,0.8,0.569,1,-6.843,0,0.119,0.000319,0.0542,0.325,119.954,269840,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,3005,3Z2sglqDj1rDRMF5x0Sz2R,0.473,0.461,6,-6.474,0,0.333,0,0.0973,0.615,165.985,234213,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),Up Up & Away,1RUTIdTnFs8lHSc0Zr4UJB,0.66,0.881,10,-6.119,0,0.0849,3.4e-05,0.362,0.586,120.017,227347,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day,Day 'N' Nite (nightmare),5FEXPoPnzueFJQCPRIrC3c,0.871,0.44,11,-6.25,0,0.0761,4.15e-06,0.114,0.799,137.996,221267,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day,Heart Of A Lion (Kid Cudi Theme Music),246SdvVYT3yrZPXU7NSWwy,0.723,0.452,11,-9.42,0,0.0328,0.0064,0.0923,0.375,125.015,261360,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,II. Worldstar,4oRqSiVyGrwb8dnJBO6FNu,0.695,0.628,5,-8.627,1,0.145,0.219,0.143,0.21,119.949,244653,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,"III. Telegraph Ave. (""Oakland"" by Lloyd)",7yCw7WbWOIRYe7z2aRjAaA,0.516,0.718,5,-8.571,0,0.257,0.0163,0.167,0.588,129.857,210680,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,IV. Sweatpants,2rmq49FcJ4U3wh1Z7C9UxE,0.644,0.479,4,-8.352,1,0.177,0,0.639,0.612,79.929,180680,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,III. Life: The Biggest Troll [Andrew Auernheimer],4hZ9MbRJoxzDhx5WJlnDIA,0.597,0.629,1,-6.794,1,0.221,0,0.127,0.485,80.124,342053,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,"good kid, m.A.A.d city","Bitch, Don’t Kill My Vibe",4Pwjz3DfvfQWV0rO2V8jyh,0.587,0.698,1,-8.948,1,0.0943,0,0.442,0.0985,133.954,310720,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,"good kid, m.A.A.d city",m.A.A.d city,439TlnnznSiBbQbgXiBqAd,0.487,0.729,2,-6.815,1,0.271,4.07e-06,0.44,0.217,91.048,350120,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Swimming Pools (Drank) - Extended Version,5ujh1I7NZH5agbwf7Hp8Hc,0.716,0.485,1,-7.745,1,0.404,2.69e-05,0.604,0.26,74.132,313787,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,Overly Dedicated,Barbed Wire,7eGGAH6PF4GtxBudTbVeef,0.613,0.843,7,-8.343,1,0.186,0,0.0917,0.325,102.968,265679,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,Section.80,Ronald Reagan Era,3gl1RenSXn1biKijZ1qvky,0.424,0.828,1,-4.991,0,0.335,0,0.389,0.3,167.469,216900,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,To Pimp A Butterfly,King Kunta,0N3W5peJUQtI4eyR6GJT5O,0.884,0.657,6,-4.569,0,0.0977,0,0.154,0.489,107.059,234693,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,To Pimp A Butterfly,Alright,3iVcZ5G6tvkXZkZKlMpIUs,0.796,0.766,7,-5.974,1,0.238,0,0.0827,0.558,110.034,219333,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,To Pimp A Butterfly,The Blacker The Berry,5Mtt6tZSZA9cXTHGSGpyh0,0.553,0.852,10,-4.08,0,0.305,0,0.463,0.27,176.058,328827,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,untitled unmastered.,untitled 02 | 06.23.2014.,3I0FBDc1c1BLNtXWKVjmFg,0.667,0.508,5,-10.337,1,0.451,0,0.644,0.093,89.436,258827,3,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,untitled unmastered.,untitled 03 | 05.28.2013.,2fgAJeky8Cpsr8Cfvn2NVp,0.813,0.549,5,-12.427,0,0.269,1e-06,0.129,0.562,103.914,154347,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kevin Gates,Islah (Deluxe),2 Phones,0wdKiSBUT7aZkXUIdJWcwC,0.895,0.681,7,-5.267,0,0.358,0,0.189,0.554,121.918,240000,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Indicud,Girls,7xAeGorVKgu3nLYbaUUj8i,0.678,0.795,7,-5.059,1,0.0619,2.61e-06,0.144,0.332,103.048,267920,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,Rolling Papers,Roll Up,53DB6LJV9B8sz0p1s6tlGS,0.523,0.805,3,-5.473,1,0.192,0,0.0914,0.602,125.358,227773,5,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),Soundtrack 2 My Life,0rFpcfF0YfvFUYsl99Bw9d,0.464,0.754,9,-6.653,0,0.128,1.57e-05,0.37,0.444,86.501,235627,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day,Enter Galactic (Love Connection Part I),6Bs8KdjRAuv3rzCIdchXwu,0.75,0.71,10,-7.936,0,0.0395,0.000989,0.449,0.797,120.004,260200,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+LL COOL J,Mama Said Knock You Out,Mama Said Knock You Out,6C7ZgThn6Yan5MTZdAEEFw,0.791,0.759,10,-7.378,0,0.129,0.674,0.255,0.619,102.382,289693,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+LL COOL J,You Already,You Already,5NOhzhdIhj4lsLkT089Wvf,0.711,0.454,8,-12.582,1,0.248,0,0.223,0.148,131.039,251243,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+LL COOL J,Mr. Smith,Hey Lover,1B2LQNHWMrQ9k9aO0rK5Ml,0.707,0.421,5,-12.399,0,0.0743,0,0.112,0.557,88.1,284693,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+LL COOL J,Mama Said Knock You Out (Deluxe Edition),Eat Em Up L Chill,7GvhQTEQmZcsXwMbvVwhAC,0.856,0.729,4,-9.63,0,0.229,0,0.081,0.777,97.017,276893,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+LL COOL J,Mama Said Knock You Out (Deluxe Edition),The Power Of God,0VumzWmw95nqCzxRHsT2yH,0.865,0.672,2,-9.768,1,0.146,0.0655,0.324,0.731,92.989,260760,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kehlani,You Should Be Here,Runnin' - Interlude,0dYDmow4l5hbPs5E6QLMSC,0.571,0.515,7,-8.93,1,0.445,0,0.121,0.443,133.106,137849,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Ed-Two ,Life Imitates Art EP,Loveless,4RKpbZBYqi2ip5CaeO6OgR,0.621,0.916,5,-4.162,0,0.08,0,0.212,0.342,127.973,234077,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+"Tyler, The Creator",Wolf,IFHY (feat. Pharrell),0NjW4SKY3gbfl2orl1p8hr,0.358,0.715,7,-6.181,1,0.331,0,0.581,0.275,85.478,319253,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+"Tyler, The Creator",Wolf,Answer,6rqj2zeKhLy3exkuFi6mSz,0.352,0.838,8,-6.465,0,0.0496,5.74e-06,0.115,0.475,72.291,230067,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+"Tyler, The Creator",Goblin,Yonkers,1zsAAnB6dMpGOvXjoYP9Um,0.712,0.759,11,-5.397,1,0.334,0.0808,0.217,0.738,79.103,249333,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+"Tyler, The Creator",Goblin,She,4y4KG66qCAN2TTevOAEjHy,0.351,0.622,8,-6.495,0,0.235,3.44e-05,0.613,0.457,83.375,253387,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Camp,Backpackers,03ImchswSXPA2KzLrc9hAL,0.547,0.865,5,-5.778,0,0.446,0,0.0874,0.528,170.651,195640,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Camp,Fire Fly,06WD650Zt5MQ55kFMP2f3r,0.624,0.881,11,-3.696,0,0.282,0,0.27,0.529,87.268,203053,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Camp,LES,2KMCM2dirSnthfYKNjS8iT,0.539,0.695,1,-6.8,0,0.113,0.000228,0.199,0.139,103.094,317293,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,I. The Worst Guys,7pRcWov3NHxi0GDkKdbSb0,0.613,0.684,5,-6.488,0,0.104,0,0.0662,0.399,97.028,219747,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),Solo Dolo (Nightmare),6xeTNdPnP5imNgDzFMfVfD,0.768,0.449,7,-7.569,0,0.029,0.000463,0.136,0.614,79.12,266307,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,Rolling Papers,No Sleep,2kzRSiyignH8yzPTrWvyPo,0.653,0.711,9,-6.454,1,0.0623,0,0.443,0.769,160.048,191320,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,I Just Want It All,I Just Want It All,3aJMDHwiORpmGdR6D6PFEq,0.591,0.761,4,-6.095,1,0.092,0,0.129,0.611,132.354,202955,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Almost Home,Sunset,4AVKzkS4ZAz0WlIO79im0s,0.671,0.714,0,-6.223,0,0.0746,0,0.17,0.569,126.053,227667,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),T.G.I.F.,1yp5HJr4YAVZeWqkBfAGH5,0.866,0.565,0,-5.856,0,0.127,0,0.0908,0.55,164.991,151120,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Up & Away,Drippin',08RJCxCpQ0hXgZYwTci2uo,0.828,0.587,2,-8.725,1,0.104,0,0.199,0.786,140.008,168099,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Almost Home,Money and the Power,20j9HwjFfdgYc5JBovDxLR,0.565,0.683,0,-5.77,1,0.0889,7.69e-05,0.114,0.353,174.073,206667,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Indicud,Burn Baby Burn,1fH2dVsLAftsPinld7Tq0u,0.72,0.638,1,-8.212,1,0.345,0,0.115,0.484,160.191,178200,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Chris Brown,Fan of A Fan The Album (Expanded Edition),Ayo,0k6DnZMLoEUH8NGD5zh2SE,0.823,0.563,6,-5.095,1,0.0443,0,0.0851,0.682,98.031,225227,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,Rolling Papers,When I'm Gone,0prF3F4FoKvxBObaeXLVHv,0.701,0.76,9,-6.561,1,0.0512,0,0.0867,0.301,91.986,248560,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon II: The Legend Of Mr. Rager,Erase Me - Main,6XkuklKiHYVTlVvWlTgQYP,0.687,0.631,9,-5.612,1,0.129,0,0.108,0.853,186.071,192253,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,untitled unmastered.,untitled 08 | 09.06.2014.,5bBUDJUfGcG7eFy3Bf4fXv,0.85,0.524,11,-9.375,0,0.204,2.46e-06,0.114,0.686,120.004,235507,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Camp,Bonfire,4zGvb8hxGLB2jEPRFiRRqw,0.508,0.763,1,-5.674,1,0.303,0,0.347,0.275,161.59,192947,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Kauai,Retro [ROUGH],7b9h63I7EafcW2pVS9pcUr,0.868,0.636,5,-5.691,0,0.0391,0.0125,0.112,0.304,109.954,202667,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Cudi,Man On The Moon: The End Of Day (Deluxe),My World,38RSpldD3Vlc7Uud9gAxFG,0.665,0.412,6,-10.186,0,0.0319,0.000978,0.116,0.496,147.918,243027,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Because The Internet,I. Pink Toes,2D5Dd3clzZGTv6H9mtAAQq,0.367,0.673,7,-8.46,1,0.111,0.000216,0.539,0.308,77.773,207053,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Childish Gambino,Kauai,The Palisades,1Xi28qSSoARTXiqMwb8Srg,0.738,0.718,8,-5.905,1,0.0606,0,0.127,0.491,100.055,190907,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Jon Mcxro,The Fifth Of Never - Gold Cup Edition,Give it Up,42ZsaGxN88PxtVoxk6R7XH,0.728,0.776,8,-5.522,1,0.237,0,0.371,0.64,99.907,219233,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Jon Mcxro,The Fifth Of Never - Gold Cup Edition,Top Floor,74jpoUysaTqgfj267hhWan,0.657,0.825,8,-2.817,1,0.213,0,0.448,0.576,92.084,249031,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Jon Mcxro,The Fifth Of Never - Gold Cup Edition,Somewhere in Italy,43TI5gnN5603Yi4GIzo41Y,0.696,0.824,0,-4.782,1,0.175,0,0.129,0.577,90.008,227658,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+D.Glover,Royal,We Ain't Them,2d2SZkpCI2GFchnxTm4l57,0.67,0.718,6,-9.094,0,0.256,0,0.157,0.256,133.575,193071,5,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,"good kid, m.A.A.d city",Poetic Justice,1zCi4cVFqe6ja16MeGZKRN,0.779,0.572,6,-9.985,0,0.378,0,0.246,0.647,135.956,300160,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Chance the Rapper,Coloring Book,All We Got (feat. Kanye West & Chicago Children's Choir),3ZLyt2ndLFBh148XRYjYYZ,0.531,0.544,0,-8.615,0,0.462,1.89e-06,0.0835,0.398,131.921,203794,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Chance the Rapper,Coloring Book,Summer Friends (feat. Jeremih & Francis & The Lights),2fl0B0OaXjWbjHCQFx2O8W,0.693,0.426,8,-12.476,1,0.302,1.03e-05,0.115,0.477,144.796,290316,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+J. Cole,Can't Get Enough,Can't Get Enough,3igp8D5cq8VOt3odv2ehv9,0.766,0.613,2,-7.425,1,0.0717,0,0.633,0.602,131.979,227493,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+J. Cole,Born Sinner,Chaining Day,5A0NEY8GOCB3ErRSRPpY72,0.625,0.642,0,-7.291,1,0.168,1.22e-06,0.103,0.333,84.544,284507,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+J. Cole,"Forest Hills Drive: Live from Fayetteville, NC",St. Tropez - Live,0blFG9HMuSPedfdyFnN7m9,0.529,0.443,11,-10.368,0,0.206,1.85e-05,0.591,0.0609,86.937,467867,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+J. Cole,2014 Forest Hills Drive,G.O.M.D.,16qYlQ6koFxYVbiJbGHblz,0.89,0.393,4,-10.821,0,0.267,8.81e-06,0.283,0.304,128.084,301133,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Jon Mcxro,The Fifth Of Never - Gold Cup Edition,Don't Say Nothin,5bMM0ca6AkPpRNnPhyDsfP,0.562,0.848,0,-5.007,1,0.409,0,0.0626,0.424,143.521,233356,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kendrick Lamar,Section.80,A.D.H.D,2MYl0er3UZ1RlKwRb5LODh,0.609,0.799,9,-6.883,1,0.24,0,0.108,0.582,157.74,215509,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Donnie Trumpet & The Social Experiment,Surf,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,0.511,0.596,0,-6.56,1,0.224,0,0.0798,0.554,158.063,226014,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",4XoP1AkbOurU9CeZ2rMEz2,0.869,0.687,1,-6.816,1,0.263,1e-06,0.114,0.668,96.006,233787,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Almost Home,Bossin' Up (feat. A$AP Ferg & French Montana),2kCOP4w7dU57nb5yV1575Z,0.794,0.573,9,-8.246,1,0.224,0,0.0974,0.213,119.994,404000,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,O.N.I.F.C. (Deluxe),Paperbond,0wVAhoXZM7tl1pnLaupf1F,0.647,0.696,7,-5.169,0,0.106,0,0.424,0.265,149.978,208507,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,Deal Or No Deal,Chewy,5yETFNrZQaTLZnvUDWtneg,0.547,0.692,7,-6.002,0,0.305,0,0.294,0.202,164.179,189887,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,O.N.I.F.C. (Deluxe),Time,3RH92Rggp3IiDn6CwWQjAt,0.656,0.755,7,-6.278,1,0.0458,0,0.038,0.682,149.983,236213,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,Khalifa,BTS,0nPZ7TWeJ3NJXEd9wVWmsH,0.679,0.708,5,-4.995,1,0.129,0,0.199,0.329,75.035,243336,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Nicki Minaj,Truffle Butter,Truffle Butter,3keUgTGEoZJt0QkzTB6kHg,0.887,0.673,10,-6.846,0,0.0503,4.06e-05,0.124,0.491,105.113,219227,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Nicki Minaj,Pink Friday,Super Bass,7gKIt3rDGIMJDFVSPBnGmj,0.721,0.867,11,-4.302,1,0.196,2.87e-06,0.503,0.639,127.033,200013,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Nicki Minaj,The Pinkprint,The Night Is Still Young,3idU3rXoFCEFhAAbPGbwht,0.656,0.692,1,-6.145,0,0.0563,0.00305,0.128,0.693,128.017,227560,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),Phoenix,6BYVAEPmqWVUSqtrQpvLTT,0.65,0.508,9,-11.227,0,0.135,0.00372,0.0792,0.504,143.96,233880,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+A$AP Rocky,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)","Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",0HCVUpGn7trUlx9rOlxZIK,0.394,0.661,4,-8.684,1,0.192,0,0.343,0.335,149.818,260987,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,O.N.I.F.C. (Deluxe),The Plan (feat. Juicy J),4Jgt0PEIv2b7hMHoCHPLbQ,0.563,0.704,1,-4.76,1,0.107,0,0.114,0.372,120.005,294027,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Wiz Khalifa,O.N.I.F.C. (Deluxe),Medicated (feat. Chevy Woods & Juicy J),5OI48E8HqkN8fnTOu3Hfuf,0.752,0.888,1,-3.852,1,0.0362,0,0.39,0.958,135.991,331013,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Nicki Minaj,The Pinkprint (Deluxe),Only,4MRT0dDbhqFKl67WzhUbSw,0.573,0.495,8,-7.245,0,0.592,0,0.0969,0.255,179.196,312027,3,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Future,EVOL,Low Life (feat. The Weeknd),7EiZI6JVHllARrX9PUvAdX,0.722,0.331,8,-7.789,1,0.0726,0.282,0.146,0.102,143.961,313547,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Up & Away,Roll Out,5peo6kUMPhWPuCOvBGoTcL,0.505,0.834,6,-6.786,0,0.104,4.48e-05,0.249,0.0972,159.99,251876,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Up & Away [Clean Version],Time Of Your Life,0CINtv89jCipGD9vqJT6w2,0.617,0.858,0,-7.524,0,0.105,0,0.324,0.576,133.949,235397,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,My Own Lane,We Just Came to Party (feat. August Alsina),1HHVucr82hQrBMygNIQXIe,0.741,0.682,11,-6.287,1,0.277,0,0.0832,0.424,140.033,234800,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Summer In The Winter,Rewind (feat. Akon) (feat. Akon),3NIGNOy2IYovypzQl6QxJZ,0.818,0.458,11,-10.094,1,0.362,0.000254,0.0795,0.577,133.326,240013,5,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Full Speed,Body Language (feat. Usher & Tinashe),1rN55j78K87LEfRKZsSFYm,0.882,0.53,5,-5.771,0,0.0379,0,0.097,0.256,99.015,206280,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Full Speed,Like a Hott Boyy (feat. Young Thug & Bricc Baby Shitro),7fvsm88wNOaIU2AEpWLSa7,0.822,0.493,1,-4.557,0,0.0897,0,0.341,0.192,138.029,255533,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+Kid Ink,Summer In The Winter,That's on You,2fsULZDbmjjZPtr1PfeBRz,0.596,0.481,9,-8.676,1,0.353,0,0.197,0.277,104.984,210440,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+ScHoolboy Q,Hands On The Wheel,Hands On The Wheel,2kfpH2OAAdpk5J3JaraAIh,0.65,0.859,1,-4.54,0,0.0957,0,0.0986,0.169,127.828,197800,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+ScHoolboy Q,Setbacks,Rolling Stone,7x9vJE3Xa7mIH106rzO9Tk,0.916,0.472,11,-12.263,0,0.0712,0,0.167,0.229,117.066,216570,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+ScHoolboy Q,THat Part,THat Part,0X196cAoW63CLQEL21Prh0,0.922,0.509,6,-7.637,0,0.096,0,0.211,0.35,112.972,316320,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe
+ScHoolboy Q,Blank Face LP,Dope Dealer,7pda6TLAbVGxUjIUtbiNt0,0.786,0.569,1,-5.461,1,0.125,0,0.119,0.288,82.027,222147,4,Gabrielle Cabebe,Rap (OLD),Gabrielle Cabebe

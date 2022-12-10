@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Elton John,Elton John,Your Song,38zsOOcu31XbbYj9BIPUF1,0.554,0.315,3,-11.028,1,0.0298,5.53e-06,0.101,0.325,128.157,241787,4,Spotify,70s Ballads,Public E
+Barbra Streisand,A Star Is Born,"Evergreen (Love Theme from, ""A Star Is Born"")",2IcqY68BxP1ONPi3ME6aje,0.335,0.303,9,-10.943,1,0.0315,0.0271,0.0907,0.186,114.224,184800,4,Spotify,70s Ballads,Public E
+John Lennon,Imagine,Imagine - Remastered 2010,7pKfPomDEeI4TPT6EOYjn9,0.547,0.257,0,-12.358,1,0.0252,0.183,0.0935,0.169,75.752,187867,4,Spotify,70s Ballads,Public E
+Fleetwood Mac,Fleetwood Mac,Landslide,5ihS6UUlyQAfmp48eSkxuQ,0.414,0.161,7,-22.32,0,0.0318,0.000223,0.117,0.423,159.375,199493,4,Spotify,70s Ballads,Public E
+Eric Clapton,Slowhand 35th Anniversary (Super Deluxe),Wonderful Tonight,6zC0mpGYwbNTpk9SKwh08f,0.572,0.214,7,-15.625,1,0.0293,0.129,0.125,0.485,95.542,225027,4,Spotify,70s Ballads,Public E
+Commodores,Commodores,Easy,1JQ6Xm1JrvHfvAqhl5pwaA,0.589,0.384,10,-15.075,0,0.0332,2.8e-05,0.0596,0.354,132.909,256427,4,Spotify,70s Ballads,Public E
+Chicago,Chicago X,If You Leave Me Now,0KMGxYKeUzK9wc5DZCt3HT,0.434,0.563,11,-6.784,1,0.0268,0.000824,0.128,0.275,104.183,235373,4,Spotify,70s Ballads,Public E
+Various Artists,Grease (The Original Motion Picture Soundtrack),Hopelessly Devoted To You - From “Grease”,5BUq9bdtsm3LWw5laJeJ4R,0.59,0.338,11,-13.101,0,0.03,0.0131,0.121,0.322,110.581,185360,3,Spotify,70s Ballads,Public E
+Bee Gees,Greatest,How Deep Is Your Love,2JoZzpdeP2G6Csfdq5aLXP,0.633,0.357,5,-9.366,0,0.0264,0.0,0.133,0.674,104.938,245200,4,Spotify,70s Ballads,Public E
+Barbra Streisand,The Way We Were,The Way We Were,1vZTgn4JXWMahR8r99ug5H,0.264,0.32,9,-11.716,1,0.0325,0.00141,0.134,0.171,138.108,211093,3,Spotify,70s Ballads,Public E
+Billy Joel,The Stranger (Legacy Edition),She's Always a Woman,5RgFlk1fcClZd0Y4SGYhqH,0.292,0.324,3,-11.996,1,0.0346,0.000473,0.12,0.384,176.631,201373,3,Spotify,70s Ballads,Public E
+Yusuf / Cat Stevens,Tea For The Tillerman (Remastered 2020),Father And Son,476V2d6iA2tWXgQboKmTtA,0.495,0.326,7,-12.29,1,0.0365,8.85e-05,0.0996,0.371,136.243,221120,4,Spotify,70s Ballads,Public E
+The Rolling Stones,Goats Head Soup (Remastered 2009),Angie,1GcVa4jFySlun4jLSuMhiq,0.429,0.554,9,-6.128,0,0.0291,0.000152,0.105,0.407,136.302,272000,4,Spotify,70s Ballads,Public E
+Jim Croce,You Don't Mess Around With Jim,Time in a Bottle,561F1zqRwGPCTMRsLsXVtL,0.544,0.265,2,-11.952,1,0.035,0.0,0.196,0.7,133.837,146176,3,Spotify,70s Ballads,Public E
+Roberta Flack,Killing Me Softly,Killing Me Softly With His Song,3gsCAGsWr6pUm1Vy7CPPob,0.476,0.381,5,-10.238,0,0.0342,0.0,0.0614,0.33,121.948,286920,4,Spotify,70s Ballads,Public E
+Bread,Baby I'm-a Want You,Everything I Own,52VIdyKqp1pJRSyUQaxKUA,0.365,0.338,2,-13.406,1,0.0322,0.0,0.104,0.446,79.241,187000,4,Spotify,70s Ballads,Public E
+Simon & Garfunkel,Bridge Over Troubled Water,Bridge Over Troubled Water,6l8EbYRtQMgKOyc1gcDHF9,0.149,0.206,3,-13.888,1,0.0323,0.000649,0.115,0.264,79.764,293120,4,Spotify,70s Ballads,Public E
+Billy Joel,The Stranger (Legacy Edition),Just the Way You Are,49MHCPzvMLXhRjDantBMVH,0.589,0.453,7,-8.912,1,0.0397,2.54e-05,0.134,0.513,139.148,290573,4,Spotify,70s Ballads,Public E
+John Denver,Back Home Again,Annie's Song,4J0DbyODwZJcmIAiTSJfMF,0.304,0.305,2,-10.879,1,0.0298,0.00368,0.367,0.464,146.066,180693,3,Spotify,70s Ballads,Public E
+10cc,The Original Soundtrack,I'm Not In Love,5HQEmiV2lKnSO6qa2fsR7x,0.404,0.523,4,-15.7,1,0.0575,0.000498,0.282,0.164,133.738,366640,4,Spotify,70s Ballads,Public E
+Don McLean,American Pie,Vincent,0VNzEY1G4GLqcNx5qaaTl6,0.419,0.085,7,-19.387,1,0.0362,5.33e-06,0.34,0.458,91.509,243493,3,Spotify,70s Ballads,Public E
+Player,Player,Baby Come Back,41sGGCCoHI2GLV9qadX80A,0.646,0.602,5,-10.238,0,0.0758,1.7e-05,0.0956,0.543,156.101,255845,4,Spotify,70s Ballads,Public E
+Air Supply,Lost in Love,All Out of Love,7dQC53NiYOY9gKg3Qsu2Bs,0.513,0.262,0,-16.875,1,0.0276,5.51e-06,0.456,0.357,108.383,243000,4,Spotify,70s Ballads,Public E
+Bread,On the Waters,Make It with You,7wWw7hBmErNg9u5w6Xx0vy,0.629,0.356,4,-11.135,1,0.0246,0.000617,0.173,0.472,83.886,192200,4,Spotify,70s Ballads,Public E
+Barry Manilow,Barry Manilow II,Mandy,6iXQrhhgBisdfvS34EMTZ3,0.308,0.464,10,-9.032,1,0.0279,2.49e-06,0.143,0.318,103.734,213333,4,Spotify,70s Ballads,Public E
+Eagles,Desperado (2013 Remaster),Desperado - 2013 Remaster,2TjnCxxQRYn56Ye8gkUKiW,0.228,0.224,7,-12.749,1,0.0311,0.000222,0.273,0.18,60.3,213713,4,Spotify,70s Ballads,Public E
+Harry Nilsson,Nilsson Schmilsson,Without You,6MrILERJLA3Jcq0E9poZsp,0.381,0.186,4,-15.477,1,0.029,2.75e-06,0.0694,0.142,65.058,201000,4,Spotify,70s Ballads,Public E
+Bee Gees,Spirits Having Flown,Too Much Heaven,6T5GTy1l6dRmagqpNPjdoc,0.495,0.439,6,-13.212,1,0.0467,8.88e-05,0.725,0.353,165.922,296000,4,Spotify,70s Ballads,Public E
+Van Morrison,Moondance (Expanded Edition),Crazy Love - 2013 Remaster,2hjAc6x8EoSLhGxRNg8KEw,0.575,0.188,9,-18.758,1,0.0959,4.37e-05,0.228,0.334,77.464,155453,4,Spotify,70s Ballads,Public E
+Elton John,Don't Shoot Me I'm Only The Piano Player,Daniel,1BvJmtaXsqtH438BcDPeBb,0.688,0.477,0,-11.945,1,0.029,4.93e-05,0.0864,0.897,132.071,234667,4,Spotify,70s Ballads,Public E
+James Taylor,Mud Slide Slim and the Blue Horizon (2019 Remaster),You've Got a Friend - 2019 Remaster,6zV8IpLvw0tkRSVCFQJB1y,0.689,0.2,9,-18.634,1,0.0309,0.0327,0.0893,0.478,91.787,268867,4,Spotify,70s Ballads,Public E
+"Earth, Wind & Fire",I Am,After the Love Has Gone,3cfnGXJ9bmiWvFqEO6ff8B,0.424,0.443,6,-13.45,1,0.0382,0.000389,0.673,0.391,131.675,278040,4,Spotify,70s Ballads,Public E
+Joe Cocker,I Can Stand A Little Rain,You Are So Beautiful,1gJOqXpRjz9GeEEwQpcujK,0.297,0.182,1,-10.944,1,0.0298,0.00267,0.134,0.092,83.391,159640,3,Spotify,70s Ballads,Public E
+Rod Stewart,Atlantic Crossing,I Don't Want to Talk About It - 2008 Remaster,2JWKzkQbYsNzx019WyGzaH,0.472,0.373,3,-12.98,1,0.0262,0.206,0.147,0.459,135.193,288267,4,Spotify,70s Ballads,Public E
+The Everly Brothers,The Very Best of The Everly Brothers,All I Have to Do Is Dream,7dblNGnRXEBrVJunazs2U5,0.534,0.462,4,-8.172,1,0.0266,0.0,0.129,0.534,96.195,143333,4,Spotify,70s Ballads,Public E
+Carole King,Tapestry,You've Got a Friend,1qhp5owrFGeZ5Jgin28nwR,0.473,0.263,8,-10.684,1,0.0336,4.41e-05,0.123,0.461,169.094,308973,4,Spotify,70s Ballads,Public E
+Billy Paul,360 Degrees of Billy Paul (Expanded Edition),Me and Mrs. Jones,6Ro2z4RtAUew9Kz2HZWZUi,0.294,0.528,8,-10.01,1,0.0471,0.0,0.147,0.452,200.813,284907,3,Spotify,70s Ballads,Public E
+Elton John,Goodbye Yellow Brick Road (Remastered),Candle In The Wind - Remastered 2014,1L9fzw2pXprOqtemTwtxXF,0.602,0.536,4,-9.74,1,0.0288,1.9e-05,0.0802,0.506,124.558,228933,4,Spotify,70s Ballads,Public E
+Rod Stewart,Atlantic Crossing,Sailing,6OuRbvP4PgbuzBIapVzmFJ,0.43,0.374,11,-9.949,1,0.0292,0.379,0.316,0.191,128.56,277960,4,Spotify,70s Ballads,Public E
+The Hollies,Hollies,The Air That I Breathe - 2008 Remaster,6yLIqXX9edg1x0HZS7cZEv,0.279,0.473,4,-8.375,0,0.0309,0.00164,0.158,0.246,167.792,257107,4,Spotify,70s Ballads,Public E
+Gordon Lightfoot,If You Could Read My Mind,If You Could Read My Mind,57ct8jKi6trntXiRV0NnXi,0.612,0.24,9,-12.821,1,0.033,7.86e-05,0.115,0.223,122.565,228840,4,Spotify,70s Ballads,Public E
+Paul McCartney,McCartney (Archive Collection),Maybe I’m Amazed - 2011 Remaster,1Qa0Y05al633fG8f9Peytc,0.471,0.494,7,-10.407,1,0.0312,0.0944,0.617,0.373,79.255,229827,4,Spotify,70s Ballads,Public E
+Daryl Hall & John Oates,Abandoned Luncheonette,She's Gone,5dFoWIiJ2814hRwMYDcFiU,0.523,0.341,4,-14.034,1,0.0388,0.000114,0.621,0.355,77.487,313373,4,Spotify,70s Ballads,Public E
+The Beatles,Let It Be (Remastered),The Long And Winding Road - Remastered 2009,3mlMpmY8oZIBFc39D9zLbh,0.299,0.329,3,-10.096,1,0.0279,0.0105,0.0559,0.392,132.282,218187,4,Spotify,70s Ballads,Public E
+Rita Coolidge,Anytime... Anywhere,We're All Alone,2QDnRMFfnes9DUWc6HgixI,0.332,0.429,7,-8.376,1,0.0287,3.18e-05,0.0619,0.239,128.073,220520,4,Spotify,70s Ballads,Public E
+Anne Murray,Let's Keep It That Way,You Needed Me,5d4E1hgkLyb7sXr5J3InnM,0.497,0.296,9,-10.756,1,0.0302,0.0,0.106,0.171,62.204,220267,4,Spotify,70s Ballads,Public E
+Eagles,One of These Nights (2013 Remaster),Take It to the Limit - 2013 Remaster,2cWHN0WK52RGAWHgaDamUA,0.435,0.423,11,-8.795,1,0.024,0.000659,0.132,0.451,91.137,287091,3,Spotify,70s Ballads,Public E
+Crystal Gayle,We Must Believe In Magic,Don't It Make My Brown Eyes Blue,7Jpclr7tZ6aQXjoKzWXUJV,0.736,0.321,6,-13.474,1,0.0444,0.00897,0.0619,0.342,84.928,157653,4,Spotify,70s Ballads,Public E
+Billy Joel,52nd Street,Honesty,34E0Higz6fFVXlbVsn6TIW,0.552,0.265,10,-15.482,1,0.0332,0.0,0.107,0.212,135.476,233507,4,Spotify,70s Ballads,Public E
+Eric Carmen,Eric Carmen,All By Myself,0AQqrtK1pULuwZUXhwaaDz,0.376,0.373,7,-9.184,0,0.0305,0.832,0.15,0.111,116.074,430000,4,Spotify,70s Ballads,Public E

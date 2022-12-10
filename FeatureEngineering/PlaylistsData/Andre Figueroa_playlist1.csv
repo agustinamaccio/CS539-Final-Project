@@ -1,0 +1,32 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Carla Morrison,Déjenme Llorar,Disfruto,0zTSmiDzVkIPUPjsHcUWpe,0.433,0.123,1,-11.234,0,0.0468,0,0.106,0.137,181.882,244973,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,San Lucas,Abrazado a Ti,455RH9fblZ8Onelsd9D7K7,0.803,0.347,2,-9.671,1,0.0319,0,0.109,0.346,105.033,215481,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,mix pa llorar en tu cuarto,Fuentes de Ortiz,0akyEssGRVHstqCSWXusJL,0.83,0.159,1,-14.461,1,0.0383,2.02e-05,0.362,0.189,104.95,207400,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,mix pa llorar en tu cuarto,Acurrucar,1xYBeQ5u8uaJ3oBWktjGyJ,0.809,0.216,8,-12.103,1,0.0353,0.00799,0.0894,0.236,99.1,234080,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Ropa De Bazar,Ropa De Bazar,7kWFRZdedr2gtfE8JDumVZ,0.53,0.196,0,-10.915,0,0.0602,1.65e-05,0.219,0.144,92.661,197907,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Transiciones,siempreestoypati,75ZohPJVqJOD8GUCZH94mk,0.676,0.323,5,-9.071,1,0.0354,0.000269,0.096,0.134,120.25,206333,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Transiciones,a mis amigos,7rPbzHewbn20oGdUuIxhCa,0.651,0.307,11,-9.304,1,0.0327,0,0.0956,0.157,140.083,264160,3,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Transiciones,lo que pienso,71Mj2THXRicZhTFGzln3al,0.445,0.325,5,-9.322,1,0.036,0.00371,0.0916,0.229,134.907,311280,3,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Transiciones,transiciones,5e2xa64XjRjgUXbzP8pJsa,0.665,0.259,2,-11.006,1,0.0591,0.00968,0.216,0.0752,124.687,245373,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,nadie va a pensar en ti mejor que yo (En Vivo),nadie va a pensar en ti mejor que yo - En Vivo,2czpzliEFyUYpeyPvYfgMO,0.431,0.394,10,-11.087,1,0.0359,0.0969,0.946,0.296,109.402,222413,3,Andre,Sad Mexicans,Andre Figueroa
+Carla Morrison,Amor Supremo Desnudo,Te Regalo,2Ye46ZY2LKOQTPXaauQisB,0.59,0.115,2,-10.034,1,0.0385,0,0.0871,0.33,121.692,242447,4,Andre,Sad Mexicans,Andre Figueroa
+Natalia Lafourcade,Hasta la Raíz (Edición Especial),Lo Que Construimos,5wWxUdgn2OugIOvLJOdreH,0.667,0.287,0,-9.718,1,0.0334,3.61e-06,0.106,0.545,127.981,279213,4,Andre,Sad Mexicans,Andre Figueroa
+León Larregui,Solstis - De León Larregui,Souvenir,68UIOPderAlQy5eb7K4iUO,0.594,0.578,4,-10.676,0,0.034,0.123,0.105,0.536,77.481,239120,4,Andre,Sad Mexicans,Andre Figueroa
+Zoé,MTV Unplugged Música De Fondo (Reissue/Live),Paula - En Vivo,0nIOOogppTxi0TAS2EZ9hw,0.289,0.458,7,-9.44,1,0.032,1.59e-05,0.715,0.0762,150.611,252480,4,Andre,Sad Mexicans,Andre Figueroa
+Zoé,MTV Unplugged Música De Fondo (Reissue/Live),Luna - En Vivo,7b3k8I1fncAzbk9PHnLkbX,0.223,0.459,9,-9.327,0,0.0317,0.00142,0.741,0.151,180.06,280400,3,Andre,Sad Mexicans,Andre Figueroa
+Carla Morrison,Déjenme Llorar,Eres Tú,2dEVAvwPAJrWFErXxREGVX,0.618,0.307,2,-10.875,1,0.046,0,0.108,0.458,188.115,228253,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Amor Viejo,Amor Viejo,3W5h65cRwTaZ1FCvEw6Ltx,0.689,0.203,0,-14.459,1,0.0417,0.5,0.0873,0.373,93.151,137497,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Hasta el Fin Del Mundo,Vámonos a Marte,2TzkIzgzIHhewMxyh1u4hh,0.675,0.16,0,-11.667,1,0.0586,0.00688,0.164,0.247,69.754,179094,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,Mix Pa Llora en Tu Cuarto,Wru (donde estás),3BvZoYAEfakJIOMeXgs3XG,0.769,0.231,4,-12.664,1,0.0459,0.00239,0.0802,0.112,123.959,240020,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Hasta el Fin Del Mundo,Colapso,7dT9D6117e5DbhnKxDLNW9,0.544,0.216,7,-17.237,1,0.0402,0.311,0.112,0.145,75.004,235471,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,eduardo,"Gente,",2g1wG9lcLEe4H3ZXepcDeA,0.649,0.415,3,-7.973,1,0.0296,0.0058,0.282,0.168,110.131,188560,4,Andre,Sad Mexicans,Andre Figueroa
+Dromedarios Mágicos,Subcampeón,De Mí,4Si4I7aAPl7liGtTWlIYKN,0.398,0.288,3,-8.958,1,0.0341,0,0.169,0.162,93.889,230080,3,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,mix pa llorar en tu cuarto,Del río,2G3ud9WTxl6uYRG75X6Ib0,0.857,0.266,7,-13.914,0,0.0442,0.0483,0.11,0.264,96.962,250653,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Hasta el Fin Del Mundo,Si Supieras,1RQkKTyJZhFERJy6t5gIbv,0.584,0.163,0,-15.421,1,0.0293,0.00235,0.0904,0.155,114.931,251434,4,Andre,Sad Mexicans,Andre Figueroa
+Ed Maverick,mix pa llorar en tu cuarto,Quiero,34gzxIVoKXsFQPiiT6rUX4,0.655,0.151,2,-16.456,1,0.0319,0.000129,0.147,0.352,75.051,244253,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Hasta el Fin Del Mundo,Baby Blue,57mLRN6tfXwTRvp9oPWpop,0.556,0.127,10,-18.559,1,0.0318,0.824,0.11,0.109,104.963,274293,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Es Que Yo Te Quiero A Ti,Es Que Yo Te Quiero A Ti,7KvX1d2BMXXLXt3Kuq5atu,0.579,0.274,0,-12.956,1,0.0288,0.0449,0.228,0.106,110.124,323626,3,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Quédate,Quédate,4KSjjonw5wiWR338VFCnQs,0.689,0.0827,7,-17.343,1,0.0499,0.0157,0.372,0.153,110.568,216943,3,Andre,Sad Mexicans,Andre Figueroa
+Jósean Log,Chachachá (acústico),Chachachá - acústico,7lFcRLIrpzjPd2Ytp13Ml3,0.766,0.33,5,-10.066,1,0.0473,2.52e-05,0.103,0.508,109.788,208272,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,Hasta el Fin Del Mundo,Tu canción,0aa8hTuSxWAvgErzUDjcWO,0.641,0.136,0,-15.905,1,0.0401,0.0091,0.115,0.214,105.113,159435,4,Andre,Sad Mexicans,Andre Figueroa
+Kevin Kaarl,San Lucas,San Lucas,75UMtPC77vqKRwfSuYuNPO,0.577,0.363,7,-12.378,1,0.0263,0.000282,0.0868,0.265,91.511,247197,4,Andre,Sad Mexicans,Andre Figueroa

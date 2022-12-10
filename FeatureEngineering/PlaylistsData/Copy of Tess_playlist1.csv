@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Arctic Monkeys,AM,Why'd You Only Call Me When You're High?,086myS9r57YsLbJpU0TgK9,0.691,0.631,2,-6.478,1,0.0368,1.13e-05,0.104,0.8,92.004,161124,4,Spotify,f**k love,Tess
+Billie Eilish,Happier Than Ever,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,0.332,0.225,0,-8.697,1,0.0348,0.00349,0.128,0.297,81.055,298899,3,Spotify,f**k love,Tess
+Olivia Rodrigo,SOUR,traitor,5CZ40GBx1sQ9agT82CLQCT,0.38,0.339,3,-7.885,1,0.0338,0.0,0.12,0.0849,100.607,229227,4,Spotify,f**k love,Tess
+Radiohead,Pablo Honey,Creep,70LcF31zb1H0PyJoS1Sx1r,0.515,0.43,7,-9.935,1,0.0372,0.000133,0.129,0.104,91.844,238640,4,Spotify,f**k love,Tess
+Joji,BALLADS 1,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,0.515,0.479,3,-7.458,1,0.0261,0.00598,0.191,0.284,88.964,209274,4,Spotify,f**k love,Tess
+Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,Spotify,f**k love,Tess
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),Before You Go,2gMXnyrvIjhVBUZwvLZDMP,0.459,0.575,3,-4.858,1,0.0573,0.0,0.0885,0.183,111.881,215107,4,Spotify,f**k love,Tess
+Powfu,death bed (coffee for your head),death bed (coffee for your head),7eJMfftS33KTjuF7lTsMCx,0.726,0.431,8,-8.765,0,0.135,0.0,0.696,0.348,144.026,173333,4,Spotify,f**k love,Tess
+Ariana Grande,"thank u, next","thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,0.717,0.653,1,-5.634,1,0.0658,0.0,0.101,0.412,106.966,207320,4,Spotify,f**k love,Tess
+Olivia Rodrigo,SOUR,good 4 u,4ZtFanR9U6ndgddUvNcjcG,0.563,0.664,9,-5.044,1,0.154,0.0,0.0849,0.688,166.928,178147,4,Spotify,f**k love,Tess
+Anne-Marie,PSYCHO,PSYCHO,1eprzC29mwUQqcVj0eILdx,0.62,0.681,9,-4.915,1,0.356,0.0,0.0248,0.741,160.743,162493,4,Spotify,f**k love,Tess
+blackbear,dead,idfc,3SErMoIKdRELto2OspGs5L,0.718,0.422,4,-9.115,0,0.0621,0.0,0.17,0.455,144.678,207027,4,Spotify,f**k love,Tess
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Bruises,4Of7rzpRpV1mWRbhp5rAqG,0.736,0.308,4,-7.83,1,0.0677,0.0,0.186,0.361,111.202,220492,4,Spotify,f**k love,Tess
+SZA,I Hate U,I Hate U,5dXWFMwD7I7zXsInONVl0H,0.535,0.388,7,-9.805,0,0.155,0.0,0.11,0.412,106.703,174000,5,Spotify,f**k love,Tess
+Doja Cat,Planet Her,Ain't Shit,5lAnYvAIkSDNXqfo7DyFUm,0.855,0.488,3,-4.601,1,0.208,0.0,0.347,0.619,124.097,174253,4,Spotify,f**k love,Tess
+Taylor Swift,Red (Big Machine Radio Release Special),I Knew You Were Trouble.,6FB3v4YcR57y4tXFcdxI1E,0.622,0.469,3,-6.798,0,0.0363,2.25e-06,0.0335,0.679,77.019,219720,4,Spotify,f**k love,Tess
+Fall Out Boy,Infinity On High,Thnks fr th Mmrs,3Zwu2K0Qa5sT6teCCHPShP,0.459,0.891,10,-5.057,0,0.0623,0.0,0.106,0.588,154.837,203507,4,Spotify,f**k love,Tess
+gnash,us,"i hate u, i love u (feat. olivia o'brien)",7vRriwrloYVaoAe3a9wJHe,0.492,0.275,6,-13.4,0,0.3,0.0,0.101,0.18,92.6,251034,4,Spotify,f**k love,Tess
+Olivia Rodrigo,SOUR,drivers license,5wANPM4fQCJwkGd4rN57mH,0.561,0.431,10,-8.81,1,0.0578,1.42e-05,0.106,0.137,143.875,242013,4,Spotify,f**k love,Tess
+Halsey,Without Me,Without Me,5p7ujcrUXASCNwRaWNHR1C,0.752,0.488,6,-7.05,1,0.0705,9.11e-06,0.0936,0.533,136.041,201661,4,Spotify,f**k love,Tess
+The Neighbourhood,I Love You.,Afraid,7brQHA2CgQpcMBiOlfiXYb,0.464,0.701,6,-5.693,0,0.0411,0.309,0.335,0.356,83.996,251187,4,Spotify,f**k love,Tess
+blackbear,everything means nothing,hot girl bummer,6jRq8gaZhMUyy5RclRPcAf,0.782,0.559,6,-7.106,0,0.0767,0.0,0.385,0.685,129.992,188344,1,Spotify,f**k love,Tess
+Phoebe Bridgers,Stranger in the Alps,Motion Sickness,5xo8RrjJ9CVNrtRg2S3B1R,0.651,0.546,1,-9.021,1,0.0357,0.0437,0.0842,0.623,107.021,229760,4,Spotify,f**k love,Tess
+Summer Walker,Still Over It,No Love (with SZA),08SB2OtZkaliju77WYEKxk,0.707,0.618,1,-5.825,0,0.19,0.0,0.293,0.517,133.876,231498,4,Spotify,f**k love,Tess
+Paramore,Riot!,Misery Business,6SpLc7EXZIPpy0sVko0aoU,0.517,0.906,1,-3.677,1,0.0735,9.26e-06,0.113,0.731,172.977,211520,4,Spotify,f**k love,Tess
+Taylor Swift,reputation,I Did Something Bad,4svZDCRz4cJoneBpjpx8DJ,0.696,0.602,0,-6.156,0,0.159,2.11e-05,0.0696,0.305,82.989,238253,4,Spotify,f**k love,Tess
+Demi Lovato,Tell Me You Love Me,Sorry Not Sorry,0yvPEnB032fojLfVluFjUv,0.706,0.643,11,-6.929,0,0.234,0.0,0.262,0.885,143.931,203760,4,Spotify,f**k love,Tess
+blackbear,deadroses,idfc,6y6jbcPG4Yn3Du4moXaenr,0.63,0.5,1,-8.755,0,0.0611,4.04e-05,0.114,0.315,144.871,245172,4,Spotify,f**k love,Tess
+Lorde,Melodrama,Liability,6Kkt27YmFyIFrcX3QXFi2o,0.587,0.229,10,-11.254,0,0.128,0.0,0.1,0.379,75.67,171728,4,Spotify,f**k love,Tess
+Tame Impala,Lonerism,Feels Like We Only Go Backwards,0LtOwyZoSNZKJWHqjzADpW,0.303,0.9,2,-2.352,0,0.0574,0.635,0.11,0.491,149.508,192960,4,Spotify,f**k love,Tess
+Taylor Swift,folklore,my tears ricochet,1MgV7FIyNxIG7WzMRJV5HC,0.456,0.263,0,-10.63,1,0.0332,0.0,0.0749,0.111,129.86,255894,4,Spotify,f**k love,Tess
+Sum 41,"All Killer, No Filler",In Too Deep,1HNE2PX70ztbEl6MLxrpNL,0.568,0.844,9,-5.875,1,0.0505,0.0,0.0607,0.766,116.046,207093,4,Spotify,f**k love,Tess
+Little Mix,Glory Days (Expanded Edition),Shout Out to My Ex,0ErK6K0kYr0Ow2RkPMhmMs,0.773,0.747,5,-4.061,1,0.0885,8.99e-06,0.109,0.801,126.014,246240,4,Spotify,f**k love,Tess
+girl in red,bad idea!,bad idea!,57j65yC2HggQfmYNc6rdOK,0.513,0.807,1,-6.095,1,0.0481,0.0548,0.246,0.419,162.026,219638,4,Spotify,f**k love,Tess
+Clairo,Immunity,Bags,6UFivO2zqqPFPoQYsEMuCc,0.742,0.546,1,-7.694,1,0.0315,0.38,0.115,0.868,104.996,260520,4,Spotify,f**k love,Tess
+Avril Lavigne,Goodbye Lullaby (Expanded Edition),What the Hell,2z4U9d5OAA4YLNXoCgioxo,0.578,0.926,6,-3.689,0,0.0548,0.0127,0.14,0.877,149.976,220707,4,Spotify,f**k love,Tess
+Carly Simon,No Secrets,You're so Vain,2DnJjbjNTV9Nd5NOa1KGba,0.659,0.678,0,-8.18,1,0.0313,6.69e-06,0.0784,0.647,106.186,258411,4,Spotify,f**k love,Tess
+Celeste,Not Your Muse (Deluxe),Strange,7sq2z9oX2S0CvgTqCZ0ko4,0.286,0.0847,2,-9.883,1,0.0397,6.94e-06,0.121,0.112,70.743,255987,4,Spotify,f**k love,Tess
+Taylor Swift,Red (Big Machine Radio Release Special),We Are Never Ever Getting Back Together,0VwNdo84DaVYLIkbVO86ND,0.628,0.676,7,-5.911,1,0.0916,2.65e-05,0.121,0.75,85.984,193147,4,Spotify,f**k love,Tess
+Lykke Li,so sad so sexy,sex money feelings die,0g4fzRkbLeCDUCoe5iUOcf,0.789,0.534,8,-6.347,0,0.0709,3.42e-06,0.0645,0.631,134.055,139840,4,Spotify,f**k love,Tess
+Rihanna,Bitch Better Have My Money,Bitch Better Have My Money,0NTMtAO2BV4tnGvw9EgBVq,0.781,0.728,1,-4.981,1,0.0621,1.94e-06,0.257,0.395,102.99,219306,4,Spotify,f**k love,Tess
+The Offspring,Americana,Why Don't You Get A Job,0sNKiz82ATCvT3f3XVVUUj,0.766,0.882,5,-4.478,1,0.0719,2.3e-06,0.281,0.544,107.932,172467,4,Spotify,f**k love,Tess
+Machine Gun Kelly,Tickets To My Downfall,forget me too (feat. Halsey),1VSuFS7PahCN3SWbOcQ98m,0.654,0.875,1,-4.845,1,0.0744,0.0086,0.194,0.522,99.975,171621,4,Spotify,f**k love,Tess
+Lorde,Melodrama,Green Light,6ie2Bw3xLj2JcGowOlcMhb,0.594,0.721,2,-7.812,1,0.0957,8.55e-06,0.0879,0.253,128.942,234653,4,Spotify,f**k love,Tess
+Three Days Grace,Three Days Grace (Expanded Edition),I Hate Everything About You,6rUp7v3l8yC4TKxAAR5Bmx,0.498,0.83,6,-5.157,0,0.0421,0.0,0.139,0.453,89.342,231480,4,Spotify,f**k love,Tess
+Halsey,Manic,You should be sad,7lidXGPXPYLNThITAOTlkK,0.591,0.585,2,-6.35,1,0.0277,0.0,0.109,0.324,110.94,205473,4,Spotify,f**k love,Tess
+Beach Bunny,Sports,Sports,77G0k1La0c5Dw8bAFANcyp,0.231,0.877,9,-5.278,1,0.0574,0.026,0.0694,0.524,186.142,164165,4,Spotify,f**k love,Tess
+Taylor Swift,Red (Taylor's Version),We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,0.567,0.686,7,-6.139,1,0.175,1.86e-06,0.0732,0.716,172.014,193147,4,Spotify,f**k love,Tess
+Billie Eilish,Happier Than Ever,Lost Cause,4191RXFPa7Ge9XkA4cWlna,0.526,0.334,10,-8.491,0,0.251,0.00782,0.0586,0.522,74.966,212496,4,Spotify,f**k love,Tess
+The Kid LAROI,WITHOUT YOU (with Miley Cyrus),WITHOUT YOU (with Miley Cyrus),1EHUQesfVKwbthtNcpBi9g,0.655,0.469,0,-6.257,1,0.0292,0.0,0.0956,0.467,92.56,161385,4,Spotify,f**k love,Tess

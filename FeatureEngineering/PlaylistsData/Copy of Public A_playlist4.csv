@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Isabel LaRosa,i'm yours,i'm yours,37vVp2sWHuuIBOSl1NswP6,0.398,0.705,5,-7.07,0,0.0756,5.13e-05,0.443,0.635,111.487,145668,4,Spotify,Pop Sauce,Public A
+Sadie Jean,Locksmith,Locksmith,4HcARAxzsbIB3MqiEkejM6,0.566,0.348,1,-10.726,1,0.0458,7.66e-06,0.113,0.374,98.734,164082,4,Spotify,Pop Sauce,Public A
+Nessa Barrett,young forever (extended),deathmatch,6cDfk6xwxZ5GlXPjLlYcKy,0.62,0.904,7,-5.729,1,0.153,5.49e-05,0.289,0.655,179.93,161918,4,Spotify,Pop Sauce,Public A
+RAYE,Escapism. / The Thrill Is Gone.,Escapism.,5Z2MiIZ5I3jJvvmeWMLbOQ,0.538,0.742,2,-5.355,1,0.114,4.67e-05,0.0934,0.25,96.107,272373,4,Spotify,Pop Sauce,Public A
+Jessie Murph,If I Died Last Night,If I Died Last Night,2hlM7pRlEJuukvzCsJF6JF,0.741,0.466,1,-8.023,0,0.0862,0.0,0.184,0.331,124.151,164679,4,Spotify,Pop Sauce,Public A
+Thomas Day,The End,The End,0VfSrlmhPnrTvyd3IbKJlB,0.566,0.64,2,-6.46,1,0.0383,1.78e-06,0.143,0.13,136.902,178822,4,Spotify,Pop Sauce,Public A
+Taylor Bickett,QUARTER LIFE CRISIS,QUARTER LIFE CRISIS,7BmpRLqZg1vLheYi1SI1Rw,0.816,0.72,5,-4.015,1,0.0434,0.0,0.163,0.646,117.975,198437,4,Spotify,Pop Sauce,Public A
+Dove Cameron,Bad Idea,Bad Idea,6azVi5ToFHo6KfKs6SstAC,0.802,0.628,7,-6.576,0,0.122,0.000232,0.262,0.625,96.97,155681,4,Spotify,Pop Sauce,Public A
+Maisie Peters,Not Another Rockstar,Not Another Rockstar,43pulC9QdGwabXUtVHYnjY,0.658,0.815,3,-2.141,0,0.14,1.24e-06,0.126,0.818,91.041,149053,4,Spotify,Pop Sauce,Public A
+Sabrina Carpenter,emails i can't send,Nonsense,6dgUya35uo964z7GZXM07g,0.74,0.697,8,-4.912,1,0.034,0.0,0.224,0.732,138.992,163648,4,Spotify,Pop Sauce,Public A
+Selena Gomez,My Mind & Me,My Mind & Me,0XER3HPMx223xWaAgNKp4Y,0.6,0.389,9,-5.727,1,0.0337,0.0,0.0826,0.244,143.577,147597,4,Spotify,Pop Sauce,Public A
+Taylor Swift,Midnights,Karma,7KokYm8cMIXCsGVmUvKtqf,0.642,0.62,8,-7.091,1,0.0666,0.0,0.483,0.0969,90.02,204852,4,Spotify,Pop Sauce,Public A
+Jordi,Hate You,Hate You,4TgyIbBZCW0UIwS8eua06z,0.636,0.473,0,-8.311,1,0.0389,3.82e-06,0.152,0.399,87.034,176540,4,Spotify,Pop Sauce,Public A
+Benson Boone,Before You,Before You,523f4oSjrZx83XDtRLnsIw,0.269,0.373,8,-7.113,0,0.0371,0.0,0.129,0.321,202.899,187941,3,Spotify,Pop Sauce,Public A
+Ruel,SOMEONE ELSE'S PROBLEM,SOMEONE ELSE'S PROBLEM,3yaLVo3UBWXEy9FcHl8kOb,0.524,0.511,9,-5.673,1,0.0621,2.6e-05,0.114,0.444,171.648,160000,4,Spotify,Pop Sauce,Public A
+Nessa Barrett,tired of california,tired of california,02xRKYZ1jY4B6utPa59qSf,0.712,0.731,6,-6.313,0,0.0402,0.0,0.372,0.638,92.014,190800,4,Spotify,Pop Sauce,Public A
+Mad Tsai,Stacy's Brother,Stacy's Brother,7aTXnk6qGF8d4pZ51zDcaQ,0.576,0.753,7,-6.379,0,0.0678,0.0351,0.182,0.475,100.13,182400,4,Spotify,Pop Sauce,Public A
+SZA,Shirt,Shirt,34ZAzO78a5DAVNrYIGWcPm,0.824,0.453,3,-9.604,0,0.0968,0.0273,0.0896,0.552,119.959,181831,4,Spotify,Pop Sauce,Public A
+Crash Adams,Give Me a Kiss,Give Me a Kiss,0OXdfW3Q6VJGpg1k5Ik1SW,0.611,0.863,11,-4.969,0,0.0346,3.17e-06,0.255,0.837,141.044,169205,4,Spotify,Pop Sauce,Public A
+EMELINE,Venting to Strangers,Venting to Strangers,3SnD4nBGqUk6Tqdj1HnxxA,0.608,0.261,5,-8.856,1,0.0326,0.0,0.0864,0.193,74.881,152437,4,Spotify,Pop Sauce,Public A
+Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4,Spotify,Pop Sauce,Public A
+Robert Grace,Not OK,Not OK,06V8tMMLJS1lNNejvWFzDt,0.723,0.627,6,-5.863,1,0.0292,0.0,0.188,0.711,87.973,159216,4,Spotify,Pop Sauce,Public A
+AJR,The DJ Is Crying For Help,The DJ Is Crying For Help,2fihoO76h66Hio6noF4tQD,0.544,0.652,11,-6.938,0,0.0527,1.71e-06,0.114,0.519,145.039,220571,4,Spotify,Pop Sauce,Public A
+Chloe Adams,Take Me To Hell,Take Me To Hell,2rmTtv5xWuqHiKzM4i0QjQ,0.7,0.6,8,-6.613,1,0.0457,1.58e-06,0.162,0.199,120.033,132803,4,Spotify,Pop Sauce,Public A
+Jenna Raine,rent free,rent free,6G9bbTeoVpPPt02fraZhnZ,0.392,0.603,1,-7.363,0,0.434,0.0,0.158,0.158,193.571,145674,4,Spotify,Pop Sauce,Public A
+Mckenna Grace,Self Dysmorphia,Self Dysmorphia,4XxNQ8VlWCDT6kEwWDuW4u,0.57,0.66,1,-4.926,0,0.0398,0.0,0.616,0.744,79.909,169000,4,Spotify,Pop Sauce,Public A
+Reneé Rapp,Everything To Everyone,Too Well,6Szgu8v7CAapag3XuuJX0b,0.668,0.618,10,-4.639,1,0.0607,0.0,0.112,0.389,120.951,156632,4,Spotify,Pop Sauce,Public A
+Tate McRae,uh oh,uh oh,6qmvAJSUfVGMubvI2awW7p,0.625,0.604,10,-7.415,0,0.339,2.06e-05,0.129,0.372,174.089,169722,4,Spotify,Pop Sauce,Public A
+Gracie Abrams,Difficult,Difficult,3JiaA3hvuKu4Fjf6AWwVMX,0.599,0.59,2,-9.135,1,0.0645,6.54e-06,0.397,0.402,146.022,257882,4,Spotify,Pop Sauce,Public A
+Nicky Youre,Eyes On You,Eyes On You,6qItx3M2IZbXBKRnptbnHM,0.729,0.786,10,-4.357,1,0.0389,0.0,0.265,0.729,131.906,177372,4,Spotify,Pop Sauce,Public A
+Caity Baser,Kiss You,Kiss You,61vlpInisekQjqqipr7HkP,0.594,0.847,0,-3.783,1,0.0615,0.000575,0.143,0.769,165.833,152507,4,Spotify,Pop Sauce,Public A
+Thomas Day,not my job anymore,not my job anymore,4i7mcbkECX4kqRvfjbBGQz,0.534,0.441,11,-7.071,1,0.0362,0.0,0.258,0.113,140.137,188074,4,Spotify,Pop Sauce,Public A
+DWLLRS,Blue Spirits,Blue Spirits,7xXUNbWepi09rzwW1Il61B,0.66,0.646,9,-5.788,1,0.0469,0.0,0.188,0.336,130.003,188308,4,Spotify,Pop Sauce,Public A
+charli d'amelio,if you ask me to,if you ask me to,63XZMpI9z3Grrd5YH5sl5L,0.5,0.375,0,-13.723,1,0.062,0.0147,0.115,0.17,129.388,192000,4,Spotify,Pop Sauce,Public A
+Stephen Dawes,Teenage Dream,Teenage Dream,3Y2MvObZdPakD1X71KOxCD,0.615,0.361,10,-9.57,1,0.028,0.0,0.0844,0.244,111.991,177857,4,Spotify,Pop Sauce,Public A
+Jade LeMac,Meet You in Hell,Meet You in Hell,2xdye2lhDblrS05XTHgBcb,0.597,0.719,0,-4.782,0,0.0296,0.0,0.0684,0.457,135.98,187185,4,Spotify,Pop Sauce,Public A
+Ava Max,Weapons,Weapons,21JOYA45JFkrOjqNwI6g8E,0.506,0.846,1,-3.705,1,0.0497,0.0,0.0835,0.268,169.813,151592,4,Spotify,Pop Sauce,Public A
+mazie,girls just wanna have sex,girls just wanna have sex,6u9pA8Izk34kgKXd0ukLv3,0.593,0.957,4,-4.149,1,0.0429,0.0,0.275,0.848,100.005,124030,4,Spotify,Pop Sauce,Public A
+Olivia O'Brien,Never Be The One,Never Be The One,6JF0rThWWZ1KDOAA2GC0T8,0.847,0.711,6,-4.567,1,0.0386,0.000171,0.114,0.607,131.001,201048,4,Spotify,Pop Sauce,Public A
+Payday,Trips to Venus,Boyfriend,4BWo9epXbwI6wGU7vueUbJ,0.479,0.616,8,-7.71,1,0.152,0.0,0.129,0.414,169.99,160941,4,Spotify,Pop Sauce,Public A
+Rihanna,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,35ovElsgyAtQwYPYnZJECg,0.247,0.299,9,-6.083,1,0.0315,0.0,0.131,0.172,177.115,196520,4,Spotify,Pop Sauce,Public A
+Dove Cameron,Breakfast,Breakfast,6GUiIbJ834FcHewby3PwV0,0.64,0.553,2,-6.42,0,0.0411,0.0,0.0914,0.486,81.992,148471,4,Spotify,Pop Sauce,Public A
+Carla Wehbe,introvert (with extroverted expectations),introvert (with extroverted expectations),6Yg7lVxwuqRcuqPLRlEArd,0.589,0.694,5,-3.787,1,0.06,0.0,0.105,0.379,92.027,197257,4,Spotify,Pop Sauce,Public A
+Natalie Jane,AVA,AVA,7bdpStmJdlw9GKBPTOkDwT,0.578,0.471,3,-6.379,0,0.0417,0.0,0.0779,0.233,86.982,159339,4,Spotify,Pop Sauce,Public A
+Avril Lavigne,Love Sux (Deluxe),Mercury In Retrograde,5myAAZYPPELEl2aiGoW0sx,0.721,0.693,7,-5.425,1,0.0315,0.000548,0.159,0.694,129.979,129279,4,Spotify,Pop Sauce,Public A
+Isabel LaRosa,HEARTBEAT,HEARTBEAT,6nStBZGqGgTR87MrBpNza0,0.542,0.729,2,-7.453,1,0.0881,8.97e-06,0.488,0.337,120.879,124959,4,Spotify,Pop Sauce,Public A
+clide,BE HONEST,BE HONEST,46AJmDywJ2wewG6q9jx4yT,0.639,0.651,2,-7.852,1,0.0453,4.44e-05,0.147,0.589,76.016,169263,4,Spotify,Pop Sauce,Public A
+Julia Michaels,Sorry To Me Too,Sorry To Me Too,4SDccIA3pVkjaZsivDPaV5,0.682,0.642,11,-6.765,0,0.0825,0.000271,0.107,0.387,148.127,209596,4,Spotify,Pop Sauce,Public A
+Olivia O'Brien,A Means To An End,Gone Girl,7DVExWnUrXWfG2BoPSVuIV,0.654,0.737,1,-5.048,1,0.0928,0.0,0.0902,0.423,117.983,138241,4,Spotify,Pop Sauce,Public A
+Billie Eilish,Guitar Songs,TV,3GYlZ7tbxLOxe6ewMNVTkw,0.412,0.236,4,-15.159,0,0.0379,0.00653,0.147,0.119,140.214,281381,4,Spotify,Pop Sauce,Public A
+ASTN,Be So Cruel,Be So Cruel,3jgTthrOsgFR1477mor7Ex,0.859,0.414,5,-5.538,0,0.0617,0.00102,0.135,0.645,92.501,132691,4,Spotify,Pop Sauce,Public A
+Alexa Cappelli,Lose Lose,Lose Lose,47AcRzodwvcQlnS6BjNZBQ,0.695,0.724,7,-4.737,1,0.0319,3.62e-05,0.071,0.731,99.974,190225,4,Spotify,Pop Sauce,Public A
+Thomas Headon,Georgia,Georgia,7d4lvIqCYS2DGTCZAjmCHu,0.69,0.816,7,-4.438,1,0.0656,0.0,0.567,0.905,134.014,174411,4,Spotify,Pop Sauce,Public A
+Devon Cole,Hey Cowboy,Hey Cowboy,5FfgLIooERZ7rcNcwxAcdF,0.771,0.452,10,-6.648,0,0.0679,0.0,0.232,0.904,91.006,187049,4,Spotify,Pop Sauce,Public A
+RARIA,3 Times,3 Times,4Dk1ZnnKsxQqAbRHQgeqDx,0.553,0.634,7,-4.816,1,0.131,0.0,0.262,0.409,169.95,147072,4,Spotify,Pop Sauce,Public A
+Arden Jones,age tape 0,not afraid at all,5nGQJMZh2RUEjSFLKPNCQ5,0.649,0.933,0,-3.994,1,0.033,0.0,0.126,0.632,141.985,156500,4,Spotify,Pop Sauce,Public A
+hemlocke springs,girlfriend,girlfriend,0Dl965SLJGi9bB0SrvtPRx,0.763,0.759,11,-3.925,0,0.0906,4.24e-05,0.0724,0.964,146.006,133151,4,Spotify,Pop Sauce,Public A
+Chelsea Cutler,Men On The Moon,Men On The Moon,164LL9rTyEZ6DF0KMgXxsJ,0.552,0.517,8,-7.906,1,0.0245,0.00612,0.152,0.105,79.512,220798,4,Spotify,Pop Sauce,Public A
+Nessa Barrett,young forever,lovebomb,6g5ToBz8mGURaauPqfyYvU,0.595,0.174,7,-15.64,1,0.0341,1.8e-05,0.12,0.161,113.087,189000,4,Spotify,Pop Sauce,Public A
+NERIAH,SH!TSHOW,SH!TSHOW,44BLCiHna5WuziLINWZhYb,0.647,0.596,0,-3.895,0,0.0402,0.0,0.271,0.362,96.988,185337,4,Spotify,Pop Sauce,Public A
+jxdn,Sober,Sober,7K3rRx00hcS6MpZmYGUFH2,0.561,0.861,11,-3.04,1,0.0358,0.0,0.0852,0.542,141.909,152375,4,Spotify,Pop Sauce,Public A
+Dylan,The Greatest Thing I’ll Never Learn,Blisters,1ytnxZRMYJ8QsTMBqD9GXb,0.43,0.666,1,-5.532,0,0.0583,0.0,0.217,0.201,115.035,201233,4,Spotify,Pop Sauce,Public A
+Dylan Conrique,ugly,ugly,6BzSgXgzHxqPbGEb7aKAXb,0.675,0.85,11,-4.849,0,0.0526,0.0,0.311,0.842,136.96,180627,4,Spotify,Pop Sauce,Public A
+Selena Gomez,Rare,People You Know,63mdJr3NMY3wReOkNE6c6W,0.695,0.62,8,-8.082,0,0.0521,5.43e-05,0.111,0.62,150.032,194900,4,Spotify,Pop Sauce,Public A
+PEGGY,LOVE,LOVE,45smSZnjWu1Btd1VJTeWB6,0.578,0.174,1,-8.321,1,0.044,0.0,0.112,0.229,129.525,172367,3,Spotify,Pop Sauce,Public A
+UPSAHL,Into My Body,Into My Body,40HSFJpsSRNDkuxA0IaL34,0.74,0.596,1,-6.245,0,0.0777,0.0,0.101,0.82,121.936,144280,4,Spotify,Pop Sauce,Public A
+Avril Lavigne,I’m a Mess (with YUNGBLUD),I’m a Mess (with YUNGBLUD),1yvArCvZLTHiawRdWKSAWj,0.467,0.667,1,-4.386,1,0.0315,0.0,0.155,0.399,91.057,187794,4,Spotify,Pop Sauce,Public A
+FLETCHER,Suckerpunch,Suckerpunch,2HKr9NflxjksCzxhMhxJMt,0.702,0.814,8,-5.361,0,0.218,0.0003,0.0958,0.306,142.005,137973,4,Spotify,Pop Sauce,Public A
+Leyla Blue,Jane Doe,Jane Doe,0YHHVezUoKC10MtiLUliqx,0.729,0.585,6,-5.363,0,0.0483,0.0,0.132,0.5,119.969,164667,4,Spotify,Pop Sauce,Public A
+Jeremy Zucker,I'm So Happy,I'm So Happy (with BENEE),16Fxe5DvEXRxQwcorFyaIO,0.846,0.434,5,-7.118,1,0.118,0.0,0.197,0.681,132.899,173366,4,Spotify,Pop Sauce,Public A
+Devon Cole,W.I.T.C.H.,W.I.T.C.H.,5XemvyG79fcKPl5lgbhplq,0.868,0.66,7,-3.834,1,0.0526,0.0,0.0755,0.963,121.925,132133,4,Spotify,Pop Sauce,Public A
+girl in red,October Passed Me By,October Passed Me By,0AjcdGri5vhJsmZnduCEqd,0.445,0.367,0,-13.086,1,0.0452,0.075,0.0987,0.202,155.675,165592,4,Spotify,Pop Sauce,Public A
+Mae Muller,I Just Came To Dance,I Just Came To Dance,2LQ3i7FKz0i2mrkcjWGeIg,0.876,0.678,2,-4.806,1,0.161,0.00015,0.0671,0.764,115.986,144951,4,Spotify,Pop Sauce,Public A
+Taylor Swift,Midnights,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,0.798,0.277,4,-11.096,0,0.39,5.25e-05,0.121,0.163,79.846,164801,4,Spotify,Pop Sauce,Public A
+The 1975,Being Funny In A Foreign Language,All I Need To Hear,1RB8jMVr0eSo6ExOOvXavV,0.4,0.245,11,-10.227,1,0.0344,0.00131,0.119,0.21,136.553,210447,3,Spotify,Pop Sauce,Public A
+Christian French,karma,karma,5SCBS0esfqeL54ZCw6Revb,0.541,0.76,1,-4.352,1,0.0397,5.54e-06,0.162,0.831,82.016,168951,4,Spotify,Pop Sauce,Public A
+JVKE,this is what ____ feels like (Vol. 1-4),golden hour,5odlY52u43F5BjByhxg7wg,0.515,0.593,4,-4.801,1,0.0322,0.162,0.25,0.153,94.467,209260,3,Spotify,Pop Sauce,Public A
+Labrinth,Iridium,Iridium,5amRolITZmPuqDQOqJ4aWr,0.515,0.604,1,-6.595,0,0.294,0.0,0.069,0.267,133.582,166797,4,Spotify,Pop Sauce,Public A
+d4vd,Here With Me,Here With Me,78Sw5GDo6AlGwTwanjXbGh,0.574,0.469,4,-8.209,1,0.0254,9.21e-05,0.128,0.288,132.023,242485,4,Spotify,Pop Sauce,Public A
+Jax,Victoria’s Secret,Victoria's Secret,4svaKoxMMP7ImmKrD5hfQu,0.586,0.556,6,-7.639,1,0.0592,0.0,0.0836,0.517,167.018,176125,4,Spotify,Pop Sauce,Public A
+EMELINE,STRUT,STRUT,749rod7GCmj0OVdumGfzVq,0.842,0.715,11,-5.906,0,0.0696,2.58e-05,0.112,0.326,107.952,117727,3,Spotify,Pop Sauce,Public A
+Stacey Ryan,Fall In Love Alone,Fall In Love Alone,5xwBIieMMFUmLDgvG4DjFe,0.676,0.625,7,-5.455,0,0.0711,0.000119,0.127,0.522,171.883,205428,4,Spotify,Pop Sauce,Public A
+BoyWithUke,Sick of U,Sick of U (with Oliver Tree),5IXdkgrT4lb9sKIb8tbOQ3,0.676,0.814,0,-3.213,1,0.0585,0.0,0.0953,0.601,92.554,168676,4,Spotify,Pop Sauce,Public A
+Bella Poarch,Dolls,Dolls,0tFUl3tPqBzUM2aV0gitdq,0.841,0.698,4,-6.588,0,0.261,0.0,0.203,0.372,118.018,132793,4,Spotify,Pop Sauce,Public A
+Joshua Bassett,SHE SAID HE SAID SHE SAID,SHE SAID HE SAID SHE SAID,61SwOvGpjoANrBOVgBZvMi,0.668,0.678,11,-7.655,0,0.0425,0.0,0.591,0.587,104.971,157325,4,Spotify,Pop Sauce,Public A
+Mimi Webb,Ghost of You,Ghost of You,7Kbw2fTMOU43MrqXdGzroh,0.737,0.858,3,-4.1,1,0.0648,0.0,0.0825,0.65,126.254,158064,4,Spotify,Pop Sauce,Public A
+Madison Beer,Showed Me (How I Fell In Love With You),Showed Me (How I Fell In Love With You),5Kq2GzvM6XE8zN4RAKKLSf,0.723,0.542,0,-8.5,0,0.026,0.0826,0.0928,0.675,95.02,195845,4,Spotify,Pop Sauce,Public A
+Leah Kate,Alive and Unwell,Alive and Unwell,7ffThXwGKRO4KRM1rVyXGJ,0.645,0.859,1,-3.675,0,0.044,0.0,0.257,0.791,99.961,121675,4,Spotify,Pop Sauce,Public A
+Chloe Adams,Dirty Thoughts,Dirty Thoughts,2g1QPpTd4o8gTAapxEUPnz,0.66,0.462,7,-7.203,1,0.103,1.37e-06,0.486,0.384,167.098,129699,4,Spotify,Pop Sauce,Public A
+Lilyisthatyou,Do I make you nervous?,Do I make you nervous?,1FC511SYR7SXb1qrBr3oq0,0.549,0.662,6,-5.657,0,0.292,0.0,0.403,0.615,180.04,152233,4,Spotify,Pop Sauce,Public A
+ari hicks,Sad Ghost,Sad Ghost,45fNZIKK6NYTLq5nNvTTyx,0.616,0.252,9,-10.735,0,0.0364,0.000256,0.113,0.319,147.976,187591,4,Spotify,Pop Sauce,Public A
+Aidan Bissett,Tripping Over Air,Tripping Over Air,7mzPAftljnsFmU6131Pqcd,0.622,0.799,11,-4.811,1,0.0342,1.08e-06,0.269,0.6,116.985,182383,4,Spotify,Pop Sauce,Public A
+Noah Cyrus,The Hardest Part,I Just Want a Lover,6whql8yh4n96c8Zl4MYkVG,0.666,0.798,2,-7.04,0,0.027,0.00665,0.15,0.904,119.941,201463,4,Spotify,Pop Sauce,Public A
+JVKE,this is what ____ feels like (Vol. 1-4),moon and back,4228YpK0ZZuY4CZzBDVi3q,0.594,0.494,2,-4.262,1,0.0722,2.48e-05,0.206,0.486,180.132,148298,4,Spotify,Pop Sauce,Public A
+Lexi Jayde,what's the matter with you,what's the matter with you,51ov0GSQflAdL1IRga0zSF,0.687,0.71,0,-6.585,1,0.0631,6.11e-06,0.101,0.407,135.981,196870,4,Spotify,Pop Sauce,Public A
+Forrest Nolan,stupid i miss u,stupid i miss u,6rhdKbAlGnmRVfdGnvIyb8,0.591,0.758,7,-5.748,1,0.0512,2.28e-06,0.183,0.933,168.038,140827,4,Spotify,Pop Sauce,Public A
+Steve Lacy,Bad Habit,Bad Habit,5CM4UuQ9Gnd6K2YyKGPMoK,0.686,0.507,1,-7.097,1,0.0357,7.51e-05,0.383,0.69,168.955,232115,4,Spotify,Pop Sauce,Public A
+Thomas Day,Wildflower,Wildflower,5HEfenabh2FfPUOO4xa89L,0.611,0.56,0,-5.439,1,0.0361,0.0,0.122,0.253,114.147,161910,4,Spotify,Pop Sauce,Public A
+GAYLE,a study of the human experience volume two,snow angels,4tyD9sivpD8NGM8KEEabAl,0.753,0.552,8,-3.803,1,0.0395,0.0,0.092,0.901,117.955,210240,4,Spotify,Pop Sauce,Public A
+mazie,dumb dumb,dumb dumb,7pq7gsLHiMhkF4RSN9RtWT,0.782,0.479,2,-8.385,1,0.0448,0.000362,0.0781,0.558,122.07,125256,4,Spotify,Pop Sauce,Public A

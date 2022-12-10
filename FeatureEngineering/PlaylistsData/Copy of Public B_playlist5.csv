@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Jacob David,Mursejler,Mursejler,1mGkSBPN3SN2o2YTVbmr3C,0.475,0.068,7,-31.32,0,0.0345,0.899,0.124,0.252,116.881,178000,4,Spotify,Sad Piano,Public B
+Tankeflukt,Lament,Lament,20p6ToTwOlMsocEiFtQm1I,0.351,0.0341,6,-28.152,0,0.0421,0.901,0.11,0.163,69.21,130875,3,Spotify,Sad Piano,Public B
+A. Blomqvist,Essential Truth,Essential Truth,4BwITU6em6YieY3bHak4JH,0.329,0.0188,4,-28.344,0,0.0358,0.888,0.105,0.175,137.263,169250,3,Spotify,Sad Piano,Public B
+antinode,Midnight Improvisations // Songs From Home,Wordless,1uPUd2SfgzHtiK9BoTZOKt,0.232,0.00362,10,-33.778,1,0.0509,0.931,0.101,0.483,131.725,111000,1,Spotify,Sad Piano,Public B
+Austin Farwell,New Home (Slowed),New Home (Slowed),6h6runZeeczWEuEW2pFvYW,0.356,0.00558,11,-27.72,1,0.0417,0.934,0.0991,0.122,70.012,174521,4,Spotify,Sad Piano,Public B
+Omri Grummet,Petrichor,Petrichor,27M7FdIBhufCksw0tQ1Vb9,0.447,0.0104,2,-26.83,1,0.0427,0.92,0.0768,0.128,103.325,147670,4,Spotify,Sad Piano,Public B
+Kristoffer Wallin,We Together,We Together,45hG7DYmo87yN0hQ1MeJ0C,0.454,0.039,3,-25.438,0,0.0652,0.957,0.0843,0.482,75.352,122000,4,Spotify,Sad Piano,Public B
+Michael Giacchino,"Stuff We Did (from ""Up"")","Stuff We Did (from ""Up"")",7iZnEeSfrwAlAESBw62SL8,0.529,0.00823,7,-30.42,1,0.081,0.921,0.0699,0.115,73.428,132065,3,Spotify,Sad Piano,Public B
+Vidar Bjørnebye,Relief,Relief,2nvOohWMFgqQ0DHocsgjLi,0.587,0.00186,2,-29.894,1,0.0767,0.962,0.103,0.585,127.225,102000,4,Spotify,Sad Piano,Public B
+Niall Byrne,Afterthought,Afterthought,6V3EqKAHRMDKUYYPtD0lVQ,0.345,0.0195,0,-29.871,1,0.0409,0.87,0.0951,0.461,122.677,149759,4,Spotify,Sad Piano,Public B
+Toygar Işıklı,Med Cezir (Original Tv Series Soundtrack),Aşk Mühürü (Mira & Yaman),0Y6qIIK11T451NjsjvMSYJ,0.683,0.0382,9,-24.497,0,0.0476,0.895,0.104,0.0592,119.975,119780,3,Spotify,Sad Piano,Public B
+Isidret,Sincero,Sincero,2Vvwncoakogkxiq9HQCfFn,0.538,0.0596,7,-26.364,1,0.0477,0.853,0.0988,0.0797,69.029,158037,4,Spotify,Sad Piano,Public B
+Joseph Vidal,As We Dance,As We Dance,01i2Pwd1th9J7T1zHBVPJQ,0.387,0.033,2,-21.261,0,0.0445,0.931,0.0905,0.3,90.059,160051,4,Spotify,Sad Piano,Public B
+Eu Nice,Bolero Chiquito,Bolero Chiquito,0WIGmqsYeC6i5NLVAvFZzx,0.401,0.0814,1,-25.158,1,0.0322,0.95,0.104,0.175,78.553,140647,4,Spotify,Sad Piano,Public B
+Eric Badanti,Andante,Andante,0fNGCAEPZdUC54hT9lq3vm,0.209,0.0329,9,-31.26,1,0.0337,0.873,0.113,0.205,172.793,175812,4,Spotify,Sad Piano,Public B
+Allysium,Solace,Solace,1naBfaNrmE6xauYKrh5HiP,0.408,0.0379,4,-25.468,1,0.0433,0.96,0.111,0.105,80.411,156500,1,Spotify,Sad Piano,Public B
+Christian Janssen,Never ending Grace,Let the water in,38Hqdf7CgUrEnCO6DMqCPv,0.463,0.0225,5,-27.72,0,0.0346,0.929,0.111,0.254,99.396,173894,4,Spotify,Sad Piano,Public B
+Peter Gregson,Piano Book,Adam Leaves - Second Half / Piano Version,0mw9N3Jc5D2EKvgDSMBjJN,0.463,0.0115,10,-29.537,0,0.053,0.962,0.105,0.264,102.132,184148,3,Spotify,Sad Piano,Public B
+Tascenda,dromerige,dromerige,3BttrU266BxO53iZMADsAg,0.763,0.00532,3,-28.834,1,0.0674,0.961,0.0981,0.251,87.885,155670,3,Spotify,Sad Piano,Public B
+antinode,"Rest Peacefully, but I Wish You Were Here","Rest Peacefully, but I Wish You Were Here",0KaDIuxC0tek01gCKrUNY8,0.308,0.00396,10,-32.709,1,0.0445,0.95,0.0878,0.0961,60.026,227000,4,Spotify,Sad Piano,Public B
+Augustus Step,Fate Alone,Fate Alone,3ZEAYAgvudTytKaiH524XJ,0.426,0.0211,3,-23.399,1,0.057,0.954,0.114,0.297,66.485,137000,4,Spotify,Sad Piano,Public B
+Sacha Hoedemaker,Drift Away,Drift Away,6IeNMc25PkxqRLq08lWUxr,0.481,0.0229,9,-29.966,0,0.0776,0.968,0.109,0.351,135.624,172364,3,Spotify,Sad Piano,Public B
+Linn Hope,Just Like You,Just Like You,1NMLWuUMYy2OqxhGY5tUYD,0.384,0.0258,9,-28.615,0,0.0332,0.935,0.114,0.093,76.351,129489,4,Spotify,Sad Piano,Public B
+Carluccio,Tranquillo,Tranquillo,72kzlLev3gbe93hKa4oHnh,0.426,0.0253,3,-22.288,1,0.0376,0.944,0.104,0.448,73.518,128411,4,Spotify,Sad Piano,Public B
+Isaac Boudillet,Lavandula,Lavandula,79TCHEeIxQmvo1Y40jgf7Z,0.548,0.0272,0,-24.347,0,0.0522,0.955,0.128,0.215,78.824,170207,4,Spotify,Sad Piano,Public B
+Luna Bauer,Cos I doubt,Cos I doubt,4epcGvObMyr1L34QAkrFVH,0.366,0.0493,2,-27.243,0,0.0382,0.916,0.11,0.101,104.19,146051,3,Spotify,Sad Piano,Public B
+Clémentine Poirier,Minuit,Minuit,7GzMpKkrr5zwsmtTIQk2EC,0.443,0.0472,5,-27.348,1,0.0386,0.94,0.124,0.446,116.125,136952,5,Spotify,Sad Piano,Public B
+Sebastián Voyage,blú,cena per due,2eHjBYoLuknpc7cded92QS,0.419,0.00865,11,-26.591,0,0.0414,0.958,0.0937,0.233,75.979,158216,4,Spotify,Sad Piano,Public B
+Odette Pineda,Loneliness is my only company,Loneliness is my only company,6vDrmzekBoFnbFO0XcKGqZ,0.28,0.00259,7,-30.93,1,0.0517,0.949,0.0861,0.282,82.978,137447,3,Spotify,Sad Piano,Public B
+Ivan Blois,A Kiss In The Rain,A Kiss In The Rain,2QOk0tGjSjyVMduRcw1OXK,0.648,0.0703,7,-22.289,0,0.0488,0.949,0.108,0.262,95.183,105533,3,Spotify,Sad Piano,Public B
+Ali Toygar,Morpho,Morpho,090GAAwLiSybtUpvq50r6T,0.395,0.0521,2,-20.773,1,0.0516,0.946,0.0976,0.0509,71.52,120372,3,Spotify,Sad Piano,Public B
+Jan Groenteman,Passing By,Passing By,1yFrpr1M9Yv5QkYPoaz3i9,0.481,0.0155,9,-24.354,1,0.0834,0.952,0.103,0.427,71.077,151922,3,Spotify,Sad Piano,Public B
+Jacob David,Skagerrak,Skagerrak,4RBuB7D4zW3dy6ZvuQgN7c,0.301,0.0248,0,-32.552,1,0.0345,0.907,0.107,0.0831,96.67,130250,4,Spotify,Sad Piano,Public B
+Sounds from a Box,Autumn Thought of Summer,Comfort on a Grey Afternoon,52wAQMfT3ntccL7qpzwopi,0.605,0.0149,8,-27.34,1,0.039,0.939,0.101,0.25,80.05,261346,3,Spotify,Sad Piano,Public B
+our distant worlds,the traveler & fragile flowers,the traveler,1Niqti17jYAgEBlHzUEQ02,0.508,0.0346,2,-30.265,0,0.035,0.949,0.108,0.175,90.113,170500,4,Spotify,Sad Piano,Public B
+Kathrin Holtz,Mol Allena,Mol Allena,1BC1OmO0cr57EsRo1WsANJ,0.458,0.078,7,-22.622,0,0.039,0.929,0.113,0.491,125.698,142348,3,Spotify,Sad Piano,Public B
+Morunas,Impermanence,Impermanence,6Kt3bzYXSLKXBa2nRMabOi,0.366,0.0209,2,-28.829,0,0.041,0.969,0.11,0.077,66.833,140256,4,Spotify,Sad Piano,Public B
+Ron Adelaar,Reflections,Reflections,0Nxz7Bf7EZgGVzaH4McTd2,0.361,0.0364,7,-27.7,1,0.0421,0.932,0.0955,0.186,92.626,110869,4,Spotify,Sad Piano,Public B
+Biba Dupont,Kindness as dignity,Kindness as dignity,0fJRmRfFLXIhIehP4c3bpm,0.337,0.0123,10,-29.226,0,0.0392,0.925,0.0957,0.135,130.513,177778,3,Spotify,Sad Piano,Public B
+Yi Nantiro,Plum Blossoms,Plum Blossoms,2vuKqnIgFIYxB4mRusEwFC,0.291,0.0688,8,-20.438,0,0.0453,0.924,0.123,0.0878,70.641,291912,4,Spotify,Sad Piano,Public B
+Valentina Barbarella,Remembering,Remembering,1W8N95zUTtQNllHu8Ki0sP,0.398,0.064,5,-28.906,1,0.0323,0.918,0.12,0.34,95.754,139259,1,Spotify,Sad Piano,Public B
+Leisel Walker,Deep Disconnect,Deep Disconnect,047TAD9SkYCiIHL2T26E4H,0.384,0.0558,1,-27.219,0,0.0538,0.949,0.0946,0.155,65.679,202569,4,Spotify,Sad Piano,Public B
+Patrick Yeboah,Differences,Differences,5mtYcrEtcczNDfd7yGGb03,0.3,0.118,3,-23.107,1,0.0521,0.927,0.113,0.202,100.692,151731,4,Spotify,Sad Piano,Public B
+Hakone,White Rainbows,White Rainbows,12GjImTriQlqvIFRspyM4S,0.5,0.00813,8,-28.369,1,0.0441,0.935,0.0909,0.169,70.601,228706,3,Spotify,Sad Piano,Public B
+Frozen Silence,Running Up That Hill (Piano),Running Up That Hill - Piano,6sY25clRpzWFR7rEj2BT1H,0.511,0.0268,0,-28.567,0,0.0355,0.919,0.101,0.202,81.205,74672,4,Spotify,Sad Piano,Public B
+Hideyuki Hashimoto,For,For 4,1wqN0d4GvN2xHlnGNPmKDa,0.355,0.0147,6,-31.26,0,0.0361,0.923,0.132,0.154,61.229,141500,4,Spotify,Sad Piano,Public B
+Nordiska Piano,Subitum,Subitum,4MiTIkXSAqWTkZlUvA5QJ2,0.402,0.0277,9,-29.765,0,0.042,0.942,0.0942,0.076,120.278,167000,4,Spotify,Sad Piano,Public B
+Octane,Say My Name,Say My Name,2OrJ8SYAFfTHGzLKIurphr,0.54,0.00312,0,-36.719,1,0.056,0.93,0.105,0.0393,115.811,236428,4,Spotify,Sad Piano,Public B
+Kalen Elmsley,Vale Of Tears,Vale of Tears,64u8GamjVXCuKtjbPl0oIG,0.541,0.0578,7,-22.332,1,0.0586,0.967,0.113,0.122,69.019,142324,3,Spotify,Sad Piano,Public B
+Little Marions,Larissa,Larissa,1GsXfbpjrnAr8G4LcnhlPt,0.421,0.0264,3,-26.632,0,0.0364,0.92,0.11,0.263,60.885,158000,4,Spotify,Sad Piano,Public B
+Gaspar Parentau,Tient qu'à un fil,Tient qu'à un fil,1DXbUPygEVCQXOOOO9bIhO,0.637,0.0291,0,-23.753,0,0.0457,0.964,0.104,0.195,89.653,167700,3,Spotify,Sad Piano,Public B
+Nadia Oak,Heartsease,Heartsease,2VqdRIXLDBYtDHLBvWw0p4,0.447,0.0491,11,-28.164,0,0.036,0.912,0.104,0.298,95.811,145789,4,Spotify,Sad Piano,Public B
+Lorenzo Fiore,Luna piena,Luna piena,5YwXUOcRaJNOoEImMYLIfu,0.588,0.128,2,-26.622,0,0.0453,0.91,0.122,0.0747,110.518,170875,4,Spotify,Sad Piano,Public B
+Goldmund,The Malady Of Elegance,Threnody,7hyAAjHZaDWSPDzlUYNUIa,0.217,0.00572,2,-30.767,1,0.0394,0.925,0.109,0.174,85.279,281120,4,Spotify,Sad Piano,Public B
+Mark Lieder,The Lantern Lighter,The Lantern Lighter,1hGglWU022gMZGk38kyDlQ,0.299,0.00892,4,-26.585,1,0.0338,0.935,0.0826,0.0567,99.747,177656,4,Spotify,Sad Piano,Public B
+Ola Claësson,Eurytmi,Eurytmi,2nMjde4kw1yuDyNnu9GJTO,0.296,0.0435,3,-26.764,1,0.0373,0.941,0.11,0.0777,168.119,159250,3,Spotify,Sad Piano,Public B
+Tim Karlsen,Glitter,Glitter,3v9Pk1fxLg5MvKm9i5WraZ,0.327,0.0407,5,-23.804,1,0.0335,0.98,0.101,0.257,74.965,172000,3,Spotify,Sad Piano,Public B
+Tjeerd Oosterhuis,Forever Us,Carvoeiro,1wpifGgn2zC6OPEI6okI67,0.39,0.0414,4,-27.536,0,0.0384,0.855,0.104,0.309,127.17,151884,4,Spotify,Sad Piano,Public B
+Esperanza,Autumn Leaf,Autumn Leaf,79q3lBKpjZLlfgfybAIRaO,0.506,0.184,8,-22.348,0,0.0311,0.932,0.0939,0.331,107.332,147599,1,Spotify,Sad Piano,Public B
+Alvize Fantacone,Fiore,Fiore,6DRCugEZcKbSOK9OT5cNvM,0.606,0.0157,9,-28.185,1,0.0683,0.942,0.0898,0.0639,47.745,175285,4,Spotify,Sad Piano,Public B
+Allysium,Radius,Radius,5HAJEsxD0fBSnbdWljzeFh,0.417,0.0758,3,-22.838,0,0.0322,0.918,0.109,0.179,108.565,116706,4,Spotify,Sad Piano,Public B
+Astrid Sky,One More Night,One More Night,69eA5853TtnotRU59pm8mF,0.381,0.0339,2,-28.813,0,0.0506,0.949,0.106,0.15,109.865,137219,3,Spotify,Sad Piano,Public B
+Ólafur Arnalds,re:member,saman,5RqKo9P4DLA0bVyY70cWkr,0.583,0.0238,0,-32.244,0,0.0369,0.847,0.103,0.426,108.74,131923,4,Spotify,Sad Piano,Public B
+Kye Wood,Insomnia,Insomnia,5jKUoCq3PWz3bpB1X5dIon,0.408,0.0534,8,-21.926,1,0.0327,0.958,0.0976,0.266,105.196,160500,4,Spotify,Sad Piano,Public B
+Michiel Borstlap,Water,Water,0fHo89AiSS0X3ycHHKnIoU,0.316,0.0617,5,-28.556,0,0.0496,0.93,0.116,0.19,70.132,152069,3,Spotify,Sad Piano,Public B
+Daniel Schrage,Sail to the Moon,Sail to the Moon,0dx8e4V1h2Xus4dHNkxU5T,0.308,0.0165,6,-32.891,1,0.042,0.928,0.108,0.115,117.913,172908,3,Spotify,Sad Piano,Public B
+Amandine Moulin,Waltzes from Paris,Montmarte,0I4fEtucjFVQcwNvMCgqoL,0.303,0.0296,0,-28.416,0,0.0367,0.919,0.105,0.147,72.184,123733,3,Spotify,Sad Piano,Public B
+Olivia Belli,Sol Novo,Island II,2vUY8WL94C9ortPW7AwwEE,0.4,0.00478,5,-32.946,0,0.0382,0.92,0.103,0.122,74.012,143960,3,Spotify,Sad Piano,Public B
+Elinaura,Perth & Quiet Breath,Perth,7isZIXanXM8Yn89Q0Qz0ut,0.401,0.0205,9,-29.875,1,0.0405,0.936,0.084,0.148,77.267,163500,3,Spotify,Sad Piano,Public B
+Kiara Leonard,Moonlight,Moonlight,13b7swHOlTGpZoDgtTWFIc,0.402,0.17,5,-28.096,1,0.0358,0.933,0.11,0.277,134.448,140500,3,Spotify,Sad Piano,Public B
+Korina Bedoya,Mmmm Mmmm Mmmm Mmmm,Mmmm Mmmm Mmmm Mmmm,18mZP4bRr7X32gy0YoD4oe,0.423,0.0109,3,-29.263,1,0.0402,0.931,0.129,0.268,74.944,192000,4,Spotify,Sad Piano,Public B
+Ever So Blue,Symbios,Symbios,36QUkXZd5QuCItDvIPSbH0,0.482,0.234,7,-22.993,1,0.0379,0.943,0.101,0.593,95.657,173161,4,Spotify,Sad Piano,Public B
+Bon Coeur,Au loin,Au loin,7JR2FbKiAkUfCw0pe4F9Ob,0.38,0.0403,0,-20.738,0,0.0363,0.944,0.108,0.0498,68.537,167532,3,Spotify,Sad Piano,Public B
+Alstad,The Room Upstairs,The Room Upstairs,2TOXQ1L2NjnKYAwrHbzDgZ,0.167,0.0142,7,-30.913,0,0.0478,0.952,0.14,0.144,66.794,140488,4,Spotify,Sad Piano,Public B
+Piotr Wiese,"Waltz, Interrupted","Waltz, Interrupted",4iMQEdNXGMVlAbqsJGhvxx,0.48,0.0714,0,-25.184,0,0.044,0.936,0.11,0.198,129.905,131562,3,Spotify,Sad Piano,Public B
+Salvatore Altavilla,Sweet Memories,Sweet Memories,7vv3UtPoCPKD5WO7Y74Ixz,0.481,0.035,2,-28.518,0,0.0387,0.889,0.0877,0.238,82.968,151714,4,Spotify,Sad Piano,Public B
+Jacob LaVallee,Evenfall,Evenfall,5EwC7LIoLBhLJjlAgz2pXR,0.464,0.0497,5,-17.525,0,0.041,0.943,0.116,0.154,111.96,146504,5,Spotify,Sad Piano,Public B
+Celine Hayes,Silent Prayer,Waltz For Olivia,5OPVL9eRJePaHRxuULUGju,0.422,0.0526,7,-25.709,0,0.0426,0.91,0.0998,0.252,107.357,160250,3,Spotify,Sad Piano,Public B
+Adam Gallo,Sunday Walk,Sunday Walk,16weBcKoT5JR4PjgFywQPO,0.433,0.0475,5,-26.004,1,0.0304,0.954,0.115,0.341,105.412,142906,4,Spotify,Sad Piano,Public B
+Daníel Fannar,Monuments,Monuments,3UuRldDkQBgFmEkgWG42Ge,0.561,0.0234,5,-26.663,0,0.034,0.878,0.099,0.248,95.963,168787,3,Spotify,Sad Piano,Public B
+Boone River,Chalet High,Chalet High,05IVJHxixrLD0oVi63i6Fn,0.494,0.0255,5,-24.453,1,0.0375,0.943,0.108,0.22,93.41,159872,4,Spotify,Sad Piano,Public B
+Luke Faulkner,Beneath the Crystal Veil,Beneath the Crystal Veil,6BCLePB0VnQFPJzywUI5NA,0.395,0.0391,10,-29.908,0,0.0389,0.935,0.112,0.118,169.065,153500,3,Spotify,Sad Piano,Public B
+Alfred Janders,Apelblom,Mol allena,7J1KmTQJFGhkyKHNZBbmc0,0.401,0.0591,5,-31.025,0,0.0455,0.927,0.163,0.383,64.988,146875,4,Spotify,Sad Piano,Public B
+Boone River,Juanita,Juanita,2SxQiQXujf3D29LxFeWm9Z,0.408,0.0237,7,-27.549,0,0.0561,0.893,0.127,0.433,69.272,164364,4,Spotify,Sad Piano,Public B
+Maru Gomes,Botanical,Botanical,0auGwYryPNa1UIEn3BrIx0,0.275,0.0398,11,-29.441,0,0.0364,0.944,0.0981,0.17,100.154,143777,3,Spotify,Sad Piano,Public B
+Hiroko Murakami,Swamp,Swamp,1s8esXu1jTNJ49RwotQLSc,0.341,0.0339,0,-27.702,0,0.0381,0.914,0.104,0.152,87.291,121857,4,Spotify,Sad Piano,Public B
+Natalino Serafin,Reggimi,Reggimi,6YLD5UAaxYG9w4D7rI6PaQ,0.428,0.00354,0,-30.752,1,0.0457,0.94,0.114,0.345,55.059,157000,3,Spotify,Sad Piano,Public B
+Max Richter,The Blue Notebooks (15 Years),Vladimir's Blues,6a7vpKrVXdAyMItaQI9ZYS,0.375,0.165,9,-21.918,1,0.0676,0.901,0.105,0.0581,114.728,78547,3,Spotify,Sad Piano,Public B
+Regan O'leary,Dynjandi,Darfur,2Z82bNIH22cl7KbEmbgYsg,0.228,0.0137,6,-28.847,1,0.0437,0.857,0.118,0.157,170.96,150021,4,Spotify,Sad Piano,Public B
+Eva Brummel,Empyrean,Empyrean,17RDaw9BH11GDHTDlBi4VW,0.391,0.0148,0,-30.106,1,0.0401,0.96,0.11,0.0736,81.065,180373,4,Spotify,Sad Piano,Public B
+Charles Weathersby,Longing For Yesterday,Longing For Yesterday,6dHlvIZhsp3Ts3MUsyudKa,0.422,0.0136,2,-33.47,0,0.0568,0.943,0.108,0.229,135.948,217000,4,Spotify,Sad Piano,Public B
+Sylvio,Overcast,Overcast,5ACLrTERL7b7JQd2ZTfMjz,0.185,0.00805,8,-39.755,0,0.0626,0.957,0.132,0.135,82.045,153500,4,Spotify,Sad Piano,Public B
+Valérie Beaumont,The Owl,The Owl,0YFMpvuxexjjj8lZKYRCrD,0.485,0.151,3,-30.31,0,0.0313,0.911,0.108,0.345,61.566,179250,4,Spotify,Sad Piano,Public B
+Javi Lobe,Time Of Loneliness,Time Of Loneliness,4QMnY8yCam7Gjuo3DdRMA7,0.381,0.0218,2,-27.422,1,0.046,0.941,0.079,0.34,134.062,170500,4,Spotify,Sad Piano,Public B
+Joseph Stanley,Slow Retrieve,Slow Retrieve,2Fw8qNX783GsOjRGPF4Diq,0.45,0.0528,10,-25.25,1,0.0425,0.935,0.11,0.102,68.244,243000,4,Spotify,Sad Piano,Public B
+Muriël Bostdorp,Nocturne,Nocturne,14sKAbkXofaqoVmEP52Ire,0.439,0.0359,10,-27.508,1,0.0577,0.94,0.107,0.0775,107.353,152138,4,Spotify,Sad Piano,Public B
+Bruno Engel,Once I saw the northern lights,Once I saw the northern lights,5F0xQGBmdcmcm3bpvHNIt9,0.312,0.0767,9,-28.703,0,0.0557,0.836,0.137,0.382,93.94,214625,4,Spotify,Sad Piano,Public B
+Jozef De Schutter,With you,With you,3saXbQ6vzfvSYTUcpBBm2t,0.463,0.0322,7,-30.019,1,0.0393,0.939,0.103,0.198,100.024,137000,3,Spotify,Sad Piano,Public B
+Korey Banks,Those Moments,Those Moments,6LBeWgaeVS1VpxEcFp7FJH,0.345,0.152,4,-28.596,0,0.0419,0.908,0.0999,0.461,96.413,125576,1,Spotify,Sad Piano,Public B
+Mark Jubel,Sværmer,Sværmer,3rcULbCqrlDWDyKPL9OHkh,0.341,0.118,2,-28.652,1,0.0675,0.962,0.106,0.341,115.593,138834,4,Spotify,Sad Piano,Public B

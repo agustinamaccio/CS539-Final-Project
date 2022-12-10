@@ -1,0 +1,60 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Four Tops,Four Tops Second Album,"I Can't Help Myself (Sugar Pie, Honey Bunch)",6b6IMqP565TbtFFZg9iFf3,0.667,0.599,0,-8.894,1,0.0291,0,0.107,0.971,127.935,160280,4,Spotify,Raised on Motown,Public I
+The Temptations,The Temptations Sing Smokey,My Girl,745H5CctFr12Mo7cqa1BMH,0.572,0.418,0,-10.738,1,0.0349,0,0.0961,0.694,104.566,165000,4,Spotify,Raised on Motown,Public I
+The Supremes,The Supremes A' Go-Go (Expanded Edition),You Can't Hurry Love,1OppEieGNdItZbE14gLBEv,0.63,0.711,10,-9.34,1,0.0472,0,0.0813,0.659,96.912,167933,4,Spotify,Raised on Motown,Public I
+Stevie Wonder,"Signed, Sealed And Delivered","Signed, Sealed, Delivered (I'm Yours)",2eF8pWbiivYsYRpbntYsnc,0.675,0.597,5,-11.329,1,0.0337,0,0.0986,0.828,108.875,161160,4,Spotify,Raised on Motown,Public I
+Smokey Robinson & The Miracles,Going To A Go-Go,The Tracks Of My Tears,6QyQmdvQ1ywNccYa0pwLNQ,0.502,0.333,7,-10.914,1,0.0264,0,0.222,0.729,96.982,174360,4,Spotify,Raised on Motown,Public I
+Martha Reeves & The Vandellas,Dance Party,Dancing In The Street - Stereo,6rLqjzGV5VMLDWEnuUqi8q,0.556,0.57,2,-9.472,1,0.0393,0.000526,0.198,0.304,126.01,165227,4,Spotify,Raised on Motown,Public I
+The Temptations,Meet The Temptations,The Way You Do The Things You Do,3496rr5XSGD6n1Z1OKXovb,0.618,0.704,4,-4.686,1,0.0321,0.000262,0.358,0.741,124.218,165744,4,Spotify,Raised on Motown,Public I
+Mary Wells,Mary Wells Sings My Guy,My Guy,4591VqUIXysNlmI5NcAIUd,0.691,0.581,10,-7.85,1,0.065,4.62e-05,0.147,0.91,126.615,174440,4,Spotify,Raised on Motown,Public I
+DeBarge,Rhythm Of The Night,Rhythm Of The Night,5yGTQzYbEdY6B9RFZJypgt,0.707,0.759,11,-12.328,0,0.046,2.84e-05,0.0775,0.955,115.142,229107,4,Spotify,Raised on Motown,Public I
+Stevie Wonder,The Definitive Collection,Superstition - Single Version,1h2xVEoJORqrg71HocgqXd,0.633,0.634,8,-12.115,1,0.0725,0.0064,0.0385,0.872,100.499,245493,4,Spotify,Raised on Motown,Public I
+Rare Earth,One World,I Just Want To Celebrate,4iW98ZK1gNzcXmQ5TgTD9X,0.435,0.929,9,-7.7,1,0.235,1.58e-06,0.015,0.65,175.448,217560,4,Spotify,Raised on Motown,Public I
+Marvin Gaye,United,Ain't No Mountain High Enough,7tqhbajSfrz2F7E1Z75ASX,0.663,0.6,7,-10.87,1,0.032,0,0.184,0.8,129.991,151667,4,Spotify,Raised on Motown,Public I
+The Isley Brothers,This Old Heart Of Mine,This Old Heart Of Mine (Is Weak For You),5c33j1xFVOL4G24zxYhssB,0.632,0.59,5,-10.206,1,0.0305,0,0.24,0.953,130.287,172733,4,Spotify,Raised on Motown,Public I
+Stevie Wonder,Songs In The Key Of Life,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,0.588,0.568,6,-9.766,1,0.0672,0,0.0792,0.952,106.938,232760,4,Spotify,Raised on Motown,Public I
+Various Artists,NOW That's What I Call Motown,Money (That's What I Want) - Single Version / Mono,1nuxlcT2IQOzzz8hPB1MZw,0.683,0.749,5,-7.864,1,0.033,0,0.139,0.965,133.379,156187,4,Spotify,Raised on Motown,Public I
+Diana Ross,Diana,I'm Coming Out,3SnGymj6ijE2iuUfWxLo1q,0.72,0.828,5,-9.211,1,0.0462,0.429,0.0839,0.768,110.071,323347,4,Spotify,Raised on Motown,Public I
+Various Artists,NOW That's What I Call Motown,Do You Love Me,4TuS29oERAnYEvokiCYUkI,0.619,0.799,5,-7.14,1,0.0367,0,0.0835,0.796,150.722,173147,4,Spotify,Raised on Motown,Public I
+Boyz II Men,Cooleyhighharmony (Bonus Tracks Version),Motownphilly,4LxIGAVfcQIw0zAQRyFhU8,0.754,0.857,2,-9.699,1,0.0605,2.14e-05,0.278,0.785,114.144,235227,4,Spotify,Raised on Motown,Public I
+Jimmy Ruffin,The Motown Anthology,What Becomes Of The Brokenhearted - Single Version,0YJvN0CZyGDmP5YHwKrcQh,0.586,0.825,7,-4.73,0,0.0285,0,0.381,0.677,98.17,181653,4,Spotify,Raised on Motown,Public I
+Four Tops,Four Tops,Baby I Need Your Loving,3aCbwWCYCT3MJjZeUnlcp4,0.632,0.686,0,-6.116,0,0.0395,0,0.193,0.65,121.414,166027,4,Spotify,Raised on Motown,Public I
+Commodores,Commodores,Easy,1JQ6Xm1JrvHfvAqhl5pwaA,0.589,0.384,10,-15.075,0,0.0332,2.8e-05,0.0596,0.354,132.909,256427,4,Spotify,Raised on Motown,Public I
+The Supremes,Where Did Our Love Go,Where Did Our Love Go,69RH84na5iUNwrwxpgjC5j,0.566,0.49,0,-10.867,1,0.0414,1.42e-05,0.0919,0.847,134.934,153333,4,Spotify,Raised on Motown,Public I
+Martha Reeves & The Vandellas,Dance Party,Nowhere To Run,1WPqawIF9HCKfSOt7mN6X0,0.606,0.815,2,-9.377,0,0.0485,0.00566,0.0515,0.877,129.34,181640,4,Spotify,Raised on Motown,Public I
+The Marvelettes,Please Mr. Postman,Please Mr. Postman - Single Version / Mono,6jX5mso4x00c1EiNMrTU9U,0.785,0.776,2,-5.259,1,0.0312,0,0.181,0.967,121.505,148040,4,Spotify,Raised on Motown,Public I
+Lionel Richie,Back To Front,"Endless Love - From ""The Endless Love"" Soundtrack",0rt0dZ11FVsvprbarag5tk,0.461,0.275,10,-12.331,1,0.0259,0.000219,0.126,0.124,93.126,268293,4,Spotify,Raised on Motown,Public I
+The Isley Brothers,Shout!,"Shout, Pts. 1 & 2",2ZNTPtYmAhN9vCwnAgqKn1,0.489,0.866,10,-7.433,1,0.0933,0,0.876,0.416,138.63,268560,4,Spotify,Raised on Motown,Public I
+Marvin Gaye,How Sweet It Is To Be Loved By You,How Sweet It Is (To Be Loved By You),2zF8ro2hX0aEYaqXQdEKW1,0.653,0.49,0,-10.106,1,0.0408,4.13e-06,0.0832,0.963,110.202,177773,4,Spotify,Raised on Motown,Public I
+The Supremes,More Hits By The Supremes,Stop! In The Name Of Love - Single Version,52FlwUMMDnTK8TGkCag9Jd,0.612,0.444,0,-12.752,1,0.0293,0,0.126,0.503,114.961,172907,4,Spotify,Raised on Motown,Public I
+Commodores,In The Pocket,Lady (You Bring Me Up),5CLozJK4pKWoPpFf2Z1Mye,0.892,0.593,0,-9.429,0,0.0405,0.000339,0.0996,0.867,120.979,293227,4,Spotify,Raised on Motown,Public I
+Martha Reeves & The Vandellas,Ridin' High,I Say A Little Prayer,4hdNtxRuhVgewZuIJRIs7A,0.597,0.441,7,-10.494,1,0.0341,0,0.133,0.767,141.071,184693,4,Spotify,Raised on Motown,Public I
+The Temptations,Gettin' Ready (Expanded Edition),Ain't Too Proud To Beg,4CoGNqLap7UGU5Q3VdKug0,0.763,0.656,0,-6.86,1,0.0417,0,0.125,0.926,118.394,156173,4,Spotify,Raised on Motown,Public I
+Marvin Gaye,In The Groove,I Heard It Through The Grapevine,1tqT6DhmsrtQgyCKUwotiw,0.711,0.362,3,-10.851,0,0.0381,0,0.127,0.616,117.287,194293,4,Spotify,Raised on Motown,Public I
+Diana Ross & The Supremes,Joined Together: The Complete Studio Sessions,Can't Take My Eyes Off You,5pGfZLAljV8ZMXrGNMAbFg,0.504,0.604,7,-6.185,1,0.0331,5.9e-06,0.0833,0.39,130.135,192173,4,Spotify,Raised on Motown,Public I
+Four Tops,Four Tops Second Album,It's The Same Old Song,7d1ustAIlXG7ht5Q4IOv7s,0.704,0.678,2,-9.121,0,0.0295,0,0.119,0.977,125.185,166400,4,Spotify,Raised on Motown,Public I
+Stevie Wonder,Innervisions,Higher Ground,0dMd4rilfd6gPbXaLpNYhu,0.716,0.85,8,-9.949,1,0.0426,0.00133,0.189,0.821,125.474,222600,4,Spotify,Raised on Motown,Public I
+The Spinners,2nd Time Around (Expanded Edition),It's A Shame,1l1YTy9nJ0trwhsCGcimly,0.372,0.642,11,-11.955,1,0.0594,0,0.117,0.705,198.731,190058,4,Spotify,Raised on Motown,Public I
+Lionel Richie,The Definitive Collection,All Night Long (All Night) - Single Version,2Wb9ejnmy27DUTUe9YF5Ew,0.739,0.576,1,-12.024,1,0.0472,0.00206,0.0482,0.78,108.81,260427,4,Spotify,Raised on Motown,Public I
+Diana Ross & The Supremes,The Definitive Collection,Someday We'll Be Together,4OS8sQZgai4XAJv91EjWgL,0.672,0.682,1,-7.485,1,0.0295,3.79e-06,0.0555,0.802,107.231,212547,4,Spotify,Raised on Motown,Public I
+Thelma Houston,The Best Of,Don't Leave Me This Way,2rBBhFXtuMoGuwYTSDpAdF,0.553,0.839,0,-5.844,0,0.116,6e-05,0.13,0.673,121.819,217733,4,Spotify,Raised on Motown,Public I
+Marvin Gaye,United,Your Precious Love,3uMJcNcxcp801NLwgYrj9k,0.429,0.265,10,-14.701,1,0.0359,0,0.0884,0.663,203.018,187267,3,Spotify,Raised on Motown,Public I
+Lionel Richie,The Definitive Collection,Dancing On The Ceiling,6QueWxs5YJnRtqIdsH0EGR,0.703,0.705,0,-10.129,1,0.0456,1.41e-05,0.345,0.766,133.209,275613,4,Spotify,Raised on Motown,Public I
+The Temptations,Sky's The Limit,Just My Imagination (Running Away With Me),39Bd345OWEhRNyfayhp9gv,0.425,0.242,0,-15.424,1,0.0267,0.0118,0.195,0.477,92.472,228160,4,Spotify,Raised on Motown,Public I
+Martha Reeves & The Vandellas,Heat Wave,(Love Is Like A) Heat Wave,3VgrSJEKBRT3xmwzpaxxEF,0.514,0.624,0,-9.287,0,0.0842,0.00517,0.307,0.755,166.726,163053,4,Spotify,Raised on Motown,Public I
+Thelma Houston,The Best Of,Don't Leave Me This Way,2rBBhFXtuMoGuwYTSDpAdF,0.553,0.839,0,-5.844,0,0.116,6e-05,0.13,0.673,121.819,217733,4,Spotify,Raised on Motown,Public I
+Smokey Robinson & The Miracles,The 35th Anniversary Collection,I Second That Emotion,6Hd8mrDwBQ8rLo70FwFG5C,0.711,0.663,2,-9.262,1,0.0308,1.23e-06,0.0291,0.896,96.812,161227,4,Spotify,Raised on Motown,Public I
+The Supremes,Where Did Our Love Go,Come See About Me,307kcWJQNMdiYYKj1LgClU,0.732,0.506,7,-11.735,1,0.0462,1.04e-06,0.146,0.867,126.325,163093,4,Spotify,Raised on Motown,Public I
+Gladys Knight & The Pips,Imagination (Expanded Edition),Midnight Train to Georgia,7MF7QAodbGzNYav5ZfIhAY,0.595,0.379,10,-12.058,0,0.0454,2.81e-05,0.1,0.448,92.006,279333,4,Spotify,Raised on Motown,Public I
+Smokey Robinson & The Miracles,Make It Happen,The Tears Of A Clown,4Dq749x2QP6OXTURJ9GGY8,0.593,0.607,1,-9.886,1,0.0283,0,0.128,0.953,128.365,181800,4,Spotify,Raised on Motown,Public I
+Stevie Wonder,Talking Book,You Are The Sunshine Of My Life,0n2pjCIMKwHSXoYfEbYMfX,0.519,0.46,11,-14.53,1,0.0688,5.97e-05,0.243,0.675,132.082,178200,4,Spotify,Raised on Motown,Public I
+Martha Reeves & The Vandellas,Watchout!,Jimmy Mack,7N3UAu6FkwdBg9J7OONBBP,0.701,0.517,2,-7.951,1,0.0357,0,0.385,0.688,127.401,163733,4,Spotify,Raised on Motown,Public I
+The Supremes,"The Supremes Sing Holland, Dozier, Holland",You Keep Me Hangin' On,4a01ClusxuZiloOK5UgLUn,0.682,0.612,8,-7.004,0,0.0381,0,0.0783,0.845,127.647,163280,4,Spotify,Raised on Motown,Public I
+The Isley Brothers,It's Our Thing,It's Your Thing,3ZxfehzRtB3oJcBuxWXFZQ,0.376,0.67,10,-9.273,1,0.0854,2.52e-06,0.0718,0.837,185.503,169293,4,Spotify,Raised on Motown,Public I
+Rare Earth,Fill Your Head: The Studio Albums 1969-1974,Get Ready - Single Version,5F6XsffCcDXwJmJXiuPRle,0.62,0.94,2,-4.098,0,0.0311,0.000828,0.275,0.959,136.828,166707,4,Spotify,Raised on Motown,Public I
+Smokey Robinson & The Miracles,OOO Baby Baby: The Anthlogy,You've Really Got A Hold On Me - Alternate Stereo Mix,7ifcJ5DDytGf8aITxmgsLN,0.64,0.381,9,-13.265,0,0.03,0,0.17,0.677,118.229,192133,3,Spotify,Raised on Motown,Public I
+Four Tops,Reach Out,Reach Out I'll Be There,6Pkj4nv5K53i64cLVgkVyY,0.607,0.599,3,-8.908,0,0.0282,0,0.188,0.735,119.842,178533,4,Spotify,Raised on Motown,Public I
+Lionel Richie,The Definitive Collection,You Are,41xY0XOmX8DF8GKoPi4oF3,0.788,0.403,1,-12.776,1,0.0345,0.000243,0.0585,0.631,111.798,246787,4,Spotify,Raised on Motown,Public I
+The Supremes,Where Did Our Love Go,Baby Love,5uES1C2NgkdrNHiCwf9jRr,0.595,0.643,5,-9.275,1,0.0365,0,0.538,0.73,135.633,158040,4,Spotify,Raised on Motown,Public I
+Jimmy Ruffin,Sings Top Ten,What Becomes Of The Brokenhearted,0wBaPbJ2qsbGqgnGbqBDgP,0.733,0.443,2,-12.017,0,0.0252,0,0.519,0.701,97.348,178440,4,Spotify,Raised on Motown,Public I
+Marvin Gaye,You're All I Need,Ain't Nothing Like The Real Thing,37soQoNhEEIrhhYgHWK1xU,0.606,0.52,8,-11.312,1,0.036,0.000628,0.354,0.765,93.449,138533,4,Spotify,Raised on Motown,Public I

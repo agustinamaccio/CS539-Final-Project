@@ -1,0 +1,59 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Various Artists,RCA Victor Gold Series Jazz Sampler,Night and Day - Live,0BVbLyEWmmDkNriRd2E5I7,0.501,0.341,9,-9.12,0,0.0315,4.57e-05,0.12,0.241,143.819,184107,4,Julieta Frère,jazz/bossa,Julieta Frere
+Stan Getz,Getz/Gilberto (Classics International Version),Corcovado - Quiet Nights Of Quiet Stars,5i2sgqnzaxYpvXmGAB592h,0.524,0.108,0,-18.361,1,0.0493,0.00123,0.139,0.322,127.982,253933,4,Julieta Frère,jazz/bossa,Julieta Frere
+Stan Getz,Stan Getz: The Bossa Nova Albums,Desafinado,5pstSsK0G4q86gdyy1Spqh,0.466,0.146,3,-17.5,1,0.0649,0.154,0.107,0.423,142.885,249387,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Once I Loved,6d29TKXB532hmlFwJU8cV1,0.356,0.266,11,-14.78,0,0.0335,1.78e-05,0.14,0.387,139.865,133573,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Agua De Beber,4SSADZr3VsQeoqNbjLXw8W,0.645,0.357,4,-15.628,0,0.0356,0.0,0.0727,0.86,147.846,139253,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Meditation,4MklD3W3YgAdwcTgrVycHz,0.419,0.262,9,-13.359,0,0.0335,3.53e-06,0.278,0.31,132.291,161907,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,And Roses And Roses,3BNgWfJBGBbtn2mEZ83o8j,0.436,0.249,2,-14.39,0,0.0409,7.32e-06,0.0746,0.213,119.319,156133,3,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,O Morro (Nao Tem Vez),5LCgjYjP6YeO1MR87AFE8o,0.598,0.186,2,-15.147,0,0.0342,0.0199,0.137,0.529,147.674,178187,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,How Insensitive,6tWzStffRVpmwAqkJJF81A,0.404,0.296,2,-13.174,0,0.0333,0.000485,0.215,0.334,121.984,169187,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Dindi,31fzckdx0zs3keh15MyLBI,0.244,0.135,11,-16.841,0,0.0385,2.09e-05,0.128,0.151,166.499,163427,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Photograph,2Fa8PM62zSGZG2FgQK3lim,0.491,0.404,4,-13.023,1,0.0317,2.52e-06,0.46,0.789,150.708,131120,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,Dreamer,4kjF8RZYBgrwjqie4OpIQq,0.546,0.33,6,-13.665,1,0.0349,4.31e-06,0.391,0.477,139.676,122773,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,So Finha De Ser Com Voce,17mv6EKdhFQ9jp31Tvc6Kb,0.588,0.225,5,-14.882,1,0.0345,0.0,0.0532,0.662,147.781,141427,4,Julieta Frère,jazz/bossa,Julieta Frere
+Astrud Gilberto,The Astrud Gilberto Album,All That's Left Is To Say Goodbye,1ZF6fnP2TnWLkVnx8tA63z,0.263,0.358,11,-13.589,1,0.0342,0.0,0.344,0.407,83.553,191680,4,Julieta Frère,jazz/bossa,Julieta Frere
+Stan Getz,Stan Getz: The Bossa Nova Albums,The Girl From Ipanema,4xGFcQEIjtmbPD6Jsxq14M,0.641,0.14,8,-16.79,1,0.039,0.00166,0.105,0.388,129.318,317987,4,Julieta Frère,jazz/bossa,Julieta Frere
+Amy Winehouse,Lioness: Hidden Treasures,The Girl From Ipanema,70BS5YOpvhWkkol3Alvsi1,0.691,0.608,9,-5.045,0,0.0516,1.75e-06,0.111,0.737,138.039,166960,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Agua De Beber,4HygMDZlAk11YHLQzg80aO,0.638,0.283,0,-20.356,0,0.0404,0.0601,0.0814,0.887,80.167,149453,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Desafinado,4HGqCfCD7avuyDjUHn1rDq,0.608,0.382,0,-17.063,1,0.0748,0.0116,0.146,0.785,89.128,350093,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,The Girl From Ipanema,4DuLNG7vpOC4GHwsnlvsEx,0.563,0.0867,2,-21.096,1,0.0422,3.76e-05,0.687,0.358,119.807,395667,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Insensatez,6rg1PFlxDjDwGPjg8Gc4sf,0.356,0.386,4,-11.11,0,0.0296,0.832,0.144,0.419,76.633,139827,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Wave,5DxEVPW45Q1ATXbrcOeSiX,0.481,0.0123,0,-30.629,0,0.0588,0.312,0.0896,0.273,136.388,276973,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Sambalero,2VUodfcVyYeN6yqTpUaT00,0.545,0.348,8,-14.046,1,0.0344,0.441,0.12,0.594,139.731,128493,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Vai Querer,6gwPuj8qjn0Ae76bJsffVj,0.528,0.242,4,-18.575,0,0.0752,1.89e-06,0.224,0.768,112.138,183707,5,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Samba De Uma Nota So,4cBNR8HLvF5uQ8ZBtF0zyn,0.685,0.134,0,-24.432,1,0.074,0.234,0.107,0.597,153.415,373307,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Blue Bossa (Remastered),25LdCoDSZrktjkICQc5Ml4,0.531,0.366,5,-11.697,0,0.0496,0.88,0.0916,0.785,81.867,482440,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Summer Samba,2hu4jw62nQPlWp14WRjUyp,0.683,0.387,5,-15.633,1,0.0305,0.856,0.0739,0.855,124.093,188853,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Tristeza,4UIjJTgZJ2OmU2heiFwSu5,0.337,0.64,10,-13.359,1,0.0299,6.96e-05,0.196,0.914,97.61,215533,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Chega De Saudade (No More Blues),4dNcFj8rXgPVRCx2CKKhCD,0.36,0.308,0,-13.97,0,0.0348,0.0937,0.0715,0.559,86.654,255053,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Le Meilleur du Jazz: Bossa Nova,Bim Bom,68LUEJNwwGhbtZ5xKy8AoL,0.451,0.375,7,-21.998,1,0.161,0.496,0.697,0.835,85.167,129720,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Jazz Bossa Nova,3Yu0WIrlczKwEvgKdIXN7d,0.537,0.402,2,-16.073,0,0.0381,0.00393,0.072,0.846,106.788,181213,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Desafinado,0T1Op0eSv4j7sFiNRXJsmP,0.514,0.255,10,-13.425,1,0.0371,1.85e-05,0.125,0.556,144.705,254360,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Stumpy Bossa Nova,0ZOP2qhyFNcPpM78Kw26zR,0.691,0.281,8,-14.906,1,0.271,0.202,0.182,0.742,82.854,153360,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Bossa Nova Cha Cha,1d2A2JiplTVimofLiFOQSi,0.632,0.184,11,-16.857,0,0.063,0.52,0.41,0.563,147.023,200427,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Bossa Nouveau,0g7zbZGG98gWkA29ufiZO9,0.641,0.707,9,-10.464,1,0.0353,0.921,0.0889,0.916,153.771,344827,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Big Bossa,4vpG8k325xq8uAWKilZSRB,0.395,0.577,0,-10.415,0,0.0575,0.001,0.609,0.574,85.398,243000,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Blue Bossa (Remastered),2F8L9qefUb1PVuPYr8tXkJ,0.531,0.366,5,-11.697,0,0.0496,0.88,0.0916,0.785,81.867,482440,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Recado Bossa Nova,5z35NnjM3a18bP5618Kfp4,0.704,0.262,0,-13.998,0,0.0662,0.654,0.104,0.388,140.483,328907,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Bossa (Remastered),0EZIa5tf4xZWyrF9zlvYqO,0.455,0.208,7,-15.638,1,0.0368,0.929,0.122,0.253,108.945,284933,5,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Harlem Bossa Nova (Remastered),2fmoQtGwuP10Yqg3bfa2Kk,0.643,0.534,0,-8.217,1,0.0375,5.79e-06,0.111,0.81,101.829,209333,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Boss Bossa,6augRZug2u4dc1AK8Xw3xM,0.567,0.403,7,-12.738,0,0.0347,4.59e-05,0.0541,0.715,143.737,313867,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Hot Bossa,3LS2PPzMVIjljAeqV3rGKl,0.604,0.384,7,-14.578,0,0.0423,0.00793,0.103,0.789,109.896,281293,5,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Lalo's Bossa Nova,1kbYQd12ri00fDkHGoyJ7B,0.377,0.734,0,-10.614,1,0.0374,0.00416,0.212,0.728,93.439,133693,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Jazz Bossa Nova,Book's Bossa,6ecvTLvm8DrOuze58dvmwl,0.51,0.546,1,-9.039,1,0.0346,0.839,0.105,0.371,112.695,358760,4,Julieta Frère,jazz/bossa,Julieta Frere
+The Andrews Sisters,The Andrews Sisters Greatest Hits,Rum & Coca Cola,115zZ9K1EV5vNot68vGGzh,0.762,0.246,10,-11.229,1,0.173,0.0,0.0768,0.646,160.845,188973,4,Julieta Frère,jazz/bossa,Julieta Frere
+Chet Baker,Let's Get Lost: The Best Of Chet Baker Sings,I Fall In Love Too Easily,3eOLIkX8YZwfkMWl6ooF46,0.561,0.0706,5,-19.197,0,0.0382,0.00245,0.0988,0.276,64.73,200467,4,Julieta Frère,jazz/bossa,Julieta Frere
+Chet Baker,Best of Chet Baker,All the Things You Are,6QciLqADP6ED34rKgXL2Z2,0.595,0.416,8,-11.885,1,0.0485,0.88,0.35,0.681,136.941,177110,4,Julieta Frère,jazz/bossa,Julieta Frere
+Frank Sinatra,"Sinatra, With Love",Wave,3KiGSemoZ8K7GXf2IquGmf,0.544,0.278,8,-14.161,1,0.0334,0.000623,0.36,0.474,116.603,199760,4,Julieta Frère,jazz/bossa,Julieta Frere
+Elis Regina,Elis & Tom,Só Tinha De Ser Com Você,2MTrACUycdhqhQ9dYpxWJb,0.797,0.285,5,-19.409,1,0.0553,0.328,0.12,0.539,120.063,229800,4,Julieta Frère,jazz/bossa,Julieta Frere
+Chet Baker,Lost Tapes: Early Chet,Brash,6HIvcV6Z1FsdYju90dsqyU,0.439,0.248,11,-17.672,1,0.0348,0.0177,0.673,0.157,63.974,278145,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,100 Swing Jazz Classics,Manhattan Serenade,43dqdOzXfOVcrd3jns8Bgu,0.314,0.0434,2,-19.552,1,0.0308,0.589,0.104,0.338,94.934,195760,4,Julieta Frère,jazz/bossa,Julieta Frere
+Yves Montand,Metro,Rue St Vincent,7nbz9R4E72WawVL8Yq3ipP,0.564,0.0857,0,-20.665,1,0.202,0.104,0.149,0.344,75.574,205087,5,Julieta Frère,jazz/bossa,Julieta Frere
+Louis Armstrong,Definitive Vocal Duets,You Rascal You,0s0PEkVvIegRfHeawHF0vb,0.66,0.332,7,-13.172,1,0.079,0.0,0.286,0.85,98.924,190133,4,Julieta Frère,jazz/bossa,Julieta Frere
+Hampton Hawes Trio,"This Is Hampton Hawes, Vol. 2: The Trio",'Round Midnight,6Mdu9Gat0QDEAGdPPORgW9,0.523,0.0887,6,-21.842,1,0.0445,0.834,0.169,0.107,119.474,320467,4,Julieta Frère,jazz/bossa,Julieta Frere
+Miles Davis,Kind Of Blue (Legacy Edition),"All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",5o3DSHw1ORhM3lWxqGRvEf,0.499,0.149,0,-18.305,1,0.0314,0.00469,0.115,0.363,139.815,692747,3,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Midnight In Paris,Si Tu Vois Ma Mère,6ePF3ffyE5MncUkTNl2jia,0.443,0.442,11,-16.631,1,0.0361,0.874,0.355,0.708,82.379,187973,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,Midnight In Paris,Lets Do it,19XAkQs9zhthKCKotyDdnX,0.604,0.351,10,-13.214,1,0.124,0.88,0.208,0.957,203.052,193653,4,Julieta Frère,jazz/bossa,Julieta Frere
+Various Artists,"Italian Hits : I grandi successi della radio collection, Vol. 1",Ma lamore no,5wjEu1ZNs4kbLH2RSyoy71,0.522,0.265,10,-11.029,1,0.0395,0.869,0.339,0.55,107.916,194630,4,Julieta Frère,jazz/bossa,Julieta Frere
+Chet Baker,Cool Chet Baker,Autumn Leaves,4NI4dWGezi9MSblhKKQjEM,0.502,0.608,5,-11.165,0,0.0379,0.428,0.102,0.608,92.9,422640,4,Julieta Frère,jazz/bossa,Julieta Frere

@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Elvis Presley,For LP Fans Only,That's All Right,0tHcXWIYt99GY8BONrPIfA,0.655,0.405,2,-9.825,1,0.036,1.33e-06,0.116,0.696,105.272,115280,4,Spotify,Rockabilly Drive,Public F
+Carl Perkins,The Dance Album,Blue Suede Shoes,5d6ZRqgbz26Sg4bk1oifQw,0.548,0.673,4,-7.318,0,0.0364,8.53e-05,0.342,0.965,168.891,134446,4,Spotify,Rockabilly Drive,Public F
+Bill Haley & His Comets,Rock Around The Clock,"Shake, Rattle And Roll",5z2Gef9D3UgRquZXe7UUW4,0.662,0.794,5,-6.942,1,0.152,0.0,0.149,0.841,168.106,149467,3,Spotify,Rockabilly Drive,Public F
+Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],Whole Lot of Shakin' Going On,6wO13Xb3EdHUNixFOEJ0KV,0.377,0.626,0,-9.662,1,0.033,6.46e-05,0.188,0.678,161.468,172400,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent,Capitol Collectors Series,Lotta Lovin',0ijKW319aVwVVDmFGU4rGC,0.565,0.495,7,-14.611,1,0.0506,0.000111,0.287,0.952,168.21,131973,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent,Dance To The Bop,Be-Bop-A-Lula,0HUp7ipIDJvITTqizN6cxJ,0.593,0.537,9,-10.906,1,0.0444,0.0,0.147,0.843,126.071,156307,4,Spotify,Rockabilly Drive,Public F
+Eddie Cochran,Never To Be Forgotten,Twenty Flight Rock,0Lx4qHJ7ZBoSZvc704wsDd,0.643,0.771,9,-8.659,1,0.213,0.0,0.0442,0.912,105.822,105773,4,Spotify,Rockabilly Drive,Public F
+Bill Haley & His Comets,Rockin' The Joint,"See You Later, Alligator",05eNEozACh10Rn0ewFnH8Y,0.663,0.758,10,-10.07,0,0.0571,0.0,0.319,0.814,157.198,166840,4,Spotify,Rockabilly Drive,Public F
+Elvis Presley,For LP Fans Only,Mystery Train,0GvhHQbWSnGltjl0je61dI,0.699,0.514,4,-12.61,1,0.0315,0.029,0.22,0.63,120.758,144947,4,Spotify,Rockabilly Drive,Public F
+Carl Mann,"Like, Mann: Carl Mann Sings",Mona Lisa,6bhTvzvIPjOLtsGAhyaHfH,0.367,0.714,0,-6.484,1,0.0684,3.76e-06,0.29,0.891,173.443,146729,4,Spotify,Rockabilly Drive,Public F
+Buddy Knox,Buddy Knox,Party Doll,3SNEFR9U8CCEUN3iZfkVgW,0.664,0.731,11,-7.84,0,0.0779,5.95e-06,0.216,0.661,90.054,135173,4,Spotify,Rockabilly Drive,Public F
+Billy Lee Riley,Flyin' Saucers Rock & Roll / I Want You Baby,Flyin' Saucers Rock & Roll,61NxE9hAjnvplyUKdY6jKv,0.429,0.653,2,-8.957,1,0.0732,2.9e-05,0.22,0.679,165.029,122108,4,Spotify,Rockabilly Drive,Public F
+Carl Perkins,The Dance Album,Matchbox,3qz0e03PIaalwcCGwaJHMs,0.524,0.892,9,-8.231,1,0.0645,0.00855,0.392,0.923,170.15,127848,4,Spotify,Rockabilly Drive,Public F
+Roy Orbison,At the Rock House,Ooby Dooby,7Bt1RAu4FSYL3WltEmLmb5,0.514,0.796,1,-8.226,1,0.0691,0.025,0.056,0.941,181.282,130500,4,Spotify,Rockabilly Drive,Public F
+Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,The Train Kept A Rollin',7s8spWIA65WP6vG18bXDP1,0.56,0.707,9,-7.556,1,0.0686,0.0,0.305,0.962,167.36,139453,4,Spotify,Rockabilly Drive,Public F
+Wanda Jackson,Rockin' With Wanda,Fujiyama Mama - Remastered,5GZKrlylsU8zoILY2aiDJz,0.834,0.704,2,-8.077,1,0.0631,5.91e-05,0.201,0.96,141.495,134733,4,Spotify,Rockabilly Drive,Public F
+Glen Glenn,Glen Rocks,Everybody's Movin',4NnJxkpRJzfKMJM1H3VlYt,0.696,0.666,1,-6.481,0,0.0497,0.00384,0.131,0.932,79.229,162493,4,Spotify,Rockabilly Drive,Public F
+Buddy Holly,That'll Be The Day,Rock Around With Ollie Vee - Alternate Version,5b0KMebx2ZOPv91U42xOSv,0.538,0.503,2,-10.341,1,0.0496,0.0826,0.117,0.887,202.563,138067,4,Spotify,Rockabilly Drive,Public F
+Billy Lee Riley,The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals),Red Hot,31ajddT1F78QGsGLWonOaq,0.396,0.841,0,-6.944,1,0.104,0.0,0.0847,0.758,175.966,149584,4,Spotify,Rockabilly Drive,Public F
+Johnny Burnette & The Rock 'N' Roll Trio,Johnny Burnette And The Rock 'N Roll Trio,Rock Billy Boogie,4NazHwfKb4e9WSkFM2OC52,0.718,0.89,7,-7.163,1,0.0499,0.0,0.164,0.95,90.312,156427,4,Spotify,Rockabilly Drive,Public F
+Ray Smith,The Sun Records Sound of Ray Smith (20 Rock 'n' Roll Classics),Right Behind You Baby,1eI9gpxLg80Om4pirkr9oe,0.614,0.846,9,-8.124,0,0.0626,1.51e-05,0.126,0.964,88.347,142616,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent & His Blue Caps,Gene Vincent And The Blue Caps,"Hold Me, Hug Me, Rock Me",0P9wPwqLUHzp5jeY1cHeAd,0.61,0.7,9,-8.065,1,0.0422,0.0,0.428,0.904,123.147,135373,4,Spotify,Rockabilly Drive,Public F
+Carl Perkins,The Dance Album,Boppin' The Blues,0wNnwLgq5N9lWYib8eUnu6,0.776,0.902,2,-7.464,1,0.0999,3.94e-05,0.0712,0.677,87.839,167840,4,Spotify,Rockabilly Drive,Public F
+Ricky Nelson,Legacy,Hello Mary Lou,0YOasUp8fxPk3FXEa3fZ9z,0.588,0.601,9,-11.031,1,0.0291,1.01e-06,0.08,0.922,99.007,138840,4,Spotify,Rockabilly Drive,Public F
+Joe Bennett & The Sparkletones,1957-1959,Black Slacks,0nRR6eQMDYkIFmn8c9Rwga,0.5,0.835,10,-6.362,1,0.135,0.0,0.163,0.901,202.448,129027,4,Spotify,Rockabilly Drive,Public F
+Wanda Jackson,Rockin' With Wanda,"Mean, Mean Man - Remastered",1Ssb9hQz8ha0oHGdsFsQ8N,0.544,0.888,4,-6.838,1,0.0328,6.58e-05,0.109,0.92,151.936,133533,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent & His Blue Caps,Blue Jean Bop,Bluejean Bop,2BgekYyyiCcvina0Ihoii9,0.573,0.671,7,-10.017,1,0.0738,0.0,0.124,0.724,97.031,142560,4,Spotify,Rockabilly Drive,Public F
+Hank Mizell,Jungle Rock,Jungle Rock,0XSHcO8JNMSA8kXvppB5bS,0.576,0.82,4,-7.719,0,0.0752,0.369,0.111,0.86,168.12,168120,4,Spotify,Rockabilly Drive,Public F
+Elvis Presley,The Essential Elvis Presley,"Baby, Let's Play House - Remastered",4Ls0zLUccPv9o0G4Uio503,0.691,0.736,4,-6.716,1,0.0446,0.0183,0.14,0.942,104.114,135627,4,Spotify,Rockabilly Drive,Public F
+Ricky Nelson,Ricky Sings Again (Expanded Edition / Remastered),Believe What You Say - Remastered,2Cr8d39cOPBWzmVKwcjmmP,0.641,0.797,4,-9.011,0,0.0568,0.0,0.0925,0.727,93.068,125467,4,Spotify,Rockabilly Drive,Public F
+Ray Harris,Come on Little Mama / Where'd You Stay Last Night,Come on Little Mama,11OqzAcT8jMaNZAt6kdpvR,0.562,0.909,6,-6.73,0,0.145,0.00214,0.398,0.937,96.704,138813,4,Spotify,Rockabilly Drive,Public F
+Sanford Clark,Presenting Sandford Clark,The Fool,0JcE8h38d6tTuse4IkPLXn,0.619,0.538,7,-10.374,1,0.0285,0.00326,0.0685,0.829,75.409,167373,4,Spotify,Rockabilly Drive,Public F
+Dwight Pullen,Sunglasses After Dark,Sunglasses After Dark,0VL7bjfwdWsGOOwhGjEe7c,0.293,0.828,4,-10.609,0,0.0788,0.000871,0.0755,0.788,174.432,128867,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent,Dance To The Bop,Race With The Devil,6yqpkreNmOenMuTV9NG2C9,0.593,0.625,4,-10.859,1,0.0457,0.0,0.07,0.901,100.626,123493,4,Spotify,Rockabilly Drive,Public F
+Mac Curtis,Blue Jean Heart,Grandaddy's Rockin',5XTKNlsQKuozZ44degiPhc,0.872,0.808,10,-6.095,1,0.0672,0.00547,0.0593,0.964,102.784,125627,4,Spotify,Rockabilly Drive,Public F
+Charlie Feathers,His Complete King Recordings,One Hand Loose,1uYlKhktrgikytcB1UQZYs,0.661,0.762,4,-9.581,1,0.038,3.38e-05,0.121,0.911,89.293,144480,4,Spotify,Rockabilly Drive,Public F
+Roy Orbison,At the Rock House,Rock House,36YXD9jFfw446zqlOVGFD2,0.421,0.867,4,-7.247,1,0.0751,0.0,0.306,0.85,204.508,123000,4,Spotify,Rockabilly Drive,Public F
+Elvis Presley,A Date With Elvis,Good Rockin' Tonight,6k3FE2tlTymnsPMTkL8slE,0.518,0.519,4,-9.031,1,0.0401,0.0,0.0961,0.921,172.245,131573,4,Spotify,Rockabilly Drive,Public F
+Various Artists,British Beat Before The Beatles 1955-1962,Brand New Cadillac,0CJ3EmwyofCmDljpoKecQR,0.581,0.833,10,-5.479,1,0.0482,5.37e-05,0.256,0.743,83.529,157067,4,Spotify,Rockabilly Drive,Public F
+Eddie Cochran,The Best Of Eddie Cochran,Skinny Jim,07JOGpEHBICoVjcIjF4ROY,0.657,0.758,2,-8.342,1,0.0944,0.0,0.314,0.864,91.843,131867,4,Spotify,Rockabilly Drive,Public F
+Mac Curtis,Blue Jean Heart,If I Had Me A Woman,1FP1yL9ukEYX0z0IX5ir7Y,0.774,0.713,5,-5.436,1,0.189,0.00206,0.0691,0.88,95.793,141693,4,Spotify,Rockabilly Drive,Public F
+Gene Vincent & His Blue Caps,Gene Vincent And The Blue Caps,Pink Thunderbird,3NenvURev5mcCecxsUoWI2,0.456,0.713,0,-9.163,1,0.268,0.0,0.0705,0.68,99.608,152600,3,Spotify,Rockabilly Drive,Public F
+Wanda Jackson,Rockin' With Wanda,Hot Dog! That Made Him Mad - Remastered,1r0qsbI9hQu5v5aSCTTqJR,0.57,0.526,9,-7.377,1,0.0815,0.0,0.129,0.881,146.757,160200,4,Spotify,Rockabilly Drive,Public F
+Pat Cupp,Rockabilly Greats,Do Me No Wrong,0fA5ZwzfOlH8RT3jjDwE8S,0.559,0.901,5,-4.95,1,0.0626,0.0,0.277,0.911,93.107,144000,4,Spotify,Rockabilly Drive,Public F
+Eddie Bond,Memphis Rockabilly King,Flip flop Mama,2opuQE3MDx92ujXUPqdFcb,0.509,0.68,0,-5.314,1,0.0559,0.0,0.175,0.888,145.39,128920,4,Spotify,Rockabilly Drive,Public F
+Charlie Feathers,Gone Gone Gone,Bottle to the Baby,2ImE4dNfy18hhApS7EwrLG,0.555,0.935,5,-6.534,1,0.0856,1.32e-05,0.198,0.7,175.286,144173,4,Spotify,Rockabilly Drive,Public F
+Janis Martin,We Love You To Pieces,Drugstore Rock'N'Roll,7HUv0He4tAmmWBDyYfyOwa,0.555,0.57,7,-6.38,1,0.057,0.000155,0.0919,0.904,185.498,129067,4,Spotify,Rockabilly Drive,Public F
+Various Artists,Rhino Hi-Five: Rockin' Bones: 1950s Punk & Rockabilly,I Got a Rocket in My Pocket - Remastered Single Version,3Qx5VIqbesK1ByTLuXcddr,0.658,0.797,5,-6.541,1,0.0339,0.00242,0.201,0.977,160.182,139013,4,Spotify,Rockabilly Drive,Public F
+Carl Perkins,Most Wanted,Everybody's Trying to Be My Baby,16Wwp6SO1YyL91OYzl58bN,0.577,0.929,11,-5.648,0,0.0988,0.0,0.134,0.782,90.048,135467,4,Spotify,Rockabilly Drive,Public F
+Jackie Lee Cochran,Jack the Cat,Hip Shakin' Mama,5cyBAPXn49iasSiD3s5pkQ,0.589,0.45,11,-12.238,1,0.0516,0.0,0.499,0.872,94.497,112600,3,Spotify,Rockabilly Drive,Public F

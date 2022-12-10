@@ -1,0 +1,71 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Van Halen,The Collection,Jump - 2015 Remaster,5FqYA8KfiwsQvyBI4IamnY,0.572,0.835,0,-6.219,1,0.0317,0.000377,0.0702,0.795,129.981,241600,4,Spotify,Raised on Rock,Public G
+Fleetwood Mac,Greatest Hits,Dreams,1lbXEepatjRVjoG8pZMtdp,0.823,0.338,0,-15.899,1,0.0413,0.00129,0.5,0.785,120.473,254453,4,Spotify,Raised on Rock,Public G
+Foo Fighters,00020225,Times Like These - Acoustic Version,1pXgBjIvALm97lDhroan2E,0.588,0.559,4,-4.849,0,0.0272,0.0,0.0977,0.278,123.845,238587,4,Spotify,Raised on Rock,Public G
+Tom Petty,The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016,Runnin' Down A Dream,5yAu4njFSdM47dfsTkQPZ2,0.471,0.956,9,-6.371,1,0.0403,0.62,0.624,0.715,169.798,261813,4,Spotify,Raised on Rock,Public G
+The Cult,Love,She Sells Sanctuary,3qLZ866ZfaK0B0R5FIqXLG,0.55,0.765,7,-8.684,1,0.0287,0.873,0.132,0.419,139.46,252533,4,Spotify,Raised on Rock,Public G
+Led Zeppelin,Mothership (Remastered),Immigrant Song - Remaster,2uuMXKKmdXrY2XxsqTsGp0,0.567,0.931,11,-10.361,1,0.0544,0.159,0.342,0.623,112.948,146747,4,Spotify,Raised on Rock,Public G
+Aerosmith,Aerosmith,Dream On,5MxNLUsfh7uzROypsoO5qe,0.307,0.433,1,-10.057,1,0.029,9.08e-05,0.332,0.224,160.9,266960,4,Spotify,Raised on Rock,Public G
+Journey,Escape (Bonus Track Version),Don't Stop Believin',4bHsxqR3GMrXTxEPLuK5ue,0.5,0.748,4,-9.072,1,0.0363,0.0,0.447,0.514,118.852,250987,4,Spotify,Raised on Rock,Public G
+Thin Lizzy,Jailbreak (Deluxe Edition),The Boys Are Back In Town,43DeSV93pJPT4lCZaWZ6b1,0.445,0.706,8,-9.803,1,0.0461,0.000252,0.205,0.768,80.823,266720,4,Spotify,Raised on Rock,Public G
+Hole,Celebrity Skin,Celebrity Skin,2V4Bc2I962j7acQj1N0PiQ,0.438,0.905,9,-6.161,1,0.0419,5.4e-05,0.363,0.723,134.163,162667,4,Spotify,Raised on Rock,Public G
+Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,7snQQk1zcKl8gZ92AnueZW,0.446,0.952,6,-5.321,1,0.0523,0.0857,0.112,0.624,125.303,356067,4,Spotify,Raised on Rock,Public G
+INXS,Kick,Mystify,7LV9R3L1YfTSoefglhUyPD,0.628,0.855,9,-4.245,0,0.0356,2.94e-05,0.197,0.408,129.785,196924,4,Spotify,Raised on Rock,Public G
+U2,The Joshua Tree (Super Deluxe),Where The Streets Have No Name - Remastered,4qgZs0RNjdzKAS22lP0QjY,0.49,0.724,2,-9.581,1,0.0366,0.0046,0.159,0.292,125.812,337506,4,Spotify,Raised on Rock,Public G
+The Cars,The Elektra Years 1978 - 1987,Good Times Roll - 2016 Remaster,0nFKHCf1Ibij8m370l2KlZ,0.631,0.689,4,-8.358,1,0.0284,0.000357,0.102,0.645,107.667,225227,4,Spotify,Raised on Rock,Public G
+AC/DC,Iron Man 2,Back In Black,2iEGj7kAwH7HAa5epwYwLB,0.437,0.713,9,-5.698,1,0.0353,0.00967,0.0946,0.77,93.618,255640,4,Spotify,Raised on Rock,Public G
+David Bowie,Diamond Dogs (2016 Remaster),Rebel Rebel - 2016 Remaster,2EC9IJj7g0mN1Q5VrZkiYY,0.635,0.686,9,-15.648,1,0.053,0.0176,0.282,0.464,125.988,274747,4,Spotify,Raised on Rock,Public G
+Heart,Little Queen,Barracuda,4KfSdst7rW39C0sfhArdrz,0.548,0.691,4,-13.553,0,0.0369,0.106,0.144,0.667,137.145,261933,4,Spotify,Raised on Rock,Public G
+Pat Benatar,Crimes Of Passion,Hit Me With Your Best Shot,0vOkmmJEtjuFZDzrQSFzEE,0.741,0.58,4,-9.05,1,0.0304,3.31e-05,0.212,0.944,127.402,171267,4,Spotify,Raised on Rock,Public G
+Queen,News Of The World (Deluxe Remastered Version),We Will Rock You - Remastered 2011,54flyrjcdnQdco7300avMJ,0.693,0.497,2,-7.316,1,0.119,0.0,0.258,0.473,81.308,122067,4,Spotify,Raised on Rock,Public G
+The Who,Tommy,Pinball Wizard,6LbbHFEajG9e4m0G3L47c4,0.543,0.715,2,-8.89,1,0.0356,0.0,0.256,0.468,124.011,180943,4,Spotify,Raised on Rock,Public G
+The Doors,Hello I Love You,"Hello, I Love You - 2018 Remaster",73uTAbsl0iwA2Aj0d4oCPp,0.63,0.524,2,-13.34,1,0.0391,0.0,0.0933,0.961,118.187,136173,4,Spotify,Raised on Rock,Public G
+The Beatles,Abbey Road (Remastered),Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,0.533,0.376,9,-11.913,0,0.0393,0.248,0.0926,0.187,165.007,259947,4,Spotify,Raised on Rock,Public G
+Fleetwood Mac,Rumours (Super Deluxe),Songbird - 2004 Remaster,6DrXZwTuhl5Ow4mcmSWjME,0.389,0.0851,5,-15.477,1,0.0346,0.00187,0.101,0.364,184.298,200813,4,Spotify,Raised on Rock,Public G
+Depeche Mode,Music for the Masses (2006 Remaster),Never Let Me Down Again - 2006 Remaster,2H1BmB1b6Px9KJXIUpD03u,0.581,0.886,0,-6.505,1,0.0324,0.0297,0.691,0.586,106.067,290493,4,Spotify,Raised on Rock,Public G
+Steppenwolf,Steppenwolf,Born To Be Wild - Single Version,3lN8PP6R2IxbLP05QpYXng,0.439,0.734,2,-12.168,1,0.097,0.333,0.244,0.54,145.703,212893,4,Spotify,Raised on Rock,Public G
+Muse,Black Holes and Revelations,Starlight,3skn2lauGk7Dx6bVIt5DVj,0.55,0.874,4,-4.046,1,0.0321,1.02e-05,0.206,0.318,121.61,240213,4,Spotify,Raised on Rock,Public G
+Garbage,Garbage (20th Anniversary Deluxe Edition/Remastered),Only Happy When It Rains,1IsGA5ceSC4a5nxgAEYnQd,0.511,0.827,1,-4.55,0,0.0323,0.00103,0.208,0.486,121.459,236533,4,Spotify,Raised on Rock,Public G
+The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Deluxe Edition),"Tonight, Tonight - Remastered 2012",7bu0znpSbTks0O6I98ij0W,0.277,0.67,6,-9.381,1,0.0376,0.751,0.237,0.217,148.342,254627,4,Spotify,Raised on Rock,Public G
+Kim Wilde,Kim Wilde,Kids In America,1YGZyfvdgZxzipWoWYVKxi,0.557,0.782,4,-3.899,1,0.0475,6.75e-06,0.118,0.305,159.621,205533,4,Spotify,Raised on Rock,Public G
+The Black Crowes,Shake Your Money Maker,She Talks To Angels,5NK8jad728pj6YeqM5VJD4,0.584,0.521,4,-5.782,1,0.0295,7.56e-05,0.22,0.317,160.058,329400,4,Spotify,Raised on Rock,Public G
+Big Brother & The Holding Company,Cheap Thrills,Piece of My Heart,1xKQbqQtQWrtQS47fUJBtl,0.443,0.727,4,-7.951,1,0.145,0.000141,0.169,0.566,160.82,253333,4,Spotify,Raised on Rock,Public G
+The Rolling Stones,Sticky Fingers (Remastered),Wild Horses - 2009 Mix,52dm9op3rbfAkc1LGXgipW,0.432,0.389,7,-6.517,1,0.0255,0.0107,0.0788,0.158,139.506,341773,4,Spotify,Raised on Rock,Public G
+Sonic Youth,Goo,Kool Thing,1ZozGivTAYsOwhy6LVHsPX,0.262,0.82,7,-11.621,1,0.0428,0.0914,0.101,0.254,155.197,246333,4,Spotify,Raised on Rock,Public G
+Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),I Love Rock 'N Roll,2Cdvbe2G4hZsnhNMKyGrie,0.535,0.716,4,-5.025,1,0.0431,0.0,0.659,0.901,94.379,175173,4,Spotify,Raised on Rock,Public G
+The White Stripes,White Blood Cells,We're Going to Be Friends,13lZDbwonGhOflQLQIfdtZ,0.534,0.441,7,-5.752,1,0.0303,0.0,0.0934,0.439,97.009,140179,4,Spotify,Raised on Rock,Public G
+Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),Lookin' Out My Back Door,3RTUfvRgq3pYTf7XY0FIcS,0.745,0.656,10,-6.393,1,0.0405,0.00337,0.0941,0.858,105.318,152453,4,Spotify,Raised on Rock,Public G
+Blondie,One Way Or Another,One Way Or Another - Remastered 2001,5Th6EdNVhxp0TPX41ZLZk6,0.45,0.877,9,-6.403,1,0.0532,4.95e-05,0.0699,0.896,162.477,212707,4,Spotify,Raised on Rock,Public G
+Led Zeppelin,In Through the out Door (Remaster),All My Love - Remaster,5hhVpGIBlqAU5yJEOmrk5o,0.554,0.791,7,-8.326,1,0.0288,1.76e-05,0.166,0.697,91.108,353720,4,Spotify,Raised on Rock,Public G
+KISS,Dressed To Kill,Rock And Roll All Nite,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,1,0.0998,0.0,0.0539,0.902,144.774,168840,4,Spotify,Raised on Rock,Public G
+Tina Turner,What's Love Got to Do with It?,Proud Mary,6gJdDnF2TzfA1WPMXuCa3x,0.397,0.499,2,-10.972,1,0.0685,1.55e-06,0.111,0.367,171.067,327400,4,Spotify,Raised on Rock,Public G
+The Clash,London Calling (Remastered),Lost in the Supermarket - Remastered,72boGlgSwUK01n44O2tOCv,0.608,0.634,4,-11.24,1,0.0727,0.00615,0.116,0.84,147.515,226947,4,Spotify,Raised on Rock,Public G
+Elton John,Goodbye Yellow Brick Road (Remastered),Saturday Night’s Alright (For Fighting) - Remastered 2014,12yHvSYFXI7PGzNecUvIDu,0.513,0.979,0,-6.362,1,0.0425,0.0951,0.0906,0.94,152.875,295466,4,Spotify,Raised on Rock,Public G
+Fleetwood Mac,Fleetwood Mac,Landslide,5ihS6UUlyQAfmp48eSkxuQ,0.414,0.161,7,-22.32,0,0.0318,0.000223,0.117,0.423,159.375,199493,4,Spotify,Raised on Rock,Public G
+The Rolling Stones,Hot Rocks (1964-1971),Ruby Tuesday,2EV1QIypzlJcynYfZZZaJ5,0.506,0.552,0,-10.814,1,0.0295,1.85e-06,0.183,0.492,104.513,196773,4,Spotify,Raised on Rock,Public G
+Queensrÿche,Empire - 20th Anniversary Edition,Silent Lucidity - Remastered 2003,6OSyCAmXT4Gkd3OQ2aPOaF,0.462,0.628,7,-5.659,1,0.0274,0.00025,0.12,0.0981,140.049,347760,4,Spotify,Raised on Rock,Public G
+The Beatles,Abbey Road (Remastered),Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,0.557,0.54,9,-10.484,1,0.0347,0.00248,0.179,0.394,129.171,185733,4,Spotify,Raised on Rock,Public G
+The Beach Boys,Pet Sounds (Original Mono & Stereo Mix Versions),God Only Knows - Mono / 1997 Remastered,6iGU74CwXuT4XVepjc9Emf,0.521,0.487,6,-7.525,0,0.0299,0.0,0.0579,0.483,117.072,173040,4,Spotify,Raised on Rock,Public G
+The Police,Ghost In The Machine (Remastered 2003),Every Little Thing She Does Is Magic,44aTAUBF0g6sMkMNE8I5kd,0.558,0.768,2,-9.997,1,0.0343,0.0626,0.124,0.429,81.909,260573,4,Spotify,Raised on Rock,Public G
+Johnny Cash,Ring Of Fire: The Best Of Johnny Cash,Ring of Fire,6YffUZJ2R06kyxyK6onezL,0.659,0.585,7,-8.189,1,0.0288,0.000213,0.348,0.784,104.111,158427,4,Spotify,Raised on Rock,Public G
+Led Zeppelin,Mothership (Remastered),Rock and Roll - Remaster,7HQrFPtLEpgTJaEVujH8OO,0.317,0.879,9,-7.533,1,0.0406,0.00142,0.0972,0.849,169.534,220880,4,Spotify,Raised on Rock,Public G
+Patti Smith,Easter,Because the Night,0lIoY4ZQsdn5QzhraM9o9u,0.466,0.763,11,-7.748,0,0.0391,0.0,0.119,0.473,123.539,204800,4,Spotify,Raised on Rock,Public G
+Soundgarden,Superunknown (Deluxe Edition),Black Hole Sun,2EoOZnxNgtmZaD8uUmz2nD,0.35,0.828,6,-5.373,1,0.041,0.000161,0.0774,0.147,105.435,318587,4,Spotify,Raised on Rock,Public G
+David Bowie,Let's Dance,Let's Dance - 2002 Remaster,4cVHMHgmWgudD399ZdhQ3L,0.654,0.641,8,-9.771,1,0.0482,0.00321,0.209,0.794,114.696,247600,4,Spotify,Raised on Rock,Public G
+Alice Cooper,School's Out,School's Out,5Z8EDau8uNcP1E8JvmfkZe,0.294,0.745,5,-9.138,1,0.0461,0.125,0.676,0.347,134.364,210107,4,Spotify,Raised on Rock,Public G
+Nirvana,Nevermind (Remastered),Smells Like Teen Spirit,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,1,0.0564,0.000173,0.106,0.72,116.761,301920,4,Spotify,Raised on Rock,Public G
+The Runaways,The Runaways,Cherry Bomb,7cdnq45E9aP2XDStHg5vd7,0.501,0.813,11,-8.192,1,0.0639,4.75e-05,0.131,0.495,136.59,138707,4,Spotify,Raised on Rock,Public G
+Pink Floyd,Wish You Were Here,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,1,0.0414,0.0114,0.832,0.375,122.861,334744,4,Spotify,Raised on Rock,Public G
+The Beatles,Rubber Soul (Remastered),In My Life - Remastered 2009,3KfbEIOC7YIv90FIfNSZpo,0.688,0.435,9,-11.359,1,0.0323,0.0,0.113,0.435,103.239,146333,4,Spotify,Raised on Rock,Public G
+Rush,Permanent Waves,The Spirit Of Radio,4e9hUiLsN4mx61ARosFi7p,0.365,0.924,4,-7.066,1,0.0488,0.000254,0.423,0.632,135.811,296467,4,Spotify,Raised on Rock,Public G
+Bob Dylan,The Freewheelin' Bob Dylan,Blowin' in the Wind,18GiV1BaXzPVYpp9rmOg0E,0.38,0.0993,2,-20.567,1,0.0509,2.32e-05,0.0605,0.44,174.874,165427,4,Spotify,Raised on Rock,Public G
+The Killers,Hot Fuss,All These Things That I've Done,5vollujufHY0jMZxx77VWr,0.539,0.702,6,-7.291,1,0.0436,2.37e-05,0.117,0.206,118.106,301867,4,Spotify,Raised on Rock,Public G
+Oasis,Definitely Maybe (Deluxe Edition Remastered),Live Forever - Remastered,6TlQ5fbojNRuG0hPQMbxeW,0.286,0.822,9,-3.366,0,0.0381,1.31e-05,0.353,0.19,90.96,276667,4,Spotify,Raised on Rock,Public G
+U2,All That You Can't Leave Behind,Beautiful Day,1VuBmEauSZywQVtqbxNqka,0.539,0.926,2,-6.495,1,0.0499,0.00136,0.36,0.454,136.279,246400,4,Spotify,Raised on Rock,Public G
+Boston,Boston,More Than a Feeling,1QEEqeFIZktqIpPI4jSVSF,0.377,0.681,7,-8.039,1,0.0298,0.0023,0.0504,0.285,108.789,285133,4,Spotify,Raised on Rock,Public G
+The Clash,Combat Rock (Remastered),Should I Stay or Should I Go - Remastered,39shmbIHICJ2Wxnk1fPSdz,0.743,0.836,2,-6.465,1,0.116,0.0,0.384,0.82,113.375,188987,4,Spotify,Raised on Rock,Public G
+Janis Joplin,Pearl (Legacy Edition),Me and Bobby McGee,1IqFh00G2kvvMm8pRMpehA,0.43,0.463,2,-10.96,1,0.0442,5.84e-05,0.152,0.66,93.405,271333,4,Spotify,Raised on Rock,Public G
+Pearl Jam,Vs.,Daughter - Remastered,53eJFr4Mfbw5PXJ01K6cFw,0.615,0.702,7,-9.686,1,0.0278,0.00431,0.0608,0.734,96.987,234333,4,Spotify,Raised on Rock,Public G
+The Beatles,Let It Be (Remastered),Let It Be - Remastered 2009,7iN1s7xHE4ifF5povM6A48,0.443,0.403,0,-8.339,1,0.0322,0.0,0.111,0.41,143.462,243027,4,Spotify,Raised on Rock,Public G
+David Bowie,Hunky Dory (2015 Remaster),Changes - 2015 Remaster,0LrwgdLsFaWh9VXIjBRe8t,0.559,0.308,0,-11.75,1,0.0376,0.0,0.109,0.414,113.633,217747,4,Spotify,Raised on Rock,Public G
+Incubus,Morning View,Aqueous Transmission,5M67k54BVUDADZPryaqV1y,0.415,0.456,9,-12.082,1,0.0352,0.763,0.178,0.0935,151.937,466560,4,Spotify,Raised on Rock,Public G

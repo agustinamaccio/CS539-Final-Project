@@ -1,0 +1,68 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Macklemore & Ryan Lewis,This Unruly Mess I've Made,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",5pfJsMwoRYKampPay8amX0,0.828,0.609,1,-4.402,1,0.0694,1.21e-06,0.291,0.707,109.725,292593,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+B.E.R.,The Night Begins to Shine,The Night Begins to Shine,3eX2JOSwcPjVEe2zbVZ2GH,0.618,0.648,2,-7.098,1,0.0287,0.0668,0.171,0.346,129.917,210510,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Cashmere Cat,Trust Nobody,Trust Nobody,2RlcBZiskvuupu6pG8bsNe,0.592,0.652,7,-7.209,0,0.164,0.0,0.117,0.726,78.488,218987,5,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Kanye West,The Life Of Pablo,Fade,1CJnWD3xbUiP3gEJwuVSsO,0.743,0.77,9,-5.738,0,0.0989,0.0,0.314,0.308,105.93,193748,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Black Eyed Peas,Monkey Business,Don't Phunk With My Heart,3BnvVIFwQXXMGjkW4rWRJj,0.69,0.928,5,-2.76,0,0.061,0.0,0.547,0.604,130.889,239773,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES) [International Version],Rock That Body,52ZiapOPlSsnOW38efJZeK,0.715,0.907,7,-6.025,0,0.0993,8.39e-05,0.426,0.841,124.992,268840,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Black Eyed Peas,Monkey Business,My Humps,2WNVqZq1ujhMDlOAqBFkVv,0.802,0.682,1,-5.924,0,0.222,1.39e-05,0.109,0.586,123.95,326960,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+The Weeknd,Starboy,I Feel It Coming,4RepvCWqsP6zBuzvwYibAS,0.769,0.813,0,-5.9,0,0.143,0.0,0.0952,0.567,92.985,269187,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Digital Farm Animals,Millionaire (feat. Nelly),Millionaire (feat. Nelly),4eZDxVUfm37N7ncCi0t94Y,0.599,0.842,5,-5.712,1,0.143,0.0,0.0889,0.428,100.053,185250,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+DNCE,SWAAY,Toothbrush,38510fWvtOkrFjg2EDkJtT,0.495,0.777,7,-5.764,1,0.177,0.0,0.425,0.812,104.458,231813,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+MÖWE,Lovers Friends,Lovers Friends,23GHwhFGMi2mNTD4CtyOCA,0.752,0.725,10,-6.491,1,0.0825,3.44e-05,0.104,0.861,100.017,225906,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Panic! At The Disco,Pretty. Odd.,Nine in the Afternoon,59kTVUKhpcFw9zMLPSbFvH,0.249,0.804,10,-3.233,1,0.0502,0.0,0.262,0.389,155.066,192893,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),Post to Be (feat. Chris Brown & Jhene Aiko),6p5abLu89ZSSpRQnbK9Wqs,0.733,0.676,10,-5.655,0,0.0432,0.0,0.208,0.701,97.448,226581,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Coldplay,A Head Full of Dreams,Hymn for the Weekend,3RiPr603aXAoi4GHyXx0uy,0.491,0.693,0,-6.487,0,0.0377,6.92e-06,0.325,0.412,90.027,258267,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Coldplay,A Head Full of Dreams,Adventure of a Lifetime,69uxyAqqPIsUyTO8txoP2M,0.638,0.924,7,-3.887,1,0.036,0.000175,0.149,0.53,111.995,263787,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Miley Cyrus,Bangerz (Deluxe Version),Do My Thang,6n2GPvMJtFZ4ckoc9EWHMx,0.76,0.575,6,-4.06,1,0.0444,0.000383,0.0993,0.314,131.983,225493,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Axwell /\ Ingrosso,Sun Is Shining,Sun Is Shining,1Gzv0cMy3xm7sgN5gd7WkU,0.474,0.756,2,-2.973,1,0.0518,0.0,0.0693,0.413,131.84,255066,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Justin Bieber,What Do You Mean?,What Do You Mean?,6nRwc5GgNvBMkKaynhQzrm,0.841,0.571,5,-8.066,0,0.102,0.00033,0.0895,0.772,125.032,207547,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Galantis,Pharmacy,Peanut Butter Jelly,3aIhJDHxr1kgTSnutJxPTH,0.708,0.945,5,-3.247,0,0.234,0.0803,0.227,0.545,127.96,203133,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Martin Garrix,Forbidden Voices,Forbidden Voices,2BF1X5nkYYSb0AUTRaGkDm,0.534,0.711,10,-5.927,0,0.0368,0.0031,0.135,0.3,128.102,230635,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,Take Care (Deluxe),Headlines,6LxSe8YmdPxy095Ux6znaQ,0.636,0.566,6,-7.16,0,0.106,0.000353,0.0917,0.425,151.894,235987,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,Take Care (Deluxe),The Motto,4Kz4RdRCceaA9VgTqBhBfa,0.766,0.442,1,-8.558,1,0.356,6.12e-05,0.111,0.39,201.8,181573,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Weezer,Weezer (Green Album),Island In The Sun,3Pnhzf3Knhdsavx0VM2ZmG,0.654,0.81,4,-6.26,0,0.0288,0.00251,0.165,0.661,114.623,200307,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,Thank Me Later (Int'l Version),Over,1EoHEkVcysf4WVDx6r9WzQ,0.325,0.848,7,-5.611,1,0.279,0.0,0.124,0.433,100.093,233560,5,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Paramore,Paramore,Still into You,1yjY7rpaAQvKwpdUliHx0d,0.602,0.923,5,-3.763,1,0.044,0.0,0.0561,0.765,136.01,216013,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Black Eyed Peas,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],Boom Boom Pow,3oDFtOhcN08qeDPAK6MEQG,0.867,0.857,9,-5.892,1,0.0663,0.00171,0.13,0.402,130.048,251440,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Green Day,Holiday,Holiday,5vfjUAhefN7IjHbTvVCT4Z,0.538,0.884,8,-3.251,1,0.031,0.0,0.466,0.736,146.511,233027,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,Hands All Over (Deluxe),Misery,6KBYk8OFtod7brGuZ3Y67q,0.704,0.81,4,-4.874,0,0.0425,0.0,0.216,0.726,102.98,216200,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Beyoncé,BEYONCÉ [Platinum Edition],XO,40xhyfAPDoMtv494MfPevP,0.47,0.793,0,-8.929,1,0.26,1.31e-06,0.313,0.216,170.1,215947,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Owl City,Ocean Eyes,On The Wing,0GCO0JRlVUrW0ICjElm6iD,0.6,0.756,10,-6.675,1,0.032,0.000482,0.145,0.0941,115.0,301213,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,Songs About Jane,Sunday Morning,4T5cqerbDXueYSVfXkIITo,0.604,0.761,0,-5.227,1,0.0468,0.0,0.062,0.787,88.04,244867,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,V,Maps,71ywEs45ClmTNRiaJ7YEsr,0.742,0.713,1,-5.522,0,0.0303,0.0,0.059,0.879,120.032,189973,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Paramore,Paramore,Ain't It Fun,1j8z4TTjJ1YOdoFEDwJTQa,0.61,0.893,9,-3.681,1,0.0921,4.41e-05,0.021,0.673,104.031,296520,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Kygo,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),3eR23VReFzcdmS7TYCrhCe,0.64,0.533,0,-6.596,1,0.0706,0.0,0.0864,0.515,99.968,220781,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Bruno Mars,24K Magic,That's What I Like,0KKkJNfGyhkQ5aFogxQAPU,0.853,0.56,1,-4.961,1,0.0406,0.0,0.0944,0.86,134.066,206693,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Swalla (feat. Nicki Minaj & Ty Dolla $ign),6kex4EBAj0WHXDKZMEJaaF,0.696,0.817,1,-3.862,1,0.109,0.0,0.187,0.782,98.064,216409,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Capital Cities,In A Tidal Wave Of Mystery (Deluxe Edition),Kangaroo Court,3MnBlnCbjYubZfhggHcPzz,0.767,0.575,5,-5.087,0,0.0364,0.000678,0.0304,0.975,99.988,223187,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,Fake Love,Fake Love,2Vr6FETnu1h4ZoeU0f5XOS,0.923,0.535,9,-7.353,0,0.301,0.0,0.103,0.74,133.942,207813,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Red Hot Chili Peppers,By the Way (Deluxe Edition),Bicycle Song - 2006 Remaster,02lWbJ8NQ7IZGuNGfG34tE,0.685,0.787,4,-4.402,0,0.0398,0.0,0.328,0.652,89.659,203533,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Elvis Presley,Elvis 75 - Good Rockin' Tonight,A Little Less Conversation - JXL Radio Edit Remix,4l2hnfUx0esSbITQa7iJt0,0.586,0.935,4,-9.386,0,0.0482,0.277,0.159,0.58,114.997,211173,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+MØ,Final Song,Final Song,4qqArAiTPueDxIp7cf87h7,0.695,0.672,1,-6.109,0,0.0345,7.95e-05,0.0756,0.245,104.988,235827,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,Views,Too Good,11KJSRSgaDxqydKYiD2Jew,0.804,0.648,7,-7.805,1,0.117,3.49e-05,0.102,0.392,117.983,263373,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Yandel,Encantadora (feat. Farruko & Zion & Lennox) [Remix],Encantadora (feat. Farruko & Zion & Lennox) - Remix,0EpFfFZpCuqYFzHvxOtrZS,0.644,0.895,8,-3.669,1,0.0469,0.0,0.285,0.887,169.98,252493,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,Cold,Cold,5NNlUMcOEOdoOIwwaWXv0k,0.703,0.715,9,-6.285,0,0.114,0.0,0.0456,0.497,99.924,234308,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Drake,More Life,Passionfruit,7hDc8b7IXETo14hHIHdnhd,0.809,0.463,11,-11.377,1,0.0396,0.085,0.109,0.364,111.98,298941,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Shakira,Chantaje,Chantaje,1WniHvhq9zTkny0WvGXX8o,0.859,0.756,8,-3.36,0,0.0643,4.65e-05,0.163,0.91,102.033,195613,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Shakira,"Fijación Oral, Vol. 1",La Tortura (feat. Alejandro Sanz),5BSclXJTa9B0iURhUjZo50,0.74,0.783,0,-5.367,1,0.0427,0.000308,0.123,0.812,100.011,212893,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Shakira,Donde Estan Los Ladrones,"Ciega, Sordomuda",7jxHeJLVpnP7S08JFF4GBi,0.746,0.876,1,-6.042,1,0.0345,2.51e-06,0.112,0.928,119.97,267827,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Queen,A Night At The Opera (Deluxe Remastered Version),Bohemian Rhapsody - Remastered 2011,7tFiyTwD0nx5a1eklYtX2J,0.392,0.402,0,-9.961,0,0.0536,0.0,0.243,0.228,143.883,354320,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Clean Bandit,Symphony (feat. Zara Larsson),Symphony (feat. Zara Larsson),1x5sYLZiu9r5E43kMlt9f8,0.707,0.629,0,-4.581,0,0.0563,1.6e-05,0.138,0.457,122.863,212459,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Foals,Holy Fire,My Number,4c9WmjVlQMr0s1IjbYO52Z,0.639,0.744,6,-8.377,0,0.0368,0.000458,0.466,0.825,128.047,240533,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maluma,Felices los 4,Felices los 4,0qYTZCo5Bwh1nsUFGZP3zn,0.755,0.789,5,-4.502,1,0.146,0.0,0.351,0.737,93.973,229849,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Paramore,Told You So,Told You So,6MQJ0SPApUWxHYQShpZlZb,0.639,0.814,2,-5.632,0,0.0385,2.98e-05,0.0529,0.904,123.922,188947,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Miley Cyrus,Malibu,Malibu,2habSXqcJGExM6JJyskY7O,0.565,0.782,8,-6.413,1,0.0506,4.16e-05,0.0757,0.4,140.004,231906,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+David Guetta,2U (feat. Justin Bieber),2U (feat. Justin Bieber),3A7qX2QjDlPnazUsRk5y0M,0.548,0.65,8,-5.827,0,0.0591,0.0,0.225,0.557,144.937,194897,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Selena Gomez,Bad Liar,Bad Liar,1sCxVKWImDZSZKvG0U9B23,0.953,0.41,1,-6.543,1,0.0705,0.0,0.0768,0.718,121.074,214648,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+J Balvin,Mi Gente,Mi Gente,2rb5MvYT7ZIxbKW5hfcHx8,0.543,0.677,11,-4.915,0,0.0993,6.21e-06,0.13,0.294,103.809,189440,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,What Lovers Do (feat. SZA),What Lovers Do (feat. SZA),4mxWSdf71VFO52qFeY0fZt,0.795,0.608,5,-5.222,0,0.0694,2.92e-06,0.0853,0.386,110.001,199849,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Kendrick Lamar,HUMBLE.,HUMBLE.,3GnLo84IkdSWCPYt6tnLll,0.905,0.596,1,-7.496,0,0.118,2.05e-05,0.0897,0.422,149.996,177604,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Camila Cabello,Havana (feat. Young Thug),Havana (feat. Young Thug),0ofbQMrRDsUaVKq2mGLEAb,0.768,0.517,7,-4.323,0,0.0312,3.8e-05,0.104,0.418,104.992,216897,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Portugal. The Man,Feel It Still,Feel It Still,7FESgYLcOufHqKlwrvJN60,0.78,0.798,1,-5.151,0,0.0613,6.31e-05,0.0733,0.771,78.969,163251,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+L'Omy,Di Que Sí,Di Que Sí,401DwEmFm6U52gDXNWaWVr,0.613,0.823,11,-6.993,0,0.0555,0.265,0.133,0.69,184.018,260547,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Fergie,The Dutchess,Fergalicious,1D066zixBwqFYqBhKgdPzp,0.906,0.583,8,-7.721,0,0.317,0.0,0.126,0.829,129.056,292373,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Maroon 5,V (Deluxe),Lost Stars,1dW4WYgBGFSRANV0FrF2c7,0.495,0.588,0,-4.754,1,0.0266,0.0,0.0763,0.439,82.047,266920,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Carlos Vives,Más + Corazón Profundo Tour: En Vivo Desde la Bahía de Santa Marta,"La Tierra del Olvido (feat. Fanny Lu, Fonseca, Maluma, Andrea Echeverri, Cholo Valderrama, Coral Group & Herencia de Timbiquí) - 2015",5BIQR6Ibumf2WHKlKOJKJY,0.679,0.893,0,-5.915,1,0.0675,0.0,0.169,0.699,102.037,320653,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+Shakira,Clandestino,Clandestino,7DrluKkTviBwCc8AV3VGmf,0.766,0.822,1,-4.126,0,0.16,3.37e-05,0.349,0.881,165.842,231921,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez
+"Secreto ""El Famoso Biberon""",La Bebe,La Bebe,0xsAtU9TemtJgyVnlDNWo3,0.933,0.682,6,-4.236,1,0.143,0.0,0.143,0.265,99.002,230296,4,Edith Carolina Gomez Sanchez,Feel Good,Edith Gomez

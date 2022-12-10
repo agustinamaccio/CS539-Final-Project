@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Eagles,Eagles (2013 Remaster),Take It Easy - 2013 Remaster,4yugZvBYaoREkJKtbG08Qr,0.575,0.67,7,-10.39,1,0.0318,4.95e-06,0.129,0.74,139.191,211578,4,Spotify,Country Rock Classics,Public F
+America,Hearts,Sister Golden Hair,5VSAonaAPhhGn0G7hMYwWK,0.441,0.547,4,-12.222,1,0.0337,0.000143,0.109,0.716,134.753,199573,4,Spotify,Country Rock Classics,Public F
+Jackson Browne,Running on Empty / Nothing but Time (Digital 45),Running on Empty,6aqm56xP40foYBBtAWWrnY,0.541,0.711,9,-13.492,1,0.0383,0.0201,0.719,0.588,136.58,291893,4,Spotify,Country Rock Classics,Public F
+"Crosby, Stills, Nash & Young",Deja Vu,Teach Your Children,29HaKOpeLSYvqdFyEQSRdj,0.497,0.285,2,-14.537,1,0.0264,1.69e-05,0.389,0.667,154.707,173467,4,Spotify,Country Rock Classics,Public F
+Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),Lookin' Out My Back Door,3RTUfvRgq3pYTf7XY0FIcS,0.745,0.656,10,-6.393,1,0.0405,0.00337,0.0941,0.858,105.318,152453,4,Spotify,Country Rock Classics,Public F
+Linda Ronstadt,Heart Like A Wheel,When Will I Be Loved,5jPPjNMIi1rD6BvQqxhJh5,0.513,0.573,9,-10.023,1,0.0337,0.000958,0.0878,0.621,132.607,124867,4,Spotify,Country Rock Classics,Public F
+"Crosby, Stills & Nash","Crosby, Stills & Nash",Suite: Judy Blue Eyes - 2005 Remaster,2PuUFT13yCzUOZun94WOXv,0.458,0.364,9,-13.126,1,0.0431,0.0,0.197,0.3,154.215,444053,4,Spotify,Country Rock Classics,Public F
+Eagles,One of These Nights (2013 Remaster),Lyin' Eyes - 2013 Remaster,5lQKRR3MdJLtAwNBiT8Cq0,0.669,0.673,7,-9.754,1,0.0248,0.0271,0.164,0.867,132.68,381999,4,Spotify,Country Rock Classics,Public F
+Nitty Gritty Dirt Band,Certified Hits (Remastered),Mr. Bojangles - Remastered 2001,3cq6mwsjgygbwRIi9wVPGv,0.444,0.757,11,-6.884,0,0.0541,0.0,0.329,0.554,154.26,215400,3,Spotify,Country Rock Classics,Public F
+The Byrds,Sweetheart Of The Rodeo,You Ain't Goin' Nowhere,6kPxXhjSvy8RsmZBAJUiFs,0.512,0.426,7,-14.081,1,0.0449,0.00225,0.764,0.7,132.495,153467,4,Spotify,Country Rock Classics,Public F
+Bob Seger,The Distance,Shame On The Moon,1Gxaks4MTbjMCAQ20rx4Iy,0.615,0.563,9,-7.585,1,0.0254,0.00118,0.117,0.547,105.772,295053,4,Spotify,Country Rock Classics,Public F
+Ricky Nelson,Garden Party,Garden Party,7J5tyfg3OYVNR97KH66ovw,0.774,0.247,2,-21.657,1,0.0779,0.0186,0.116,0.803,143.955,229800,4,Spotify,Country Rock Classics,Public F
+Pure Prairie League,Greatest Hits,Amie,1mqydO6xMtyTPa8yo1SdVr,0.553,0.449,9,-11.722,1,0.0292,0.0,0.0892,0.423,88.788,260933,4,Spotify,Country Rock Classics,Public F
+Poco,Legend,Heart Of The Night,6fNID7koTl1dZBCs6FmK4E,0.639,0.417,6,-15.345,1,0.0265,0.000218,0.0821,0.778,98.818,294533,4,Spotify,Country Rock Classics,Public F
+Elvis Costello & The Attractions,Almost Blue,Good Year For The Roses,4RZCoFsZHw9XvDZdv2jtkK,0.507,0.395,9,-10.955,1,0.0371,0.000619,0.147,0.457,97.272,188920,4,Spotify,Country Rock Classics,Public F
+Linda Ronstadt,Heart Like A Wheel,Willin',7HblJM23la7H8kXeBwlkzN,0.518,0.436,4,-10.805,1,0.0362,1.02e-05,0.143,0.521,141.374,182040,4,Spotify,Country Rock Classics,Public F
+JD Souther,You're Only Lonely,You're Only Lonely,0qzEkwri1hE0rgxVqdOBAf,0.591,0.514,9,-10.183,1,0.0256,7.8e-06,0.0797,0.658,108.975,228000,4,Spotify,Country Rock Classics,Public F
+Eagles,Eagles (2013 Remaster),Witchy Woman - 2013 Remaster,436yrzQWA32vb1sTZKXg9r,0.555,0.568,2,-12.205,0,0.0341,0.00167,0.116,0.583,98.507,250889,4,Spotify,Country Rock Classics,Public F
+Firefall,Firefall,Cinderella,6nwlPs3mgpHYUJJ0ETPIXP,0.558,0.542,7,-11.512,1,0.0329,1.4e-06,0.153,0.557,147.029,216067,4,Spotify,Country Rock Classics,Public F
+The Marshall Tucker Band,Greatest Hits,This Ol' Cowboy,0diAR6QUxrDiEBjRZSfweR,0.439,0.746,2,-5.78,1,0.0469,3.05e-05,0.173,0.817,109.309,219347,4,Spotify,Country Rock Classics,Public F
+The Flying Burrito Brothers,The Flying Burrito Brothers,Just Can't Be,0Ov9Hh2ygoGCkwTXMRYRcp,0.541,0.361,2,-12.248,1,0.0246,0.38,0.0651,0.491,94.683,298893,4,Spotify,Country Rock Classics,Public F
+Dillard & Clark,"Through The Morning, Through The Night",Don't Let Me Down,1PsDNPG1j7ySpFpxjHB5xb,0.536,0.409,11,-13.016,1,0.0273,0.0231,0.0751,0.632,74.409,232400,4,Spotify,Country Rock Classics,Public F
+Stephen Stills,Manassas,Colorado,6VyuVYEJnZmlEQ5GT9LQvT,0.553,0.768,7,-9.877,1,0.031,0.00368,0.403,0.685,80.514,172533,4,Spotify,Country Rock Classics,Public F
+Gram Parsons,Grievous Angel,Return of the Grievous Angel - 2006 Remaster,7vOYp7KJ8gVmVbcatSVf9J,0.632,0.565,10,-8.669,1,0.027,0.0,0.3,0.616,128.821,266227,4,Spotify,Country Rock Classics,Public F
+New Riders of the Purple Sage,The Adventures Of Panama Red,Lonesome L.A. Cowboy,6vOV8fmbk16LYgL2CQ64ih,0.643,0.638,9,-13.745,1,0.033,0.0,0.101,0.74,123.705,243000,4,Spotify,Country Rock Classics,Public F
+Eagles,Eagles (2013 Remaster),Train Leaves Here This Morning - 2013 Remaster,5ro7xAxDVbtabTl8t3MzHz,0.628,0.32,4,-16.01,1,0.0301,0.000351,0.249,0.545,114.526,250457,4,Spotify,Country Rock Classics,Public F
+Jesse Colin Young,Song for Juli,Morning Sun,2XIZRY7dQtyUhFngzHeEUu,0.683,0.665,11,-6.112,1,0.0312,0.0269,0.0734,0.957,125.572,244133,4,Spotify,Country Rock Classics,Public F
+Pure Prairie League,Something In The Night,Still Right Here In My Heart,5HZchgrpAreegk6UGs0zHr,0.59,0.479,9,-12.167,1,0.0278,3.22e-06,0.0889,0.709,115.474,176640,4,Spotify,Country Rock Classics,Public F
+Dan Fogelberg,High Country Snows,Sutter's Mill,3fRwEtPmL2hFClf6Ph6l4O,0.647,0.362,3,-13.579,1,0.0258,2.12e-06,0.314,0.607,134.099,391000,4,Spotify,Country Rock Classics,Public F
+Various Artists,Country Anthems,Cadillac Ranch,3nWfVgvBTxLteKXR9MSYaS,0.65,0.724,4,-7.252,1,0.0286,4.1e-05,0.319,0.886,134.816,222773,4,Spotify,Country Rock Classics,Public F
+Eagles,Hotel California (40th Anniversary Expanded Edition),New Kid in Town - 2013 Remaster,3T0HWZFYwE5iPXTIHJ1MMS,0.649,0.425,4,-9.811,1,0.0267,0.0013,0.108,0.651,107.383,304926,4,Spotify,Country Rock Classics,Public F
+The Flying Burrito Brothers,The Flying Burrito Brothers,Tried So Hard,4v4ssibf1FAkxisrqeMPhh,0.495,0.672,2,-11.794,1,0.0309,0.0342,0.48,0.719,93.719,188707,4,Spotify,Country Rock Classics,Public F
+Gram Parsons,Grievous Angel,Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster,7kJpAkJSFMCkM6T4plsRLd,0.559,0.863,9,-5.412,1,0.0333,7.9e-05,0.17,0.91,126.472,212893,4,Spotify,Country Rock Classics,Public F
+Michael Nesmith,Magnetic South (Expanded Edition),Mama Nantucket,3PqhliKIHScPgJgse7KHTq,0.373,0.824,6,-9.383,1,0.0572,0.0249,0.256,0.868,157.376,159133,4,Spotify,Country Rock Classics,Public F
+Johnny Jenkins,Ton-Ton Macoute!,Down Along The Cove,2jigzHqXdUlpAlmSeaVSeU,0.642,0.653,0,-8.613,1,0.0289,0.0268,0.371,0.926,97.37,205093,4,Spotify,Country Rock Classics,Public F
+Michael Martin Murphey,Austinology - Alleys of Austin,Cosmic Cowboy,3vvceIDWVANlLWKoJUzBn6,0.721,0.562,4,-7.763,1,0.0271,0.000184,0.187,0.481,119.999,256107,4,Spotify,Country Rock Classics,Public F
+The Byrds,Sweetheart Of The Rodeo,One Hundred Years from Now,7FeLo6k5fhgXyGTPaK6VLi,0.578,0.479,7,-10.51,1,0.0293,0.00445,0.275,0.867,114.138,160467,4,Spotify,Country Rock Classics,Public F
+The Flying Burrito Brothers,The Flying Burrito Brothers,White Line Fever,5z3kHR2Gh892XGcYuln1Gf,0.571,0.563,2,-12.04,1,0.0295,0.524,0.346,0.877,125.715,196800,4,Spotify,Country Rock Classics,Public F
+Linda Ronstadt,Hand Sown...Home Grown,Silver Threads And Golden Needles,4FLUda3tCvPWBCvUeyiivd,0.464,0.741,10,-5.192,1,0.0466,0.0,0.0896,0.947,151.72,141160,4,Spotify,Country Rock Classics,Public F
+The International Submarine Band,Safe at Home,Luxury Liner,69WQgn5cXFhtwbDGBHOzxS,0.562,0.579,2,-11.563,1,0.0284,0.0,0.139,0.809,102.811,175240,4,Spotify,Country Rock Classics,Public F
+Emmylou Harris,Elite Hotel (Expanded & Remastered),Feelin' Single - Seein' Double - 2003 Remaster,65J216Pxb4JOdiYVFIpLx7,0.562,0.718,3,-7.941,1,0.0466,1.96e-05,0.128,0.941,166.444,146987,4,Spotify,Country Rock Classics,Public F
+Dan Fogelberg,Souvenirs,Morning Sky,0DrhNB3j0VKTBPoN2J5jbT,0.652,0.786,7,-12.919,1,0.0296,0.00045,0.0805,0.968,124.826,168252,4,Spotify,Country Rock Classics,Public F
+Gene Clark,No Other,Strength of Strings,0ORYA6kaMWPKtHDPcea16a,0.339,0.309,11,-13.419,0,0.0325,0.0151,0.117,0.181,131.846,391773,4,Spotify,Country Rock Classics,Public F
+Commander Cody and His Lost Planet Airmen,Commander Cody & His Lost Planet Airmen,Willin',10JSZpgIr0NZb3JqP0lT3K,0.554,0.643,7,-7.697,1,0.0482,9.65e-05,0.0413,0.42,76.401,218493,4,Spotify,Country Rock Classics,Public F
+The International Submarine Band,Safe at Home,Miller's Cave,2Zq979VWE5SG5WIcd396Ay,0.514,0.43,5,-12.36,1,0.0308,5.31e-06,0.159,0.8,77.086,169133,4,Spotify,Country Rock Classics,Public F
+Pure Prairie League,Greatest Hits,Two Lane Highway,0tcq9tNIw5JHUywymB07OA,0.549,0.589,9,-10.033,1,0.0355,0.000482,0.104,0.628,146.781,246693,4,Spotify,Country Rock Classics,Public F
+Chris Hillman,Slippin Away,Step on Out,5oAkG0zYaOmv9fHG7CvEBE,0.6,0.82,11,-6.437,1,0.0331,0.000327,0.104,0.936,83.731,195693,4,Spotify,Country Rock Classics,Public F
+The Desert Rose Band,The Desert Rose Band,Love Reunited,59kLqy6RhRKWFWFgdFSB63,0.705,0.544,5,-14.242,1,0.0279,0.000164,0.115,0.888,102.573,177707,4,Spotify,Country Rock Classics,Public F
+Steve Young,Renegade Picker,It's Not Supposed to Be That Way,4jNBYAK1mPmgM66wZEx6rr,0.443,0.432,5,-10.23,1,0.0239,6.23e-05,0.217,0.39,78.862,221427,4,Spotify,Country Rock Classics,Public F
+Loggins & Messina,Sittin' In,Listen to a Country Song,5YEgs7DjcGk9pYP6l0u85h,0.591,0.548,2,-12.303,1,0.052,0.0,0.0768,0.941,81.776,169307,4,Spotify,Country Rock Classics,Public F

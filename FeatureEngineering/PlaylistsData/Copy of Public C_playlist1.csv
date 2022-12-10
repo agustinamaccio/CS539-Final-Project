@@ -1,0 +1,83 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Katherine Li,Never Had a Chance,Never Had a Chance,5ICjRLHOxUv6gcRbr2ux9Z,0.686,0.565,10,-5.486,1,0.0299,0.00011,0.125,0.496,110.507,145520,4,Spotify,study mode,Public C
+Jessie Murph,How Could You,How Could You,7fkxcbBBsV7keJPnNfNf2L,0.573,0.17,11,-10.576,1,0.0555,3.08e-06,0.108,0.28,146.749,187813,3,Spotify,study mode,Public C
+Joji,Glimpse of Us,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3,Spotify,study mode,Public C
+Jessie Murph,I Would've,I Would've,54obxWf8kRI8TGtbX52YyJ,0.601,0.264,2,-9.559,1,0.0573,4.86e-05,0.173,0.285,149.926,150583,4,Spotify,study mode,Public C
+Stephen Dawes,Teenage Dream,Teenage Dream,3Y2MvObZdPakD1X71KOxCD,0.615,0.361,10,-9.57,1,0.028,0.0,0.0844,0.244,111.991,177857,4,Spotify,study mode,Public C
+Chelsea Cutler,Men On The Moon,Men On The Moon,164LL9rTyEZ6DF0KMgXxsJ,0.552,0.517,8,-7.906,1,0.0245,0.00612,0.152,0.105,79.512,220798,4,Spotify,study mode,Public C
+Dean Lewis,How Do I Say Goodbye,How Do I Say Goodbye,5hnGrTBaEsdukpDF6aZg8a,0.4,0.641,8,-6.303,1,0.0674,0.0,0.0656,0.393,81.552,163603,4,Spotify,study mode,Public C
+Jenna Raine,see you later,2%,4fV8zuE5GmRCjzl8b3JUgg,0.648,0.54,2,-5.338,1,0.0318,0.0,0.0661,0.358,106.08,207741,4,Spotify,study mode,Public C
+The 1975,Being Funny In A Foreign Language,About You,1fDFHXcykq4iw8Gg7s5hG9,0.416,0.762,2,-7.385,1,0.0279,0.804,0.0559,0.461,95.967,326491,4,Spotify,study mode,Public C
+Selena Gomez,My Mind & Me,My Mind & Me,0XER3HPMx223xWaAgNKp4Y,0.6,0.389,9,-5.727,1,0.0337,0.0,0.0826,0.244,143.577,147597,4,Spotify,study mode,Public C
+d4vd,Here With Me,Here With Me,78Sw5GDo6AlGwTwanjXbGh,0.574,0.469,4,-8.209,1,0.0254,9.21e-05,0.128,0.288,132.023,242485,4,Spotify,study mode,Public C
+FLETCHER,Better Version,Better Version,3yDEK8rHiOUHOSioX9ZbaU,0.371,0.339,8,-10.639,0,0.0688,0.0,0.337,0.339,171.543,173893,4,Spotify,study mode,Public C
+Luca George,All For You,All For You,53QivzNjgJPblrcmDP0LLv,0.322,0.179,0,-12.726,1,0.036,2.24e-05,0.101,0.222,130.086,213819,3,Spotify,study mode,Public C
+Sabrina Carpenter,emails i can't send,because i liked a boy,32FhTAAjKZaBein150o3Px,0.386,0.592,11,-7.299,1,0.374,0.0,0.117,0.161,146.879,196458,4,Spotify,study mode,Public C
+Joshua Bassett,Smoke Slow,Smoke Slow,4sEN7hRcdfzDpk4wUG47qO,0.335,0.504,0,-6.882,1,0.0636,0.0,0.206,0.478,185.544,163760,3,Spotify,study mode,Public C
+Holly Humberstone,Can You Afford To Lose Me?,Can You Afford To Lose Me?,3sP6EGqcYVmDy9UBStCnRR,0.394,0.337,9,-10.636,1,0.0586,9.8e-06,0.0902,0.275,129.381,242696,4,Spotify,study mode,Public C
+Joji,SMITHEREENS,Die For You,26hOm7dTtBi0TdpDGl141t,0.472,0.518,8,-7.379,1,0.051,0.127,0.289,0.154,147.805,211667,4,Spotify,study mode,Public C
+Andi,Get Your Attention,Get Your Attention,4MCJB2N8KBptcmd1fmo7XY,0.548,0.453,5,-7.394,0,0.0359,0.0,0.0819,0.355,109.664,197260,3,Spotify,study mode,Public C
+5 Seconds of Summer,5SOS5,Older (feat. Sierra Deaton),7sCdIXPcYIzYmPEl7FdloT,0.317,0.378,4,-11.107,0,0.0302,1.06e-06,0.125,0.127,67.721,197897,4,Spotify,study mode,Public C
+Taylor Swift,Midnights,Snow On The Beach (feat. Lana Del Rey),1wtOxkiel43cVs0Yux5Q4h,0.663,0.319,9,-13.481,1,0.0375,0.000993,0.117,0.193,109.957,256124,4,Spotify,study mode,Public C
+Conan Gray,Superache,Family Line,0iNZGC211wst3VjtobNnC5,0.326,0.397,6,-8.145,1,0.0461,0.0,0.0979,0.276,153.713,216095,3,Spotify,study mode,Public C
+Gretta Ray,Vienna,Vienna,6wgut7kOpJaVp3ge69Noou,0.493,0.152,9,-14.463,1,0.0441,1.23e-05,0.0907,0.294,118.996,163209,4,Spotify,study mode,Public C
+Benson Boone,Better Alone,Better Alone,0qCcqa0gYjW8rerrC10yun,0.504,0.47,7,-6.105,1,0.0383,0.0,0.101,0.184,126.039,209895,4,Spotify,study mode,Public C
+Madeline The Person,MEAN!,MEAN!,0KQRhak4Irr2CKxgQ9U6ay,0.502,0.416,7,-9.504,1,0.433,0.0,0.0934,0.433,175.191,143960,3,Spotify,study mode,Public C
+Camylio,monsters,monsters,6cQ8IRL1UQR11v4wD4wjo8,0.546,0.599,11,-7.231,1,0.0484,0.0,0.158,0.379,78.037,173733,4,Spotify,study mode,Public C
+Hugo Basclain,190,190,3Yl5Lbx1PC7UdVJFAIG342,0.542,0.586,5,-7.916,1,0.0403,0.0,0.0887,0.303,127.884,211253,4,Spotify,study mode,Public C
+Ber,Superspreader,Superspreader,7FaIUgTqeTJuoCJRDVsrK9,0.647,0.368,5,-10.755,1,0.0393,4.75e-06,0.13,0.53,124.979,200707,4,Spotify,study mode,Public C
+Jack Gray,One Step Back,One Step Back,0PbcYz8RagS1XubUiECkSr,0.545,0.582,4,-6.209,1,0.0302,0.0,0.094,0.487,140.08,214268,4,Spotify,study mode,Public C
+Rachel Bochner,Drunk Crier,Drunk Crier,4wFg10eSPhxvxxJZUnYS2r,0.643,0.426,6,-10.222,1,0.0977,0.0,0.0871,0.488,147.141,183855,4,Spotify,study mode,Public C
+Tate McRae,feel like shit,feel like shit,2EBnvom1dTybtm75a3Xh1T,0.508,0.378,7,-7.158,1,0.0473,0.0,0.119,0.161,144.962,204315,4,Spotify,study mode,Public C
+Blake Rose,In Your Arms,In Your Arms,7wvzAosZd42KdvkATrDxP0,0.345,0.482,2,-7.929,1,0.0471,0.0,0.113,0.0777,87.85,210289,4,Spotify,study mode,Public C
+Dylan Conrique,Birthday Cake,Birthday Cake,7dDrR6vMK1JAwZZ5MIWgme,0.436,0.255,3,-8.623,1,0.0364,3.28e-05,0.106,0.15,113.265,205280,4,Spotify,study mode,Public C
+renforshort,dear amelia,i miss myself,1ySWbdFs3026uRQCixRLqI,0.426,0.404,7,-7.338,1,0.0322,0.000631,0.103,0.125,149.739,222400,4,Spotify,study mode,Public C
+Lizzy McAlpine,five seconds flat,hate to be lame,26MJjeJ0NSOQDKeZzrEFMl,0.522,0.251,10,-12.626,0,0.0603,0.000258,0.0769,0.303,137.366,156798,3,Spotify,study mode,Public C
+Conan Gray,Yours,Yours,7BpqydHSxMviDR0DNTne6J,0.523,0.302,2,-8.868,1,0.035,0.0,0.127,0.172,130.47,204968,4,Spotify,study mode,Public C
+Paige,I Hope You Knew,I Hope You Knew,5TyLBXHammwLZ76DKUnAE1,0.748,0.54,3,-5.548,1,0.04,0.0,0.0582,0.666,101.947,200295,4,Spotify,study mode,Public C
+Ashley Kutcher,Survive My Own Mind,Emotionless,4mJ0rQth1WbwdVl4zgnFqs,0.38,0.469,11,-8.088,1,0.152,0.0,0.343,0.251,181.71,136480,3,Spotify,study mode,Public C
+Maddie Zahm,You Might Not Like Her,Inevitable,4HFPqbaVJIc0uTB1QhCY8z,0.519,0.332,7,-6.684,1,0.0453,0.0,0.265,0.286,76.764,202067,4,Spotify,study mode,Public C
+clide,ALLERGIC,ALLERGIC,6DP8InyxdyYChHb2tcV6ia,0.609,0.428,11,-7.796,1,0.0244,0.0,0.064,0.627,96.071,155200,4,Spotify,study mode,Public C
+Lauren Spencer Smith,Flowers,Flowers,6Z165JvPnS8PYvGW8oLGLc,0.684,0.449,3,-9.738,1,0.611,0.0,0.0881,0.341,66.165,157373,4,Spotify,study mode,Public C
+Forest Blakk,Give You Love,Give You Love,0H4yyuVRMIXT9hkDZMc6D6,0.674,0.478,10,-7.88,1,0.0452,0.0,0.0681,0.282,100.018,173638,4,Spotify,study mode,Public C
+Abe Parker,Butterflies,Butterflies,6Xa2rrTpSLkpx887Y115mO,0.485,0.484,3,-7.036,1,0.0617,0.0,0.114,0.282,159.877,183938,3,Spotify,study mode,Public C
+Sasha Alex Sloan,New Normal,New Normal,62sWTVzpcujJtb4E5B3K07,0.708,0.403,9,-9.858,1,0.0357,1.54e-06,0.326,0.497,131.949,187507,4,Spotify,study mode,Public C
+Lauv,All 4 Nothing,First Grade,04Nt8Fr8krHE5SxKBWLDdK,0.423,0.196,5,-11.576,1,0.0391,0.0,0.103,0.27,117.953,218676,4,Spotify,study mode,Public C
+Dylan J,4 Songs I Made In California,Naïve Love,1FWluZedEH4D8F6TUZlGEB,0.362,0.54,2,-7.341,1,0.0448,0.0,0.0464,0.388,71.959,181500,3,Spotify,study mode,Public C
+Lexi Jayde,closer to closure,self sabotage,1B7WWtKiz2LU85t9tL8x5v,0.585,0.506,2,-7.009,1,0.0459,6.68e-05,0.141,0.239,135.942,220153,4,Spotify,study mode,Public C
+Oh Wonder,True Romance,True Romance,50ll4YzQ4V2qgpTVRg9rO1,0.522,0.543,2,-9.368,1,0.0607,2.39e-05,0.0568,0.501,149.852,236365,4,Spotify,study mode,Public C
+Conan Gray,Memories,Memories,7AYP21Q4qnxw2WxETEvSRb,0.34,0.684,11,-6.306,1,0.044,0.0,0.348,0.556,112.969,248819,4,Spotify,study mode,Public C
+Jessie Murph,Pray,Pray,2gbRKKSyW7e7vAkyvrJkte,0.588,0.39,8,-7.753,1,0.0578,1.26e-05,0.0965,0.206,96.571,146267,4,Spotify,study mode,Public C
+Anson Seabra,Unloving You,Unloving You,2w9nvs1ByWUGkED4M0ug34,0.765,0.393,6,-9.616,1,0.0311,0.0,0.142,0.224,121.909,153863,4,Spotify,study mode,Public C
+Noah Cyrus,The Hardest Part,I Burned LA Down,4dEUEEbO25gBn2s9dASnYi,0.666,0.547,11,-8.706,1,0.0643,0.000274,0.0987,0.165,117.991,195252,4,Spotify,study mode,Public C
+MUNA,MUNA,Kind Of Girl,2kNnSv2CB0MO3O5WMspcSC,0.351,0.534,2,-5.805,1,0.0324,0.0,0.365,0.369,73.829,246119,4,Spotify,study mode,Public C
+Ruel,LET THE GRASS GROW,LET THE GRASS GROW,2BN5ZMErVAhbEroB99b3no,0.598,0.426,5,-7.659,1,0.0354,0.0,0.318,0.292,119.922,175534,4,Spotify,study mode,Public C
+Charley,I Suck At Being Lonely,I Suck At Being Lonely,2w7Li4lbevrPrPSY7pGpxG,0.402,0.452,9,-8.097,1,0.0437,2.83e-06,0.092,0.183,81.681,178652,4,Spotify,study mode,Public C
+vaultboy,vaultboy EP,i think i wanna text u,4hH46xhExjwEGfuWFgnOc3,0.454,0.419,7,-9.184,1,0.0352,0.0,0.132,0.224,76.925,196481,4,Spotify,study mode,Public C
+George Alice,Growing Pains,Haunted,5W4ajZQRbMCZSaK7dQdymn,0.574,0.58,11,-9.333,1,0.0448,5.68e-05,0.131,0.432,136.086,213662,4,Spotify,study mode,Public C
+Julius Black,Together We Go Down In The Dark,Together We Go Down In The Dark,4NZwAKr8rYOa1lvFmvHacm,0.675,0.429,5,-10.497,1,0.0523,0.011,0.239,0.305,135.017,169222,3,Spotify,study mode,Public C
+Cody Simpson,Nice to Meet You,Nice to Meet You,0nxh4ijcMIwtkUth4aClzL,0.419,0.604,0,-5.177,1,0.0321,0.0,0.0863,0.163,145.75,250033,4,Spotify,study mode,Public C
+CASS,clouds,clouds,2jLM1EZ02W1dfenyJUj7Sb,0.622,0.437,1,-8.572,1,0.0399,0.0,0.131,0.415,77.483,226113,4,Spotify,study mode,Public C
+Thomston,Crushed,Crushed,3k0SETuSN77lOH9FwSCnGS,0.426,0.524,0,-10.647,1,0.0938,0.000702,0.0722,0.263,169.755,211059,4,Spotify,study mode,Public C
+George Alice,Hold On,Hold On,0lLBVkeTuZVfZRUC6MFfRf,0.43,0.42,9,-10.475,1,0.0381,3.14e-05,0.0807,0.252,149.999,195781,4,Spotify,study mode,Public C
+Lexi Jayde,closer to closure,drunk text me,5gukv8x9eP58gFy2OcZEBQ,0.534,0.493,0,-6.818,1,0.0316,0.0,0.0889,0.232,79.97,213133,4,Spotify,study mode,Public C
+Benson Boone,GHOST TOWN,GHOST TOWN,135Lf4Q0CzlMNfOxbEUsLH,0.391,0.335,0,-10.064,1,0.0763,0.0,0.102,0.116,174.185,193733,3,Spotify,study mode,Public C
+GRAACE,Sentimental,Sentimental,61VZLH1gv19xeKByFm8c0o,0.504,0.328,2,-10.446,1,0.0368,9.22e-05,0.0725,0.377,124.783,191266,3,Spotify,study mode,Public C
+Valentina Ploy,Drunk Sleeping In Taxis,Drunk Sleeping In Taxis,6JsTJ7ScTRdqz2yotO5aNe,0.536,0.416,2,-10.664,1,0.0474,3.47e-05,0.115,0.193,126.782,213425,4,Spotify,study mode,Public C
+Holly Humberstone,The Walls Are Way Too Thin,Friendly Fire,1u71gNzUwTjgfYmArCUD0m,0.465,0.602,10,-9.664,1,0.078,0.00145,0.101,0.595,159.905,222800,4,Spotify,study mode,Public C
+Gracie Abrams,This Is What It Feels Like,Feels Like,35IcAVSMsU9qzHfpPbvC8A,0.617,0.483,11,-7.359,1,0.0458,0.000216,0.121,0.176,144.99,152318,4,Spotify,study mode,Public C
+Giveon,For Tonight,For Tonight,61Emqg95O9zo1GNOcyxq4Y,0.442,0.517,9,-7.807,1,0.0548,0.0,0.114,0.2,79.867,193822,4,Spotify,study mode,Public C
+Luke Hemmings,Place In Me,Place In Me,5uRv6CmkhdNoirnHEhqLPU,0.274,0.345,8,-6.715,1,0.0309,2.36e-06,0.12,0.218,68.639,187443,4,Spotify,study mode,Public C
+GRACEY,the internet,the internet,2oXwBL6QlB7sYBXbvahZke,0.577,0.618,6,-6.544,1,0.163,8.43e-06,0.185,0.566,101.241,207896,5,Spotify,study mode,Public C
+Alessia Cara,In The Meantime,Best Days,3z1DnGBH2uhlDekJr0YVzQ,0.518,0.318,6,-11.727,1,0.0749,4.21e-06,0.13,0.227,77.594,211838,4,Spotify,study mode,Public C
+Tate McRae,that way (with Jeremy Zucker),that way - with Jeremy Zucker,6W4SftknKhWj0iFoHN7aYU,0.394,0.398,0,-10.202,1,0.219,0.0,0.313,0.361,78.438,174300,3,Spotify,study mode,Public C
+jas.,Wish You Well,Wish You Well,6I56gU6RR784U5Tus65qet,0.459,0.338,1,-8.15,0,0.0361,2.46e-05,0.122,0.152,122.248,170957,4,Spotify,study mode,Public C
+Troye Sivan,could cry just thinkin about you (Full Version),could cry just thinkin about you - Full Version,3H7oAhHxkEkSf9iomv2mbG,0.515,0.323,6,-11.05,1,0.0429,0.0,0.106,0.188,147.972,158001,4,Spotify,study mode,Public C
+Indyah,Bloodline,Bloodline,6nmPxOhrkI0hXqOWHajpE9,0.679,0.585,2,-6.586,1,0.0544,0.000149,0.126,0.316,140.004,181714,4,Spotify,study mode,Public C
+pinkiscool,Surface,Surface,4GVhluLOWE1vUZTTkNAhSP,0.606,0.618,0,-6.027,1,0.04,0.0,0.167,0.237,135.037,188500,4,Spotify,study mode,Public C
+Gretta Ray,Begin To Look Around,Love Me Right,3HwzxCloueo5NI5XLSUru4,0.652,0.774,5,-6.276,1,0.0416,0.0,0.0324,0.679,113.961,259195,4,Spotify,study mode,Public C
+FLETCHER,Healing,Healing,2jgq1RlYLt4FZldm4KAfj2,0.572,0.621,2,-7.298,1,0.0336,2.19e-06,0.124,0.35,159.989,187544,4,Spotify,study mode,Public C
+Thomston,April,April,5c9NYoGdCrvQCa5EwjsBZv,0.83,0.496,0,-10.354,1,0.0443,0.000153,0.0987,0.503,119.926,196000,4,Spotify,study mode,Public C
+shy martin,Break With Me,Break With Me,28ISI9ACJ3Z3tQ7rQehHlZ,0.612,0.203,5,-10.313,1,0.0345,0.0,0.124,0.172,138.084,155570,4,Spotify,study mode,Public C
+Ruel,too many feelings,too many feelings,3tb3sGsGLnSsyUxue8Aetd,0.754,0.706,5,-6.145,1,0.0923,3.46e-05,0.097,0.536,81.943,186935,4,Spotify,study mode,Public C
+Zoe Wees,Golden Wings,Hold Me Like You Used To,7eEcVUDXfIaZPq4kwhPIML,0.573,0.59,0,-6.308,0,0.0352,0.0,0.192,0.177,124.958,186975,3,Spotify,study mode,Public C

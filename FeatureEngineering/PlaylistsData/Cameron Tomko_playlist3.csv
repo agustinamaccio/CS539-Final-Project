@@ -1,0 +1,94 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+PnB Rock,"Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)","Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",5de7ci7TFqbQ1PFgKAD7MR,0.703,0.661,6,-3.885,1,0.0539,0,0.34,0.495,149.906,249240,4,Ctomko3,Old music,Cameron Tomko
+Meek Mill,Dreams Worth More Than Money,R.I.C.O. (feat. Drake),0Y0TOsE1q11qgbi7c5WZsG,0.727,0.599,1,-6.941,1,0.327,0,0.219,0.386,167.909,197133,3,Ctomko3,Old music,Cameron Tomko
+Kanye West,Late Registration,Gold Digger,1PS1QMdUqOal0ai3Gt7sDQ,0.629,0.696,1,-5.572,0,0.348,0,0.0554,0.623,93.034,207627,4,Ctomko3,Old music,Cameron Tomko
+T.I.,Trouble Man: Heavy is the Head,Who Want Some,7i36fWd3Bmq7HkC9rbz5Aw,0.552,0.862,4,-3.905,0,0.371,0,0.682,0.507,154.029,355280,4,Ctomko3,Old music,Cameron Tomko
+Meek Mill,Dreams and Nightmares (Deluxe Edition),Dreams and Nightmares,42zd6DYQ4o4SECmTITrM1U,0.631,0.774,11,-2.459,1,0.3,0,0.281,0.44,79.745,230693,4,Ctomko3,Old music,Cameron Tomko
+Kodak Black,Painting Pictures,Patty Cake,0bXFIF7iL17TYLyx8JHziM,0.806,0.77,1,-6.464,0,0.19,0,0.0645,0.406,152.094,198110,4,Ctomko3,Old music,Cameron Tomko
+J. Cole,2014 Forest Hills Drive,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,0.692,0.521,10,-8.465,0,0.33,0,0.0565,0.463,100.45,292987,4,Ctomko3,Old music,Cameron Tomko
+Future,March Madness,March Madness,6hVGw7yVUd2bpdHMPCWrtN,0.406,0.661,8,-5.142,1,0.311,0,0.101,0.335,180.206,244613,3,Ctomko3,Old music,Cameron Tomko
+Drake,What A Time To Be Alive,Digital Dash,0GR7iJLhj80KD5LkA14ZRn,0.881,0.546,2,-7.566,1,0.12,4.72e-06,0.226,0.276,140.032,231231,4,Ctomko3,Old music,Cameron Tomko
+Drake,What A Time To Be Alive,Big Rings,7jslhIiELQkgW9IHeYNOWE,0.776,0.675,8,-6.224,0,0.266,0,0.227,0.27,131.984,217707,4,Ctomko3,Old music,Cameron Tomko
+Drake,What A Time To Be Alive,Jumpman,27GmP9AWRs744SzKcpJsTZ,0.852,0.553,1,-7.286,1,0.187,0,0.332,0.656,142.079,205879,4,Ctomko3,Old music,Cameron Tomko
+Drake,Thank Me Later (Int'l Version),Over,1EoHEkVcysf4WVDx6r9WzQ,0.325,0.848,7,-5.611,1,0.279,0,0.124,0.433,100.093,233560,5,Ctomko3,Old music,Cameron Tomko
+Drake,Thank Me Later (Int'l Version),Best I Ever Had,1GxHeBvQ9935Dd3cSfsfBa,0.431,0.894,5,-2.673,0,0.33,0,0.188,0.605,162.161,258760,4,Ctomko3,Old music,Cameron Tomko
+Kendrick Lamar,"good kid, m.A.A.d city","Bitch, Don’t Kill My Vibe",4Pwjz3DfvfQWV0rO2V8jyh,0.587,0.698,1,-8.948,1,0.0943,0,0.442,0.0985,133.954,310720,4,Ctomko3,Old music,Cameron Tomko
+Kodak Black,Tunnel Vision,Tunnel Vision,2BoS7pU92MQtynhQ0cZOLT,0.497,0.489,11,-7.724,0,0.294,9.91e-05,0.122,0.231,171.853,268187,4,Ctomko3,Old music,Cameron Tomko
+J. Cole,2014 Forest Hills Drive,Wet Dreamz,6Ius4TC0L3cN74HT7ENE6e,0.517,0.705,6,-8.205,0,0.364,0,0.128,0.584,175.906,239320,4,Ctomko3,Old music,Cameron Tomko
+Chance the Rapper,Coloring Book,No Problem (feat. Lil Wayne & 2 Chainz),0v9Wz8o0BT8DU38R4ddjeH,0.652,0.795,11,-5.192,0,0.174,0,0.123,0.788,135.018,304607,4,Ctomko3,Old music,Cameron Tomko
+Kendrick Lamar,"good kid, m.A.A.d city",m.A.A.d city,439TlnnznSiBbQbgXiBqAd,0.487,0.729,2,-6.815,1,0.271,4.07e-06,0.44,0.217,91.048,350120,4,Ctomko3,Old music,Cameron Tomko
+Lil Wayne,Tha Carter IV (Deluxe),6 Foot 7 Foot,0z5ZPs57J2KERwM1tBM2GF,0.365,0.751,2,-5.429,1,0.304,0,0.318,0.604,79.119,248587,4,Ctomko3,Old music,Cameron Tomko
+Lil Wayne,Tha Carter III,A Milli,6ScJMrlpiLfZUGtWp4QIVt,0.674,0.695,6,-8.636,0,0.278,0.00202,0.194,0.773,151.486,221840,4,Ctomko3,Old music,Cameron Tomko
+Childish Gambino,Camp,Bonfire,4zGvb8hxGLB2jEPRFiRRqw,0.508,0.763,1,-5.674,1,0.303,0,0.347,0.275,161.59,192947,4,Ctomko3,Old music,Cameron Tomko
+BlocBoy JB,Look Alive (feat. Drake),Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,0.922,0.581,10,-7.495,1,0.27,5.86e-05,0.105,0.595,140.022,181263,4,Ctomko3,Old music,Cameron Tomko
+Travis Scott,Watch (feat. Lil Uzi Vert & Kanye West),Watch (feat. Lil Uzi Vert & Kanye West),3DoBTwfr8yi2LN08SBpFkN,0.706,0.559,4,-5.216,0,0.0416,0,0.379,0.252,78.534,217405,4,Ctomko3,Old music,Cameron Tomko
+Young Money,Rise Of An Empire (Deluxe Edition),Trophies,6HfOzLLjsaXsehIFEsrxTk,0.746,0.687,1,-7.475,1,0.382,0,0.137,0.283,143.931,188320,4,Ctomko3,Old music,Cameron Tomko
+A$AP Ferg,Trap Lord,"Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",7xVLFuuYdAvcTfcP3IG3dS,0.841,0.733,1,-5.077,1,0.142,0,0.174,0.284,130.009,283693,4,Ctomko3,Old music,Cameron Tomko
+Drake,Back To Back,Back To Back,5lFDtgWsjRJu8fPOAyJIAK,0.893,0.48,1,-3.728,0,0.356,0,0.116,0.382,86.976,170638,4,Ctomko3,Old music,Cameron Tomko
+Travis Scott,Rodeo (Expanded Edition),Antidote,1wHZx0LgzFHyeIZkUydNXq,0.713,0.526,1,-5.046,1,0.032,0.000148,0.124,0.131,131.05,262693,4,Ctomko3,Old music,Cameron Tomko
+Migos,No Label II,Fight Night,2n5gVJ9fzeX2SSWlLQuyS9,0.874,0.706,1,-5.132,1,0.207,0,0.334,0.895,89.961,216248,4,Ctomko3,Old music,Cameron Tomko
+Drake,0 To 100 / The Catch Up,0 To 100 / The Catch Up,4jtyUzZm9WLc2AdaJ1dso7,0.559,0.716,11,-3.964,0,0.39,0,0.252,0.504,176.618,275227,4,Ctomko3,Old music,Cameron Tomko
+Drake,Take Care (Deluxe),The Motto,4Kz4RdRCceaA9VgTqBhBfa,0.766,0.442,1,-8.558,1,0.356,6.12e-05,0.111,0.39,201.8,181573,4,Ctomko3,Old music,Cameron Tomko
+A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",4X5f3vT8MRuXF68pfjNte5,0.853,0.693,1,-6.87,1,0.275,0,0.11,0.662,95.967,233787,4,Ctomko3,Old music,Cameron Tomko
+Big Sean,Dark Sky Paradise,Blessings,1bzM1cd6oqFozdr4wK6HdR,0.79,0.621,1,-7.634,1,0.275,0,0.122,0.15,118.895,252040,4,Ctomko3,Old music,Cameron Tomko
+Drake,Take Care (Deluxe),Headlines,6LxSe8YmdPxy095Ux6znaQ,0.636,0.566,6,-7.16,0,0.106,0.000353,0.0917,0.425,151.894,235987,4,Ctomko3,Old music,Cameron Tomko
+Big Sean,I Decided.,Bounce Back,0SGkqnVQo9KPytSri1H6cF,0.78,0.575,1,-5.628,0,0.139,0,0.129,0.273,81.502,222360,4,Ctomko3,Old music,Cameron Tomko
+Bobby Shmurda,Hot N*gga,Hot N*gga,19gEmPjfqSZT0ulDRfjl0m,0.794,0.51,9,-7.314,1,0.42,1.81e-06,0.0562,0.18,167.879,194561,4,Ctomko3,Old music,Cameron Tomko
+Future,DS2 (Deluxe),F*ck Up Some Commas,49zD0wr2S3d0lZPib0K4e1,0.874,0.568,11,-5.896,0,0.224,1.38e-05,0.149,0.46,139.995,237400,4,Ctomko3,Old music,Cameron Tomko
+Big Sean,Dark Sky Paradise,I Don't Fuck With You,7FYH5AW3bVfZHJIQpq3UOA,0.824,0.733,1,-5.474,1,0.0613,0,0.325,0.395,97.972,284387,4,Ctomko3,Old music,Cameron Tomko
+Kanye West,Mercy,Mercy,4qikXelSRKvoCqFcHLB2H2,0.563,0.496,6,-9.381,0,0.406,5.8e-05,0.173,0.426,139.993,329320,4,Ctomko3,Old music,Cameron Tomko
+Various Artists,Champions,Champions,2nBI3iWLhupR7LyAJ5GGkE,0.692,0.774,6,-2.48,0,0.0876,0,0.873,0.349,134.952,334253,4,Ctomko3,Old music,Cameron Tomko
+Future,DS2 (Deluxe),Where Ya At (feat. Drake),5nN8BwAQDJDguq7Dpd3JQQ,0.813,0.453,1,-6.941,1,0.338,0,0.14,0.191,161.997,208027,4,Ctomko3,Old music,Cameron Tomko
+Eminem,Relapse: Refill,Forever,5UsLjwBaTHBX4ektWIr4XX,0.457,0.906,5,-2.278,0,0.342,0,0.182,0.54,104.02,357707,5,Ctomko3,Old music,Cameron Tomko
+Kendrick Lamar,Swimming Pools (Drank),Swimming Pools (Drank),6REbwUNlppTfcnV4d4ZoZi,0.577,0.447,8,-5.892,1,0.277,0.00022,0.0899,0.189,74.236,247800,4,Ctomko3,Old music,Cameron Tomko
+Rich Homie Quan,"Flex (Ooh, Ooh, Ooh) - Single","Flex (Ooh, Ooh, Ooh)",4T0ScSPdQKmGvruK7pavNP,0.726,0.607,2,-7.68,1,0.0498,0,0.19,0.891,81.997,176744,4,Ctomko3,Old music,Cameron Tomko
+B.o.B,Underground Luxury,HeadBand (feat. 2 Chainz),2LvRR121MWFmmEGkuV2vQP,0.919,0.506,1,-7.14,1,0.304,0,0.0771,0.273,97.465,220240,4,Ctomko3,Old music,Cameron Tomko
+Rich Gang,Lifestyle,Lifestyle,7DTlsMOQjGysXHpwwpHuPl,0.546,0.667,1,-5.236,1,0.274,0,0.0895,0.471,87.666,269693,4,Ctomko3,Old music,Cameron Tomko
+Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Backseat Freestyle,3aGibUHhQyBsyumYHylw0K,0.546,0.651,1,-7.601,1,0.3,0,0.235,0.646,77.878,212653,4,Ctomko3,Old music,Cameron Tomko
+Fetty Wap,Fetty Wap (Deluxe),My Way (feat. Monty),1WoOzgvz6CgH4pX6a1RKGp,0.748,0.741,6,-3.103,1,0.0531,0,0.147,0.537,128.077,213053,4,Ctomko3,Old music,Cameron Tomko
+J. Cole,2014 Forest Hills Drive,G.O.M.D.,16qYlQ6koFxYVbiJbGHblz,0.89,0.393,4,-10.821,0,0.267,8.81e-06,0.283,0.304,128.084,301133,4,Ctomko3,Old music,Cameron Tomko
+Fetty Wap,Fetty Wap (Deluxe),Trap Queen,2d8JP84HNLKhmd6IYOoupQ,0.746,0.873,7,-3.803,1,0.128,0,0.354,0.817,148.075,222093,4,Ctomko3,Old music,Cameron Tomko
+Fetty Wap,679 (feat. Remy Boyz),679 (feat. Remy Boyz),5NQbUaeTEOGdD6hHcre0dZ,0.618,0.717,7,-5.738,1,0.318,0,0.625,0.603,190.05,196693,4,Ctomko3,Old music,Cameron Tomko
+Chris Brown,F.A.M.E. (Expanded Edition),Look At Me Now (feat. Lil' Wayne & Busta Rhymes),3hsmbFKT5Cujb5GQjqEU39,0.767,0.677,11,-6.128,0,0.184,5.51e-06,0.144,0.538,146.155,222587,4,Ctomko3,Old music,Cameron Tomko
+Wiz Khalifa,Blacc Hollywood (Deluxe),We Dem Boyz,1ULa3GfdMKs0MfRpm6xVlu,0.717,0.862,8,-4.736,1,0.054,0,0.321,0.52,130.021,224933,4,Ctomko3,Old music,Cameron Tomko
+Kevin Gates,Luca Brasi 2: Gangsta Grillz,I Don't Get Tired (#IDGT) (feat. August Alsina),6HMHgBHdLBQ0QYIaOp2gse,0.492,0.698,1,-5.606,1,0.171,0,0.428,0.288,139.953,209707,4,Ctomko3,Old music,Cameron Tomko
+Rae Sremmurd,SremmLife,No Type,4scpF6J5uMBvoh6sFB7EL1,0.891,0.486,6,-7.803,1,0.159,3.78e-06,0.0925,0.239,125.01,200080,4,Ctomko3,Old music,Cameron Tomko
+ILOVEMAKONNEN,I LOVE MAKONNEN,Tuesday (feat. Drake),4PWY72AubTjoZrohQt0pWn,0.77,0.664,0,-5.604,1,0.211,0.000118,0.105,0.472,140.163,321987,4,Ctomko3,Old music,Cameron Tomko
+Kevin Gates,Islah (Deluxe),2 Phones,0wdKiSBUT7aZkXUIdJWcwC,0.895,0.681,7,-5.267,0,0.358,0,0.189,0.554,121.918,240000,4,Ctomko3,Old music,Cameron Tomko
+YG,My Krazy Life (Deluxe),My Nigga,02pf9lLM8Nb8l4u4ts1GWb,0.673,0.464,10,-6.864,0,0.201,0,0.21,0.762,171.043,235600,4,Ctomko3,Old music,Cameron Tomko
+Kevin Gates,Islah (Deluxe),Really Really,10I3CmmwT0BkOVhduDy53o,0.762,0.666,0,-6.055,1,0.0916,0,0.127,0.278,118.97,232093,4,Ctomko3,Old music,Cameron Tomko
+Chief Keef,Finally Rich (Deluxe),Hate Bein' Sober,3SuzCeGoNOWmbWOoDMou0B,0.82,0.47,8,-7.181,1,0.0458,0,0.141,0.313,132.003,280173,4,Ctomko3,Old music,Cameron Tomko
+Ty Dolla $ign,Free TC,Blasé (feat. Future & Rae Sremmurd),5suEtW2DUAfvroohjzgatb,0.897,0.642,2,-8.828,1,0.0534,1.31e-06,0.159,0.291,127.984,285240,4,Ctomko3,Old music,Cameron Tomko
+Kid Ink,Full Speed,Be Real (feat. DeJ Loaf),4fUh9VvKW4shhWN5LfN1Ba,0.762,0.611,9,-5.462,0,0.0876,0.000315,0.141,0.386,99.934,206760,4,Ctomko3,Old music,Cameron Tomko
+JAY-Z,Watch The Throne (Deluxe),Ni**as In Paris,4Li2WHPkuyCdtmokzW2007,0.789,0.858,1,-5.542,1,0.311,0,0.349,0.775,140.022,219333,4,Ctomko3,Old music,Cameron Tomko
+Lil Wayne,I Am Not A Human Being II (Deluxe),Love Me,7tGlzXJv6GD5e5qlu5YmDg,0.674,0.608,8,-6.628,0,0.0334,0,0.103,0.464,124.952,253440,4,Ctomko3,Old music,Cameron Tomko
+Jidenna,Classic Man (feat. Roman GianArthur),Classic Man (feat. Roman GianArthur),3G7XYAwtxtoGK7fAm4IlD9,0.79,0.585,8,-6.058,1,0.0348,0,0.292,0.585,94.072,226000,4,Ctomko3,Old music,Cameron Tomko
+Bankroll Fresh,Life Of A Hot Boy 2 : Real Trapper,Walked In,252gJUec2oDsGBPcxZs4nX,0.969,0.491,2,-9.859,1,0.233,0,0.118,0.768,126.048,198095,4,Ctomko3,Old music,Cameron Tomko
+Future,EVOL,Low Life (feat. The Weeknd),7EiZI6JVHllARrX9PUvAdX,0.722,0.331,8,-7.789,1,0.0726,0.282,0.146,0.102,143.961,313547,4,Ctomko3,Old music,Cameron Tomko
+Travis Scott,Rodeo (Expanded Edition),3500 (feat. Future & 2 Chainz),1SGt65i9AnXYdDQt1AtDRH,0.773,0.595,8,-6.062,0,0.161,2.47e-06,0.13,0.338,123.968,461840,4,Ctomko3,Old music,Cameron Tomko
+G-Eazy,These Things Happen,I Mean It (feat. Remo),6jmTHeoWvBaSrwWttr8Xvu,0.712,0.562,10,-6.008,1,0.129,0,0.136,0.142,140.0,236480,4,Ctomko3,Old music,Cameron Tomko
+Tech N9ne,Special Effects,Hood Go Crazy,0kIHfcHGFGm5xb0dSlKEdp,0.912,0.644,11,-6.63,1,0.288,0,0.107,0.492,95.999,225040,4,Ctomko3,Old music,Cameron Tomko
+A$AP Ferg,ALWAYS STRIVE AND PROSPER,New Level (feat. Future),25rc1PFgPvtV6GFSloyOI0,0.734,0.703,1,-1.69,0,0.132,0,0.162,0.152,121.08,264973,4,Ctomko3,Old music,Cameron Tomko
+Tyga,Careless World: Rise Of The Last King,Rack City,0srwKuJPH8yBzzFUJMBQM2,0.929,0.339,1,-10.881,1,0.371,1.96e-05,0.187,0.273,98.986,203200,4,Ctomko3,Old music,Cameron Tomko
+2 Chainz,Based On A T.R.U. Story (Deluxe),I'm Different,6J5sxraPPZ4b0CVOGAgpXj,0.936,0.702,10,-5.305,1,0.0615,0,0.0838,0.704,97.524,207040,4,Ctomko3,Old music,Cameron Tomko
+Future,Purple Reign,Purple Reign,3E2i7xoT542yQ59bP2vBbF,0.729,0.377,8,-7.51,1,0.28,0.511,0.136,0.102,152.957,241800,4,Ctomko3,Old music,Cameron Tomko
+Future,EVOL,Wicked,6BbINUfGabVyiNFJpQXn3x,0.718,0.679,11,-5.899,0,0.0706,0.0104,0.385,0.205,157.97,173347,4,Ctomko3,Old music,Cameron Tomko
+Migos,Culture,Bad and Boujee (feat. Lil Uzi Vert),4Km5HrUvYTaSUfiSGPJeQR,0.926,0.666,11,-5.314,1,0.244,0,0.123,0.168,127.079,343150,4,Ctomko3,Old music,Cameron Tomko
+Chief Keef,Finally Rich (Deluxe),Love Sosa,4IowQDUOzUvNtp72HMDcKO,0.772,0.413,0,-8.193,0,0.089,0,0.111,0.211,131.965,246213,4,Ctomko3,Old music,Cameron Tomko
+Sage The Gemini,Remember Me,Gas Pedal,1UMKquW1olreYO1LlLmTqi,0.843,0.538,1,-8.028,1,0.0833,0,0.124,0.428,97.49,208160,4,Ctomko3,Old music,Cameron Tomko
+Kodak Black,No Flockin',No Flockin',34oWbFBfGEElvgO0a5c9V4,0.943,0.595,5,-8.372,0,0.191,0,0.0839,0.815,117.532,165291,4,Ctomko3,Old music,Cameron Tomko
+T.I.,Paperwork (Deluxe Explicit),No Mediocre (feat. Iggy Azalea),0SqUFLaRXwufRUsJ0t4dXB,0.781,0.495,1,-7.449,1,0.0432,0,0.0778,0.195,95.466,202213,4,Ctomko3,Old music,Cameron Tomko
+Childish Gambino,EP (2011 Re-Release),Freaks And Geeks,7xTY3rJMgj0nh6OOPHgsLw,0.667,0.873,10,-5.605,1,0.314,0,0.0725,0.799,81.052,217104,4,Ctomko3,Old music,Cameron Tomko
+Fetty Wap,Fetty Wap (Deluxe),RGF Island,1iuljeYz6ZG3GTJOZZkoer,0.746,0.764,0,-5.066,0,0.0423,8.19e-06,0.0867,0.518,137.98,173893,4,Ctomko3,Old music,Cameron Tomko
+Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)","Young, Wild & Free (feat. Bruno Mars)",5HQVUIKwCEXpe7JIHyY734,0.715,0.655,0,-6.425,1,0.137,0,0.115,0.531,95.078,207333,4,Ctomko3,Old music,Cameron Tomko
+Kodak Black,Project Baby 2: All Grown Up (Deluxe Edition),Codeine Dreaming (feat. Lil Wayne),4DTpngLjoHj5gFxEZFeD3J,0.736,0.604,1,-7.357,0,0.222,6.43e-05,0.124,0.574,155.007,264532,4,Ctomko3,Old music,Cameron Tomko
+Rich The Kid,The World Is Yours,New Freezer (feat. Kendrick Lamar),2EgB4n6XyBsuNUbuarr4eG,0.884,0.698,0,-9.101,1,0.364,0,0.195,0.575,140.068,191938,4,Ctomko3,Old music,Cameron Tomko
+Drake,More Life,Portland,2bjwRfXMk4uRgOD9IBYl9h,0.925,0.443,1,-8.216,1,0.264,0,0.276,0.35,136.078,236615,4,Ctomko3,Old music,Cameron Tomko
+Migos,Culture,T-Shirt,7KOlJ92bu51cltsD9KU5I7,0.865,0.687,10,-3.744,0,0.217,0,0.158,0.486,139.023,242407,4,Ctomko3,Old music,Cameron Tomko
+Logic,Bobby Tarantino,Flexicution,2c8sgbZoEanC3QyFNZxUcA,0.782,0.713,0,-6.576,0,0.0899,0.00125,0.108,0.68,159.839,218947,4,Ctomko3,Old music,Cameron Tomko
+YoungBoy Never Broke Again,AI YoungBoy,No Smoke,57IRaiAB4hBZu3gnNVZC0v,0.658,0.736,9,-6.097,0,0.308,0,0.0978,0.804,143.966,160000,4,Ctomko3,Old music,Cameron Tomko
+Jazz Cartier,Dead Or Alive,Dead Or Alive,6ekV6MGnPTuCOnjB4VcWGc,0.456,0.793,5,-5.569,1,0.65,0,0.169,0.707,205.348,194947,4,Ctomko3,Old music,Cameron Tomko
+Rich The Kid,The World Is Yours,Plug Walk,1ZAyjvIk9YiD76yYy0TEG6,0.876,0.519,11,-6.531,1,0.143,0,0.108,0.158,94.981,175230,4,Ctomko3,Old music,Cameron Tomko
+Migos,Culture II,MotorSport,4wFjTWCunQFKtukqrNijEt,0.904,0.518,2,-5.32,1,0.183,0,0.325,0.188,137.996,303077,4,Ctomko3,Old music,Cameron Tomko
+Migos,Need It,Need It,6mtjo5kIHKlboGE84lf1FJ,0.852,0.745,11,-3.667,0,0.171,0,0.0824,0.897,148.007,195681,4,Ctomko3,Old music,Cameron Tomko
+Polo G,GANG GANG (with Lil Wayne),GANG GANG (with Lil Wayne),4VW44pawoOHPUjlN7DX5vk,0.752,0.563,3,-8.066,0,0.209,0,0.103,0.551,145.05,178776,4,Ctomko3,Old music,Cameron Tomko

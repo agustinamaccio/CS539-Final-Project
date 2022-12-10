@@ -1,0 +1,30 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Soda Stereo,Soda Stereo (Remastered),Trátame Suavemente - Remasterizado 2007,65DBZofI0b79kfHTcWWDuU,0.738,0.8,11,-3.366,0,0.0283,0.0543,0.595,0.532,122.858,200800,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Ahí Vamos,Crimen,3oqWr0jDWNXxWufNogGREp,0.537,0.502,4,-8.406,1,0.025,0.0709,0.199,0.288,80.511,232027,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Ahí Vamos,Adiós,1rh4kDY9T4fHVDum8Foi5k,0.495,0.596,2,-5.45,1,0.024,0.00316,0.114,0.284,94.119,233747,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Sueño Stereo (Remastered),Zoom - Remasterizado 2007,1djou52IdL1mVEE7gTauxo,0.693,0.823,4,-6.433,1,0.0292,0.185,0.0574,0.949,93.923,206307,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Sueño Stereo (Remastered),Ella Usó Mi Cabeza Como Un Revólver - Remasterizado 2007,5RzXSxR7BUhEtpqh77lMbR,0.374,0.759,2,-6.871,0,0.0261,0.0174,0.104,0.289,165.415,269760,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Comfort Y Musica Para Volar,Te Para 3 - MTV Unplugged,2kMVxFh1y5gow2hBtqGO4m,0.523,0.339,2,-9.913,1,0.0275,0.0111,0.709,0.117,115.7,247000,3,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Comfort Y Musica Para Volar,Un Misil En Mi Placard - MTV Unplugged,7IJC1qatyg2t8SZiwJRvID,0.502,0.782,11,-7.707,0,0.0243,0.00108,0.907,0.613,95.964,274587,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Comfort Y Musica Para Volar,Entre Canibales - MTV Unplugged,060aWWmC9CrLqbhzHQifQf,0.635,0.677,4,-7.149,0,0.0278,0.0154,0.946,0.536,110.927,294147,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Doble Vida (Remastered),Lo Que Sangra (La Cúpula) - Remasterizado 2007,1Ssg0m4YjM10XVTXlblIg0,0.533,0.892,0,-4.774,1,0.0388,0.00029,0.3,0.917,101.305,273933,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Doble Vida (Remastered),Corazón Delator - Remasterizado 2007,2zaZ81JI8KbYaL7210BB0U,0.565,0.632,4,-6.994,0,0.0274,0.221,0.397,0.355,85.317,312840,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Siempre Es Hoy,Tu Cicatriz En Mi,7gPVoEPs8iLkkq3DXPtAjj,0.674,0.69,3,-7.702,0,0.0529,0.496,0.316,0.504,95.591,257507,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Bocanada,Puente,6gwaa6ElIixNTvu6RwkMyo,0.444,0.471,10,-9.107,1,0.0322,0.00159,0.14,0.205,76.335,273800,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Signos (Remastered),Prófugos - Remasterizado 2007,1Tja3miBbbENpqIOAqGWXa,0.551,0.895,4,-4.267,0,0.0391,0.0402,0.299,0.359,127.221,317613,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Fuerza Natural,Deja Vu,6WgUNHiMwJazeG4kWPAH1m,0.491,0.862,5,-7.573,0,0.0365,0.00258,0.185,0.271,138.956,204920,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Siempre Es Hoy,Cosas Imposibles,7be5IEj6GYti0jauRKODoG,0.887,0.675,9,-5.786,1,0.112,0.0229,0.107,0.883,119.988,305573,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Comfort Y Musica Para Volar,En la Ciudad de la Furia - MTV Unplugged,2p4FOWHHd2A6TBmTkdt1G0,0.361,0.519,11,-10.02,0,0.0597,0.057,0.845,0.266,170.604,522000,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Ahí Vamos,Lago en el Cielo,17eJyYLIlMNlOqcwHYJ9F2,0.539,0.833,7,-5.717,1,0.0322,0.0397,0.315,0.573,128.007,308947,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Fuerza Natural,Fuerza Natural,4nISKMNTbWKrZpGFI44pIz,0.481,0.8,2,-7.477,1,0.0292,0.04,0.385,0.534,78.228,289947,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Ahí Vamos,Me Quedo Aquí,6lUBD8XA38zIFt6C0giPsP,0.602,0.819,4,-6.219,0,0.0316,0.000636,0.565,0.389,117.004,217107,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Amor Amarillo,Te Llevo para Que Me Lleves,5rGphVLnbPdyBQ5X3rjb2X,0.646,0.596,11,-12.475,0,0.028,0.294,0.342,0.457,130.151,224093,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Fuerza Natural,Cactus,1NeZxBuSEhikl0ZrOSgpuW,0.665,0.411,9,-10.155,0,0.0273,0.0699,0.112,0.284,134.982,234760,3,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Fuerza Natural,Rapto,69Je4J4Gw5AIikOzGqdsDS,0.563,0.807,1,-6.304,0,0.0319,0.0418,0.0425,0.939,133.992,236667,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Signos (Remastered),El Rito - Remasterizado 2007,61Hl37BKbYcSelJ3Sd8oU0,0.677,0.792,7,-6.089,1,0.0287,0.0397,0.107,0.55,119.223,366267,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Fuerza Natural,Magia,1qxW7VuoZFyO0UQHR8XWcB,0.571,0.793,4,-7.1,0,0.028,0.0053,0.153,0.379,119.939,268773,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Emmanuel Horvilleur,Mordisco,19 (feat. Gustavo Cerati),0mRmRzqq9vahlZoODOdLNQ,0.692,0.242,9,-9.36,1,0.0308,0.00507,0.121,0.263,140.054,197000,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Bajofondo,Mar Dulce,El Mareo,744799eTMLuWvK25vgDiXw,0.613,0.93,11,-5.704,0,0.0882,0.404,0.101,0.472,130.019,275040,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Luis Alberto Spinetta,Spinetta y Las Bandas Eternas,Bajan (En Vivo Estadio Vélez Sarsfield) (feat. Gustavo Cerati),06pjQCIybMiGrgtHODGa2m,0.4,0.687,4,-7.626,1,0.0278,0.000216,0.16,0.446,84.701,225907,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Soda Stereo,Canción Animal (Remastered),Hombre Al Agua - Remasterizado 2007,5X1QC3aBZxtICZvNg5yrsf,0.603,0.657,7,-7.938,1,0.0265,0.0167,0.0704,0.623,97.113,355067,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman
+Gustavo Cerati,Ahí Vamos,La Excepción,3yjXwM2zsKJKjsdxIe93pp,0.523,0.932,9,-4.158,1,0.063,0.11,0.116,0.369,126.015,251600,4,Marce Esliman,Gustavo Cerati,Marcelo Esliman

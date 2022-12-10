@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Céline Dion,Let's Talk About Love,"My Heart Will Go On - Love Theme from ""Titanic""",33LC84JgLvK2KuW43MfaNq,0.428,0.276,4,-11.729,1,0.0312,5.33e-06,0.117,0.0382,99.195,280000,1,Spotify,90s Ballads,Public E
+The Goo Goo Dolls,Dizzy up the Girl,Iris,6Qyc6fS4DsZjB2mRW9DsQs,0.315,0.715,11,-8.072,0,0.0362,7.97e-06,0.0942,0.497,155.925,289533,3,Spotify,90s Ballads,Public E
+Shania Twain,Come On Over,You're Still The One,1wb4P4F0sxAQ2KXrRvsx6n,0.585,0.494,3,-8.751,1,0.0353,0.0,0.0886,0.634,133.822,212200,4,Spotify,90s Ballads,Public E
+Whitney Houston,The Bodyguard - Original Soundtrack Album,I Will Always Love You,4eHbdreAnSOrDDsFfc4Fpm,0.332,0.214,4,-12.518,1,0.0349,5.62e-06,0.0839,0.11,67.531,271093,4,Spotify,90s Ballads,Public E
+Céline Dion,Falling into You,All By Myself,0gsl92EMIScPGV1AU35nuD,0.344,0.325,11,-10.005,0,0.0287,0.0223,0.0686,0.0775,118.515,312307,4,Spotify,90s Ballads,Public E
+Aerosmith,I Don't Want To Miss A Thing EP,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",6lEuFGrUqR9Yc6hSsHPnYP,0.39,0.649,2,-5.163,1,0.0345,0.0,0.216,0.144,121.16,299760,4,Spotify,90s Ballads,Public E
+R.E.M.,Automatic For The People,Everybody Hurts,6PypGyiu0Y2lCDBN1XZEnP,0.467,0.324,2,-10.451,1,0.0255,0.0248,0.118,0.166,94.301,320267,3,Spotify,90s Ballads,Public E
+Savage Garden,Savage Garden,Truly Madly Deeply,013AWvizllIUEC2FOBzOnh,0.555,0.698,0,-8.874,1,0.0287,0.0,0.0851,0.816,168.12,277267,4,Spotify,90s Ballads,Public E
+Whitney Houston,The Bodyguard - Original Soundtrack Album,I Have Nothing,31er9IGsfFbwqy1pH4aiTP,0.541,0.401,0,-10.499,1,0.0365,0.0,0.164,0.24,152.943,289160,3,Spotify,90s Ballads,Public E
+Céline Dion,Let's Talk About Love,Tell Him (Duet with Barbra Streisand),6HKChbfE5klrUMHo3NrqzX,0.261,0.38,4,-9.148,1,0.0491,0.0,0.105,0.0793,74.463,291160,4,Spotify,90s Ballads,Public E
+Sinéad O'Connor,I Do Not Want What I Haven't Got,Nothing Compares 2 U,5GHY1DFWKz3Prg2V0Iodqo,0.512,0.574,5,-7.016,1,0.0273,2.31e-05,0.105,0.161,119.917,280040,4,Spotify,90s Ballads,Public E
+Seal,Seal,Kiss from a Rose,3YKptz29AsOlm7WAVnztBh,0.584,0.533,10,-7.11,0,0.0305,0.0,0.306,0.224,131.745,288427,3,Spotify,90s Ballads,Public E
+Bon Jovi,Keep The Faith,Bed Of Roses,1zng9uqqXoPkmU05nsAlsw,0.309,0.596,5,-5.599,1,0.0293,0.0,0.21,0.161,164.587,394400,3,Spotify,90s Ballads,Public E
+Céline Dion,Falling into You,"Because You Loved Me (Theme from ""Up Close and Personal"")",28UMiBhn383n9S7GL4tsxD,0.615,0.467,1,-9.883,1,0.0327,0.0,0.099,0.177,119.919,273667,4,Spotify,90s Ballads,Public E
+Ronan Keating,Ronan,When You Say Nothing At All,0gcjc7Vt5xtcfmJgf6g2IO,0.461,0.448,7,-10.665,1,0.0246,1.18e-06,0.0811,0.418,173.86,256827,4,Spotify,90s Ballads,Public E
+Mariah Carey,Music Box,Without You,1kMOJBmpfWD9fir6st9uqS,0.576,0.526,6,-8.524,1,0.0325,2.01e-06,0.0548,0.147,122.06,213667,4,Spotify,90s Ballads,Public E
+Pretenders,Last of the Independents,I'll Stand by You,3Nf8oGn1okobzjDcFCvT6n,0.438,0.606,7,-6.549,1,0.0305,4.49e-06,0.0754,0.266,133.822,240760,4,Spotify,90s Ballads,Public E
+Boyz II Men,Cooleyhighharmony (Bonus Tracks Version),End Of The Road,3l3xTXsUXeWlkPqzMs7mPD,0.64,0.427,5,-9.29,0,0.0241,0.0,0.0579,0.529,149.703,351467,3,Spotify,90s Ballads,Public E
+Take That,Nobody Else (Expanded Edition),Back for Good - Radio Mix,6vcdzohhBSbNdsZBh5IRpQ,0.601,0.504,5,-9.761,1,0.0284,0.0,0.137,0.564,78.986,242267,4,Spotify,90s Ballads,Public E
+K-Ci & JoJo,Love Always,All My Life,5GorFaKkP2mLREQvhSblIg,0.629,0.511,1,-8.651,1,0.0326,3.91e-06,0.0588,0.181,128.038,331240,4,Spotify,90s Ballads,Public E
+Bryan Adams,18 Til I Die,Have You Ever Really Loved A Woman?,32Gf5A7Hr8RdgggXG0Fdks,0.57,0.478,7,-10.185,1,0.0322,1.33e-05,0.0931,0.358,145.517,291667,3,Spotify,90s Ballads,Public E
+Mariah Carey,Music Box,Hero,4FCb4CUbFCMNRkI6lYc1zI,0.501,0.378,4,-9.37,1,0.029,0.0,0.119,0.178,119.987,257733,4,Spotify,90s Ballads,Public E
+Céline Dion,Falling into You,It's All Coming Back to Me Now,5EQzuYfTZt7B2LqlvTF49l,0.384,0.438,0,-9.149,1,0.0362,0.0,0.101,0.287,87.903,456867,4,Spotify,90s Ballads,Public E
+All-4-One,All-4-One,I Swear,4WUnM4KNZ0kjp0CUeoyOnS,0.532,0.407,6,-9.658,0,0.0233,0.0,0.117,0.23,83.207,259853,4,Spotify,90s Ballads,Public E
+Brian McKnight,Back At One,Back At One,6mwA6YiKDjAUG8kWvRRUPh,0.661,0.346,11,-9.115,1,0.03,0.0,0.131,0.256,129.752,263667,4,Spotify,90s Ballads,Public E
+LeAnn Rimes,Greatest Hits,How Do I Live,7BD50ATrF3Vab5FQy7vtK8,0.577,0.462,2,-7.989,1,0.0279,0.0,0.0822,0.258,128.303,266973,4,Spotify,90s Ballads,Public E
+Rod Stewart,If We Fall in Love Tonight,All for Love,4lsEHglVsLzILTDQ3CNESV,0.51,0.44,2,-11.015,1,0.0293,0.0,0.0994,0.135,74.8,281200,4,Spotify,90s Ballads,Public E
+SWV,It's About Time,Weak,71EHOyEOhNx1SzTebRRyng,0.693,0.533,2,-10.954,0,0.0402,0.0,0.0695,0.568,127.661,291907,4,Spotify,90s Ballads,Public E
+Toni Braxton,Secrets,Un-Break My Heart,5Ihd9HrPvOADyVoonH9ZjB,0.625,0.426,2,-8.4,0,0.0271,0.0,0.116,0.112,110.021,270333,4,Spotify,90s Ballads,Public E
+Céline Dion,The Colour Of My Love,The Power of Love,5kK1Iru9ogP3Iy1zsANU1n,0.546,0.519,8,-9.072,1,0.0291,0.00046,0.24,0.247,140.054,342400,4,Spotify,90s Ballads,Public E
+Mariah Carey,Daydream,One Sweet Day,7ySbfLwdCwl1EM0zNCJZ38,0.568,0.495,1,-8.964,1,0.0299,0.0,0.0839,0.303,128.234,281067,4,Spotify,90s Ballads,Public E
+Edwin McCain,Misguided Roses,I'll Be,5K7AMlpc4796JRWXb26nCV,0.371,0.609,11,-5.524,1,0.0295,0.0,0.104,0.426,136.526,266533,3,Spotify,90s Ballads,Public E
+Shania Twain,Greatest Hits,From This Moment On - Pop On-Tour Version,0vswnzoKvhNkT1ehc0Tt19,0.46,0.505,9,-5.487,1,0.0266,0.0,0.134,0.22,135.757,235107,4,Spotify,90s Ballads,Public E
+Sarah McLachlan,Surfacing,Angel,3xZMPZQYETEn4hjor3TR1A,0.532,0.0744,1,-16.092,1,0.0355,1.22e-05,0.106,0.125,117.131,270400,3,Spotify,90s Ballads,Public E
+Vanessa Williams,The Comfort Zone,Save The Best For Last,7okbmgA8lRBGl5limZ7LFM,0.528,0.234,3,-15.784,1,0.0283,0.0,0.183,0.191,95.911,218733,4,Spotify,90s Ballads,Public E
+Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",You Are Not Alone,3AoeaZs8dFemFJr3JdzOL0,0.651,0.402,11,-9.303,1,0.028,7.73e-05,0.0765,0.258,119.873,345600,4,Spotify,90s Ballads,Public E
+Selena,Dreaming Of You,Dreaming Of You,5EL8hqM8YQJHKKnzGdahly,0.553,0.458,8,-10.796,1,0.0381,9.71e-05,0.0583,0.247,165.807,314867,4,Spotify,90s Ballads,Public E
+Mariah Carey,Butterfly,My All,3RSpK5Y0y5tl25qvssrwJ6,0.607,0.317,7,-10.244,0,0.029,4.53e-05,0.086,0.111,108.122,230933,4,Spotify,90s Ballads,Public E
+Whitney Houston,My Love Is Your Love,When You Believe - from The Prince of Egypt,0JN7vUgUolHGHFrOR8xk7S,0.436,0.391,1,-9.62,0,0.0326,0.0,0.12,0.126,125.354,272893,4,Spotify,90s Ballads,Public E
+Michael Bolton,"Time, Love & Tenderness",When a Man Loves a Woman,3ascnOSOR5MX901ylGuhcl,0.476,0.363,1,-10.706,1,0.0296,0.0,0.055,0.243,164.555,231067,3,Spotify,90s Ballads,Public E
+Spice Girls,Spice,2 Become 1,36AWdhZIGLUTkWpJDhe7va,0.646,0.665,6,-7.878,1,0.0268,1.97e-05,0.238,0.7,143.966,241027,4,Spotify,90s Ballads,Public E
+Richard Marx,Paid Vacation,Now And Forever,2V2pxcEfn5zs79sE7qcewA,0.441,0.258,7,-11.227,1,0.0276,0.0,0.106,0.172,77.988,214827,1,Spotify,90s Ballads,Public E
+Luther Vandross,Songs,Endless Love (with Mariah Carey),7IljDTNkQEyy77CcaRbiAj,0.231,0.477,10,-7.748,1,0.029,2.61e-06,0.122,0.235,95.969,259667,4,Spotify,90s Ballads,Public E
+98º,98 Degrees And Rising,I Do (Cherish You),6XgwPf0cqjySCMsOmQq4t6,0.572,0.433,8,-9.392,1,0.0373,0.0,0.213,0.343,80.999,228067,4,Spotify,90s Ballads,Public E
+Bonnie Raitt,Luck Of The Draw,I Can't Make You Love Me,69uJi5QsBtqlYkGURTBli8,0.588,0.149,7,-16.728,0,0.0319,9.65e-05,0.236,0.113,124.689,332960,4,Spotify,90s Ballads,Public E
+Jewel,Pieces Of You,You Were Meant For Me,7y7aSSTiQfO0Ace4F7yxzE,0.582,0.33,6,-7.928,1,0.0347,1.48e-06,0.105,0.407,111.873,254480,4,Spotify,90s Ballads,Public E
+Michael Bolton,The One Thing,Said I Loved You...But I Lied,2nfMrwg3aRhSAv4HX7IzJL,0.547,0.569,10,-8.644,1,0.0271,7.05e-06,0.156,0.432,159.713,304867,4,Spotify,90s Ballads,Public E
+Bryan Adams,Waking Up The Neighbours,(Everything I Do) I Do It For You,6eBK3edMW7bEzecF1eCezc,0.526,0.365,1,-12.605,1,0.028,1.35e-05,0.0618,0.253,131.253,394133,4,Spotify,90s Ballads,Public E
+Christina Aguilera,Christina Aguilera (Expanded Edition),I Turn to You,4Do68W4FWO2hRAJCzG1lus,0.599,0.47,1,-8.356,1,0.0376,0.0,0.111,0.298,127.177,273707,4,Spotify,90s Ballads,Public E
+Paula Cole,This Fire,I Don't Want to Wait,5MDQNJ7SZTytJwCbWKqJDL,0.41,0.468,11,-8.177,1,0.0553,1.19e-05,0.0426,0.475,177.508,320027,4,Spotify,90s Ballads,Public E

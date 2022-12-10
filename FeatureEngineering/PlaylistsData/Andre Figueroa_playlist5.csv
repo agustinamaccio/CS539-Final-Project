@@ -1,0 +1,22 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Alabama,The Closer You Get...,Dixieland Delight,0bM1z18RQpr61UuI1LemIK,0.444,0.414,2,-15.04,1,0.0325,2.07e-05,0.053,0.573,95.73,322093,4,Andre,Yeehaw,Andre Figueroa
+Florida Georgia Line,Florida Georgia Line,Simple,1co0puPTYvqAdUEjFOjne9,0.375,0.889,3,-3.704,1,0.0991,0.0,0.136,0.881,199.669,185200,4,Andre,Yeehaw,Andre Figueroa
+Jason Aldean,My Kinda Party,Dirt Road Anthem,2qYsSHsYkihWx043HVJQRV,0.68,0.741,2,-5.055,1,0.0357,1.87e-06,0.117,0.635,127.024,229400,4,Andre,Yeehaw,Andre Figueroa
+The Band,Music From Big Pink (Remastered),The Weight - Remastered 2000,0P7DoyGrr4Wp9w5TotEtUC,0.63,0.551,9,-9.28,1,0.0549,5.75e-05,0.103,0.518,143.868,274493,4,Andre,Yeehaw,Andre Figueroa
+Zac Brown Band,The Foundation,Chicken Fried,3eBnEo9WL34ulBCZlLpUQO,0.566,0.713,6,-4.25,1,0.0418,0.0,0.114,0.805,169.861,238147,4,Andre,Yeehaw,Andre Figueroa
+Darius Rucker,True Believers,Wagon Wheel,3xdjjKMcMOFgo1eQrfbogM,0.537,0.66,9,-7.174,1,0.0296,0.0,0.135,0.574,148.096,298373,4,Andre,Yeehaw,Andre Figueroa
+Josh Turner,Your Man,Your Man,1WzAeadSKJhqykZFbJNmQv,0.744,0.637,6,-4.483,1,0.0241,0.000222,0.0696,0.785,100.511,211893,4,Andre,Yeehaw,Andre Figueroa
+Brooks & Dunn,#1s ... and then some,Neon Moon,3EUl8M6SzxZl03NPkB8mUd,0.698,0.632,9,-6.508,1,0.0247,0.0,0.118,0.458,102.408,263760,4,Andre,Yeehaw,Andre Figueroa
+George Strait,It Just Comes Natural,Wrapped,1FWAB1KZHJnAeET0288xha,0.586,0.762,11,-4.055,1,0.0263,0.0,0.109,0.59,114.067,247880,4,Andre,Yeehaw,Andre Figueroa
+Langhorne Slim,The Spirit Moves,Changes,0gKiONJeEtwb3hps4sUgyn,0.668,0.367,11,-11.002,1,0.0285,0.00521,0.103,0.342,110.21,161907,4,Andre,Yeehaw,Andre Figueroa
+The Highwaymen,Highwayman 2,American Remains,4REjaHRPmVb7btssqChJSy,0.684,0.495,10,-13.877,0,0.0422,6.98e-05,0.157,0.528,101.999,247000,4,Andre,Yeehaw,Andre Figueroa
+Zac Brown Band,JEKYLL + HYDE,Homegrown,6F3tPQUV03HfJlb73QMfjb,0.712,0.807,6,-3.976,1,0.0297,0.000122,0.0905,0.936,105.024,205000,4,Andre,Yeehaw,Andre Figueroa
+Sam Hunt,Body Like A Back Road,Body Like A Back Road,7mldq42yDuxiUNn08nvzHO,0.732,0.458,5,-7.225,1,0.0311,0.0,0.136,0.661,98.938,165387,4,Andre,Yeehaw,Andre Figueroa
+Little Feat,Sailin' Shoes,Willin',0jMyU6bO52IYhAEoWbT4K9,0.541,0.662,7,-7.196,1,0.0382,0.0,0.0803,0.742,144.046,174573,4,Andre,Yeehaw,Andre Figueroa
+Rodney Atkins,If You're Going Through Hell,Watching You,5OusUgzHz6Ulb3GZT7WUo5,0.625,0.848,2,-4.008,1,0.0314,0.0,0.23,0.716,137.993,235427,4,Andre,Yeehaw,Andre Figueroa
+Hank Hotel Rodeo,The Travellin' Man,Shadows in the Window,5AoGqvX75VGi62BgBGEbPk,0.306,0.683,3,-7.988,1,0.0366,0.000958,0.144,0.253,79.955,161750,4,Andre,Yeehaw,Andre Figueroa
+LANCO,Hallelujah Nights,Greatest Love Story,2yQZwi1P8AkkxxFhQ8rMEK,0.669,0.617,10,-8.72,1,0.057,0.0,0.119,0.621,147.992,222573,4,Andre,Yeehaw,Andre Figueroa
+Tyler Childers,Live on Red Barn Radio I & II,Shake the Frost (Live),19MkwMrRjO7773zpuGss1o,0.447,0.341,2,-9.769,1,0.0457,2.05e-06,0.686,0.371,138.969,175120,4,Andre,Yeehaw,Andre Figueroa
+Lee Brice,Lee Brice,Rumor,56eGOeSsqdg3FLxdo83TwV,0.655,0.56,9,-6.857,1,0.0486,0.0,0.115,0.599,140.975,198440,4,Andre,Yeehaw,Andre Figueroa
+Chris Stapleton,Traveller,Tennessee Whiskey,3fqwjXwUGN6vbzIwvyFMhx,0.392,0.37,9,-10.888,1,0.0298,0.0096,0.0821,0.512,48.718,293293,4,Andre,Yeehaw,Andre Figueroa
+Zac Brown Band,You Get What You Give,Knee Deep (feat. Jimmy Buffett),60IGhnH20N82dNxKnc8jDd,0.715,0.584,8,-8.231,1,0.0296,1.41e-06,0.095,0.609,90.99,203173,4,Andre,Yeehaw,Andre Figueroa

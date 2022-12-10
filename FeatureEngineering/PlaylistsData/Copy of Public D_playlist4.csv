@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Creedence Clearwater Revival,Green River (Expanded Edition),Bad Moon Rising,20OFwXhEXf12DzwXmaV7fj,0.508,0.774,2,-5.973,1,0.0321,4.87e-06,0.063,0.942,178.946,141600,4,Spotify,Dad Rock,Public D
+Bruce Springsteen,The Rising,Waitin' On A Sunny Day,7vIyudiO2Tr9hZ2yzfwQmx,0.584,0.82,0,-5.228,1,0.0271,4.04e-05,0.0991,0.869,106.055,256133,4,Spotify,Dad Rock,Public D
+Boston,Boston,More Than a Feeling,1QEEqeFIZktqIpPI4jSVSF,0.377,0.681,7,-8.039,1,0.0298,0.0023,0.0504,0.285,108.789,285133,4,Spotify,Dad Rock,Public D
+Tom Petty,Full Moon Fever,Free Fallin',5tVA6TkbaAH9QMITTQRrNv,0.623,0.449,5,-13.333,1,0.0253,0.0,0.0613,0.572,84.383,256000,4,Spotify,Dad Rock,Public D
+John Fogerty,Centerfield - 25th Anniversary,Centerfield,2iRfjwzPsooCskZrrlsgcC,0.777,0.948,7,-3.648,1,0.0479,5.36e-06,0.0708,0.973,142.359,231347,4,Spotify,Dad Rock,Public D
+The Rolling Stones,Tattoo You (2009 Re-Mastered),Start Me Up - Remastered 2009,7HKez549fwJQDzx3zLjHKC,0.631,0.932,5,-4.142,1,0.0354,0.137,0.0918,0.971,122.429,213067,4,Spotify,Dad Rock,Public D
+Eagles,The Very Best of the Eagles (2013 Remaster),Take It Easy - 2013 Remaster,3vhJw6V39Gh1PpEMHjiMFO,0.575,0.67,7,-10.39,1,0.0318,4.95e-06,0.129,0.74,139.191,211578,4,Spotify,Dad Rock,Public D
+Tom Petty,Full Moon Fever,I Won't Back Down,7gSQv1OHpkIoAdUiRLdmI6,0.765,0.476,7,-13.487,1,0.0329,2.76e-06,0.165,0.965,114.02,178360,4,Spotify,Dad Rock,Public D
+America,America,A Horse with No Name,54eZmuggBFJbV7k248bTTt,0.654,0.506,11,-17.18,0,0.0535,0.0155,0.155,0.831,123.179,252240,4,Spotify,Dad Rock,Public D
+Grand Funk Railroad,30 Years Of Funk: 1969-1999 The Anthology,Some Kind Of Wonderful - Remastered 1999,1cU34sZG9kF4FYHCoAD0Ib,0.855,0.691,2,-6.51,1,0.0514,0.0,0.36,0.647,121.472,202733,4,Spotify,Dad Rock,Public D
+Kansas,Leftoverture (Expanded Edition),Carry on Wayward Son,4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,1,0.032,8.88e-05,0.446,0.793,126.755,323000,4,Spotify,Dad Rock,Public D
+Queen,The Miracle (Collector's Edition),Face It Alone,1b0sraww5e2cubW3K90kwf,0.418,0.401,4,-12.59,0,0.0354,0.000223,0.093,0.354,143.935,247987,4,Spotify,Dad Rock,Public D
+Bruce Springsteen,Born In The U.S.A.,I'm On Fire,3PzsbWSQdLCKDLxn7YZfkM,0.62,0.446,1,-14.451,0,0.0347,0.0299,0.0727,0.868,88.591,155880,4,Spotify,Dad Rock,Public D
+Thin Lizzy,Jailbreak (Deluxe Edition),The Boys Are Back In Town,43DeSV93pJPT4lCZaWZ6b1,0.445,0.706,8,-9.803,1,0.0461,0.000252,0.205,0.768,80.823,266720,4,Spotify,Dad Rock,Public D
+Supertramp,Even In The Quietest Moments,Give A Little Bit,6XUHsYE38CEbYunT983O9G,0.531,0.818,2,-5.358,1,0.0452,0.0096,0.263,0.471,90.767,248173,4,Spotify,Dad Rock,Public D
+Derek & The Dominos,Layla And Other Assorted Love Songs (Remastered 2010),Layla,2kkvB3RNRzwjFdGhaUA0tz,0.404,0.902,1,-3.88,1,0.0665,0.297,0.287,0.497,115.669,423840,4,Spotify,Dad Rock,Public D
+ZZ Top,Eliminator,Sharp Dressed Man - 2008 Remaster,1UBQ5GK8JaQjm5VbkBZY66,0.601,0.859,5,-5.263,1,0.0276,0.00124,0.0871,0.446,125.145,258027,4,Spotify,Dad Rock,Public D
+John Mellencamp,American Fool,Jack & Diane,43btz2xjMKpcmjkuRsvxyg,0.811,0.41,9,-8.214,1,0.0391,6.63e-06,0.0799,0.626,103.965,254493,4,Spotify,Dad Rock,Public D
+Bruce Springsteen,Born In The U.S.A.,Born in the U.S.A.,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,1,0.061,7.75e-05,0.1,0.584,122.093,278680,4,Spotify,Dad Rock,Public D
+Creedence Clearwater Revival,Willy And The Poor Boys (Expanded Edition),Down On The Corner,2gE95JskwQ1pCACTpGe1Db,0.858,0.544,0,-9.289,1,0.0751,0.00109,0.0707,0.874,108.217,166280,4,Spotify,Dad Rock,Public D
+Free,Fire And Water,All Right Now,1gcESexgftSuLuML57Y69q,0.787,0.472,2,-12.824,1,0.0832,0.000336,0.153,0.824,120.059,330643,4,Spotify,Dad Rock,Public D
+Bachman-Turner Overdrive,Not Fragile,You Ain't Seen Nothing Yet,0HOrDVS349XFcpCYsO2hAP,0.475,0.439,11,-15.039,0,0.0427,0.000277,0.223,0.76,118.392,234867,4,Spotify,Dad Rock,Public D
+Eagles,Hotel California (2013 Remaster),Life in the Fast Lane - 2013 Remaster,6gXrEUzibufX9xYPk3HD5p,0.667,0.755,9,-7.246,1,0.069,6.94e-05,0.0523,0.883,109.535,286220,4,Spotify,Dad Rock,Public D
+Billy Joel,52nd Street,My Life,4ZoBC5MhSEzuknIgAkBaoT,0.741,0.647,2,-12.878,1,0.0427,0.00139,0.0555,0.804,131.097,284000,4,Spotify,Dad Rock,Public D
+Wings,Band On The Run (Standard),Band On The Run - 2010 Remaster,1H4idkmruFoJBg1DvUv2tY,0.479,0.601,7,-8.806,1,0.0318,0.00142,0.11,0.669,124.966,313027,4,Spotify,Dad Rock,Public D
+Bruce Springsteen,Born To Run,Born to Run,6hTcuIQa0sxrrByu9wTD7s,0.27,0.944,4,-4.199,1,0.0975,2.05e-05,0.116,0.606,146.347,269920,4,Spotify,Dad Rock,Public D
+George Thorogood & The Destroyers,BAD TO THE BONE,Bad To The Bone,6s0NHplywwr1IjnQpUpWJk,0.459,0.727,0,-11.777,1,0.0303,0.0652,0.384,0.955,149.231,292173,1,Spotify,Dad Rock,Public D
+The Doobie Brothers,Minute by Minute,What a Fool Believes,2yBVeksU2EtrPJbTu4ZslK,0.758,0.378,8,-15.308,0,0.0449,0.0,0.049,0.985,120.736,223867,4,Spotify,Dad Rock,Public D
+Meat Loaf,Bat Out Of Hell,Paradise By the Dashboard Light,2g7gviEeJr6pyxO7G35EWQ,0.326,0.872,2,-7.602,1,0.122,0.0,0.461,0.492,173.381,508333,4,Spotify,Dad Rock,Public D
+Foreigner,4 (Expanded),Juke Box Hero,00qOE7OjRl0BpYiCiweZB2,0.357,0.653,9,-5.554,1,0.0654,0.0,0.0844,0.522,176.647,259800,4,Spotify,Dad Rock,Public D
+Styx,Pieces Of Eight,Renegade,1CQqupcyMg7176PPmIVmSj,0.492,0.552,7,-12.321,0,0.0341,3.74e-05,0.0723,0.655,105.623,257227,4,Spotify,Dad Rock,Public D
+Steely Dan,Can't Buy A Thrill,Reelin' In The Years,1x1XQqhBViz4opcpwc7FVs,0.494,0.54,2,-17.34,1,0.0348,0.0,0.0878,0.723,134.976,277468,4,Spotify,Dad Rock,Public D
+Blue Öyster Cult,Fire of Unknown Origin,Burnin' for You,3fkPMWQ6cBNBLuFcPyMS8s,0.532,0.728,9,-9.079,0,0.0352,0.0108,0.0849,0.69,134.303,271000,4,Spotify,Dad Rock,Public D
+Bruce Springsteen,Born In The U.S.A.,Glory Days,2Y90nL1ohB4sgYELDs7uNx,0.574,0.96,9,-4.906,1,0.032,0.0,0.121,0.978,117.486,254733,4,Spotify,Dad Rock,Public D
+Don McLean,The Best Of Don McLean,American Pie,2QgWuCtBpNIpl5trmKCxRf,0.526,0.509,7,-10.893,1,0.0628,0.0,0.144,0.497,138.318,515867,4,Spotify,Dad Rock,Public D
+38 Special,Wild-Eyed Southern Boys,Hold On Loosely,6i9dZZQWNB06HKsQYKTiPF,0.567,0.559,9,-10.175,1,0.0288,0.00131,0.0764,0.898,127.227,280636,4,Spotify,Dad Rock,Public D
+Steve Miller Band,Fly Like An Eagle,Rock'n Me,1orVKbp6vqtfAPOmvRofVq,0.695,0.582,4,-11.35,1,0.0651,0.0,0.123,0.892,122.433,187067,4,Spotify,Dad Rock,Public D
+Jim Croce,Life & Times,"Bad, Bad Leroy Brown",1O0xeZrBDbq7HPREdmYUYK,0.697,0.676,7,-10.742,1,0.0402,0.0,0.0824,0.852,148.072,182240,4,Spotify,Dad Rock,Public D
+Harry Chapin,Verities & Balderdash,Cat's in the Cradle,2obblQ6tcePeOEVJV6nEGD,0.489,0.578,10,-9.766,1,0.0418,0.0,0.123,0.511,78.111,222951,4,Spotify,Dad Rock,Public D
+The Rolling Stones,Honky Tonk Women / You Can't Always Get What You Want,Honky Tonk Women,3fnPv1LRMxENr63afVhaz1,0.56,0.721,7,-6.669,1,0.0629,0.0339,0.0453,0.966,119.285,182707,4,Spotify,Dad Rock,Public D
+Daryl Hall & John Oates,Private Eyes (Expanded Edition),Private Eyes,5HQ639Z3ms3hnZx0KfWnkp,0.85,0.938,9,-6.889,0,0.0415,0.000346,0.0582,0.84,120.826,217200,4,Spotify,Dad Rock,Public D
+Creedence Clearwater Revival,Cosmo's Factory (Expanded Edition),Up Around The Bend,36gPq8WG7tDxrblyGVUCiT,0.589,0.85,2,-6.143,1,0.0343,0.779,0.274,0.813,130.318,161467,4,Spotify,Dad Rock,Public D
+Steve Miller Band,Fly Like An Eagle,Take The Money And Run,1ZhrREyOOeFV6TxDOyiPwu,0.565,0.645,0,-12.923,1,0.0484,2.84e-06,0.151,0.836,99.3,170173,4,Spotify,Dad Rock,Public D
+Joe Walsh,"But Seriously, Folks...",Life's Been Good,2wvMC5EyaaYQwBfiwwY2xE,0.505,0.476,2,-12.897,1,0.0711,0.00915,0.113,0.542,99.31,536227,4,Spotify,Dad Rock,Public D
+Rush,Permanent Waves,The Spirit Of Radio,4e9hUiLsN4mx61ARosFi7p,0.365,0.924,4,-7.066,1,0.0488,0.000254,0.423,0.632,135.811,296467,4,Spotify,Dad Rock,Public D
+Tom Petty and the Heartbreakers,Damn The Torpedoes (Deluxe Edition),Refugee,4mcZYzoGwPRDdhWVlygiHf,0.579,0.705,6,-4.911,0,0.0339,0.0,0.0704,0.761,116.173,201693,4,Spotify,Dad Rock,Public D
+Van Halen,Van Halen II (Remastered),Dance the Night Away - 2015 Remaster,4RS9PmtHQe7I0o5fEeweOY,0.548,0.843,8,-7.32,1,0.0597,1.26e-06,0.0536,0.719,129.661,188084,4,Spotify,Dad Rock,Public D
+Faces,A Nod Is as Good as a Wink... to a Blind Horse,Stay with Me,7fLTytvnvxy653VWxflTRf,0.458,0.869,9,-8.381,1,0.032,0.0596,0.357,0.813,91.39,279360,4,Spotify,Dad Rock,Public D
+The Doobie Brothers,The Captain and Me,China Grove,7cy1bEJV6FCtDaYpsk8aG6,0.623,0.91,9,-8.448,1,0.0384,0.000448,0.081,0.745,145.624,195307,4,Spotify,Dad Rock,Public D
+Chicago,Chicago II,25 or 6 to 4 - 2002 Remaster,7GqIDx2QVGOpd4r1fZaUUW,0.604,0.905,4,-7.059,0,0.0578,0.0632,0.0837,0.723,147.448,289800,4,Spotify,Dad Rock,Public D

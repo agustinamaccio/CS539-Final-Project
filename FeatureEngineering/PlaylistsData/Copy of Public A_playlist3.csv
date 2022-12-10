@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Blake Shelton,"Cheers, It's Christmas (Deluxe Edition)",Winter Wonderland,1VnWGO6qNxN7TCnUZv7TOR,0.646,0.696,0,-6.537,1,0.0303,2.16e-05,0.307,0.633,124.011,135413,4,Spotify,Country Christmas,Public A
+Caylee Hammack,Christmas (Baby Please Come Home),Christmas (Baby Please Come Home),54H84HFq1hUDEOcYxbTjrL,0.3,0.91,3,-2.002,1,0.0533,0.0,0.0819,0.585,132.242,162840,4,Spotify,Country Christmas,Public A
+Thomas Rhett,"Merry Christmas, Y’all",It's The Most Wonderful Time Of The Year,2AYgvrtpFIbF6Fkb02WVZ6,0.246,0.736,5,-5.248,0,0.0683,0.0,0.0542,0.644,200.089,176893,3,Spotify,Country Christmas,Public A
+Dylan Scott,Merry Christmas,Jingle Bell Rock,3o5IChTvWMLHXkmnlSYI5z,0.691,0.584,10,-5.585,1,0.0325,0.0,0.272,0.67,122.065,133293,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Glow (Deluxe Edition),"Baby, It's Cold Outside (feat. Meghan Trainor)",3iLuRYqDqqTalagFbUfv6j,0.61,0.576,1,-4.789,1,0.0384,0.0,0.176,0.66,114.092,173547,4,Spotify,Country Christmas,Public A
+Lady A,On This Winter's Night (Deluxe),Wonderful Christmastime,4hgiStykWNbJeVElAMW4EB,0.64,0.569,2,-5.693,1,0.0258,1.12e-06,0.125,0.764,89.996,200093,4,Spotify,Country Christmas,Public A
+Gwen Stefani,You Make It Feel Like Christmas,You Make It Feel Like Christmas (feat. Blake Shelton),2OQ6a4CfUeYskpTTgyawyJ,0.635,0.87,2,-4.291,0,0.04,0.0,0.118,0.912,92.999,156773,4,Spotify,Country Christmas,Public A
+Brett Young,Brett Young & Friends Sing The Christmas Classics,Rockin’ Around The Christmas Tree,1hecBi6qXM8bjTPnJjr205,0.695,0.584,11,-8.911,1,0.104,0.0,0.455,0.788,139.882,132709,4,Spotify,Country Christmas,Public A
+Mitchell Tenpenny,Naughty List,Let it Snow! Let it Snow! Let it Snow!,4Z2DAcSiWC1lIHyf1p7giz,0.497,0.499,10,-6.651,1,0.0271,0.0,0.195,0.396,107.769,171573,4,Spotify,Country Christmas,Public A
+Dolly Parton,Silent Night,Silent Night,32OH3VGKAqEOrFIqdkHCMe,0.278,0.172,2,-10.314,1,0.0318,1.4e-05,0.153,0.133,79.319,193146,3,Spotify,Country Christmas,Public A
+Maddie & Tae,We Need Christmas,Holly Jolly Christmas,3J0gUsBf8rRdHYQDKqYC7Q,0.703,0.543,9,-6.071,1,0.0324,8.53e-06,0.098,0.659,136.048,140160,4,Spotify,Country Christmas,Public A
+Cody Johnson,Hat Made Of Mistletoe,Hat Made Of Mistletoe,3OfH1IMhs7MyX0gzLzsNhJ,0.598,0.943,2,-3.964,1,0.0347,0.0,0.331,0.801,117.906,156347,4,Spotify,Country Christmas,Public A
+Dan + Shay,Take Me Home For Christmas,Take Me Home For Christmas,72HP2M4jjw4t0AIGdEVGEF,0.694,0.769,6,-4.665,1,0.0325,0.0,0.0976,0.663,93.033,203880,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Glow,It's Beginning to Look a Lot Like Christmas,438duiec0gQXAN50WW5aaS,0.698,0.48,6,-6.162,1,0.0502,0.0,0.304,0.679,113.979,174560,4,Spotify,Country Christmas,Public A
+Thomas Rhett,Christmas In The Country,Christmas In The Country,4n0NTwp3bu4TFpePsRv6Fb,0.637,0.695,8,-5.858,1,0.0316,0.0,0.0794,0.493,81.01,205587,4,Spotify,Country Christmas,Public A
+Carrie Underwood,My Gift (Special Edition),Favorite Time Of Year,2aq7ZO1is1czoQAh076QFU,0.497,0.897,5,-4.21,1,0.0513,0.0,0.305,0.539,142.007,197223,4,Spotify,Country Christmas,Public A
+Tim & The Glory Boys,Sleigh Ride,Sleigh Ride,6IXWwaxcBVLqSbU39Pqc19,0.578,0.875,0,-4.347,1,0.079,1.12e-06,0.175,0.83,169.994,185583,4,Spotify,Country Christmas,Public A
+Adam Hambrick,What Christmas Means to Me,What Christmas Means to Me,2WBfmxOXnDxcm7sZOE5dSE,0.462,0.814,11,-5.162,1,0.0523,0.0,0.126,0.862,170.273,156916,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Glow (Deluxe Edition),Sleigh Ride,1Q4rFC7FrwJCsFDjmrP0Ti,0.698,0.495,6,-7.544,0,0.0492,0.0,0.159,0.839,76.028,182000,5,Spotify,Country Christmas,Public A
+Mickey Guyton,O Holy Night,O Holy Night,35L5f32OEgIu5yLVfJHFtJ,0.172,0.615,7,-4.378,1,0.0368,0.0,0.119,0.371,185.612,307440,3,Spotify,Country Christmas,Public A
+Mitchell Tenpenny,Naughty List,I Hope It Snows,1Tu2vqQl3Oo7HaQP1AS38G,0.507,0.66,11,-7.411,1,0.0476,0.0,0.1,0.355,161.876,239280,4,Spotify,Country Christmas,Public A
+Thomas Rhett,"Merry Christmas, Y’all",Have Yourself A Merry Little Christmas,5bxpZZWMs6MJ7JzBFGvS1T,0.334,0.241,8,-11.639,1,0.0306,3.73e-05,0.103,0.255,67.343,253133,4,Spotify,Country Christmas,Public A
+Various Artists,Dr. Seuss' How The Grinch Stole Christmas,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",1msuiw6pnXYfxZ7Edyit9U,0.266,0.333,10,-9.876,1,0.031,0.0,0.121,0.0796,109.479,247040,4,Spotify,Country Christmas,Public A
+Callista Clark,Please Come Home For Christmas,Please Come Home For Christmas,1ThD4PsOGfnO9a14FcEiTd,0.396,0.55,4,-5.76,1,0.031,0.0,0.231,0.305,188.953,171133,3,Spotify,Country Christmas,Public A
+Brett Eldredge,Mr. Christmas,Feels Like Christmas,4ZUUqe1s7focZ76T7b3x9P,0.674,0.57,0,-6.047,0,0.0251,0.0,0.203,0.498,106.53,254285,3,Spotify,Country Christmas,Public A
+Chris Young,It Must Be Christmas,It Must Be Christmas,5RS5bZyibXXrYZQX5IO4cu,0.601,0.546,2,-7.426,1,0.0326,0.0,0.15,0.414,123.927,211093,4,Spotify,Country Christmas,Public A
+Ryan Kinder,This Christmas,This Christmas,641ODRLX1Mq1cOB9P0cBcz,0.66,0.447,5,-5.838,1,0.0279,0.0,0.0909,0.421,89.94,206285,4,Spotify,Country Christmas,Public A
+Blake Shelton,"Cheers, It's Christmas (Super Deluxe)",Up On The House Top,5p3UXnTGlYfXVZZxydTDBE,0.546,0.891,2,-4.914,1,0.0453,0.000456,0.101,0.917,147.943,136773,4,Spotify,Country Christmas,Public A
+Lady A,On This Winter's Night (Deluxe),Little Saint Nick,6luTECHWWvGbAft9qmBGPL,0.552,0.801,6,-6.091,1,0.0287,0.0,0.197,0.883,129.981,156800,4,Spotify,Country Christmas,Public A
+Cody Johnson,A Cody Johnson Christmas,I'll Be Home For Christmas,5RMuRiyV5fVzQriQjGyIhp,0.276,0.296,10,-10.796,1,0.0326,7.35e-06,0.129,0.17,115.68,245067,4,Spotify,Country Christmas,Public A
+Brett Eldredge,It's the Most Wonderful Time of the Year,It's the Most Wonderful Time of the Year,2GKbw2FCDXHIddECLeSLef,0.359,0.719,1,-5.266,1,0.0635,0.0,0.23,0.692,195.075,177108,3,Spotify,Country Christmas,Public A
+Alan Jackson,Let It Be Christmas,Let It Be Christmas,70OrTBlb0RLKNfxWE6fZZM,0.632,0.328,7,-9.552,1,0.0268,0.0,0.152,0.396,97.627,251240,3,Spotify,Country Christmas,Public A
+Sophia Scott,Last Christmas,Last Christmas,2ADlV7RigsZc3Lo6kzGczk,0.722,0.499,3,-8.583,1,0.0313,0.0,0.138,0.37,108.983,170092,4,Spotify,Country Christmas,Public A
+Gabby Barrett,The First Noel,The First Noel,25W3eewfp10geV3fzWIGq3,0.458,0.351,10,-6.049,1,0.0244,0.0,0.143,0.102,79.993,261305,3,Spotify,Country Christmas,Public A
+Dylan Scott,Merry Christmas,Winter Wonderland,5rIyyxoU1LzraNmFu5FpdR,0.541,0.568,0,-5.893,1,0.03,0.0,0.346,0.71,126.088,159827,4,Spotify,Country Christmas,Public A
+Tiera Kennedy,Blue Christmas,Blue Christmas,10BOzxObaY3OigrOWW6aiO,0.441,0.472,0,-7.882,1,0.0255,6.94e-06,0.346,0.523,91.912,133726,4,Spotify,Country Christmas,Public A
+Chris Young,It Must Be Christmas,Christmas (Baby Please Come Home),2jjTpxLZ7rjVFgwgjKbUjk,0.54,0.795,6,-5.554,1,0.0296,0.0,0.219,0.586,128.956,162387,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Glow (Deluxe Edition),Christmas Time Is Here,1moEucbMhmAK6KVPoNw6ms,0.369,0.3,0,-11.994,1,0.0317,0.000718,0.168,0.24,75.745,210907,3,Spotify,Country Christmas,Public A
+Rodell Duff,Please Come Home for Christmas,Please Come Home for Christmas,2ktUQEb33l3zNzHQxkg6TN,0.488,0.501,6,-5.261,1,0.0299,0.0,0.086,0.58,182.939,178994,3,Spotify,Country Christmas,Public A
+Blake Shelton,"Cheers, It's Christmas (Deluxe Edition)",Jingle Bell Rock,0ehRgzGf5GxSr4eP427lXB,0.65,0.736,0,-5.222,1,0.0378,0.0,0.0998,0.595,129.941,123400,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Mr. Christmas,Rudolph the Red-Nosed Reindeer,78rHMaHca3NpYnnKP9gnsy,0.709,0.456,0,-6.404,1,0.0516,0.0,0.158,0.456,137.835,191108,3,Spotify,Country Christmas,Public A
+Jason Aldean,Christmas In Dixie,Christmas In Dixie,7hsuoJs173kjUYts4fAWoD,0.558,0.59,2,-6.966,1,0.0234,0.000142,0.0724,0.391,87.537,233373,4,Spotify,Country Christmas,Public A
+Thomas Rhett,"Merry Christmas, Y’all",It’s Beginning To Look A Lot Like Christmas,6kfDpP0HWb9Q67iaPs5HZw,0.681,0.529,7,-5.797,1,0.0307,0.0,0.315,0.688,123.825,141587,4,Spotify,Country Christmas,Public A
+Rascal Flatts,Unwrapped - EP,White Christmas,5XdtbNJcOIYc2pLMaQdCmQ,0.229,0.303,6,-8.39,1,0.0284,5.66e-05,0.321,0.187,93.006,204987,3,Spotify,Country Christmas,Public A
+Kellie Pickler,Santa Baby,Santa Baby,1k8aOPSd54EREmgEGhCMtP,0.704,0.44,2,-4.452,1,0.0255,0.0,0.113,0.453,86.008,207200,4,Spotify,Country Christmas,Public A
+Rissi Palmer,Grown Up Christmas List,Grown Up Christmas List - Radio Edit,5MrcrywU3MOpyqvM1lPOCC,0.47,0.24,6,-8.411,1,0.0314,0.0,0.12,0.229,121.872,208227,4,Spotify,Country Christmas,Public A
+Maddie & Tae,We Need Christmas,This Christmas,6u0tR14iJ6OS3NyeRhcG2M,0.635,0.961,3,-5.883,1,0.0497,3.05e-05,0.25,0.614,91.965,212960,4,Spotify,Country Christmas,Public A
+Various Artists,Country For Christmas,Run Run Rudolph,6jSGVIEjnRhOl2c8JNx5cS,0.611,0.972,9,-4.845,1,0.0464,0.000115,0.28,0.872,150.989,174360,4,Spotify,Country Christmas,Public A
+Brett Young,Brett Young & Friends Sing The Christmas Classics,Silent Night,7BXWm4IVOcscftnRFc7jFv,0.691,0.285,10,-13.112,1,0.0472,0.00255,0.0831,0.3,125.084,178564,4,Spotify,Country Christmas,Public A
+Scotty McCreery,Christmas with Scotty McCreery,Jingle Bells,5StFIP3C73ta37L26k5AxR,0.727,0.767,0,-5.321,1,0.0351,6.65e-05,0.137,0.89,133.961,197507,4,Spotify,Country Christmas,Public A
+Dan + Shay,Holiday Party,Holiday Party,2ZiKXOsDvx9TfXIJT5cZGN,0.727,0.726,2,-3.813,1,0.0243,0.0,0.362,0.804,107.956,181027,4,Spotify,Country Christmas,Public A
+Pistol Annies,Hell of a Holiday,Make You Blue,711vQbDv6Xe5vGAMG1Wfko,0.534,0.568,4,-6.223,1,0.0283,5.74e-05,0.188,0.725,123.144,194067,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Mr. Christmas,Merry Christmas Baby,6Ldujffd4je4ReO6PxcQ5O,0.738,0.662,11,-7.012,0,0.0429,0.0,0.0644,0.673,94.005,225801,4,Spotify,Country Christmas,Public A
+Jessie James Decker,Santa Claus Is Coming To Town,Santa Claus Is Coming To Town,5wWH8VUqvXBLhM3BLQekpz,0.59,0.898,7,-2.574,1,0.0719,4.38e-05,0.0897,0.423,147.962,169709,4,Spotify,Country Christmas,Public A
+Erin Kinsey,O Holy Night,O Holy Night,2pPxYMrlAlXQlO9qqFlqcd,0.55,0.35,5,-5.223,1,0.0299,0.0,0.343,0.475,91.941,202412,3,Spotify,Country Christmas,Public A
+Andrew Hyatt,All We Need,All We Need,2rtOMcw98nnUfs0DzGgZLn,0.632,0.382,6,-9.586,0,0.0325,0.0,0.126,0.48,155.895,182702,4,Spotify,Country Christmas,Public A
+Alex Hall,Have Yourself A Merry Little Christmas,Have Yourself A Merry Little Christmas,2yl1PQ1M2lEzISV7xemFee,0.212,0.534,11,-7.405,1,0.0342,7.88e-06,0.063,0.239,200.847,274813,3,Spotify,Country Christmas,Public A
+Thomas Rhett,Christmas In The Country,The Christmas Song,2tjvrj9J5Pv006hDHaSmM4,0.263,0.404,6,-8.356,0,0.0282,1.25e-05,0.296,0.275,200.795,220794,3,Spotify,Country Christmas,Public A
+Runaway June,When I Think About Christmas - EP,Let It Snow,2jPq4RYw0mBadzf7j3RbGD,0.472,0.271,0,-10.68,1,0.0299,0.0,0.153,0.507,145.72,150689,4,Spotify,Country Christmas,Public A
+Blake Shelton,"Cheers, It's Christmas (Deluxe Edition)",Home (feat. Michael Bublé),2uEVQb8FstYyxpd8Gy6ndR,0.576,0.455,7,-7.587,1,0.0267,2.73e-05,0.0912,0.206,127.856,227040,4,Spotify,Country Christmas,Public A
+Julia Cole,Rockin' Around The Christmas Tree,Rockin' Around the Christmas Tree,3YDnKWty9EgnbFvZGVqMRE,0.613,0.729,9,-5.268,1,0.0293,0.0,0.298,0.647,142.796,117624,4,Spotify,Country Christmas,Public A
+Morgan Evans,All I Want for Christmas is You,All I Want for Christmas is You,5a6Nppm9XECvayvkbMDUlU,0.703,0.443,7,-8.433,1,0.0335,0.0,0.181,0.535,137.994,178235,4,Spotify,Country Christmas,Public A
+Gabby Barrett,Silent Night,Silent Night,7HBmrReofkxO9KDO6sbSm5,0.452,0.294,6,-7.105,1,0.0265,1.79e-06,0.112,0.247,89.96,208067,3,Spotify,Country Christmas,Public A
+David Adam Byrnes,Home At Christmas,Home At Christmas,2tKqGOZgr4qOZDFBSoNfbO,0.519,0.622,2,-7.389,1,0.0385,2.25e-05,0.113,0.525,199.802,229450,4,Spotify,Country Christmas,Public A
+for KING & COUNTRY,A Drummer Boy Christmas,Go Tell It On The Mountain,6t9cECeEgIcrjmuWrKaBtw,0.357,0.327,10,-8.785,1,0.036,0.0,0.16,0.331,116.589,218924,4,Spotify,Country Christmas,Public A
+Patrick Murphy,Snow's Not The Only Thing Falling,Snow's Not The Only Thing Falling,2rYzzpWjrJsIJEvHvYgtax,0.654,0.541,2,-6.376,1,0.0284,0.0,0.148,0.755,129.006,173468,4,Spotify,Country Christmas,Public A
+Lee Brice,Santa Claus Was My Uber Driver,Santa Claus Was My Uber Driver,4iniNHgR9dG5mJnKARozoB,0.68,0.779,4,-4.565,1,0.0336,0.0,0.183,0.899,130.021,176893,4,Spotify,Country Christmas,Public A
+Kelly Clarkson,Under The Mistletoe,Under The Mistletoe,2K4XbdyLxi9jhqVQeyUKRK,0.437,0.802,2,-5.063,1,0.111,0.0,0.086,0.704,178.137,225688,4,Spotify,Country Christmas,Public A
+Smithfield,Home for Christmas,Home for Christmas,4tVdkq3L2PcMF02jefpWC7,0.621,0.782,5,-5.037,0,0.0287,0.0,0.0933,0.626,95.03,248415,4,Spotify,Country Christmas,Public A
+Thomas Rhett,"Merry Christmas, Y’all",Winter Wonderland,4vVcH5oiNX95kDa81xKaae,0.694,0.534,6,-8.219,1,0.0297,0.0,0.0941,0.464,123.982,157293,4,Spotify,Country Christmas,Public A
+Dan + Shay,Officially Christmas,Officially Christmas,2Z0htiPiNK8IiJDYTD51hr,0.655,0.677,6,-4.278,1,0.0326,0.0,0.131,0.62,127.041,178387,4,Spotify,Country Christmas,Public A
+Various Artists,Country For Christmas,"Baby, It's Cold Outside",39I5p7EL6MLB2t3ptv6367,0.432,0.545,8,-7.549,1,0.0441,0.0,0.275,0.367,138.662,214173,3,Spotify,Country Christmas,Public A
+Jamie O'Neal,Please Come Home for Christmas (feat. Rodney Good),Please Come Home for Christmas,2PjMTWirUB90kmUHvN1gBH,0.478,0.523,9,-6.746,1,0.035,0.0,0.088,0.295,181.943,188638,3,Spotify,Country Christmas,Public A
+The Dryes,Christmas Is Callin',Christmas Is Callin',1qa6RHKpSVgbPoGza7jamE,0.677,0.62,2,-4.785,1,0.0735,0.0,0.198,0.533,81.023,184332,4,Spotify,Country Christmas,Public A
+MaRynn Taylor,"O Come, All Ye Faithful","O Come, All Ye Faithful",4l7Urm0cDWDrYyFdLxkSy3,0.357,0.215,2,-9.08,1,0.0298,2.95e-06,0.112,0.252,88.819,244933,4,Spotify,Country Christmas,Public A
+Lainey Wilson,Christmas Cookies,Christmas Cookies,6dbIeqnVh8nlccrQYdpbGE,0.679,0.61,11,-5.348,1,0.0457,0.0,0.116,0.814,89.541,198370,4,Spotify,Country Christmas,Public A
+Jojo Mason,Don't Hang The Mistletoe,Don't Hang The Mistletoe,2rosR0KdbTVUxuHuyPrhwG,0.624,0.657,5,-5.823,1,0.0269,0.0,0.114,0.886,171.962,197168,4,Spotify,Country Christmas,Public A
+Florida Georgia Line,Lit This Year,Lit This Year,2xXCYeiWBTy1h829foY6i1,0.614,0.782,1,-4.925,1,0.0317,0.0,0.115,0.75,90.006,166024,4,Spotify,Country Christmas,Public A
+Hayden Joseph,Last Christmas,Last Christmas,1rjkF4o8AgUCGU4Ld2qoQO,0.736,0.538,8,-7.793,1,0.0308,0.0,0.0699,0.839,105.991,191374,4,Spotify,Country Christmas,Public A
+Hayden Joseph,Hard Candy Christmas,Hard Candy Christmas,2889QIzPxnBJhcUpLI8EGX,0.719,0.437,5,-6.928,1,0.029,0.0,0.127,0.442,100.021,188814,4,Spotify,Country Christmas,Public A
+Jon Langston,I Only Want You For Christmas,I Only Want You For Christmas,4ONGIYrOLzNrLI5erprqpS,0.606,0.867,7,-5.408,1,0.0334,0.0,0.312,0.803,146.057,161133,4,Spotify,Country Christmas,Public A
+Troy Cartwright,Blue Christmas,Blue Christmas,17zvEhrJLsPtqvZ7rFdtBk,0.544,0.389,4,-8.801,1,0.0277,3.51e-05,0.112,0.432,103.835,139278,4,Spotify,Country Christmas,Public A
+Kacey Musgraves,A Very Kacey Christmas,Have Yourself A Merry Little Christmas,7us9KL6g1bLBAoUSVu7Qzb,0.577,0.61,6,-6.961,1,0.0245,4.7e-05,0.154,0.576,99.455,179973,4,Spotify,Country Christmas,Public A
+Matthew Ramsey,It's Christmas and We're Still Here,It's Christmas and We're Still Here,4LTzfBIcQEGV8rfTSRXETH,0.7,0.43,5,-8.653,1,0.038,0.0,0.114,0.177,111.928,233853,3,Spotify,Country Christmas,Public A
+Dylan Scott,Merry Christmas,It's Beginning To Look A Lot Like Christmas,63t0hTwt883FHJA7DyZ3Uo,0.717,0.516,4,-7.197,1,0.0392,6.66e-05,0.105,0.581,112.163,142293,4,Spotify,Country Christmas,Public A
+Jessie James Decker,Christmas Every Day,Christmas Every Day,2NSYqhkf943kTNJ56A3DNT,0.513,0.84,6,-5.329,0,0.0817,9.55e-06,0.0959,0.537,171.943,218470,4,Spotify,Country Christmas,Public A
+Carrie Underwood,My Gift,Little Drummer Boy,59d79IC1QUCiWiEPb2bdLp,0.642,0.354,6,-6.837,1,0.0281,0.0,0.0885,0.428,114.936,176104,4,Spotify,Country Christmas,Public A
+Avery Anna,Miss You At Christmas,Miss You At Christmas,4scGEPn9eR5VrjWOglAOLl,0.654,0.769,11,-5.134,0,0.0297,0.0,0.299,0.671,105.027,179827,4,Spotify,Country Christmas,Public A
+Cam,I'll Be Home for Christmas,I'll Be Home for Christmas,2rxbx11NAXpp9y9Ls7cQww,0.271,0.077,6,-13.013,1,0.0342,0.000603,0.104,0.16,94.885,187500,3,Spotify,Country Christmas,Public A
+Jordan Rowe,Hometown Christmas,Hometown Christmas,4HGhHna9yutn4Aa7298rLz,0.172,0.671,7,-4.57,1,0.0445,0.0,0.071,0.502,207.97,231696,4,Spotify,Country Christmas,Public A
+Anne Wilson,The Manger,O Holy Night,2HAmFs9GJRSAoPtASAWtbR,0.16,0.251,5,-8.419,1,0.0341,0.0,0.107,0.131,179.81,279973,3,Spotify,Country Christmas,Public A
+Carrie Underwood,My Gift,Hallelujah,2olKV1Kl0yp2WdK78jcFsR,0.335,0.43,5,-5.364,1,0.0322,0.0,0.126,0.379,78.259,275099,5,Spotify,Country Christmas,Public A
+Raleigh Keegan,Rockin' Around The Christmas Tree,Rockin' Around The Christmas Tree,3MO82wb69P2lE7FQvIRDDQ,0.642,0.851,2,-6.141,1,0.0392,5.88e-06,0.179,0.883,132.957,140629,3,Spotify,Country Christmas,Public A
+Ryan Griffin,Little Saint Nick,Little Saint Nick,71oTDaEl35vkVSwAdyBA9L,0.638,0.838,4,-4.72,1,0.041,0.0,0.063,0.849,129.982,133111,4,Spotify,Country Christmas,Public A
+High Valley,Back Home Christmas,Back Home Christmas,2rEVJTkweG9QW6HPXyDJI4,0.402,0.905,8,-4.068,1,0.0295,0.0,0.256,0.498,172.932,219400,3,Spotify,Country Christmas,Public A
+for KING & COUNTRY,A Drummer Boy Christmas,Joy To The World,5CQF7rXAK0cpqSoAvZ4n5I,0.528,0.684,2,-7.3,1,0.0434,0.0112,0.107,0.236,119.938,235879,4,Spotify,Country Christmas,Public A
+Brett Eldredge,Mr. Christmas,O Come All Ye Faithful,3S6VzaKPRVtd2gM43sMGEV,0.227,0.17,0,-10.925,1,0.0294,0.0,0.14,0.188,85.48,246428,4,Spotify,Country Christmas,Public A
+Runaway June,Cowboy for Christmas,Cowboy for Christmas,3KyWRJHDimcS66hRxrR5vy,0.669,0.525,0,-7.791,1,0.0522,0.0,0.273,0.415,104.459,189813,3,Spotify,Country Christmas,Public A
+Logan Mize,Merry Christmas from Logan Mize,I Saw Santa In A Bar,3CUyk3xqb7bzWkNex1WxQj,0.517,0.703,9,-6.083,1,0.0385,0.00154,0.172,0.622,168.049,249886,4,Spotify,Country Christmas,Public A
+Craig Campbell,White Christmas,White Christmas,5Bsd6tdp4EjyGDshA86OCC,0.715,0.423,6,-9.583,0,0.0285,8.96e-05,0.122,0.468,106.041,215213,4,Spotify,Country Christmas,Public A

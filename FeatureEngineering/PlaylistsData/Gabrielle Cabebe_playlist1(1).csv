@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Daniel Caesar,Freudian,Get You (feat. Kali Uchis),7zFXmv6vqI4qOt4yGf3jYZ,0.658,0.294,4,-8.533,0,0.0321,5.2e-05,0.0749,0.358,74.038,278180,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Miguel,Coffee (F***ing) (feat. Wale),Coffee (F***ing) (feat. Wale),5OFKWrKbS8iTIGxgjyHDzW,0.543,0.667,8,-7.333,1,0.0633,2.69e-05,0.15,0.196,162.067,314053,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Justin Bieber,Purpose (Deluxe),Trust,00IH8ZjI9ZGB51WRX1Oesj,0.512,0.494,7,-8.16,0,0.206,0.0,0.124,0.492,76.002,203613,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kehlani,You Should Be Here,The Way (feat. Chance the Rapper),6mzaCRuLTRiz1caGOum3zT,0.746,0.538,10,-6.479,1,0.32,0.0,0.139,0.516,101.018,262521,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+DJ Khaled,Major Key,"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",4VJ7mnW4wjjIgPBM6KWvPu,0.412,0.548,10,-6.981,1,0.243,0.0,0.181,0.176,81.293,325615,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+SZA,Ctrl,The Weekend,6gU9OKjOE7ghfEd55oRO57,0.4,0.366,8,-9.405,0,0.0597,0.0,0.126,0.161,73.313,272187,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Bazzi,Mine,Mine,6tHWl8ows5JOZq9Yfaqn3M,0.716,0.805,4,-3.839,1,0.0856,3.1e-06,0.291,0.719,142.886,133995,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Bruno Mars,24K Magic,Calling All My Lovelies,6ObpR8ek44tvWefQRcSo8K,0.662,0.705,1,-6.56,0,0.0399,2.38e-06,0.105,0.865,159.996,250080,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Stormzy,Gang Signs & Prayer,Cigarettes & Cush (feat. Kehlani & Lily Allen),7MhomISA7KRK6U7KzeV06v,0.64,0.64,8,-6.105,0,0.138,0.0,0.265,0.761,135.953,349584,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Aminé,Good For You,Heebiejeebies - Bonus,32xx0fAv3CIeGmNaWTHvEF,0.765,0.5,1,-7.626,1,0.152,0.0,0.108,0.495,107.043,220160,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Sam Rui,Solid Gold,Solid Gold,1uH3XMNhtz511iYFv2SF1F,0.584,0.429,8,-9.75,0,0.0452,0.000258,0.11,0.0393,95.999,182280,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Gallant,Gentleman,Gentleman,3MoIvDgJqKIfta5V5x7Lc6,0.356,0.322,4,-11.063,0,0.0959,0.0,0.102,0.292,96.008,284092,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Ella Mai,READY,Boo'd Up,0At2qAoaVjIwWNAqrscXli,0.561,0.779,10,-5.107,0,0.0531,0.0,0.078,0.235,81.965,256064,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+BTS,Love Yourself 轉 'Tear',Intro: Singularity,6ePyl2ns4b7MVYhjsj32ZK,0.775,0.271,1,-9.131,0,0.092,0.00285,0.112,0.204,104.001,196998,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Weeknd,Starboy,Die For You,2Ch7LmS7r2Gy2kc64wv3Bz,0.582,0.525,1,-7.163,0,0.0627,0.0,0.134,0.51,133.249,260253,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Ella Mai,READY,Anymore,2Ymig15Ykfk10tAS3fCoij,0.619,0.575,5,-7.24,0,0.0531,0.0,0.0996,0.138,106.702,235673,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Janelle Monáe,The Electric Lady,Primetime (feat. Miguel),5dzV75f9qVXVvdXLTqIG4L,0.667,0.465,8,-8.096,1,0.0339,0.00649,0.465,0.34,123.883,280080,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Sabrina Claudio,About Time,Frozen,21oJ1K99GBJrE2GVQGVjA0,0.486,0.419,5,-6.415,1,0.0563,6.59e-05,0.096,0.227,119.065,244910,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Ella Mai,CHANGE,"10,000 Hours",6d1fGqMtdUEuHqFSDMlR0N,0.598,0.405,5,-8.155,0,0.0464,0.0,0.311,0.244,122.144,230240,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Mariah Carey,The Emancipation of Mimi,We Belong Together,3LmvfNUQtglbTrydsdIqFU,0.837,0.462,0,-7.89,1,0.0601,0.0,0.09,0.762,139.986,201400,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,YSIV,Thank You (ft. Lucy Rose & The RattPack),4ut9fdC5ncgcvCo0KaphNY,0.599,0.749,10,-7.12,1,0.269,3.03e-06,0.4,0.574,159.413,430427,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+P-Lo,More Than Anything,Much More,72HwYZ7dDQET0ChAJfXmlY,0.558,0.639,9,-6.533,0,0.392,0.0,0.108,0.4,82.341,162975,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Ariana Grande,Sweetener,R.E.M,1xWH8zYtDeS9mW1JJG23VZ,0.831,0.485,10,-6.677,0,0.15,1.47e-05,0.118,0.622,80.022,245667,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Anderson .Paak,Ventura,Make It Better (feat. Smokey Robinson),4SBVWkRIMJ6WBCYPvr5Bwr,0.676,0.56,4,-6.024,0,0.0643,0.00403,0.137,0.551,178.555,219332,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Leslie Odom Jr.,Mr,u r my everything,3Rmznk5rUtTy1LecOnASjg,0.645,0.624,11,-5.764,1,0.0353,8.49e-05,0.0989,0.377,100.024,206359,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Ayelle,Right Now,Right Now,2cXOqys4hyhCdwy4qp6hYD,0.482,0.447,2,-8.312,1,0.14,0.0,0.109,0.222,145.743,239178,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Jhené Aiko,Bed Peace,Bed Peace,314RZbyTm14OCPTjSqSjiO,0.523,0.566,6,-7.78,1,0.0655,3.56e-05,0.115,0.275,120.029,256613,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Gallant,Cave Me In,Cave Me In,79ptYtWnpAnsQutzg2xSFk,0.689,0.512,1,-6.206,1,0.0509,2.07e-06,0.106,0.619,90.091,214159,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,Bobby Tarantino,44 Bars,4s2BWgnSQ9NZiOQM4PP4HB,0.728,0.628,6,-8.83,0,0.319,0.0,0.198,0.313,94.128,182267,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Miguel,Kaleidoscope Dream,Where's the Fun in Forever,1qDe5CRWjbSqnYLwWbr8pC,0.691,0.758,2,-5.661,1,0.0972,0.00629,0.631,0.658,79.016,209867,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+LION BABE,Begin,Treat Me Like Fire,3XRosKfSgFSDIb6YVpApIl,0.671,0.65,6,-7.687,1,0.0665,0.0057,0.6,0.323,91.961,250707,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Childish Gambino,Kauai,Sober,6olUplztLFFfU7fMYmFXOP,0.699,0.601,0,-6.48,1,0.0304,1.17e-05,0.562,0.434,98.04,252013,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Marías,"Superclean, Vol. I",Basta Ya,4CUTUsBGjHslu2Bd3AOXGg,0.766,0.3,11,-8.911,0,0.0375,0.00174,0.114,0.44,85.993,176599,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Weeknd,Starboy,Die For You,1zF69Xru3AToRB87kAKqra,0.587,0.514,1,-7.182,0,0.0763,0.0,0.147,0.486,133.881,260253,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Childish Gambino,Kauai,The Palisades,1Xi28qSSoARTXiqMwb8Srg,0.738,0.718,8,-5.905,1,0.0606,0.0,0.127,0.491,100.055,190907,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,The Incredible True Story,City Of Stars,5mJbSgVBnJ4ayOjFdmyOdl,0.464,0.873,0,-5.793,1,0.135,0.0245,0.225,0.607,90.137,376640,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+NIKI,Chilly,Chilly,6H3TW6uEe3RxW8CcnXJfq2,0.734,0.271,7,-11.932,1,0.382,5.27e-06,0.101,0.237,103.241,230000,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Frank Ocean,Blonde,Nights,4Jle0Cjj88YkM7jbAjiFjf,0.457,0.553,5,-9.345,0,0.162,1.22e-06,0.113,0.448,89.905,307151,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+UMI,Love Language,Love Affair,4ZaRg5Sf4TKr0YcFRLh7QJ,0.613,0.488,8,-7.37,1,0.0964,2.13e-05,0.335,0.183,172.076,190960,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kendrick Lamar,To Pimp A Butterfly,Complexion (A Zulu Love),72hFOhhhnOJZnnp6uVOgPn,0.665,0.558,2,-7.863,0,0.303,4.57e-06,0.219,0.37,89.953,263360,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,Bobby Tarantino II,Indica Badu,0jqBo5RYn008f4ZY8kPewW,0.742,0.72,0,-2.876,1,0.116,0.000846,0.0839,0.97,77.011,260320,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Gallant,Ology,Skipping Stones (feat. Jhené Aiko),6ueI5IGjsFhfCZIFZ5CI9s,0.584,0.537,9,-5.646,1,0.0344,0.000189,0.397,0.4,79.982,184147,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Gallant,Sweet Insomnia,Céline,7qOlu9FO9p9gphX8hMnO7a,0.655,0.53,9,-6.821,1,0.0755,0.0,0.145,0.675,120.172,205120,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,The Incredible True Story,Innermission,1zucHJN4WKHIzSL4FyiJw9,0.741,0.759,8,-4.387,1,0.21,0.0,0.103,0.49,95.101,240053,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+"Tyler, The Creator",Flower Boy,November,4XDpeWqPADoWRKcUY3dC84,0.547,0.759,1,-7.039,0,0.413,2.15e-05,0.676,0.575,91.85,225347,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Melanie Faye,Eternally 12,Eternally 12,6mEP1cofyVXsJ9oDAeaRIt,0.713,0.387,8,-15.257,0,0.0356,0.442,0.0732,0.539,129.908,241603,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+"Tyler, The Creator",CALL ME IF YOU GET LOST,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),3EG9FJ0ToLfgnc1IG2Z1wz,0.468,0.652,0,-4.912,1,0.0722,0.000318,0.55,0.39,140.223,588139,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Frank Ocean,channel ORANGE,Pyramids,4QhWbupniDd44EDtnh2bFJ,0.4,0.65,5,-6.104,0,0.0466,7.62e-05,0.791,0.15,107.989,592920,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Daniel Caesar,Pilgrim's Paradise,Paradise (feat. Badbadnotgood & Sean Leon),5bPZPEsUACrQXER6FcMs7F,0.437,0.792,8,-6.792,1,0.0354,1.46e-06,0.22,0.402,83.961,266470,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Jhené Aiko,Souled Out (Deluxe),Blue Dream,4Y8MG7qcAMk7JB7Eebpcvu,0.586,0.404,9,-11.94,0,0.0494,0.165,0.0821,0.369,133.901,217027,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kehlani,You Should Be Here,Bright,0oz4ZqHuUaz3uEkP2vD0u8,0.446,0.435,9,-5.874,1,0.107,0.0,0.107,0.232,50.176,257179,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kendrick Lamar,DAMN.,FEEL.,2LTlO3NuNVN70lp2ZbVswF,0.746,0.798,0,-8.382,1,0.349,0.0,0.139,0.553,109.968,214827,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Weeknd,Starboy,True Colors,1oGdVdYjeQvojGKDddxLQQ,0.624,0.424,1,-8.237,1,0.24,0.0,0.173,0.584,76.671,206013,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Alina Baraz,Electric (feat. Khalid),Electric (feat. Khalid),25wBlLDFcspzo9gBqvrQr3,0.637,0.359,10,-9.841,0,0.0325,5.39e-05,0.108,0.142,111.049,245294,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kendrick Lamar,DAMN.,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.0924,0.0,0.153,0.779,126.058,213400,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Jenevieve,Baby Powder,Baby Powder,7t4ihBlcMdkyUeO6W1DfYH,0.784,0.521,1,-8.217,0,0.0529,0.000283,0.0518,0.682,78.456,180435,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Gallant,This Does Not Fit,Haha No One Can Hear You!,5qKfkQagTTVT11Xi5M18jR,0.43,0.558,1,-7.404,0,0.119,0.0,0.164,0.535,144.935,273324,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Frank Ocean,channel ORANGE,Super Rich Kids,0725YWm6Z0TpZ6wrNk64Eb,0.739,0.419,3,-8.241,0,0.0854,0.0,0.196,0.58,60.493,304760,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Kanye West,The College Dropout,Slow Jamz,3A4cpTBPaIQdtPFb5JxtaX,0.559,0.733,2,-5.659,0,0.171,0.0,0.284,0.611,145.115,316053,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Khalid,American Teen,Location,152lZdxL1OR0ZMW6KquMif,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Childish Gambino,3.15.20,"12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",011ZwIM48eD8ee2UBpG8nK,0.691,0.524,5,-9.718,1,0.16,4.29e-05,0.488,0.41,164.047,392187,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+SWV,It's About Time,Weak,71EHOyEOhNx1SzTebRRyng,0.693,0.533,2,-10.954,0,0.0402,0.0,0.0695,0.568,127.661,291907,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+"Tyler, The Creator",Flower Boy,Boredom (feat. Rex Orange County & Anna of the North),5WNYg3usc6H8N3MBEp4zVk,0.559,0.578,8,-9.54,1,0.151,0.000522,0.324,0.239,79.938,320720,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+keshi,beside you,beside you,1Fhb9iJPufNMZSwupsXiRe,0.711,0.747,0,-6.335,1,0.0523,0.0,0.0957,0.852,136.0,166023,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Christian Kuria,Borderline,Too Good,3GP7l2bmXT6T2FNAzERwBr,0.69,0.406,5,-9.41,0,0.106,1.88e-06,0.145,0.507,160.14,277500,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Bee Gees,Greatest,How Deep Is Your Love,2JoZzpdeP2G6Csfdq5aLXP,0.633,0.357,5,-9.366,0,0.0264,0.0,0.133,0.674,104.938,245200,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Bee Gees,Spirits Having Flown,Too Much Heaven,6T5GTy1l6dRmagqpNPjdoc,0.495,0.439,6,-13.212,1,0.0467,8.88e-05,0.725,0.353,165.922,296000,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+J. Cole,2014 Forest Hills Drive,Wet Dreamz,6Ius4TC0L3cN74HT7ENE6e,0.517,0.705,6,-8.205,0,0.364,0.0,0.128,0.584,175.906,239320,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Miguel,War & Leisure,City of Angels,6Lnn71AwH0uzSocADOF8ei,0.694,0.628,0,-8.159,1,0.201,0.000222,0.169,0.243,150.836,258173,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+GoldLink,At What Cost,Crew (feat. Brent Faiyaz & Shy Glizzy),15EPc80XuFrb2LmOzGjuRg,0.728,0.607,1,-8.417,0,0.132,0.0,0.0864,0.445,129.938,176702,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+J. Cole,2014 Forest Hills Drive,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,0.692,0.521,10,-8.465,0,0.33,0.0,0.0565,0.463,100.45,292987,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Cordae,The Lost Boy,Been Around,5V5MUoJUc1NINhZrmk063n,0.78,0.428,6,-7.069,0,0.39,2.24e-06,0.0789,0.549,70.749,203703,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+NIKI,Zephyr,Vintage,1NCUe90ZCiWTnWn3umrwqw,0.771,0.816,2,-7.104,1,0.0581,0.000963,0.339,0.438,104.958,177320,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Emily King,The Switch,Distance,1IlBPaXuM7Fl6tiH9CPQlQ,0.712,0.217,7,-12.944,1,0.0813,5.61e-05,0.265,0.468,136.986,231448,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Free Nationals,Free Nationals,Time,7klPHv3HnXdUY3dSfTccNc,0.469,0.771,5,-7.071,1,0.338,0.000197,0.0789,0.298,88.968,210385,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+NATHY PELUSO,Calambre,BUENOS AIRES,2my7K20Fv5OtE27cjG9sfu,0.562,0.531,5,-8.706,0,0.0685,0.00144,0.109,0.624,83.937,240316,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Zack Tabudlo,Nangangamba,Nangangamba,1dcNEEtODRVZEevQ20Cgmy,0.62,0.547,1,-6.772,1,0.0248,0.0,0.19,0.208,98.032,210355,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+UMI,Introspection Reimagined,Introspection Reimagined,1zQnPw58ITvKYIhk5lvlDV,0.604,0.487,4,-9.124,0,0.0823,0.0127,0.0976,0.417,85.342,302973,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Eloise,This Thing Called Living,Subside,7EZzBzo5ZoRPKzZbE9iGun,0.736,0.461,8,-6.412,1,0.358,0.00487,0.149,0.486,81.979,188186,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Anderson .Paak,Ventura,Winners Circle,3AN70xkC9i9fFBpKlukRhY,0.764,0.591,2,-8.81,1,0.307,8.32e-06,0.396,0.694,94.089,209238,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Brent Faiyaz,Dead Man Walking,Dead Man Walking,5VlTQnZO89Ioku8ssdbqJk,0.505,0.267,9,-13.763,0,0.05,0.0,0.096,0.439,143.929,247080,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Internet,Feel Good,Sunset (feat. Yuna Zarai),0yIUV22RiuBmcdPQHIFNsX,0.681,0.511,6,-14.149,0,0.0597,0.251,0.159,0.636,165.968,245773,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Joey Bada$$,ALL-AMERIKKKAN BADA$$,TEMPTATION,3gJDgenxLephg09x86IxPs,0.775,0.707,10,-5.339,0,0.152,0.0,0.874,0.78,104.979,244198,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+NIve,Like A Fool,Like A Fool,1E8Cztx0OIj4zm1IZh2XXj,0.496,0.491,9,-8.628,1,0.287,0.0,0.123,0.5,176.92,214427,3,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Lucky Daye,Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix],Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix,6G0XqXVBx2PHaOrSuHaWP0,0.345,0.676,11,-6.268,1,0.099,2.77e-05,0.246,0.584,83.329,211707,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Bren Joy,Twenties,Henny in the Hamptons,4kWfgyx4baqZctv8N3zxwt,0.633,0.635,1,-6.786,0,0.118,0.0,0.207,0.464,87.927,197375,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Leven Kali,Do U Wrong (feat. Syd),Do U Wrong (feat. Syd),6PktsUMUtMAu8GRTmeH9Vy,0.71,0.458,11,-8.641,1,0.159,1.46e-05,0.0949,0.317,78.899,280253,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Big Sean,Living Single,Living Single,36xxq7VDZZsGwARsn6Clo7,0.714,0.62,11,-5.045,1,0.296,0.0,0.109,0.73,80.109,276347,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+ADOY,LOVE,Young,5coF4hIjtGeadqNiBrkhYe,0.633,0.51,7,-7.233,1,0.0267,0.0,0.317,0.449,112.005,217680,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Alina Baraz,The Color Of You,Floating (feat. Khalid),2vLWF4yFhTHQZVwrPTjH1s,0.66,0.447,1,-9.026,0,0.0482,2.15e-06,0.11,0.578,84.95,174490,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Alina Baraz,The Color Of You,Electric (feat. Khalid),2mj7x99sNUsVHPBRK51zlG,0.599,0.396,10,-10.489,0,0.0392,2.19e-05,0.102,0.134,111.072,246327,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+PREP,Don't Look Back,Don't Look Back,4Fhlg7UFKHbvBZgsHu6K89,0.736,0.421,0,-9.469,0,0.05,0.00262,0.0875,0.496,75.013,271800,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Mac Ayres,Drive Slow,Easy,58dSdjfEYNSxte1aNVxuNf,0.722,0.282,5,-7.484,1,0.106,0.00557,0.147,0.217,91.367,314358,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+The Internet,Ego Death,Under Control,2kBHv0gFA2iheTUXmPB9e1,0.706,0.714,7,-6.134,1,0.061,0.0111,0.185,0.503,98.003,244293,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+DAISY,HAVE A SNACK,YOU REMIND ME OF NO ONE,2nK3ScNvIelFrhOjZIpysb,0.512,0.52,1,-7.902,0,0.0478,0.0,0.111,0.209,123.993,221973,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+keshi,SOMEBODY,SOMEBODY,0HeiYo9WwMT8ujirrWzarf,0.649,0.461,8,-8.401,1,0.0449,0.0,0.108,0.485,141.102,164663,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Logic,Supermarket (Soundtrack),Can I Kick It,5JDwLHI2YUkFSFSn4g5pGd,0.789,0.774,2,-4.415,1,0.0614,0.00122,0.298,0.488,100.077,201547,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+"Grover Washington, Jr.",Anthology,Just the Two of Us (feat. Bill Withers),1ko2lVN0vKGUl9zrU0qSlT,0.749,0.497,10,-12.609,0,0.105,0.0499,0.0504,0.585,95.818,438493,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Blu & Exile,Give Me My Flowers While I Can Still Smell Them,O Heaven,0S4YysfsVExB7oX0tairoB,0.492,0.747,8,-6.606,0,0.135,1.72e-06,0.361,0.62,90.219,199879,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe
+Jenevieve,Division,Résumé,2K2kujL7erU8ItCd2Tv5lh,0.82,0.447,0,-7.686,1,0.085,4.1e-05,0.0583,0.661,149.98,180357,4,Gabrielle Cabebe,Vibes,Gabrielle Cabebe

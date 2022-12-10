@@ -1,0 +1,71 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Arctic Monkeys,AM,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,0.548,0.532,5,-7.596,1,0.0323,0.000263,0.217,0.405,85.03,272394,4,Spotify,Rock Road Trip,Public F
+Surf Curse,Freaks,Freaks,7EkWXAI1wn8Ii883ecd9xr,0.345,0.941,9,-9.918,1,0.0466,0.633,0.0511,0.407,179.626,147062,4,Spotify,Rock Road Trip,Public F
+Foo Fighters,The Colour And The Shape,Everlong,5UWwZ5lm5PKu6eKsHAGxOk,0.413,0.881,11,-5.541,0,0.0367,0.000308,0.0805,0.364,158.066,250547,4,Spotify,Rock Road Trip,Public F
+Green Day,American Idiot,American Idiot,6nTiIhLmQ3FWhvrGafw2zj,0.38,0.988,1,-2.042,1,0.0639,7.86e-05,0.368,0.769,186.113,176346,4,Spotify,Rock Road Trip,Public F
+Franz Ferdinand,Franz Ferdinand,Take Me Out,20I8RduZC2PWMWTDCZuuAN,0.277,0.663,4,-8.821,0,0.0377,0.00051,0.136,0.527,104.561,237027,4,Spotify,Rock Road Trip,Public F
+Audioslave,Audioslave,Like a Stone,3YuaBvuZqcwN3CEAyyoaei,0.614,0.568,7,-5.477,0,0.0276,0.0,0.0997,0.516,107.849,293960,4,Spotify,Rock Road Trip,Public F
+Counting Crows,August And Everything After,Mr. Jones,5DiXcVovI0FcY2s0icWWUu,0.578,0.817,0,-6.542,1,0.0363,3.06e-06,0.285,0.726,141.621,272293,4,Spotify,Rock Road Trip,Public F
+Red Hot Chili Peppers,Stadium Arcadium,Dani California,10Nmj3JCNoMeBQ87uw5j8k,0.556,0.913,0,-2.36,1,0.0437,8.59e-06,0.346,0.73,96.184,282160,4,Spotify,Rock Road Trip,Public F
+Weezer,Weezer,Say It Ain't So,6VoIBz0VhCyz7OdEoRYDiA,0.634,0.551,3,-7.136,1,0.0352,1.82e-05,0.07,0.453,151.779,258827,4,Spotify,Rock Road Trip,Public F
+The Strokes,Room On Fire,Reptilia,57Xjny5yNzAcsxnusKmAfA,0.489,0.649,9,-5.11,1,0.0336,0.713,0.101,0.77,158.009,219827,4,Spotify,Rock Road Trip,Public F
+Arctic Monkeys,AM,R U Mine?,2AT8iROs4FQueDv2c8q2KE,0.288,0.758,6,-5.692,0,0.0371,0.0,0.303,0.619,97.094,201726,4,Spotify,Rock Road Trip,Public F
+Foo Fighters,"Echoes, Silence, Patience & Grace",The Pretender,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,1,0.0431,0.0,0.028,0.365,172.984,269373,4,Spotify,Rock Road Trip,Public F
+Muse,Black Holes and Revelations,Starlight,3skn2lauGk7Dx6bVIt5DVj,0.55,0.874,4,-4.046,1,0.0321,1.02e-05,0.206,0.318,121.61,240213,4,Spotify,Rock Road Trip,Public F
+Modest Mouse,Good News For People Who Love Bad News,Float On,2lwwrWVKdf3LR9lbbhnr6R,0.649,0.888,6,-4.807,1,0.0293,2.23e-06,0.0888,0.553,100.975,208467,4,Spotify,Rock Road Trip,Public F
+The Black Keys,El Camino,Lonely Boy,5G1sTBGbZT5o4PNRc75RKI,0.356,0.872,2,-7.837,1,0.068,0.00975,0.0997,0.607,166.3,193653,4,Spotify,Rock Road Trip,Public F
+The Wallflowers,Bringing Down The Horse,One Headlight,0z1b34WikhOH9ZxU8QDWcv,0.701,0.539,2,-8.968,1,0.0277,0.005,0.0589,0.752,107.531,312627,4,Spotify,Rock Road Trip,Public F
+The White Stripes,White Blood Cells,Fell In Love With a Girl,21Qsj3cMVCx2xF2EVVNbEu,0.356,0.982,4,-1.574,0,0.112,0.00145,0.941,0.299,95.754,110093,4,Spotify,Rock Road Trip,Public F
+Foo Fighters,In Your Honor,Best of You,5FZxsHWIvUsmSK1IAvm2pp,0.366,0.94,1,-5.119,0,0.0696,9.42e-05,0.188,0.369,130.198,255627,4,Spotify,Rock Road Trip,Public F
+Weezer,Weezer,Buddy Holly,3mwvKOyMmG77zZRunnxp9E,0.556,0.92,8,-4.606,1,0.0367,0.00021,0.117,0.771,121.138,159227,4,Spotify,Rock Road Trip,Public F
+MGMT,Oracular Spectacular,Time to Pretend,4iG2gAwKXsOcijVaVXzRPW,0.438,0.94,2,-3.249,1,0.0452,0.0777,0.3,0.421,100.99,261000,3,Spotify,Rock Road Trip,Public F
+Pearl Jam,Ten,Jeremy,62nQ8UZVqR2RMvkJHkcO2o,0.285,0.846,2,-6.472,1,0.0438,0.0,0.182,0.287,108.808,318227,4,Spotify,Rock Road Trip,Public F
+The Black Keys,El Camino,Gold on the Ceiling,5lN1EH25gdiqT1SFALMAq1,0.505,0.833,0,-4.632,1,0.0475,7.9e-05,0.069,0.565,130.121,224333,4,Spotify,Rock Road Trip,Public F
+Collective Soul,"Hints, Allegations & Things Left Unsaid",Shine,77YKoNCjP5hWqiXMRG2839,0.543,0.423,6,-8.797,1,0.0282,0.0862,0.152,0.355,150.132,306040,4,Spotify,Rock Road Trip,Public F
+Foo Fighters,The Colour And The Shape,Monkey Wrench,44wXefe8WB9Fd6xwtmAwbR,0.401,0.953,4,-4.276,1,0.0752,2.56e-05,0.149,0.555,174.217,231480,4,Spotify,Rock Road Trip,Public F
+The Raconteurs,Broken Boy Soldiers,"Steady, As She Goes",4xlEKYv7HmC8zXoJIbpZKM,0.525,0.578,9,-4.563,1,0.12,0.00916,0.108,0.537,123.696,215267,4,Spotify,Rock Road Trip,Public F
+Eve 6,Eve 6,Inside Out,4GiVcDqNQI0fc0yYuRGH9m,0.483,0.818,11,-7.666,1,0.0444,0.0,0.367,0.691,175.668,219467,4,Spotify,Rock Road Trip,Public F
+Yeah Yeah Yeahs,Fever To Tell (Deluxe Remastered),Maps,0hDQV9X1Da5JrwhK8gu86p,0.502,0.941,7,-5.194,1,0.0716,0.319,0.553,0.124,119.783,219987,4,Spotify,Rock Road Trip,Public F
+The Strokes,Angles,Under Cover of Darkness,6u0x5ad9ewHvs3z6u9Oe3c,0.35,0.775,11,-3.364,1,0.054,0.283,0.0676,0.588,199.866,235547,4,Spotify,Rock Road Trip,Public F
+Weezer,Weezer (Green Album),Hash Pipe,2mPMFJvQ0v27gVqe5b6nDn,0.578,0.882,7,-6.354,1,0.044,0.479,0.284,0.623,125.603,186533,4,Spotify,Rock Road Trip,Public F
+The Presidents Of The United States Of America,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,Lump,2JdzB67NvIa90K4gEZPLeX,0.499,0.873,6,-3.902,1,0.0386,0.0,0.165,0.864,142.726,134200,4,Spotify,Rock Road Trip,Public F
+Phoenix,Wolfgang Amadeus Phoenix,1901,1Ug5wxoHthwxctyWTUMGta,0.59,0.829,0,-5.649,1,0.0419,3.99e-05,0.19,0.704,144.099,193107,4,Spotify,Rock Road Trip,Public F
+OK Go,Oh No,Here It Goes Again,1pHP4JeQV9wDx87D6qH9hD,0.537,0.882,0,-2.306,1,0.0403,9.06e-05,0.12,0.81,145.729,179813,4,Spotify,Rock Road Trip,Public F
+Queens of the Stone Age,Songs For The Deaf,No One Knows,6NvRxjfYkkT2SpirAlmsjH,0.507,0.588,0,-4.881,1,0.0641,0.000129,0.373,0.637,170.889,278707,4,Spotify,Rock Road Trip,Public F
+The White Stripes,Icky Thump,Icky Thump,2LMq1O0NiqGhPOlXo3McYQ,0.417,0.63,9,-7.24,1,0.0898,0.0134,0.0543,0.341,94.214,254533,4,Spotify,Rock Road Trip,Public F
+Catfish and the Bottlemen,The Balcony,Cocoon,1B241LRKmK6qDDTZfUajmm,0.446,0.91,7,-4.481,0,0.0652,9.76e-05,0.077,0.325,133.053,236887,4,Spotify,Rock Road Trip,Public F
+The Black Keys,Brothers,Howlin' for You,0grFc6klR3hxoHLcgCYsF4,0.705,0.735,11,-6.646,1,0.0931,0.0783,0.112,0.448,132.627,191800,4,Spotify,Rock Road Trip,Public F
+Nothing But Thieves,Broken Machine (Deluxe),Amsterdam,454I78HEySdcHE8fcVabTb,0.511,0.934,3,-4.561,1,0.242,3.48e-05,0.242,0.668,168.062,272240,4,Spotify,Rock Road Trip,Public F
+The Strokes,Is This It,Last Nite,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,1,0.0296,0.000137,0.0975,0.79,104.061,193373,4,Spotify,Rock Road Trip,Public F
+Foals,What Went Down,Mountain at My Gates,3f7OyfSoDbQC0LRDQiytPp,0.495,0.931,2,-5.336,0,0.0469,0.0819,0.246,0.617,104.05,244293,4,Spotify,Rock Road Trip,Public F
+Local H,As Good As Dead,Bound For The Floor,3cbTV3IZZvSBYVcl0xuZbY,0.654,0.53,6,-7.409,1,0.0556,0.0197,0.0534,0.584,119.284,222960,4,Spotify,Rock Road Trip,Public F
+CAKE,Comfort Eagle,Short Skirt / Long Jacket,3OOFEF20WqtsUPcRbPY3L7,0.778,0.899,2,-6.552,1,0.0451,0.0345,0.0263,0.881,119.995,204133,4,Spotify,Rock Road Trip,Public F
+Gin Blossoms,New Miserable Experience,Hey Jealousy,4o7ZPI2fmEi3piRe0Hrfpy,0.471,0.797,6,-8.407,0,0.0389,6.49e-06,0.299,0.497,152.903,236627,4,Spotify,Rock Road Trip,Public F
+The Vines,Highly Evolved,Get Free,1JcGNoiwifg0MdJMVgJQYx,0.502,0.978,7,-3.278,1,0.0649,1.27e-06,0.287,0.603,138.811,126573,4,Spotify,Rock Road Trip,Public F
+Kings of Leon,Youth And Young Manhood,Molly's Chambers,0nCAVzknkzRXRgB6LhRv04,0.598,0.911,11,-3.97,1,0.0515,3.84e-06,0.216,0.953,146.469,134907,4,Spotify,Rock Road Trip,Public F
+Butthole Surfers,Electriclarryland,Pepper,1ng36571Iyov4HBxUClySn,0.631,0.804,7,-5.492,1,0.166,0.00116,0.16,0.671,79.898,297267,4,Spotify,Rock Road Trip,Public F
+The White Stripes,Elephant,The Hardest Button to Button,3RdQfyk7BBxxIx0zSnCBIw,0.694,0.515,4,-8.663,0,0.0736,0.622,0.0884,0.566,128.246,212888,4,Spotify,Rock Road Trip,Public F
+Green Day,Nimrod,Hitchin' a Ride,6WlmA3HPHuNIR2mxI8LkZF,0.424,0.919,9,-4.629,1,0.1,0.00674,0.123,0.684,163.732,171467,4,Spotify,Rock Road Trip,Public F
+TV On The Radio,Return To Cookie Mountain,Wolf Like Me,03wKMRNYVvw6s9nm4I4jUS,0.363,0.787,7,-5.071,1,0.0429,0.00445,0.531,0.202,175.919,279293,4,Spotify,Rock Road Trip,Public F
+Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",I Bet You Look Good On The Dancefloor,29EkMZmUNz1WsuzaMtVo1i,0.535,0.948,6,-4.19,0,0.0356,0.0,0.376,0.778,103.183,173680,4,Spotify,Rock Road Trip,Public F
+Spacehog,Resident Alien,In the Meantime,02lTDOxHeXTHsdwXoz6lpC,0.269,0.895,9,-6.382,1,0.118,0.00266,0.153,0.16,168.479,299507,4,Spotify,Rock Road Trip,Public F
+The Hives,Veni Vidi Vicious,Hate To Say I Told You So,6xxXrNJnnsQNLdgNk8S4y8,0.451,0.929,5,-5.021,1,0.0549,0.00785,0.442,0.378,135.767,199760,4,Spotify,Rock Road Trip,Public F
+Queens of the Stone Age,Lullabies To Paralyze,Little Sister,0BqQWfhMrkpRAUCbdfdHUC,0.364,0.959,1,-2.956,1,0.0627,0.000953,0.411,0.927,161.797,174027,4,Spotify,Rock Road Trip,Public F
+K.Flay,Every Where Is Some Where,Blood In The Cut,4q604hQba5940BbOoaenmz,0.77,0.655,2,-5.369,1,0.0316,0.0234,0.125,0.639,129.964,188707,4,Spotify,Rock Road Trip,Public F
+Jet,Get Born,Cold Hard Bitch,5u6fnmRO5V0PTl5M2Eekeu,0.458,0.895,2,-3.972,1,0.0681,0.000394,0.106,0.357,130.327,243200,4,Spotify,Rock Road Trip,Public F
+The Strokes,Is This It,Hard To Explain,0OM9ri37LIbPc9hffwsyb1,0.408,0.666,7,-6.286,1,0.0578,0.862,0.0889,0.666,82.523,224333,4,Spotify,Rock Road Trip,Public F
+Foo Fighters,Wasting Light,Rope,7v0mtl6oInUtHOmTk2b0gC,0.507,0.728,11,-4.874,0,0.0382,7.41e-05,0.0725,0.535,138.19,259027,4,Spotify,Rock Road Trip,Public F
+LCD Soundsystem,LCD Soundsystem,Daft Punk Is Playing at My House,73mlvsfJM2qwlDUJxeaatI,0.92,0.914,7,-4.555,1,0.0444,7.62e-05,0.114,0.974,135.923,314557,4,Spotify,Rock Road Trip,Public F
+Weezer,Weezer (Red Album),Pork And Beans,7wclPheMJAUKn2njmO2s3A,0.599,0.624,6,-6.622,1,0.0339,8.06e-06,0.158,0.706,119.838,189400,4,Spotify,Rock Road Trip,Public F
+Beck,Guero,E-Pro,01MBhRpvFkbeRwAp7gcF2W,0.624,0.959,11,-6.253,0,0.0769,0.171,0.101,0.69,95.794,202360,4,Spotify,Rock Road Trip,Public F
+Interpol,Antics,Slow Hands,1VcIbyyDX8j0GNxSlsRFeJ,0.245,0.974,11,-2.523,0,0.0496,0.438,0.363,0.644,141.885,184133,4,Spotify,Rock Road Trip,Public F
+Des Rocs,Let the Vultures In,Let Me Live / Let Me Die,0AVIswXP3Q5FnlorjU0DbI,0.341,0.764,4,-4.841,1,0.202,2.41e-06,0.0817,0.239,128.931,207142,3,Spotify,Rock Road Trip,Public F
+Royal Blood,Royal Blood,Figure It Out,6V0A3jkb9ntudO0kmcJ1xd,0.658,0.814,0,-4.631,1,0.0558,0.00676,0.216,0.69,108.016,183602,4,Spotify,Rock Road Trip,Public F
+LCD Soundsystem,Sound of Silver,All My Friends,2Ud3deeqLAG988pfW0Kwcl,0.701,0.788,2,-5.611,1,0.0425,0.625,0.0977,0.795,142.584,462267,4,Spotify,Rock Road Trip,Public F
+The Smashing Pumpkins,(Rotten Apples) The Smashing Pumpkins Greatest Hits,1979,3h5zik31hTTat9jmpCZZNC,0.768,0.782,3,-10.231,1,0.033,0.683,0.0802,0.964,127.042,263573,4,Spotify,Rock Road Trip,Public F
+Marcy Playground,"Lunch, Recess & Detention",Sex And Candy,3hAaCXvutknQugsPFogh8H,0.55,0.702,11,-5.693,0,0.0281,1.4e-06,0.119,0.515,159.968,172486,4,Spotify,Rock Road Trip,Public F
+The Walkmen,Bows + Arrows,The Rat,2YIOkqKgg3jZEFoL5qcEPT,0.167,0.921,6,-4.881,0,0.061,0.0716,0.239,0.315,168.225,262227,4,Spotify,Rock Road Trip,Public F
+Death From Above 1979,Outrage! Is Now,Freeze Me,50jXnyrzW4mcBBqFTMEoAC,0.511,0.724,0,-5.927,1,0.0311,0.00019,0.23,0.536,130.029,198081,4,Spotify,Rock Road Trip,Public F
+Royal Blood,Trouble’s Coming,Trouble’s Coming,5eR6OS3joTAHJToyzehKfu,0.775,0.688,1,-5.038,0,0.0384,0.0,0.321,0.805,112.009,228400,4,Spotify,Rock Road Trip,Public F
+Them Crooked Vultures,Them Crooked Vultures,New Fang,7uJLdyIAaYLGT0oLw7I6b3,0.278,0.961,7,-3.845,1,0.0607,0.000662,0.0268,0.752,189.664,228639,4,Spotify,Rock Road Trip,Public F
+Vampire Weekend,Modern Vampires of the City,Diane Young,10f0hrbCBiQk9STrFG3EU7,0.422,0.809,11,-5.607,1,0.246,3.64e-05,0.203,0.735,87.076,160067,4,Spotify,Rock Road Trip,Public F

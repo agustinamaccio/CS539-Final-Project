@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Shania Twain,Come On Over,Man! I Feel Like A Woman!,6sxptembJVty4sNtcPMAVz,0.657,0.639,10,-7.527,1,0.0412,0,0.278,0.674,124.882,234493,4,Spotify,Raised on Country,Public H
+Zac Brown Band,The Foundation,Chicken Fried,0LQtEJt7x0s6knb6RKdRYc,0.566,0.713,6,-4.25,1,0.0418,0,0.114,0.805,169.861,238147,4,Spotify,Raised on Country,Public H
+Trisha Yearwood,Thinkin' About You,XXX's And OOO's (An American Girl),08c3wmdjKSjxTJY9cHSts7,0.711,0.642,0,-8.909,1,0.0319,0,0.0814,0.762,125.831,167907,4,Spotify,Raised on Country,Public H
+Dolly Parton,9 To 5 And Odd Jobs,9 to 5,4w3tQBXhn5345eUXDGBWZG,0.554,0.783,6,-5.852,1,0.0457,1.54e-06,0.631,0.813,105.39,162467,4,Spotify,Raised on Country,Public H
+Brooks & Dunn,#1s ... and then some,Boot Scootin' Boogie,7Fq9RwQxSn3kW85PrDUf0M,0.656,0.817,11,-4.296,0,0.0435,0,0.304,0.862,130.448,198227,4,Spotify,Raised on Country,Public H
+Kenny Rogers,The Gambler,The Gambler,5KqldkCunQ2rWxruMEtGh0,0.671,0.501,4,-13.119,1,0.0594,0,0.194,0.86,87.04,214880,4,Spotify,Raised on Country,Public H
+Taylor Swift,Love Story (Taylor’s Version),Love Story (Taylor’s Version),3CeCwYWvdfXbZLXFhBrbnf,0.626,0.79,2,-4.302,1,0.0311,3.97e-06,0.0989,0.416,119.082,235767,4,Spotify,Raised on Country,Public H
+Various Artists,Cars (Original Motion Picture Soundtrack),Life is a Highway,5gB2IrxOCX2j9bMnHKP38i,0.562,0.934,5,-5.562,1,0.0607,0,0.199,0.558,103.042,275640,4,Spotify,Raised on Country,Public H
+John Denver,"Poems, Prayers and Promises","Take Me Home, Country Roads",1YYhDizHx7PnDhAhko6cDS,0.462,0.395,9,-9.376,1,0.0264,0,0.121,0.625,82.259,190160,4,Spotify,Raised on Country,Public H
+Josh Turner,Your Man,Your Man,1WzAeadSKJhqykZFbJNmQv,0.744,0.637,6,-4.483,1,0.0241,0.000222,0.0696,0.785,100.511,211893,4,Spotify,Raised on Country,Public H
+Nitty Gritty Dirt Band,Anthology,Fishing In The Dark,3i5QyEUyXa9Y7lIklr5sWk,0.765,0.494,2,-7.348,1,0.0377,0,0.0836,0.91,77.724,201987,4,Spotify,Raised on Country,Public H
+Jo Dee Messina,JoDee Messina,"Heads Carolina, Tails California",6Lmx6bz3PGYuNSjKMnYBOa,0.607,0.815,4,-6.619,1,0.039,2.81e-05,0.111,0.57,136.949,209760,4,Spotify,Raised on Country,Public H
+Alan Jackson,A Lot About Livin' (And A Little 'Bout Love),Chattahoochee,59kHPbwyyCApYA8RQQEuXm,0.606,0.706,0,-9.665,1,0.0379,0,0.16,0.819,174.533,148160,4,Spotify,Raised on Country,Public H
+Alison Krauss,Now That I've Found You: A Collection,When You Say Nothing At All,6HveTIMynTMzTc5L0TcS20,0.514,0.243,3,-12.348,1,0.0288,0.00054,0.0822,0.388,171.816,260800,4,Spotify,Raised on Country,Public H
+LeAnn Rimes,Blue,One Way Ticket (Because I Can),0meAc2H0tC5tOTd6MDe0cI,0.696,0.778,1,-7.28,1,0.0286,1.77e-06,0.13,0.746,119.93,223973,4,Spotify,Raised on Country,Public H
+Dolly Parton,Jolene,Jolene,2SpEHTbUuebeLkgs9QB7Ue,0.674,0.537,1,-10.971,0,0.0363,0,0.131,0.809,110.578,161533,4,Spotify,Raised on Country,Public H
+Brooks & Dunn,#1s ... and then some,Neon Moon,3EUl8M6SzxZl03NPkB8mUd,0.698,0.632,9,-6.508,1,0.0247,0,0.118,0.458,102.408,263760,4,Spotify,Raised on Country,Public H
+Shania Twain,The Woman In Me,Any Man Of Mine,0pdfN7nOHMYmKykzu1cyfm,0.592,0.725,8,-8.698,1,0.0412,0,0.148,0.784,78.235,246760,4,Spotify,Raised on Country,Public H
+Taylor Swift,Taylor Swift,Our Song,15DeqWWQB4dcEWzJg15VrN,0.668,0.672,2,-4.931,1,0.0303,0,0.329,0.539,89.011,201107,4,Spotify,Raised on Country,Public H
+Johnny Cash,Ring Of Fire: The Best Of Johnny Cash,Ring of Fire,6YffUZJ2R06kyxyK6onezL,0.659,0.585,7,-8.189,1,0.0288,0.000213,0.348,0.784,104.111,158427,4,Spotify,Raised on Country,Public H
+Faith Hill,Take Me as I Am,Wild One,0qrst0xZAZ0NtMtuUcEq0f,0.694,0.654,11,-9.148,1,0.0322,0,0.283,0.689,135.787,165013,4,Spotify,Raised on Country,Public H
+Florida Georgia Line,Here's To The Good Times,Cruise,0i5el041vd6nxrGEU8QRxy,0.457,0.948,10,-3.364,1,0.0354,0,0.0536,0.878,148.0,208960,4,Spotify,Raised on Country,Public H
+Travis Tritt,Down The Road I Go,It's A Great Day To Be Alive,3oW6SWwGqiZSPTiAp7ZQoH,0.595,0.653,7,-4.935,1,0.0265,0,0.264,0.542,128.93,241533,4,Spotify,Raised on Country,Public H
+Josh Turner,Your Man,Would You Go With Me,1KhrAWvLIjRlQIJtSTgvsi,0.605,0.864,6,-5.365,1,0.0292,0.000827,0.113,0.736,122.918,228187,4,Spotify,Raised on Country,Public H
+Brooks & Dunn,#1s ... and then some,My Maria,09qzRI951OVkXGCc33gzcT,0.673,0.842,3,-4.627,1,0.0366,0.000257,0.178,0.898,125.57,208107,4,Spotify,Raised on Country,Public H
+George Strait,Strait Out Of The Box,Check Yes Or No,6iy4PoAuZBMvtrlDX4VxC7,0.708,0.524,5,-12.644,1,0.0352,3.21e-06,0.0371,0.69,111.482,200667,4,Spotify,Raised on Country,Public H
+Lonestar,Lonely Grill,Amazed,6qc34bnVOyqGDPni8H5W0U,0.561,0.543,1,-8.498,1,0.0324,0,0.124,0.243,139.803,240867,4,Spotify,Raised on Country,Public H
+Shania Twain,Come On Over,That Don't Impress Me Much,4FUfoWMypAyWbOavmYyeNu,0.757,0.757,1,-7.598,1,0.0389,0,0.0474,0.967,124.956,218867,4,Spotify,Raised on Country,Public H
+Rascal Flatts,Me And My Gang,What Hurts The Most,4bVuIlGQBMWS7vIhcx8Ae4,0.537,0.674,5,-5.134,0,0.0277,0,0.265,0.33,136.002,214107,4,Spotify,Raised on Country,Public H
+Randy Travis,Always & Forever,"Forever and Ever, Amen",1ipcb9qXpSHWhSUvdxJhsx,0.677,0.724,2,-8.992,1,0.0245,0.000101,0.158,0.697,90.392,212640,4,Spotify,Raised on Country,Public H
+Jamey Johnson,That Lonesome Song,In Color,7CNd7rjfVt74TFlcOcnZgN,0.544,0.404,3,-8.751,1,0.0354,3.98e-06,0.157,0.251,129.518,290680,4,Spotify,Raised on Country,Public H
+George Strait,Strait From The Heart,Amarillo By Morning,4TnUKixNWMfajncgdSwFoi,0.606,0.361,9,-16.031,1,0.0346,3.39e-05,0.38,0.621,121.059,173467,4,Spotify,Raised on Country,Public H
+The Chicks,Fly,Cowboy Take Me Away,3rXCZRMiMZp0feGcYXpwYX,0.467,0.622,6,-7.255,1,0.031,0.00527,0.0982,0.455,164.418,287267,4,Spotify,Raised on Country,Public H
+Carrie Underwood,Some Hearts,"Jesus, Take the Wheel",3lec3CzDPAxsZokPph5w87,0.359,0.518,2,-3.537,1,0.0302,0,0.106,0.135,76.572,226493,4,Spotify,Raised on Country,Public H
+Tim McGraw,Damn Country Music,Humble And Kind,4Pn0JlCUusD2QHjADuOzuV,0.355,0.48,11,-7.31,1,0.0282,2.28e-06,0.12,0.137,100.956,259267,3,Spotify,Raised on Country,Public H
+The Charlie Daniels Band,A Decade Of Hits,The Devil Went Down to Georgia,383Xl5QTigwj3QiA3Qc6S7,0.523,0.626,0,-9.425,1,0.0523,0,0.0869,0.917,134.127,214867,4,Spotify,Raised on Country,Public H
+Darius Rucker,Learn To Live,Alright,5JlH51YDYsGj2dyEJKKjcN,0.601,0.806,7,-4.579,1,0.0345,0,0.185,0.711,89.87,231920,4,Spotify,Raised on Country,Public H
+John Michael Montgomery,John Michael Montgomery,Sold (The Grundy County Auction Incident),0NLBwQBYJhEM9t3KAMPFVR,0.771,0.848,2,-7.365,1,0.035,0,0.35,0.803,115.642,152187,4,Spotify,Raised on Country,Public H
+Kacey Musgraves,Golden Hour,Rainbow,79qxwHypONUt3AFq0WPpT9,0.581,0.197,3,-7.697,1,0.0329,0,0.107,0.349,130.367,214293,4,Spotify,Raised on Country,Public H
+Mel McDaniel,I'm Countryfied,Louisiana Saturday Night,50PU05RTGva8laKDwxED9Y,0.686,0.622,2,-7.31,1,0.0857,0,0.0511,0.982,163.245,144187,4,Spotify,Raised on Country,Public H
+George Strait,Carrying Your Love With Me,Carrying Your Love With Me,7puxIVNdj5nsBJk43zM3bH,0.629,0.479,10,-10.608,1,0.0271,0,0.0587,0.345,138.231,232427,4,Spotify,Raised on Country,Public H
+Josh Turner,Haywire,Why Don't We Just Dance,2p07VcUwRZ5sru3mJ0JogS,0.677,0.776,5,-5.933,1,0.0386,0.000689,0.0954,0.642,121.834,192800,4,Spotify,Raised on Country,Public H
+Little Big Town,The Road To Here,Boondocks,3duP6mBVDsHM8ioN7o7dAK,0.41,0.78,9,-5.391,1,0.0332,0,0.48,0.695,88.016,272347,4,Spotify,Raised on Country,Public H
+Billy Ray Cyrus,Some Gave All,Achy Breaky Heart,2EoIt9vdgFRNW03u5IvFsQ,0.8,0.563,9,-10.209,1,0.0303,0,0.0797,0.961,121.808,203373,4,Spotify,Raised on Country,Public H
+George Strait,Always Never The Same,Write This Down,1TanmIWbaUj5NVwJ3k4XPd,0.729,0.688,3,-7.468,1,0.0264,9.44e-06,0.295,0.671,123.867,219600,4,Spotify,Raised on Country,Public H
+The Chicks,Wide Open Spaces,Wide Open Spaces,6cjwec9ii5uLK7CDfPBYt1,0.563,0.544,4,-6.102,1,0.0306,0,0.128,0.602,179.351,223832,4,Spotify,Raised on Country,Public H
+Dolly Parton,Coat Of Many Colors,Coat of Many Colors,1l2Xmg54EUr3TDzNIaCr1z,0.624,0.257,5,-13.341,1,0.0444,7.56e-05,0.138,0.681,85.617,183667,4,Spotify,Raised on Country,Public H
+Lorrie Morgan,Greatest Hits,What Part of No,00klSin5es2cwPgZf103Fz,0.719,0.534,3,-9.804,1,0.0274,7.92e-06,0.363,0.832,129.986,166173,4,Spotify,Raised on Country,Public H
+Chris Janson,Buy Me a Boat,Buy Me a Boat,2WKLUgklz0VDX5bKTZ3eYD,0.574,0.745,2,-6.663,1,0.0507,0,0.11,0.693,154.042,179078,4,Spotify,Raised on Country,Public H
+Waylon Jennings,Waylon & Willie,Mammas Don't Let Your Babies Grow up to Be Cowboys,7nVQ8mo77KaUvhUQzh4vMy,0.363,0.361,9,-14.398,1,0.0499,0.00119,0.154,0.612,187.711,152867,3,Spotify,Raised on Country,Public H
+Alan Jackson,Everything I Love,Little Bitty,2IY559smG7SXYk229NA2Vl,0.571,0.818,4,-6.539,1,0.0415,0,0.348,0.728,163.045,158627,4,Spotify,Raised on Country,Public H
+Faith Hill,Faith,This Kiss,5EYWGM3Ns3iYew8ws0FatB,0.398,0.804,11,-5.559,1,0.0451,0,0.181,0.709,186.752,194307,4,Spotify,Raised on Country,Public H
+Jason Aldean,Wide Open,Big Green Tractor,4KAzYqfcijCSZa2P3etHoM,0.623,0.59,4,-5.014,1,0.028,0,0.295,0.579,137.071,204200,4,Spotify,Raised on Country,Public H
+Deana Carter,Did I Shave My Legs For This?,Strawberry Wine,5Pgwi0iizu96RHxJ4xL3SH,0.572,0.449,1,-6.566,1,0.0264,0,0.0301,0.207,122.632,291533,3,Spotify,Raised on Country,Public H
+Rodney Atkins,If You're Going Through Hell,Watching You,5OusUgzHz6Ulb3GZT7WUo5,0.625,0.848,2,-4.008,1,0.0314,0,0.23,0.716,137.993,235427,4,Spotify,Raised on Country,Public H
+Diamond Rio,Diamond Rio,Meet In the Middle,7lUE02KHkZM44BZgjCaWRO,0.746,0.443,4,-11.305,1,0.0359,0,0.223,0.554,91.11,198333,4,Spotify,Raised on Country,Public H
+John Denver,Back Home Again,Thank God I'm a Country Boy,69HICMmc6nNLucAx3aJX9M,0.762,0.537,9,-9.58,1,0.0478,0.000669,0.0551,0.958,105.603,193093,4,Spotify,Raised on Country,Public H
+Glen Campbell,Rhinestone Cowboy (Expanded Edition),Rhinestone Cowboy,0VwTeYNjcl30DyQlt3GPe0,0.644,0.633,0,-8.006,1,0.0261,6.82e-05,0.227,0.647,115.193,194453,4,Spotify,Raised on Country,Public H
+Randy Travis,Old 8 x 10,Deeper Than the Holler,3xx0jE52PbtvwXgNaBUdch,0.647,0.482,5,-8.591,1,0.0262,0,0.232,0.437,142.648,219080,4,Spotify,Raised on Country,Public H
+Lee Ann Womack,I Hope You Dance,I Hope You Dance,65B1tEOv5W294uCKbmEcFV,0.385,0.443,7,-9.627,0,0.0295,0,0.0898,0.275,151.278,294533,4,Spotify,Raised on Country,Public H
+Lady A,Need You Now,American Honey,4xInIiKipU1mtUogJ3ZdYr,0.588,0.684,1,-5.154,1,0.0288,0,0.141,0.121,85.997,224867,4,Spotify,Raised on Country,Public H
+Sugarland,The Incredible Machine,Stuck Like Glue,0JcKdUGNR7zI4jJDLyYXbi,0.702,0.795,1,-4.764,1,0.0568,0,0.0505,0.836,83.961,247587,4,Spotify,Raised on Country,Public H
+Rascal Flatts,Me And My Gang,My Wish,6Gfmj0HbpvxTdW0sdlzTDU,0.548,0.769,4,-4.853,1,0.0312,5.53e-06,0.0867,0.388,135.712,248280,4,Spotify,Raised on Country,Public H
+Kenny Chesney,Everywhere We Go,She Thinks My Tractor's Sexy,3QV7NYkrmV0Q0IHdFJw9hO,0.689,0.886,10,-7.066,0,0.0382,0,0.278,0.906,122.07,248067,4,Spotify,Raised on Country,Public H
+Taylor Swift,Taylor Swift,Tim McGraw,0Om9WAB5RS09L80DyOfTNa,0.58,0.491,0,-6.462,1,0.0251,0,0.121,0.425,76.009,232107,4,Spotify,Raised on Country,Public H
+Gretchen Wilson,Here For The Party,Redneck Woman,26bL4gSULWDgdIMX0pRFrG,0.499,0.825,6,-5.146,1,0.177,0,0.306,0.753,185.069,221333,4,Spotify,Raised on Country,Public H
+Craig Morgan,My Kind Of Livin',Redneck Yacht Club,4etE2X6t7GmyiuYLIdI8H5,0.49,0.817,8,-5.405,1,0.0355,0,0.0885,0.808,168.115,230373,4,Spotify,Raised on Country,Public H
+Johnny Cash,I Walk the Line (Original Soundtrack Recording),I Walk the Line,7hxZF4jETnE5Q75rKQnMjE,0.713,0.258,9,-14.59,1,0.0384,0.00606,0.0967,0.56,98.805,176533,4,Spotify,Raised on Country,Public H
+Crystal Gayle,We Must Believe In Magic,Don't It Make My Brown Eyes Blue,7Jpclr7tZ6aQXjoKzWXUJV,0.736,0.321,6,-13.474,1,0.0444,0.00897,0.0619,0.342,84.928,157653,4,Spotify,Raised on Country,Public H
+"Crosby, Stills, Nash & Young",Deja Vu,Teach Your Children,29HaKOpeLSYvqdFyEQSRdj,0.497,0.285,2,-14.537,1,0.0264,1.69e-05,0.389,0.667,154.707,173467,4,Spotify,Raised on Country,Public H
+John Michael Montgomery,Greatest Hits,Life's a Dance,0NyMrtH8mUuvtJjEpESn7J,0.64,0.533,5,-9.846,1,0.0264,0,0.176,0.652,135.224,188840,4,Spotify,Raised on Country,Public H
+Trace Adkins,American Man: Greatest Hits Vol. II,You're Gonna Miss This,7Efs0OIW6zgQyH7ehKZYpN,0.5,0.665,8,-7.157,1,0.0355,6.41e-05,0.0994,0.32,154.997,224960,4,Spotify,Raised on Country,Public H
+Jo Dee Messina,I'm Alright,I'm Alright,0MjT9xQqJrQlNrkWKZgFbQ,0.676,0.733,0,-7.745,1,0.0294,0,0.192,0.591,98.234,199040,3,Spotify,Raised on Country,Public H
+Roger Miller,Golden Hits,King Of The Road,3XG7bMVcMWLIn2k9jLAaAt,0.67,0.272,11,-13.699,1,0.0704,0,0.178,0.613,117.996,147307,4,Spotify,Raised on Country,Public H
+Craig Morgan,Little Bit Of Life,International Harvester,0Ta3jOf8m9yCSWMVwd8Qlf,0.699,0.837,2,-5.173,1,0.0428,0,0.231,0.348,95.493,228653,4,Spotify,Raised on Country,Public H
+Lynn Anderson,Rose Garden,Rose Garden,5YwgJ6lpZ3SiAQwBEpjqey,0.589,0.501,0,-11.665,1,0.031,0,0.0741,0.969,131.064,175867,4,Spotify,Raised on Country,Public H
+Dolly Parton,Jolene,I Will Always Love You,6nRvgo4ySezQKD1D7NIqAu,0.446,0.142,9,-13.498,1,0.0335,0.00114,0.101,0.156,135.724,176093,4,Spotify,Raised on Country,Public H
+Glen Campbell,Wichita Lineman (Remastered),Wichita Lineman - Remastered 2001,6V9VCm1zOY2lGR80RehJ9i,0.192,0.392,5,-11.667,1,0.0328,0.000199,0.248,0.391,172.312,186200,4,Spotify,Raised on Country,Public H
+Sara Evans,Stronger,A Little Bit Stronger,5FIp4LrsffxiHLhmmpCbCx,0.536,0.65,2,-5.603,1,0.0337,1.16e-06,0.0876,0.288,147.93,301987,4,Spotify,Raised on Country,Public H
+George Strait,Livin' It Up,"Love Without End, Amen",4pFNWAU8e8F32NQkMyLAZi,0.645,0.442,9,-12.997,1,0.0256,0,0.121,0.554,88.491,187000,4,Spotify,Raised on Country,Public H
+Josh Gracin,Josh Gracin,Nothin' To Lose,7oiCqfE8Wjk8wf0pFTgL2H,0.607,0.876,7,-4.117,1,0.0382,0,0.519,0.886,121.043,156893,4,Spotify,Raised on Country,Public H
+Old Dominion,Old Dominion,Make It Sweet,3Mnr3yyQk1aUPYgbpOQE31,0.424,0.837,7,-4.453,1,0.0472,0,0.0665,0.554,180.175,187000,4,Spotify,Raised on Country,Public H
+Jo Dee Messina,I'm Alright,Bye-Bye,5FxgRnXBHMM0q4stwqrjjM,0.644,0.868,10,-3.98,1,0.0464,0,0.322,0.642,134.38,200960,4,Spotify,Raised on Country,Public H
+Randy Travis,On the Other Hand - All the Number Ones,If I Didn't Have You,52erNkfUKv34u02CjcHOPj,0.674,0.578,4,-10.919,1,0.0663,0,0.103,0.961,172.498,186747,4,Spotify,Raised on Country,Public H
+Don Williams,Expressions,Tulsa Time,0cThXovxrvU68JuzYUXhJT,0.916,0.57,4,-13.011,1,0.0334,0.000721,0.0595,0.957,104.415,195347,4,Spotify,Raised on Country,Public H
+Clay Walker,If I Could Make a Living,If I Could Make a Living,7njoWVpJbAiTkyT6rKwbze,0.593,0.775,5,-7.016,1,0.0345,0,0.329,0.896,155.989,133853,4,Spotify,Raised on Country,Public H
+Montgomery Gentry,You Do Your Thing,Something to Be Proud Of,4D8uIY6Wzj7dJDaw0dW0UF,0.645,0.693,0,-6.481,1,0.0344,1.22e-05,0.175,0.553,97.555,256600,4,Spotify,Raised on Country,Public H
+Jerrod Niemann,Judge Jerrod & The Hung Jury,"Lover, Lover",5UzU0qw21okODBNUnxptVo,0.879,0.567,7,-6.509,1,0.0588,0,0.622,0.948,112.473,193733,4,Spotify,Raised on Country,Public H
+Tim McGraw,Not A Moment Too Soon,Don't Take The Girl,2wmEryA2YLaFwFvA63n3O2,0.439,0.454,0,-8.669,1,0.0308,0,0.123,0.354,204.263,249360,4,Spotify,Raised on Country,Public H
+Gary Allan,Living Hard,Watching Airplanes,63u5QGp9dKXAoYTVKUKBYn,0.374,0.711,11,-3.587,1,0.0354,4.12e-05,0.147,0.468,160.001,242947,4,Spotify,Raised on Country,Public H
+Lonestar,Let's Be Us Again,Mr. Mom,0jSIovJtKxEXH6vI4oRx7I,0.505,0.842,10,-3.316,1,0.0475,0,0.111,0.671,172.136,208693,4,Spotify,Raised on Country,Public H
+Martina McBride,The Way That I Am,Independence Day,1nVoLxz8C0uGgMKfywy0vf,0.712,0.63,9,-6.202,1,0.0299,6.65e-05,0.0999,0.768,118.378,204627,4,Spotify,Raised on Country,Public H
+Loretta Lynn,Coal Miner's Daughter,Coal Miner's Daughter - Single Version,3mM14WXoPaLRjjkmxHe99L,0.604,0.354,9,-14.07,1,0.0313,0.00474,0.103,0.635,137.349,180960,4,Spotify,Raised on Country,Public H
+Randy Travis,Storms of Life,Diggin' Up Bones,6JdbV5DDltMVCyV0twmKwj,0.708,0.577,0,-8.229,1,0.0261,0,0.0718,0.836,85.667,178973,4,Spotify,Raised on Country,Public H
+Heartland,I Loved Her First,I Loved Her First,0vZvEE9c2bmA6H8hVKxXEZ,0.416,0.384,4,-6.508,1,0.0262,0,0.106,0.177,137.451,212880,3,Spotify,Raised on Country,Public H
+Travis Tritt,It's All About to Change,Here's a Quarter (Call Someone Who Cares),6BTCpaBTxlqGMOl0P6hvvX,0.648,0.572,7,-7.494,1,0.026,0,0.131,0.598,112.423,152333,3,Spotify,Raised on Country,Public H
+Brad Paisley,Mud On The Tires,Mud on the Tires,4AQWKGBWTR7fVuUKxi5sKE,0.445,0.744,2,-7.978,1,0.0424,6.73e-05,0.167,0.48,185.199,208267,4,Spotify,Raised on Country,Public H
+Martina McBride,Martina,This One's for the Girls,01CnYyPXMFRzOFVQBU8WMb,0.613,0.801,8,-4.431,1,0.0354,1.15e-05,0.124,0.609,126.966,243160,4,Spotify,Raised on Country,Public H
+C.W. McCall,C.W. McCall's Greatest Hits,Convoy,6dGWq08LXuIw6T2oUeHECh,0.68,0.543,5,-14.876,1,0.141,0.000116,0.0881,0.796,111.62,230600,4,Spotify,Raised on Country,Public H
+Keith Urban,Be Here,Days Go By,2jwaErbghhcia4JqUYWz3g,0.589,0.892,2,-3.197,1,0.0365,0,0.149,0.76,131.951,224630,4,Spotify,Raised on Country,Public H

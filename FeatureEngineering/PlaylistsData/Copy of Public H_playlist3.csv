@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Metallica,Metallica (Remastered),Enter Sandman (Remastered),3VqHuw0wFlIHcIPWkhIbdQ,0.566,0.834,6,-8.412,0,0.0298,0.008,0.0625,0.621,123.296,331560,4,Spotify,Raised on Metal,Public H
+AC/DC,The Razors Edge,Thunderstruck,57bgtoPSgt236HzfBOd8kj,0.502,0.89,4,-5.175,1,0.0364,0.0117,0.217,0.259,133.52,292880,4,Spotify,Raised on Metal,Public H
+System Of A Down,Toxicity,Chop Suey!,2DlHlPMa4M17kufBvI2lEN,0.417,0.934,7,-3.908,0,0.119,0.0015,0.132,0.287,127.066,210240,4,Spotify,Raised on Metal,Public H
+Guns N' Roses,Use Your Illusion I,November Rain,3YRCqOhFifThpSRFJ1VWFM,0.294,0.641,11,-9.316,1,0.0291,0.22,0.112,0.226,79.759,536067,4,Spotify,Raised on Metal,Public H
+Led Zeppelin,Led Zeppelin III (Remaster),Immigrant Song - Remaster,78lgmZwycJ3nzsdgmPPGNx,0.564,0.932,11,-10.068,1,0.0554,0.169,0.349,0.619,112.937,146250,4,Spotify,Raised on Metal,Public H
+Van Halen,1984 (Remastered),Jump - 2015 Remaster,7N3PAbqfTjSEU1edb2tY8j,0.572,0.835,0,-6.219,1,0.0317,0.000377,0.0702,0.795,129.981,241600,4,Spotify,Raised on Metal,Public H
+Ozzy Osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),Crazy Train,7ACxUo21jtTHzy7ZEV56vU,0.454,0.913,9,-4.008,1,0.107,0.000271,0.248,0.521,137.688,293183,4,Spotify,Raised on Metal,Public H
+System Of A Down,Toxicity,Toxicity,0snQkGI5qnAmohLE7jTsTn,0.413,0.873,8,-4.151,1,0.0536,0.00249,0.204,0.48,116.68,218933,3,Spotify,Raised on Metal,Public H
+Deftones,White Pony,Change (In the House of Flies),51c94ac31swyDQj9B3Lzs3,0.269,0.853,7,-4.647,0,0.0854,0.000246,0.118,0.179,141.581,299533,4,Spotify,Raised on Metal,Public H
+Rob Zombie,Hellbilly Deluxe,Dragula,6Nm8h73ycDG2saCnZV8poF,0.591,0.963,0,-6.489,0,0.0531,0.000107,0.0781,0.609,125.03,222827,4,Spotify,Raised on Metal,Public H
+KISS,Dressed To Kill,Rock And Roll All Nite,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,1,0.0998,0.0,0.0539,0.902,144.774,168840,4,Spotify,Raised on Metal,Public H
+Metallica,Master of Puppets (Remastered Deluxe Box Set),Master of Puppets (Remastered),54bm2e3tk8cliUz3VSdCPZ,0.539,0.828,4,-9.108,0,0.035,0.421,0.154,0.562,105.25,515387,4,Spotify,Raised on Metal,Public H
+Motörhead,Ace of Spades (Expanded Edition),Ace of Spades,6EPRKhUOdiFSQwGBRBbvsZ,0.342,0.91,4,-7.748,1,0.0758,0.000121,0.0823,0.547,140.452,166360,4,Spotify,Raised on Metal,Public H
+Megadeth,Countdown To Extinction (Expanded Edition - Remastered),Symphony Of Destruction,51TG9W3y9qyO8BY5RXKgnZ,0.61,0.891,4,-5.452,0,0.0587,0.0928,0.0657,0.51,139.903,246733,4,Spotify,Raised on Metal,Public H
+System Of A Down,Toxicity,Aerials,4e9eGQYsOiBcftrWXwsVco,0.364,0.922,0,-4.217,0,0.0567,0.0346,0.0697,0.227,79.342,235053,4,Spotify,Raised on Metal,Public H
+Twisted Sister,Stay Hungry,We're Not Gonna Take It,1hlveB9M6ijHZRbzZ2teyh,0.502,0.924,4,-6.299,1,0.0503,0.0,0.162,0.922,149.186,219667,4,Spotify,Raised on Metal,Public H
+Black Sabbath,Paranoid (Remaster),Paranoid - 2012 - Remaster,1Y373MqadDRtclJNdnUXVc,0.412,0.658,4,-12.051,0,0.0708,0.000774,0.176,0.454,163.071,168406,4,Spotify,Raised on Metal,Public H
+Deftones,Around the Fur,My Own Summer (Shove It),1158ckiB5S4cpsdYHDB9IF,0.443,0.781,1,-4.277,1,0.0377,0.205,0.166,0.372,71.841,214760,4,Spotify,Raised on Metal,Public H
+Judas Priest,British Steel,Breaking the Law,2RaA6kIcvomt77qlIgGhCT,0.362,0.961,2,-5.664,1,0.0857,9.35e-06,0.159,0.491,164.019,153840,4,Spotify,Raised on Metal,Public H
+Quiet Riot,Metal Health,Cum on Feel the Noize,3vV3cr2TpPqFk07zxYUbla,0.409,0.92,11,-5.439,0,0.12,0.00105,0.0823,0.37,145.085,290960,4,Spotify,Raised on Metal,Public H
+Rammstein,Sehnsucht,Du hast,6uEvFCaOqXyEidoO8BZbyh,0.64,0.922,9,-6.283,0,0.0385,0.055,0.332,0.716,125.105,234227,4,Spotify,Raised on Metal,Public H
+Metallica,Metallica (Remastered),Nothing Else Matters (Remastered),2CtemffYhT0DJWcT1XW047,0.547,0.394,4,-9.793,0,0.0262,6.4e-06,0.0795,0.17,142.37,388733,3,Spotify,Raised on Metal,Public H
+TOOL,Lateralus,Schism,55mJleti2WfWEFNFcBduhc,0.567,0.714,9,-8.512,0,0.0302,0.417,0.186,0.191,107.441,403533,3,Spotify,Raised on Metal,Public H
+Deftones,Around the Fur,Be Quiet and Drive (Far Away),4Uiw0Sl9yskBaC6P4DcdVD,0.206,0.965,1,-5.116,1,0.079,0.827,0.367,0.168,92.615,299867,4,Spotify,Raised on Metal,Public H
+Avenged Sevenfold,City of Evil,Bat Country,3sHH7lklbfpcraDDvYnjo7,0.541,0.968,0,-4.129,1,0.0396,8.28e-06,0.423,0.505,125.04,311813,4,Spotify,Raised on Metal,Public H
+Van Halen,Van Halen (Remastered),Runnin' with the Devil - 2015 Remaster,3KhF2YiNpJvGpfiCW45R6D,0.472,0.9,8,-6.406,0,0.0582,0.000297,0.34,0.42,95.826,214960,4,Spotify,Raised on Metal,Public H
+Poison,Open Up And Say...Ahh! (20th Anniversary Edition),Nothin' But A Good Time - Remastered 2006,2V8KvnD5LVeeDChMWEkSzC,0.576,0.974,1,-2.785,1,0.0828,0.0,0.348,0.531,129.088,224867,4,Spotify,Raised on Metal,Public H
+Korn,Korn,Blind,1pr9TZGOXeJUggIal1Wq3R,0.283,0.891,2,-8.165,1,0.178,0.0038,0.159,0.226,92.049,258267,4,Spotify,Raised on Metal,Public H
+Judas Priest,Screaming For Vengeance (Expanded Edition),You've Got Another Thing Coming,4f3RDq9nYPBeR1yMSgnmBm,0.519,0.833,6,-6.947,0,0.0496,4.33e-06,0.104,0.532,138.225,310080,4,Spotify,Raised on Metal,Public H
+Ozzy Osbourne,Bark At The Moon (Expanded Edition),Bark at the Moon,2E7W1X4maFFcjHrVrFA7Vs,0.303,0.961,9,-5.333,0,0.243,6.2e-05,0.132,0.305,146.591,257120,4,Spotify,Raised on Metal,Public H
+Megadeth,Youthanasia (Expanded Edition - Remastered),A Tout Le Monde - Remastered 2004,6olS0TmHmsGr0hXtcBsiVM,0.272,0.747,5,-4.86,0,0.0401,4.03e-05,0.16,0.255,202.777,262133,4,Spotify,Raised on Metal,Public H
+Black Sabbath,Paranoid (Remaster),Iron Man - 2012 - Remaster,3IOQZRcEkplCXg6LofKqE9,0.336,0.792,9,-10.875,1,0.084,0.00175,0.0437,0.427,155.587,355304,4,Spotify,Raised on Metal,Public H
+Def Leppard,Pyromania (Deluxe),Rock Of Ages,2AmEv442DGwSxMGZ9XEvBA,0.706,0.785,11,-7.666,0,0.041,0.0319,0.195,0.636,105.893,247829,4,Spotify,Raised on Metal,Public H
+Van Halen,Van Halen (Remastered),Eruption - 2015 Remaster,2tAeN2TKlQLOoSPXtARzBV,0.225,0.689,8,-9.12,1,0.0555,0.813,0.337,0.5,93.798,102080,4,Spotify,Raised on Metal,Public H
+Metallica,Ride The Lightning (Deluxe Remaster),Fade To Black (Remastered),0dqGfCMAGyDgpUAgLNOjWd,0.256,0.929,7,-6.667,1,0.113,0.201,0.11,0.278,113.47,417227,4,Spotify,Raised on Metal,Public H
+Iron Maiden,Piece of Mind (2015 - Remaster),The Trooper - 2015 Remaster,1Ab3hhOw1TJWDgO10vlxNZ,0.285,0.908,4,-4.601,0,0.0705,0.00909,0.311,0.669,159.756,252733,4,Spotify,Raised on Metal,Public H
+Killswitch Engage,As Daylight Dies (Special Edition),Holy Diver,3a9urnht8HvfFzPwd0ipx6,0.369,0.995,0,-2.584,0,0.12,0.00589,0.241,0.27,185.985,250253,4,Spotify,Raised on Metal,Public H
+Dio,Holy Diver,Rainbow in the Dark,2PpNgmrS9mAyrkRAwn6YPq,0.512,0.947,9,-5.659,0,0.0401,0.114,0.0283,0.612,117.461,256933,4,Spotify,Raised on Metal,Public H
+Black Sabbath,Paranoid (Remaster),War Pigs / Luke's Wall - 2012 - Remaster,2rd9ETlulTbz6BYZcdvIE1,0.332,0.623,9,-12.363,1,0.08,0.000895,0.278,0.413,183.097,474360,4,Spotify,Raised on Metal,Public H
+Judas Priest,British Steel,Living After Midnight,0IXpUl1fn2QZcBavfuq0H4,0.61,0.824,4,-6.046,1,0.0534,1.75e-06,0.0606,0.819,134.992,210133,4,Spotify,Raised on Metal,Public H
+Whitesnake,Whitesnake (2018 Remaster),Here I Go Again - 2018 Remaster,1qOU8KzFifXE9YrgjVwYvc,0.292,0.823,7,-6.763,1,0.0407,7.79e-05,0.155,0.244,89.939,275395,4,Spotify,Raised on Metal,Public H
+AC/DC,Let There Be Rock,Let There Be Rock,753KutoAy00apPsplMRetG,0.332,0.725,11,-5.809,0,0.116,0.607,0.0767,0.422,182.364,366347,4,Spotify,Raised on Metal,Public H
+Deep Purple,Machine Head,Smoke on the Water,5SAUIWdZ04OxYfJFDchC7S,0.632,0.586,0,-11.333,1,0.0284,0.581,0.0535,0.89,114.243,342173,4,Spotify,Raised on Metal,Public H
+Mötley Crüe,Dr. Feelgood (Deluxe Version),Same Ol' Situation (S.O.S.),6wdIe1ep26qiaIaiHF5b9F,0.498,0.984,2,-3.296,1,0.128,2.96e-05,0.11,0.258,139.71,254040,4,Spotify,Raised on Metal,Public H
+Queensrÿche,Empire - 20th Anniversary Edition,Silent Lucidity - Remastered 2003,6OSyCAmXT4Gkd3OQ2aPOaF,0.462,0.628,7,-5.659,1,0.0274,0.00025,0.12,0.0981,140.049,347760,4,Spotify,Raised on Metal,Public H
+Dream Theater,Images and Words,Pull Me Under,5CPXR6lDTvngxtmMZxnWmC,0.532,0.941,9,-9.025,1,0.0465,0.0527,0.15,0.278,102.198,493933,4,Spotify,Raised on Metal,Public H
+Gojira,From Mars to Sirius,Flying Whales,5OjCsHeByDYEGxMrb1z8KQ,0.266,0.925,7,-3.75,0,0.0834,0.0379,0.19,0.2,95.438,464453,4,Spotify,Raised on Metal,Public H
+Dio,Holy Diver,Holy Diver,57fqmDaokbxZ3TaB0jp39q,0.476,0.901,8,-6.751,1,0.0975,0.158,0.0557,0.109,91.955,353787,4,Spotify,Raised on Metal,Public H
+Anthrax,Persistence Of Time (30th Anniversary Remaster),Got The Time,3cFnb3Rg9a7Gzqxc5QQ9YZ,0.371,0.973,10,-5.303,0,0.135,0.00163,0.0423,0.444,127.721,164333,4,Spotify,Raised on Metal,Public H
+Alice Cooper,Billion Dollar Babies (Deluxe Reissue),No More Mr. Nice Guy,5D2eCwqbHcqOnfHOCM6TnV,0.498,0.515,11,-11.985,0,0.0395,0.0,0.1,0.616,127.761,187893,4,Spotify,Raised on Metal,Public H
