@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Ben Harper,Bloodline Maintenance,We Need To Talk About It,1SWk8chKisB7HJvKizuf36,0.753,0.577,2,-7.42,1,0.139,0.000964,0.108,0.435,84.997,173678,4,Spotify,Blues & Roots Rock,Public 18
+Larkin Poe,Blood Harmony,Deep Stays Down,4ludCkJK1UF7PbxsbQMHDg,0.74,0.429,7,-11.438,1,0.0838,0.000436,0.0996,0.504,72.993,199875,4,Spotify,Blues & Roots Rock,Public 18
+Brothers Osborne,It's Only Rock 'N' Roll (But I Like It),It's Only Rock 'N' Roll (But I Like It),0aSiH0zALY5KFZNSvbJePh,0.62,0.805,2,-6.038,1,0.0389,1.25e-06,0.468,0.851,121.28,322347,4,Spotify,Blues & Roots Rock,Public 18
+Marcus King,Blues Worse Than I Ever Had,Blues Worse Than I Ever Had,5RXTvloOBm9W714kbJU0gQ,0.55,0.55,9,-8.496,1,0.0384,0.00179,0.124,0.547,104.545,211667,4,Spotify,Blues & Roots Rock,Public 18
+Fantastic Negrito,White Jesus Black Problems,Oh Betty,1caexDoRB92w8ph8YLYQvu,0.551,0.635,0,-7.927,1,0.0383,0.000307,0.24,0.534,142.03,236219,4,Spotify,Blues & Roots Rock,Public 18
+Jon Batiste,WE ARE,CRY,4fwCa8XejynU81AhXovR9r,0.738,0.507,9,-6.991,0,0.0272,0.0014,0.0722,0.699,80.026,237244,4,Spotify,Blues & Roots Rock,Public 18
+The Bones of J.R. Jones,Trouble,Trouble,5yw4C8rft1mCGdTlsrCY4X,0.481,0.946,7,-6.305,1,0.0644,0.844,0.115,0.692,161.804,152627,4,Spotify,Blues & Roots Rock,Public 18
+Amythyst Kiah,Wary + Strange,Black Myself,2BbFd78ykW1pnR5vZreQkr,0.56,0.843,9,-4.188,1,0.0641,0,0.197,0.892,152.598,201240,4,Spotify,Blues & Roots Rock,Public 18
+The War and Treaty,Lover's Game,Lover's Game,1SFK3eoJqXkmGvcfmdzWC1,0.393,0.943,6,-4.538,0,0.112,1.02e-06,0.381,0.466,141.86,169570,4,Spotify,Blues & Roots Rock,Public 18
+Miko Marks,Trouble,Trouble,02OxBW5LOc4PAjf0dj1buK,0.679,0.918,0,-4.468,1,0.0913,0.0957,0.0812,0.605,115.016,243219,4,Spotify,Blues & Roots Rock,Public 18
+North Mississippi Allstars,Set Sail,Set Sail part I (featuring Lamar Williams Jr.),2lt3INbrnQEZz57tKA05Zy,0.797,0.273,5,-12.929,1,0.126,3.85e-06,0.101,0.635,88.024,297893,4,Spotify,Blues & Roots Rock,Public 18
+The Black Keys,Dropout Boogie,Wild Child,02bJ6uGeHKfNOhIc9qyA8e,0.68,0.639,5,-6.233,0,0.0278,5.09e-06,0.0398,0.957,106.991,164867,4,Spotify,Blues & Roots Rock,Public 18
+Whiskey Myers,Whole World Gone Crazy,Whole World Gone Crazy,6sEVFnBN97Fcq065OsUMVI,0.629,0.584,2,-7.015,1,0.0375,0,0.115,0.714,123.953,184760,4,Spotify,Blues & Roots Rock,Public 18
+Adia Victoria,Ain’t Killed Me Yet,Ain’t Killed Me Yet,06SriLLbBIQos2LyqeNXw3,0.683,0.533,7,-10.771,1,0.0377,0.00282,0.102,0.534,128.975,181093,4,Spotify,Blues & Roots Rock,Public 18
+Leon Timbo,"Lovers And Fools, Vol. 2",Struggle,6SAeWIxjMvNkzElv4cz43s,0.52,0.824,11,-4.79,1,0.0805,0,0.636,0.667,93.086,280416,4,Spotify,Blues & Roots Rock,Public 18
+All Them Witches,Blacksnake Blues,Blacksnake Blues,6FttMYQiHyM0lVZafG3eXO,0.454,0.507,11,-6.014,0,0.032,0.197,0.0967,0.135,134.763,674000,3,Spotify,Blues & Roots Rock,Public 18
+Marcus King,Hard Working Man,Hard Working Man,2DaEFCMaprAH4vZmzQYaxc,0.497,0.718,5,-4.701,0,0.104,1.85e-05,0.642,0.712,127.503,217067,4,Spotify,Blues & Roots Rock,Public 18
+"Christone ""Kingfish"" Ingram",662,662,7lM1cf3zZuish0TjRnn5MB,0.484,0.94,4,-4.849,0,0.0787,0.00215,0.101,0.811,157.896,197781,4,Spotify,Blues & Roots Rock,Public 18
+Shemekia Copeland,Hit 'Em Back,Hit 'Em Back,7vneiArcRtUop1FpF88CFd,0.624,0.935,0,-4.157,1,0.0455,1.32e-06,0.171,0.935,125.008,273982,4,Spotify,Blues & Roots Rock,Public 18
+Jimmy Barnes,I Gotcha (Rock Version),I Gotcha - Rock Version,4lEfAkMl6Aq7YBG5g4neX5,0.475,0.977,11,-2.931,0,0.146,0.000203,0.223,0.531,188.446,264133,4,Spotify,Blues & Roots Rock,Public 18
+Cedric Burnside,I Be Trying,Step In,1b44sEBiYyl35EbYDgNGfk,0.739,0.79,2,-4.503,0,0.0658,0.000322,0.1,0.492,117.394,155027,4,Spotify,Blues & Roots Rock,Public 18
+Yola,Stand For Myself,Stand For Myself,6Oxs28sGtuS3RYlOmIu5K7,0.421,0.645,1,-5.357,1,0.0405,0,0.127,0.716,172.916,253253,4,Spotify,Blues & Roots Rock,Public 18
+Tedeschi Trucks Band,I Am The Moon: I. Crescent,Hear My Dear,7znaTjqonnsPcuQpOcQ7nT,0.219,0.58,4,-7.579,0,0.043,0.0852,0.119,0.32,184.312,334600,3,Spotify,Blues & Roots Rock,Public 18
+The Record Company,Play Loud,How High,0UqNIatgH3yQrJwqajOM2G,0.602,0.571,7,-6.957,0,0.04,0.267,0.149,0.719,127.983,192840,4,Spotify,Blues & Roots Rock,Public 18
+Ben Harper,Get Up! (Deluxe Edition),You Found Another Lover (I Lost Another Friend) - The Machine Shop Session,2ElTJmWJbuHT7owpTe3upS,0.462,0.166,11,-15.406,0,0.0757,0.000133,0.754,0.318,127.655,261573,4,Spotify,Blues & Roots Rock,Public 18
+Ash Grunwald,Shout Into The Noise,Shout Into The Noise,6VmqR7BEVXqYWKCRsdSaDO,0.612,0.636,0,-6.222,0,0.0597,1.04e-05,0.341,0.242,64.976,193535,4,Spotify,Blues & Roots Rock,Public 18
+Ida Mae,Click Click Domino (feat. Marcus King),Click Click Domino (feat. Marcus King),5SefpS9fNKmduJWxxqH0tA,0.465,0.751,2,-5.801,1,0.126,0.00764,0.208,0.618,149.501,203100,4,Spotify,Blues & Roots Rock,Public 18
+Shakey Graves,And The War Came,The Perfect Parts,22ojTkfbwYxyMJwOPhDvUV,0.534,0.657,0,-6.112,1,0.0454,0.000301,0.14,0.282,124.737,236440,4,Spotify,Blues & Roots Rock,Public 18
+War & Pierce,Mercy,Mercy,5cR458T2K00QovnaTO8bSj,0.66,0.508,1,-9.007,1,0.143,0,0.105,0.456,83.997,220971,4,Spotify,Blues & Roots Rock,Public 18
+Jake Blount,The Man Was Burning,The Man Was Burning,5X8hjt33EdQ8KUaUzcTNQv,0.703,0.513,5,-7.246,0,0.183,0.000116,0.157,0.889,78.573,155665,4,Spotify,Blues & Roots Rock,Public 18
+Leon Creek,Far From Broken,Call It A Day,5Wj3LM6AppledVJpn9mihn,0.445,0.804,9,-6.233,1,0.0547,3.02e-06,0.371,0.756,200.179,223401,4,Spotify,Blues & Roots Rock,Public 18
+Brent Cobb,Shine On Rainy Day,Black Crow,4UmYFqPfd11pZiUMJHCFvG,0.706,0.327,5,-11.603,1,0.0687,0.0192,0.0958,0.632,131.312,270413,4,Spotify,Blues & Roots Rock,Public 18
+Gov't Mule,Heavy Load Blues,Make It Rain,4FLsABaj5iQbOfp7akXEn5,0.554,0.5,4,-7.814,0,0.0441,0.0167,0.213,0.574,149.575,401040,4,Spotify,Blues & Roots Rock,Public 18
+Mavis Staples,Carry Me Home,I Wish I Knew How It Would Feel To Be Free,6w23sxZepVSmRiTLDsP5ou,0.739,0.79,7,-6.479,1,0.0357,0,0.923,0.812,110.666,222707,4,Spotify,Blues & Roots Rock,Public 18
+Fantastic Negrito,White Jesus Black Problems,They Go Low,1ldOtL1REeAmYMQAA0HOoH,0.602,0.603,11,-7.953,1,0.0284,2.72e-06,0.383,0.496,74.923,222685,4,Spotify,Blues & Roots Rock,Public 18
+Elles Bailey,Shining in the Half Light,Cheats and Liars,7k0hyVgSg0woUwN1qAuuBf,0.488,0.659,2,-6.752,1,0.0361,0,0.112,0.204,127.532,228795,4,Spotify,Blues & Roots Rock,Public 18
+Bones Owens,Bones Owens,Tell Me,51X5Rk23XIUiUid7GVlQZf,0.591,0.42,10,-6.986,1,0.0317,0.000121,0.101,0.52,129.918,197783,4,Spotify,Blues & Roots Rock,Public 18
+Jacob Banks,For My Friends,Parade,6qzA5ZUivvw1FCZJSVYoNE,0.574,0.691,6,-7.805,0,0.0336,0.000431,0.169,0.767,95.009,136632,4,Spotify,Blues & Roots Rock,Public 18
+Luke Winslow-King,I'm Glad Trouble Don't Last Always,I'm Glad Trouble Don't Last Always,3b9xTm2eiaCRTGqUEWuzxc,0.579,0.522,2,-7.124,1,0.0232,0.00811,0.0914,0.286,81.969,257587,4,Spotify,Blues & Roots Rock,Public 18
+Taylor McCall,Black Powder Soul,Red Handed,1D0czkpQYtcUMS9E7VTnAc,0.549,0.508,10,-7.859,0,0.061,0.000128,0.129,0.145,86.084,162955,4,Spotify,Blues & Roots Rock,Public 18
+Mike Zito,Resurrection,When It Rains,32l9UbhARgLoQTimx3bWwU,0.63,0.484,7,-5.241,0,0.0254,0.501,0.0957,0.164,90.607,383360,4,Spotify,Blues & Roots Rock,Public 18
+Ben Harper,Need To Know Basis,Need To Know Basis,03medhiG64fBChIiDBTNPK,0.815,0.524,7,-9.482,1,0.0405,0.00111,0.101,0.567,98.946,119975,4,Spotify,Blues & Roots Rock,Public 18
+Ariel Posen,Be Enough,Be Enough,2bZQo6fEj21r1gDz8nKBbq,0.565,0.634,1,-6.497,1,0.0287,0.0529,0.198,0.41,81.993,252162,3,Spotify,Blues & Roots Rock,Public 18
+Ghost Hounds,Baby We're Through,Baby We're Through,2TQjuRQINEQxEWpqaGZM7F,0.378,0.876,2,-8.811,1,0.0914,0.00548,0.108,0.277,172.725,236543,4,Spotify,Blues & Roots Rock,Public 18
+L.A.B.,L.A.B V,Under the Sun,1fTW6CCD4RFNnsKhxWKCFs,0.788,0.66,9,-9.186,1,0.0297,0.00018,0.0762,0.84,100.017,292360,4,Spotify,Blues & Roots Rock,Public 18
+Tami Neilson,CHICKABOOM! Deluxe,You Were Mine,4cmSWeG4xfAJboduGW9g8A,0.374,0.542,0,-8.136,0,0.0552,8.79e-05,0.102,0.419,183.745,223577,3,Spotify,Blues & Roots Rock,Public 18
+Gary Clark Jr.,This Land,Low Down Rolling Stone,59oXRNRnmmTbwgkZkV7l4g,0.337,0.809,0,-2.969,0,0.0327,0.000272,0.319,0.319,145.879,258200,4,Spotify,Blues & Roots Rock,Public 18
+Larkin Poe,She's A Self Made Man,She's A Self Made Man,7Bu4ET2R5zKAeqM68l3Oqk,0.279,0.723,6,-5.322,1,0.0472,0,0.201,0.455,138.174,181625,4,Spotify,Blues & Roots Rock,Public 18
+John Mayall,Can't Take No More,Can't Take No More,40ytn62ocVWKqwktVNo9Fs,0.585,0.802,8,-6.28,0,0.0613,0.418,0.152,0.843,100.147,225359,4,Spotify,Blues & Roots Rock,Public 18
+Robert Finley,Sharecropper's Son,Souled Out On You,7ITdt0me2VEjKchX3iPzKp,0.392,0.519,2,-7.438,0,0.031,0.000502,0.283,0.403,174.22,213093,3,Spotify,Blues & Roots Rock,Public 18
+Fantastic Negrito,How Long?,How Long?,10f3q2Od3xz3P4BmsP2AHY,0.643,0.619,6,-7.111,0,0.0439,4.24e-05,0.0784,0.466,71.742,256466,4,Spotify,Blues & Roots Rock,Public 18
+Devon Gilfillian,Black Hole Rainbow,Unchained,0cSJAbriuoamIYy7AfK2lr,0.385,0.832,7,-4.9,0,0.0891,0.000717,0.132,0.673,179.839,244536,4,Spotify,Blues & Roots Rock,Public 18
+Jonah Tolchin,Thousand Mile Night,Thousand Mile Night,4q4F2OEZJ2EQuRNBKytiDr,0.584,0.35,2,-13.942,1,0.0471,0.0719,0.0944,0.498,140.652,235173,4,Spotify,Blues & Roots Rock,Public 18
+Margo Price,That's How Rumors Get Started,Twinkle Twinkle,4txC9c27Rw0GNtZzDKn1wW,0.49,0.847,10,-2.915,1,0.0298,0,0.107,0.537,83.994,211587,4,Spotify,Blues & Roots Rock,Public 18
+Songhoy Blues,Optimisme,Worry,2JPY1tESSn8hhwlMdMrRzo,0.349,0.827,7,-6.915,1,0.0473,0.0048,0.217,0.854,96.187,185160,4,Spotify,Blues & Roots Rock,Public 18
+Brittany Howard,Jaime (The Remixes),13th Century Metal,7xbCwXU4pVledUQUJogaGX,0.421,0.601,7,-10.28,1,0.06,0.915,0.0866,0.658,101.017,302437,4,Spotify,Blues & Roots Rock,Public 18
+John Moreland,Big Bad Luv,Sallisaw Blue,7jwSBQRGaNUaxtXWqM2Tr3,0.395,0.866,7,-7.047,1,0.069,9.85e-06,0.112,0.835,150.768,237373,4,Spotify,Blues & Roots Rock,Public 18
+Bones Owens,Lightning Strike,Lightning Strike,5QN2EOIp6XFXCV85dOp35H,0.573,0.946,5,-4.872,1,0.0895,0.000205,0.161,0.882,160.788,178665,4,Spotify,Blues & Roots Rock,Public 18
+Blackberry Smoke,You Hear Georgia,You Hear Georgia,3v5hpjKoF63Lr9vLIKOpL8,0.306,0.745,0,-4.64,1,0.0376,2.6e-05,0.396,0.453,143.805,245839,4,Spotify,Blues & Roots Rock,Public 18
+The Suitcase Junket,Dying Star,On Our Own,4gjGoUooqRnpGvYZmtJOId,0.509,0.504,1,-6.789,1,0.0267,0.15,0.31,0.327,104.755,161320,4,Spotify,Blues & Roots Rock,Public 18
+Elles Bailey,Don't Let the Green Grass Fool You,Don't Let the Green Grass Fool You,5THq6PaoknpouVWXSYb7TQ,0.529,0.461,0,-8.878,1,0.0327,0,0.109,0.462,125.98,225160,4,Spotify,Blues & Roots Rock,Public 18
+The Sideshow Tragedy,Capital,Number One,4Azj4bueh878ufsertTQDb,0.606,0.897,3,-8.702,0,0.0584,0.000105,0.273,0.721,112.318,191893,4,Spotify,Blues & Roots Rock,Public 18
+Black Joe Lewis & The Honeybears,Five Dollars,Five Dollars,4m0zS8ogujtTiLcAwCmHFT,0.51,0.868,7,-5.749,1,0.0362,0.000185,0.344,0.871,106.849,188000,4,Spotify,Blues & Roots Rock,Public 18
+Birdtalker,Old Sob Story,Old Sob Story,7Akh76oQE1crm0aIz9B7IK,0.483,0.908,0,-6.686,1,0.0633,5.83e-05,0.131,0.483,123.98,196160,4,Spotify,Blues & Roots Rock,Public 18
+Fruition,Fire,Fire,7JDGQ1tmrKQCz9ptRTrt13,0.472,0.813,9,-5.919,0,0.0399,0.000109,0.382,0.684,134.922,216085,4,Spotify,Blues & Roots Rock,Public 18
+The Barr Brothers,It Came to Me,It Came to Me,1wSTaoEcGPZy9osC25kn0m,0.516,0.931,10,-6.291,1,0.0388,0.013,0.333,0.578,117.097,261987,4,Spotify,Blues & Roots Rock,Public 18
+Robert Cray,That's What I Heard,This Man,06s7QRpHfeiKL3YCIRTKxg,0.759,0.852,10,-6.535,0,0.0448,0.0267,0.0917,0.889,80.619,306533,4,Spotify,Blues & Roots Rock,Public 18
+Willy Mason,Already Dead,Worth It,3Ph7cIWmtuvYYM0MSirpBo,0.52,0.71,11,-7.701,0,0.0422,0.00131,0.0895,0.578,155.005,285000,4,Spotify,Blues & Roots Rock,Public 18
+Amythyst Kiah,Wary + Strange,Fancy Drones (Fracture Me),1l9LNsjdOQ3Wfkmnsjetxj,0.858,0.395,2,-8.739,1,0.0465,0.000559,0.164,0.616,120.001,217627,3,Spotify,Blues & Roots Rock,Public 18
+Holy Moly & The Crackers,Cry Wolf,Cry Wolf,2O3VFSBrlQBe13zmEAOqnv,0.337,0.899,4,-10.53,0,0.155,0.000133,0.389,0.321,124.083,196627,4,Spotify,Blues & Roots Rock,Public 18
+Gov't Mule,Heavy Load Blues,Heavy Load,4ZgLOQB66wNk4VNB9H98E2,0.698,0.0813,4,-12.993,0,0.0415,0.000824,0.154,0.254,65.059,438840,4,Spotify,Blues & Roots Rock,Public 18
+Los Coast,A Change Is Gonna Come,A Change Is Gonna Come,0FEqhGaxp8Gq5m2KvnunJU,0.354,0.523,10,-5.938,1,0.0269,2.66e-05,0.139,0.179,176.688,203616,3,Spotify,Blues & Roots Rock,Public 18
+War & Pierce,Amen,Amen,59pMk1hZKKYQw1itapEMCI,0.785,0.43,4,-9.453,0,0.0653,0.00159,0.0829,0.491,85.99,247478,4,Spotify,Blues & Roots Rock,Public 18
+Adia Victoria,Magnolia Blues,Magnolia Blues,7piCuE6DVjnko9oTNTqVAO,0.626,0.398,0,-10.749,1,0.0426,9.2e-05,0.108,0.254,82.002,208547,4,Spotify,Blues & Roots Rock,Public 18
+Parker Millsap,The Very Last Day,Hades Pleads,2Yf3wwS48rkAoBRXNJ34kz,0.568,0.632,9,-6.958,1,0.161,0.000246,0.401,0.711,164.823,156107,4,Spotify,Blues & Roots Rock,Public 18
+Adia Victoria,South Gotta Change,South Gotta Change,4hDxqXmufOdDFlqnUqcamD,0.679,0.569,5,-8.151,0,0.0334,0,0.118,0.653,90.005,225267,4,Spotify,Blues & Roots Rock,Public 18
+KALEO,No Good,No Good,5Xx8krVxg1pRy6CXieB7FS,0.378,0.925,9,-3.781,1,0.185,0.00062,0.18,0.584,108.525,234240,4,Spotify,Blues & Roots Rock,Public 18
+The Record Company,Give It Back To You,Off The Ground,3xRzUblYGZhVs52fMjii7R,0.543,0.696,7,-4.572,1,0.0426,0.215,0.384,0.849,92.15,253747,4,Spotify,Blues & Roots Rock,Public 18
+Crown Lands,Discover Crown Lands,Howlin' Back Again,7o1E1ehrs1aXZXEkQ9rHNH,0.494,0.969,6,-2.694,1,0.222,0.00158,0.148,0.165,121.214,169808,4,Spotify,Blues & Roots Rock,Public 18
+Tyler Childers,Tyler Childers | OurVinyl Sessions,White House Road (OurVinyl Sessions),3BCsNM2w6HcCbrVWlhjTpk,0.541,0.41,0,-8.661,1,0.0368,0,0.0882,0.378,82.202,268000,4,Spotify,Blues & Roots Rock,Public 18
+Jade Bird,Jade Bird,Uh Huh,5sRyU2xqnQvCzL6L0OMD37,0.582,0.79,11,-4.205,1,0.0421,0,0.296,0.612,119.858,142444,4,Spotify,Blues & Roots Rock,Public 18
+Welshly Arms,No Place Is Home,Indestructible,0uxAAkgJwHFyGvoRbuCXLm,0.674,0.611,2,-6.322,0,0.0363,1.13e-06,0.0726,0.782,175.929,226413,4,Spotify,Blues & Roots Rock,Public 18
+Ida Mae,Deep River (feat. Marcus King),Deep River (feat. Marcus King),6UGH2Ck4ynHaglhxgWFVLW,0.431,0.84,0,-4.365,1,0.06,0,0.0997,0.4,176.264,269887,4,Spotify,Blues & Roots Rock,Public 18
+JD McPherson,LUCKY PENNY,LUCKY PENNY,4qHSciBVrNNpUlI8TT9CHQ,0.698,0.736,2,-5.525,1,0.0481,2.16e-05,0.119,0.822,127.979,214267,4,Spotify,Blues & Roots Rock,Public 18
+Justin Townes Earle,Kids In The Street,If I Was The Devil,0iG8xWaMt2FdcNOkOZiz7H,0.535,0.432,5,-12.438,1,0.0362,0.0212,0.108,0.287,89.712,154653,4,Spotify,Blues & Roots Rock,Public 18
+Ray Wylie Hubbard,Co-Starring,Rattlesnake Shakin’ Woman,4dfRbmnFnT5yjjqHJ4mcdM,0.282,0.484,2,-6.875,1,0.0352,5.59e-05,0.125,0.312,177.367,271678,4,Spotify,Blues & Roots Rock,Public 18
+Glen Hansard,A Season On The Line,Didn't He Ramble,0PcyGgEAKYaVpND2efXlar,0.257,0.764,11,-6.904,0,0.0563,0.000685,0.296,0.446,180.135,292307,4,Spotify,Blues & Roots Rock,Public 18
+Rose Cousins,Natural Conclusion,Chains,7ywUfT35DxrKOoq7ZL0VQ5,0.381,0.593,2,-7.376,1,0.0382,0.00245,0.113,0.477,79.848,194571,4,Spotify,Blues & Roots Rock,Public 18
+The Delta Saints,California,California,0SZuZRybxPKuZ5H6CsSPX3,0.585,0.741,4,-6.954,0,0.0326,8.96e-06,0.3,0.676,124.678,222653,4,Spotify,Blues & Roots Rock,Public 18
+Jason Isbell and the 400 Unit,Reunions,What've I Done to Help,3t8IB18uEO2pebnfLUv7B0,0.525,0.869,4,-6.162,0,0.0592,0.00201,0.304,0.302,104.659,400368,4,Spotify,Blues & Roots Rock,Public 18
+Devon Gilfillian,Troublemaker,Troublemaker,1XDLcR3ykWZx7p0UmMoLKp,0.555,0.927,0,-4.167,0,0.0708,0.0288,0.209,0.848,156.031,212016,4,Spotify,Blues & Roots Rock,Public 18
+Cobi,Prophet Story,Prophet Story,24f2KKU4S1JyRXjfqodERA,0.576,0.478,10,-4.028,1,0.027,0,0.127,0.241,95.864,218992,4,Spotify,Blues & Roots Rock,Public 18
+Aubrie Sellers,Just to Be with You,Just to Be with You,3aAFZx6mlVu3WrwgNEK9yM,0.336,0.739,0,-5.394,0,0.0481,5.9e-05,0.137,0.578,169.932,203653,4,Spotify,Blues & Roots Rock,Public 18
+Jonny Lang,Signs,Make It Move,2aXKckAZJNuNO2XQTCy4V3,0.634,0.468,4,-6.084,1,0.101,0,0.118,0.652,77.592,209120,4,Spotify,Blues & Roots Rock,Public 18
+Phosphorescent,Muchacho,Ride On / Right On,7Ep6MLL8ATx0fFczswsvR5,0.539,0.584,7,-7.415,1,0.0329,0.0723,0.15,0.244,95.069,224907,4,Spotify,Blues & Roots Rock,Public 18
+Steve Earle,Terraplane,You’re the Best Lover That I Ever Had,6zvGluRPhlmtPsK8nPtgCK,0.547,0.504,9,-10.093,1,0.032,0.0799,0.274,0.766,150.769,247307,4,Spotify,Blues & Roots Rock,Public 18
+Leah Blevins,First Time Feeling,First Time Feeling,4FBwo4kO38ZKBFF29U9GCJ,0.417,0.596,0,-5.412,1,0.0354,0.000656,0.15,0.299,178.839,186016,4,Spotify,Blues & Roots Rock,Public 18
+The Marcus King Band,Soul Insight,Boone,63KLrIZRl03tY9fmsfvvLw,0.357,0.757,7,-7.487,0,0.041,0.00435,0.262,0.488,169.981,329544,4,Spotify,Blues & Roots Rock,Public 18
+Ghost Hounds,A Little Calamity,Half My Fault,5kHCIdvSRoDgt4Fzfi0U7P,0.568,0.849,7,-6.134,1,0.0362,8.98e-06,0.0841,0.474,119.903,200139,4,Spotify,Blues & Roots Rock,Public 18
+Fantastic Negrito,Highest Bidder,Highest Bidder,6Xhgmbv1U7XP1EXuCKQ9Hp,0.47,0.701,11,-7.692,0,0.0738,0.000673,0.31,0.687,126.636,214055,4,Spotify,Blues & Roots Rock,Public 18

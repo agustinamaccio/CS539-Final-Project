@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Michael Jackson,Thriller,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,0.932,0.457,11,-9.62,0,0.0541,0.0436,0.0414,0.884,117.002,294227,4,Spotify,80s Party,Public 20
+Whitney Houston,Whitney,I Wanna Dance with Somebody (Who Loves Me),2tUBqZG2AbRi7Q0BIrVrEj,0.709,0.824,1,-8.824,1,0.0453,0.000307,0.0888,0.867,118.818,291293,4,Spotify,80s Party,Public 20
+Phil Collins,"Hello, I Must Be Going! (Deluxe Edition)",You Can't Hurry Love - 2016 Remaster,4YwbSZaYeYja8Umyt222Qf,0.62,0.936,7,-4.593,1,0.0308,0,0.0679,0.763,97.527,175747,4,Spotify,80s Party,Public 20
+Wham!,Make It Big,Wake Me Up Before You Go-Go,0ikz6tENMONtK6qGkOrU3c,0.62,0.573,0,-11.893,1,0.0423,0,0.0607,0.897,81.548,231333,4,Spotify,80s Party,Public 20
+Lionel Richie,Dancing On The Ceiling (Expanded Edition),Dancing On The Ceiling,0snPJPxkk0MbTc0xeUvAPt,0.698,0.774,0,-8.642,1,0.048,2.26e-06,0.394,0.731,133.197,270720,4,Spotify,80s Party,Public 20
+Cyndi Lauper,She's So Unusual,Girls Just Want to Have Fun,4y1LsJpmMti1PfRQV9AWWe,0.71,0.799,6,-4.897,1,0.0328,0.000602,0.349,0.725,120.372,238267,4,Spotify,80s Party,Public 20
+Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Summer Of '69,0GONea6G2XdnHWjNZd6zt3,0.508,0.834,2,-6.205,1,0.0386,0,0.0732,0.774,139.131,216053,4,Spotify,80s Party,Public 20
+Elton John,Too Low For Zero,I'm Still Standing,1jDJFeK9x3OZboIAHsY9k2,0.504,0.904,6,-6.863,1,0.179,0.121,0.14,0.772,176.808,183440,4,Spotify,80s Party,Public 20
+Various Artists,Footloose (15th Anniversary Collectors' Edition),"Footloose - From ""Footloose"" Soundtrack",2vz1CsL5WBsbpBcwgboTAw,0.583,0.905,2,-6.132,1,0.0733,0.00019,0.0593,0.646,173.982,226827,4,Spotify,80s Party,Public 20
+Katrina & The Waves,Katrina & The Waves,Walking On Sunshine,05wIrZSwuaVWhcv5FfqeH0,0.596,0.869,10,-11.97,1,0.037,0.173,0.0678,0.944,109.902,238733,4,Spotify,80s Party,Public 20
+The Pointer Sisters,So Excited! (Expanded Edition),I'm So Excited,1ot6jEe4w4hYnsOPjd3xKQ,0.59,0.868,5,-5.832,0,0.048,0.000322,0.442,0.798,184.348,230640,4,Spotify,80s Party,Public 20
+Dolly Parton,9 To 5 And Odd Jobs,9 to 5,4w3tQBXhn5345eUXDGBWZG,0.554,0.783,6,-5.852,1,0.0457,1.54e-06,0.631,0.813,105.39,162467,4,Spotify,80s Party,Public 20
+Billy Joel,An Innocent Man,Uptown Girl,5zA8vzDGqPl2AzZkEYQGKh,0.701,0.944,4,-2.986,1,0.0455,0,0.601,0.792,128.993,197707,4,Spotify,80s Party,Public 20
+Various Artists,Dirty Dancing (Original Motion Picture Soundtrack),"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack",6W7ztLBiRzBN46ZaPAcQ0F,0.697,0.669,6,-12.723,0,0.0406,0.00897,0.0654,0.486,108.506,290333,4,Spotify,80s Party,Public 20
+Various Artists,Nyårsmusik,Flashdance... What A Feeling - '95 Version,5CGziaEatzKez145qf7Xj2,0.658,0.748,7,-6.159,0,0.0353,5.66e-06,0.138,0.662,129.03,229213,4,Spotify,80s Party,Public 20
+Belinda Carlisle,Heaven On Earth (Deluxe Edition),"Heaven Is A Place On Earth - Promo 7"" Edit",3EvpaRZkKWxsgDIO2zMH7g,0.605,0.902,4,-5.804,1,0.0385,1.31e-06,0.124,0.692,122.866,233667,4,Spotify,80s Party,Public 20
+Huey Lewis & The News,Greatest Hits: Huey Lewis And The News,The Power Of Love,2olVm1lHicpveMAo4AUDRB,0.768,0.829,5,-5.109,1,0.0313,2.92e-05,0.097,0.962,118.773,234333,4,Spotify,80s Party,Public 20
+Prince,Parade - Music from the Motion Picture Under the Cherry Moon,Kiss,62LJFaYihsdVrrkgUOJC05,0.898,0.271,7,-12.238,1,0.091,0.00138,0.0461,0.742,111.485,226240,4,Spotify,80s Party,Public 20
+Culture Club,Colour By Numbers,Karma Chameleon - Remastered 2002,2wSAWEYUHkt92X4SBAPqZE,0.668,0.73,10,-7.182,1,0.0366,0,0.188,0.894,92.049,252773,4,Spotify,80s Party,Public 20
+Los Lobos,La Bamba / Charlena,La Bamba,0uMMLry3hzWGn3q3loqMkm,0.506,0.764,0,-12.239,1,0.046,0.00025,0.247,0.868,156.336,174187,4,Spotify,80s Party,Public 20
+Joan Jett & the Blackhearts,I Love Rock 'N' Roll (Expanded Edition),I Love Rock 'N Roll,2Cdvbe2G4hZsnhNMKyGrie,0.535,0.716,4,-5.025,1,0.0431,0,0.659,0.901,94.379,175173,4,Spotify,80s Party,Public 20
+Michael Jackson,Bad 25th Anniversary,The Way You Make Me Feel - 2012 Remaster,0sKlV58cODrjxGFOyf9IXY,0.877,0.854,1,-4.523,1,0.147,5.5e-05,0.144,0.54,114.472,298120,4,Spotify,80s Party,Public 20
+Eurythmics,Sweet Dreams (Are Made Of This),Sweet Dreams (Are Made of This) - Remastered,1TfqLAPs4K3s2rJMoCokcS,0.692,0.711,0,-7.498,0,0.0317,0,0.12,0.875,125.135,216933,4,Spotify,80s Party,Public 20
+Kool & The Gang,Celebrate!,Celebration,3K7Q9PHUWPTaknlbFPThn2,0.885,0.664,1,-11.795,1,0.0524,0.0483,0.0767,0.906,121.632,298867,4,Spotify,80s Party,Public 20
+a-ha,Hunting High and Low,Take on Me,2WfaOiMkCvy7F5fcp2zZ8L,0.573,0.902,6,-7.638,0,0.054,0.00125,0.0928,0.876,84.412,225280,4,Spotify,80s Party,Public 20
+Bon Jovi,Slippery When Wet,Livin' On A Prayer,37ZJ0p5Jm13JPevGcx4SkF,0.532,0.887,0,-3.757,1,0.0335,0.000214,0.294,0.795,122.511,249293,4,Spotify,80s Party,Public 20
+Rick Astley,Whenever You Need Somebody,Never Gonna Give You Up,4cOdK2wGLETKBW3PvgPWqT,0.721,0.939,8,-11.823,1,0.0376,3.79e-05,0.108,0.914,113.309,213573,4,Spotify,80s Party,Public 20
+Soft Cell,Non-Stop Erotic Cabaret,Tainted Love,0cGG2EouYCEEC3xfa0tDFV,0.5,0.501,0,-8.284,0,0.0376,0,0.26,0.623,144.438,153800,4,Spotify,80s Party,Public 20
+Bruce Springsteen,Born In The U.S.A.,Dancing In the Dark,7FwBtcecmlpc1sLySPXeGE,0.527,0.942,1,-5.64,0,0.0366,0,0.188,0.495,148.723,241307,4,Spotify,80s Party,Public 20
+Michael Jackson,Bad 25th Anniversary,Smooth Criminal - 2012 Remaster,2bCQHF9gdG5BNDVuEIEnNk,0.853,0.981,8,-3.947,1,0.0751,0.468,0.306,0.595,118.193,257760,4,Spotify,80s Party,Public 20
+"Earth, Wind & Fire",Raise!,Let's Groove,3koCCeSaVUyrRo3N2gHrd8,0.869,0.648,11,-8.698,0,0.0633,2.17e-05,0.126,0.9,125.035,339320,4,Spotify,80s Party,Public 20
+Van Halen,1984 (Remastered),Jump - 2015 Remaster,7N3PAbqfTjSEU1edb2tY8j,0.572,0.835,0,-6.219,1,0.0317,0.000377,0.0702,0.795,129.981,241600,4,Spotify,80s Party,Public 20
+Daryl Hall & John Oates,Voices,You Make My Dreams (Come True),4o6BgsqLIBViaGVbx5rbRk,0.751,0.501,5,-12.151,1,0.0551,0.112,0.0467,0.902,167.057,190627,4,Spotify,80s Party,Public 20
+Europe,The Final Countdown (Expanded Edition),The Final Countdown,3MrRksHupTVEQ7YbA0FsZK,0.529,0.843,6,-6.908,0,0.0616,0.000827,0.0608,0.188,117.662,310333,4,Spotify,80s Party,Public 20
+Rick James,Street Songs (Deluxe Edition),Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,0.838,0.794,9,-8.245,0,0.0531,0,0.0575,0.962,132.446,205467,4,Spotify,80s Party,Public 20
+The Rolling Stones,Tattoo You (2009 Re-Mastered),Start Me Up - Remastered 2009,7HKez549fwJQDzx3zLjHKC,0.631,0.932,5,-4.142,1,0.0354,0.137,0.0918,0.971,122.429,213067,4,Spotify,80s Party,Public 20
+Kenny Loggins,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins","Danger Zone - From ""Top Gun"" Original Soundtrack",34x6hEJgGAOQvmlMql5Ige,0.544,0.897,3,-6.056,0,0.0471,0,0.13,0.647,157.17,215133,4,Spotify,80s Party,Public 20
+Various Artists,Flashdance (Original Soundtrack From The Motion Picture),Maniac,0QKfiqpEU4h9ycPSzIFwYe,0.617,0.533,3,-11.516,0,0.0651,4.04e-06,0.0415,0.835,158.86,244707,4,Spotify,80s Party,Public 20
+The Human League,Dare!,Don't You Want Me,3L7RtEcu1Hw3OXrpnthngx,0.731,0.738,9,-8.125,0,0.0377,0,0.214,0.958,117.656,236920,4,Spotify,80s Party,Public 20
+Survivor,Eye Of The Tiger,Eye of the Tiger,2HHtWyy5CgaQbC7XSoOb0e,0.815,0.438,0,-14.522,0,0.0346,0.000466,0.0787,0.552,108.965,243773,4,Spotify,80s Party,Public 20
+Daryl Hall & John Oates,H2O,Maneater,7j74lucZ59vqN67Ipe2ZcY,0.724,0.498,11,-13.083,0,0.0423,8.56e-05,0.0761,0.823,88.825,273173,4,Spotify,80s Party,Public 20
+Paul Simon,Graceland (25th Anniversary Deluxe Edition),You Can Call Me Al,0qxYx4F3vm1AOnfux6dDxP,0.776,0.763,5,-8.124,1,0.0534,0.00647,0.077,0.82,128.433,280000,4,Spotify,80s Party,Public 20
+Bruce Springsteen,Born In The U.S.A.,Born in the U.S.A.,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,1,0.061,7.75e-05,0.1,0.584,122.093,278680,4,Spotify,80s Party,Public 20
+Fine Young Cannibals,The Raw & The Cooked,She Drives Me Crazy,4d6eqRtpDX7tydHJGDZUBQ,0.799,0.687,2,-5.682,1,0.0431,0.000188,0.0307,0.965,108.804,215773,4,Spotify,80s Party,Public 20
+Bronski Beat,The Age of Consent,Smalltown Boy,5vmRQ3zELMLUQPo2FLQ76x,0.685,0.584,5,-10.616,0,0.0276,0.00918,0.124,0.939,134.546,302413,4,Spotify,80s Party,Public 20
+The J. Geils Band,Freeze Frame,Centerfold,1ynmMEK1fkyiZ6Z6F3ThEt,0.653,0.677,0,-12.244,1,0.0396,0,0.403,0.888,114.37,216533,4,Spotify,80s Party,Public 20
+Laura Branigan,Self Control,Self Control,6JNJERZGJwDVgkmbohBw7u,0.814,0.686,6,-12.172,0,0.0342,0.00382,0.155,0.778,106.679,246440,4,Spotify,80s Party,Public 20
+George Harrison,Cloud Nine,Got My Mind Set On You - Remastered 2004,3OeUlriM0EZHdWleJtjoVr,0.767,0.854,4,-6.947,1,0.0426,2.03e-06,0.485,0.963,149.206,234653,4,Spotify,80s Party,Public 20
+Matthew Wilder,I Don't Speak The Language,Break My Stride,1mCsF9Tw4AkIZOjvZbZZdT,0.917,0.588,10,-11.047,1,0.0607,0,0.0914,0.828,110.077,184480,4,Spotify,80s Party,Public 20
+Queen,The Game (Deluxe Remastered Version),Another One Bites The Dust - Remastered 2011,57JVGBtBLCfHw2muk5416J,0.933,0.528,5,-6.472,0,0.162,0.329,0.163,0.756,109.975,214653,4,Spotify,80s Party,Public 20
+Michael Jackson,Bad 25th Anniversary,Bad - 2012 Remaster,5lWFrW5T3JtxVCLDb7etPu,0.787,0.889,8,-3.786,1,0.0397,0.423,0.0665,0.394,114.091,247360,4,Spotify,80s Party,Public 20
+Various Artists,'80s Pop #1's,Funkytown - Single Version,0B5kY9i9bmP7554oU4jRoO,0.907,0.564,0,-9.29,1,0.0568,0.65,0.108,0.229,122.632,245413,4,Spotify,80s Party,Public 20
+Luther Vandross,Never Too Much,Never Too Much,3nFJbZCHP4d9vduKjJLdBL,0.734,0.586,2,-11.866,1,0.129,0,0.0367,0.762,109.933,230467,4,Spotify,80s Party,Public 20
+Midnight Oil,Diesel And Dust,Beds Are Burning - Remastered,1CtAzw53AIXKjAemxy4b1j,0.753,0.427,0,-11.112,1,0.0387,0.00065,0.058,0.295,119.18,255680,4,Spotify,80s Party,Public 20
+Madonna,Like a Virgin (Reissue),Like a Virgin,1ZPlNanZsJSPK5h9YZZFbZ,0.771,0.655,3,-10.842,0,0.0372,0.00197,0.0685,0.97,119.747,218627,4,Spotify,80s Party,Public 20
+Frankie Goes To Hollywood,Welcome To The Pleasuredome,Relax,2K22nUTdyr48JDwI5t906t,0.676,0.695,11,-13.395,0,0.0392,1.09e-05,0.0462,0.691,114.93,236800,4,Spotify,80s Party,Public 20
+ABBA,Super Trouper,Super Trouper,0J2p4KYdr6Mg4ET6JPlbe1,0.764,0.626,0,-8.274,1,0.0288,6.35e-06,0.201,0.961,118.34,252853,4,Spotify,80s Party,Public 20
+Baltimora,Living In The Background,Tarzan Boy,273uCXd7NPrInaiNqtkOrA,0.684,0.573,5,-12.3,1,0.0261,0.028,0.306,0.716,107.363,378947,4,Spotify,80s Party,Public 20
+Bruce Springsteen,Born In The U.S.A.,Glory Days,2Y90nL1ohB4sgYELDs7uNx,0.574,0.96,9,-4.906,1,0.032,0,0.121,0.978,117.486,254733,4,Spotify,80s Party,Public 20
+Cher,Heart Of Stone,If I Could Turn Back Time,6mYrhCAGWzTdF8QnKuchXM,0.658,0.575,11,-10.365,1,0.0267,0,0.122,0.504,108.329,239827,4,Spotify,80s Party,Public 20
+The B-52's,Cosmic Thing,Love Shack,4W4wYHtsrgDiivRASVOINL,0.701,0.803,5,-6.786,0,0.0545,1.54e-06,0.7,0.903,133.608,320680,4,Spotify,80s Party,Public 20
+Modern Talking,Ready For Romance,Brother Louie,5zWZ9iNevP0397xB3jWV2z,0.783,0.836,0,-9.223,0,0.0486,0.0236,0.135,0.831,108.966,222667,4,Spotify,80s Party,Public 20
+Michael Jackson,Scream,Thriller,7azo4rpSUh8nXgtonC6Pkq,0.764,0.887,11,-3.726,1,0.0744,0.00011,0.847,0.72,118.427,358053,4,Spotify,80s Party,Public 20
+Run–D.M.C.,Raising Hell,It's Tricky,6jBCehpNMkwFVF3dz4nLIW,0.965,0.857,11,-8.458,0,0.17,0,0.0726,0.951,127.656,183760,4,Spotify,80s Party,Public 20
+Bryan Adams,Reckless (30th Anniversary / Deluxe Edition),Run To You,2RWFncSWZEhSRRifqiDNVV,0.561,0.811,4,-6.157,1,0.0265,3.6e-05,0.287,0.635,126.593,233270,4,Spotify,80s Party,Public 20
+Whitney Houston,Whitney Houston,How Will I Know,5tdKaKLnC4SgtDZ6RlWeal,0.832,0.544,6,-12.697,1,0.0442,0.000139,0.632,0.928,119.49,275533,4,Spotify,80s Party,Public 20
+Talk Talk,It's My Life,It's My Life - 1997 Remaster,4jhsuQCUCJKA5f0bXb6XdJ,0.627,0.802,0,-8.432,1,0.0348,0.784,0.404,0.867,126.283,232400,4,Spotify,80s Party,Public 20
+Beastie Boys,Licensed To Ill,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,0.503,0.858,8,-6.296,1,0.0657,0.00234,0.0803,0.419,133.615,208653,5,Spotify,80s Party,Public 20
+Men At Work,Business As Usual,Who Can It Be Now?,5rfJ2Bq2PEL8yBjZLzouEu,0.805,0.479,4,-14.734,1,0.0436,0.000143,0.104,0.962,128.411,201293,4,Spotify,80s Party,Public 20
+Roxette,Look Sharp! (Extended Version),The Look,2oWMI54r0qT4N8Xb4C76vq,0.634,0.838,2,-5.363,1,0.0413,8.34e-06,0.0522,0.541,95.011,237320,4,Spotify,80s Party,Public 20
+Billy Joel,Glass Houses,It's Still Rock and Roll to Me,64UioB4Nmwgn2f4cbIpAkl,0.752,0.684,0,-7.599,1,0.15,0,0.0897,0.539,141.075,176440,4,Spotify,80s Party,Public 20
+Run–D.M.C.,Raising Hell,Walk This Way (feat. Aerosmith),6qUEOWqOzu1rLPUPQ1ECpx,0.761,0.711,9,-7.989,1,0.0604,0.000101,0.0652,0.947,105.448,310387,4,Spotify,80s Party,Public 20
+Tiffany,Tiffany,I Think We're Alone Now,4uvjOKsp7mSjrDhWdkLPBY,0.752,0.723,7,-12.126,1,0.0507,0.00354,0.0212,0.94,130.519,228840,4,Spotify,80s Party,Public 20
+Stevie Wonder,In Square Circle,Part-Time Lover,0Dm43YLUlGdePpSbI1ct8h,0.662,0.624,10,-13.606,0,0.0417,0,0.0674,0.961,174.513,252560,4,Spotify,80s Party,Public 20
+Diana Ross,Diana,I'm Coming Out,3SnGymj6ijE2iuUfWxLo1q,0.72,0.828,5,-9.211,1,0.0462,0.429,0.0839,0.768,110.071,323347,4,Spotify,80s Party,Public 20
+Kim Wilde,Kim Wilde,Kids In America,1YGZyfvdgZxzipWoWYVKxi,0.557,0.782,4,-3.899,1,0.0475,6.75e-06,0.118,0.305,159.621,205533,4,Spotify,80s Party,Public 20
+Tina Turner,Foreign Affair,The Best,6pPWRBubXOBAHnjl5ZIujB,0.662,0.737,0,-9.54,1,0.0296,0.0191,0.119,0.744,103.867,329800,4,Spotify,80s Party,Public 20
+Philip Bailey,Chinese Wall (Expanded Edition),Easy Lover,5LYJ631w9ps5h9tdvac7yP,0.74,0.923,1,-5.082,1,0.0369,0.000163,0.0825,0.93,128.871,305867,4,Spotify,80s Party,Public 20
+Blondie,Call Me,Call Me,7HKxTNVlkHsfMLhigmhC0I,0.554,0.833,2,-6.667,0,0.0347,0.0025,0.0737,0.773,142.673,212227,4,Spotify,80s Party,Public 20
+David Bowie,Let's Dance (2018 Remaster),Modern Love - 2018 Remaster,3gxEZXUjrNbl3TlSrTGbR5,0.358,0.938,0,-5.577,1,0.0483,9.2e-06,0.117,0.944,182.836,288339,4,Spotify,80s Party,Public 20
+Mike Oldfield,The Mike Oldfield Collection,Moonlight Shadow,4WpmwEdc4RBos8W8icSSxW,0.611,0.72,4,-8.359,1,0.0259,0,0.356,0.8,128.594,218187,4,Spotify,80s Party,Public 20
+The Jam,The Gift,Town Called Malice,0gdmDP6xy3ZV7JNoHWAN9k,0.542,0.91,7,-8.924,1,0.0873,0.00524,0.0686,0.775,101.774,173320,4,Spotify,80s Party,Public 20
+KC & The Sunshine Band,All In a Night's Work (Expanded Version),Give It Up,3yDhZq8f17SmumVmEyCaRN,0.862,0.624,3,-11.63,1,0.0565,0.000153,0.0465,0.882,124.896,254240,4,Spotify,80s Party,Public 20
+Diana Ross,Diana,Upside Down,3pbtBomO4Zt5gGiqsYeiBH,0.873,0.855,5,-8.559,0,0.0615,0.0285,0.0377,0.884,107.868,245600,4,Spotify,80s Party,Public 20
+Orchestral Manoeuvres In The Dark,Organisation,Enola Gay - Remastered 2003,3NYCaxkggl0Hh8vQptSUvV,0.559,0.764,2,-7.058,0,0.0348,0.0299,0.0807,0.932,143.319,213693,4,Spotify,80s Party,Public 20
+Taylor Dayne,Tell It to My Heart (Expanded Edition),Tell It to My Heart,3YVPpVJvJG2EauXurPA90F,0.638,0.988,1,-5.042,1,0.0921,1.16e-05,0.371,0.723,117.955,220880,4,Spotify,80s Party,Public 20
+Level 42,Running In The Family,Lessons In Love,3EGI5qmVmGlfgy9BmNb1R8,0.709,0.839,7,-8.403,1,0.0367,0.00209,0.301,0.864,113.186,246013,4,Spotify,80s Party,Public 20
+Technotronic,Best Of,Pump Up The Jam - Edit,0UAEHlFR79k9CJvknSGUNf,0.862,0.918,10,-7.325,0,0.108,1.15e-06,0.0492,0.651,124.811,215040,4,Spotify,80s Party,Public 20
+Rick Astley,Whenever You Need Somebody,Together Forever,5eFiEFtrq5dLgVHSZANUNl,0.702,0.933,2,-11.876,1,0.0492,0.000128,0.155,0.896,115.114,205533,4,Spotify,80s Party,Public 20
+Opus,Live Is Life,Live Is Life (Digitally Remastered) (Single Version),5luOvrlnzfvJQdQjrScVj4,0.633,0.952,9,-4.274,0,0.0338,1.73e-06,0.989,0.765,95.423,249500,4,Spotify,80s Party,Public 20
+Salt-N-Pepa,"Hot, Cool & Vicious",Push It,6sT9MWlJManry3EQwf4V80,0.913,0.596,11,-12.477,0,0.0707,0.00349,0.078,0.973,127.215,272133,4,Spotify,80s Party,Public 20
+The Communards,Communards,Don't Leave Me This Way (with Sarah Jane Morris),0ire4j2mcGovF5JA1D2cTp,0.64,0.926,3,-5.597,1,0.0322,2.04e-06,0.134,0.901,131.997,271067,4,Spotify,80s Party,Public 20
+Rockwell,Somebody's Watching Me,Somebody's Watching Me,7jwQlYGpOml9ETGre1HqGA,0.82,0.357,1,-13.585,0,0.0437,0.00452,0.0541,0.765,124.117,298867,4,Spotify,80s Party,Public 20
+Queen,The Game (Deluxe Remastered Version),Crazy Little Thing Called Love - Remastered 2011,35ItUJlMtjOQW3SSiTCrrw,0.599,0.762,0,-6.887,1,0.0423,4.43e-06,0.35,0.715,76.961,163373,4,Spotify,80s Party,Public 20
+Robert Palmer,Riptide,Addicted To Love,5izGeTxueiFX1UPFGohY9w,0.702,0.578,2,-13.415,1,0.031,5.89e-06,0.0425,0.975,111.617,363640,4,Spotify,80s Party,Public 20
+Wang Chung,Points On The Curve,Dance Hall Days,2JvPJ8ydPuN2NhpH4oti6I,0.664,0.589,0,-14.415,1,0.0406,0.00587,0.221,0.54,102.74,240800,4,Spotify,80s Party,Public 20
+Phil Collins,No Jacket Required (2016 Remaster),Sussudio - 2016 Remaster,4qM461TqtpnP4GLRIXwEnW,0.714,0.935,5,-5.195,1,0.0849,0.0934,0.0515,0.725,121.232,263107,4,Spotify,80s Party,Public 20
+Wham!,Make It Big,Everything She Wants,5hXEcqQhEjfZdbIZLO8mf2,0.899,0.459,6,-15.557,0,0.0366,0.00406,0.165,0.962,115.09,302693,4,Spotify,80s Party,Public 20
+Huey Lewis & The News,Fore!,Hip To Be Square,648BMGrt98kUbLo24A4vgj,0.668,0.779,9,-11.089,1,0.0325,0.000347,0.139,0.963,140.873,245467,4,Spotify,80s Party,Public 20
+INXS,Kick,Need You Tonight,5eU8qMd0TpaLqTGDZJaLDs,0.801,0.723,10,-4.985,0,0.0689,0.154,0.0675,0.883,109.03,180518,4,Spotify,80s Party,Public 20

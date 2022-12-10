@@ -1,0 +1,69 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Television Blonde,Freaks,Freaks,5UyIXwFO6EFJoj586MVKOZ,0.507,0.834,9,-14.187,1,0.0503,0.759,0.284,0.555,173.15,152660,4,Uday Kumbhar,Bath,Uday
+James Arthur,YOU,Naked,2fmyrECK6bdfoGven0UMZx,0.525,0.61,6,-6.793,1,0.0404,0.0,0.0572,0.293,101.875,233400,4,Uday Kumbhar,Bath,Uday
+Sasha Alex Sloan,Dancing With Your Ghost,Dancing With Your Ghost,1TQXIltqoZ5XXyfCbAeSQQ,0.629,0.328,11,-8.284,1,0.029,2.5e-05,0.103,0.389,74.953,197732,4,Uday Kumbhar,Bath,Uday
+Sean Kingston,Eenie Meenie,Eenie Meenie,4vVTI94F9uJ8lHNDWKv0i2,0.72,0.607,1,-4.168,1,0.0322,0.0,0.113,0.828,121.223,201947,4,Uday Kumbhar,Bath,Uday
+M83,"Hurry Up, We're Dreaming",Midnight City,1eyzqe2QqGZUmfcPZtrIyt,0.526,0.712,11,-6.525,0,0.0356,0.0,0.179,0.32,105.009,241440,4,Uday Kumbhar,Bath,Uday
+Vance Joy,Dream Your Life Away,Riptide,7yq4Qj7cqayVTp3FF9CWbm,0.484,0.731,1,-6.694,1,0.0379,0.0,0.151,0.51,101.654,204280,4,Uday Kumbhar,Bath,Uday
+Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),0WtM2NBVQNNJLh6scP13H8,0.801,0.806,11,-5.206,1,0.0381,0.000669,0.114,0.802,106.999,239318,4,Uday Kumbhar,Bath,Uday
+Rosa Linn,SNAP,SNAP,76OGwb5RA9h4FxQPT33ekc,0.565,0.636,0,-8.198,1,0.0638,9.9e-06,0.447,0.525,170.01,179551,4,Uday Kumbhar,Bath,Uday
+Chris Brown,Indigo (Extended),Under The Influence,5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,1.18e-06,0.105,0.31,116.992,184613,4,Uday Kumbhar,Bath,Uday
+Trevor Daniel,Nicotine,Falling,0Aqi7ArnBrGblW5T6p2jmD,0.785,0.431,10,-8.756,0,0.0364,0.0,0.0887,0.236,127.085,159382,4,Uday Kumbhar,Bath,Uday
+Bastille,Bad Blood,Pompeii,6fNhZRFEkBfgW39W3wKARJ,0.679,0.715,9,-6.383,1,0.0407,0.0,0.271,0.571,127.435,214148,4,Uday Kumbhar,Bath,Uday
+Jon Bellion,All Time Low,All Time Low,7qVjoGvjdOFfk3uKVhvZU9,0.456,0.643,0,-4.139,1,0.272,0.0,0.101,0.641,86.54,219460,4,Uday Kumbhar,Bath,Uday
+Martin Garrix,High On Life (feat. Bonn),High On Life (feat. Bonn),4ut5G4rgB1ClpMTMfjoIuy,0.414,0.486,6,-6.431,0,0.0311,0.0,0.111,0.368,128.038,230762,4,Uday Kumbhar,Bath,Uday
+AP Dhillon,Two Hearts Never Break The Same,Wo Noor,32FVH23yFXr8Z0sfjRw4It,0.761,0.554,1,-8.119,0,0.0854,0.00844,0.0802,0.555,92.52,199420,4,Uday Kumbhar,Bath,Uday
+AP Dhillon,Summer High,Summer High,1aL9518P5G72N92b48tuKw,0.86,0.541,1,-6.51,0,0.0325,0.163,0.0663,0.952,114.984,177391,4,Uday Kumbhar,Bath,Uday
+Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4,Uday Kumbhar,Bath,Uday
+Shubh,No Love,No Love,08Isz2ETWSBhvIl8UpKYsp,0.768,0.487,4,-8.936,0,0.0431,0.0,0.175,0.722,137.034,170388,4,Uday Kumbhar,Bath,Uday
+Darshan Raval,Baarishon Mein,Baarishon Mein,7doebiokA0utWXWcw7rD82,0.352,0.34,0,-10.002,1,0.0357,3.3e-06,0.0936,0.314,179.865,224667,4,Uday Kumbhar,Bath,Uday
+Duncan Laurence,Small Town Boy (Track By Track),Arcade,1J14CdDAvBTE1AJYUOwl6C,0.453,0.35,9,-11.639,0,0.0425,0.00122,0.144,0.279,72.017,185147,3,Uday Kumbhar,Bath,Uday
+A.R. Rahman,Delhi-6,Masakali,5iyNH1Dmxif1k4Nl1gMeuh,0.678,0.622,5,-7.988,0,0.0695,2.32e-06,0.122,0.535,100.005,288647,4,Uday Kumbhar,Bath,Uday
+BoyWithUke,Serotonin Dreams,Understand,6dGqGkYDoRrKh5UiIcTT22,0.828,0.658,6,-6.19,0,0.14,1.06e-06,0.277,0.917,103.051,171947,4,Uday Kumbhar,Bath,Uday
+The Lumineers,The Lumineers (Deluxe Edition),Stubborn Love,4aO4CW3CUvA5yQeiWZQFju,0.595,0.548,0,-11.696,1,0.0373,0.0616,0.23,0.247,115.017,279000,4,Uday Kumbhar,Bath,Uday
+Hozier,Hozier,Take Me To Church,3dYD57lRAUcMHufyqn9GcI,0.566,0.664,4,-5.303,0,0.0464,0.0,0.116,0.437,128.945,241688,4,Uday Kumbhar,Bath,Uday
+Justin Bieber,Justice,Ghost,6I3mqTwhRpn34SLVafSH7G,0.601,0.741,2,-5.569,1,0.0478,2.91e-05,0.415,0.441,153.96,153190,4,Uday Kumbhar,Bath,Uday
+Hollow Coves,Wanderlust,Coastline,4sDbdBjuYQVdNNB4PiHUPo,0.67,0.496,2,-11.23,1,0.0277,0.00319,0.0584,0.427,100.17,233973,4,Uday Kumbhar,Bath,Uday
+Cigarettes After Sex,Cigarettes After Sex,Apocalypse,0yc6Gst2xkRu0eMLeRMGCX,0.37,0.467,5,-9.013,1,0.0273,0.572,0.109,0.182,94.485,290617,4,Uday Kumbhar,Bath,Uday
+Coldplay,Parachutes,Sparks,7D0RhFcb3CrfPuTJ0obrod,0.371,0.268,1,-10.506,1,0.0281,0.0517,0.104,0.165,102.617,227093,3,Uday Kumbhar,Bath,Uday
+Coldplay,Parachutes,Yellow,3AJwUDP919kvQ9QcozQPxg,0.429,0.661,11,-7.227,1,0.0281,0.000121,0.234,0.285,173.372,266773,4,Uday Kumbhar,Bath,Uday
+Coldplay,A Rush of Blood to the Head,The Scientist,75JFxkI2RXiU7L9VXzMkle,0.557,0.442,5,-7.224,1,0.0243,1.46e-05,0.11,0.213,146.277,309600,4,Uday Kumbhar,Bath,Uday
+Coldplay,X&Y,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,0.209,0.417,3,-8.74,1,0.0338,0.00196,0.113,0.124,138.178,295533,4,Uday Kumbhar,Bath,Uday
+Harry Styles,As It Was,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,Uday Kumbhar,Bath,Uday
+Stephen Sanchez,Easy On My Eyes,Until I Found You,6VhuP99TE6gYNQRJIlAWFD,0.346,0.5,10,-6.097,1,0.0388,0.0,0.189,0.191,202.466,176667,3,Uday Kumbhar,Bath,Uday
+Nicky Youre,Sunroof,Sunroof,4h4QlmocP3IuwYEj2j14p8,0.768,0.714,10,-5.11,1,0.0401,0.0,0.15,0.842,131.443,163026,4,Uday Kumbhar,Bath,Uday
+Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,Uday Kumbhar,Bath,Uday
+The Kid LAROI,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,0.591,0.764,1,-5.484,1,0.0483,0.0,0.103,0.478,169.928,141806,4,Uday Kumbhar,Bath,Uday
+Ruth B.,Safe Haven,Dandelions,2eAvDnpXP5W0cVtiI0PUxV,0.609,0.692,1,-2.958,1,0.0259,0.0,0.0864,0.454,116.959,233720,3,Uday Kumbhar,Bath,Uday
+One Direction,FOUR (Deluxe),Night Changes,5O2P9iiztwhomNh8xkR9lJ,0.672,0.52,8,-7.747,1,0.0353,0.0,0.115,0.37,120.001,226600,4,Uday Kumbhar,Bath,Uday
+Harry Styles,Fine Line,Adore You,3jjujdWJ72nww5eGnfs2E7,0.676,0.771,8,-3.675,1,0.0483,7e-06,0.102,0.569,99.048,207133,4,Uday Kumbhar,Bath,Uday
+Harry Styles,Fine Line,Lights Up,4jAIqgrPjKLTY9Gbez25Qb,0.575,0.621,10,-8.165,0,0.032,0.0045,0.141,0.27,101.987,172213,4,Uday Kumbhar,Bath,Uday
+Harry Styles,Fine Line,Falling,1ZMiCix7XSAbfAJlEZWMCp,0.567,0.267,4,-6.502,1,0.0299,1.46e-06,0.089,0.0592,110.011,240133,4,Uday Kumbhar,Bath,Uday
+Olivia Rodrigo,SOUR,drivers license,5wANPM4fQCJwkGd4rN57mH,0.561,0.431,10,-8.81,1,0.0578,1.42e-05,0.106,0.137,143.875,242013,4,Uday Kumbhar,Bath,Uday
+Selena Gomez,Wolves,Wolves,0tBbt8CrmxbjRP0pueQkyU,0.724,0.804,11,-4.614,0,0.0448,0.0,0.204,0.306,124.987,197993,4,Uday Kumbhar,Bath,Uday
+Kygo,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),3eR23VReFzcdmS7TYCrhCe,0.64,0.533,0,-6.596,1,0.0706,0.0,0.0864,0.515,99.968,220781,4,Uday Kumbhar,Bath,Uday
+The Chainsmokers,Memories...Do Not Open,Paris,72jbDTw1piOOj770jWNeaG,0.653,0.658,2,-6.428,1,0.0304,1.66e-06,0.0939,0.219,99.99,221507,4,Uday Kumbhar,Bath,Uday
+The Chainsmokers,All We Know,All We Know,2rizacJSyD9S1IQUxUxnsK,0.662,0.586,0,-8.821,1,0.0307,0.00272,0.115,0.296,90.0,194080,4,Uday Kumbhar,Bath,Uday
+Kygo,Stargazing - EP,Stargazing,0Zbbxnx4SGGHoIow4PpISP,0.677,0.497,5,-5.763,1,0.0809,0.0,0.0911,0.419,99.137,236853,4,Uday Kumbhar,Bath,Uday
+Kygo,Cloud Nine,Firestone,1I8tHoNBFTuoJAlh4hfVVE,0.704,0.634,11,-7.374,0,0.0428,3.17e-05,0.0952,0.411,113.927,271640,4,Uday Kumbhar,Bath,Uday
+James Arthur,YOU,Falling Like The Stars,395KzBy0bkb57dEvg6cfzJ,0.552,0.347,6,-9.542,1,0.0303,2.15e-06,0.111,0.173,113.809,211653,4,Uday Kumbhar,Bath,Uday
+Ariana Grande,Stuck with U,Stuck with U (with Justin Bieber),4HBZA5flZLE435QTztThqH,0.597,0.45,8,-6.658,1,0.0418,0.0,0.382,0.537,178.765,228482,3,Uday Kumbhar,Bath,Uday
+Post Malone,Hollywood's Bleeding,Circles,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,1,0.0395,0.00244,0.0863,0.553,120.042,215280,4,Uday Kumbhar,Bath,Uday
+Post Malone,Hollywood's Bleeding,Sunflower - Spider-Man: Into the Spider-Verse,0RiRZpuVRbi7oqRdSMwhQY,0.755,0.522,2,-4.368,1,0.0575,0.0,0.0685,0.925,89.96,157560,4,Uday Kumbhar,Bath,Uday
+Post Malone,beerbongs & bentleys,Better Now,7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.04,0.0,0.135,0.341,145.038,231267,4,Uday Kumbhar,Bath,Uday
+Juice WRLD,Goodbye & Good Riddance,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0,0.2,0.0,0.34,0.218,83.903,239836,4,Uday Kumbhar,Bath,Uday
+XXXTENTACION,?,SAD!,3ee8Jmje8o58CHK66QrVC2,0.74,0.613,8,-4.88,1,0.145,0.00372,0.123,0.473,75.023,166606,4,Uday Kumbhar,Bath,Uday
+XXXTENTACION,?,Moonlight,0JP9xo3adEtGSdUEISiszL,0.921,0.537,9,-5.723,0,0.0804,0.00404,0.102,0.711,128.009,135090,4,Uday Kumbhar,Bath,Uday
+XXXTENTACION,?,Hope,2ZRo7axmMPeSVUvDbGkJah,0.592,0.457,9,-6.081,0,0.0603,0.000331,0.146,0.225,146.04,110886,4,Uday Kumbhar,Bath,Uday
+Joji,Glimpse of Us,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3,Uday Kumbhar,Bath,Uday
+Harry Styles,Harry Styles,Sign of the Times,5Ohxk2dO5COHF1krpoPigN,0.516,0.595,5,-4.63,1,0.0313,0.0,0.109,0.222,119.972,340707,4,Uday Kumbhar,Bath,Uday
+Lana Del Rey,Born To Die - The Paradise Edition,Summertime Sadness,3BJe4B8zGnqEdQPMvfVjuS,0.565,0.654,1,-6.826,0,0.0335,1.8e-06,0.122,0.235,111.968,265427,4,Uday Kumbhar,Bath,Uday
+Cigarettes After Sex,Cigarettes After Sex,K.,1FWsomP9StpCcXNWmJk8Cl,0.454,0.4,3,-10.261,1,0.0265,0.846,0.137,0.327,93.719,320030,4,Uday Kumbhar,Bath,Uday
+Panic! At The Disco,Death of a Bachelor,House of Memories,2DgdHcjWmO3qd50RzuBLgZ,0.506,0.817,11,-5.051,0,0.0335,0.0,0.0486,0.506,109.952,208707,4,Uday Kumbhar,Bath,Uday
+Imagine Dragons,Roots,Roots,4GITtbZtRCQXhWLMXrWXHt,0.637,0.887,7,-5.444,0,0.227,0.00188,0.326,0.596,157.759,174507,4,Uday Kumbhar,Bath,Uday
+Twenty One Pilots,Trench,Jumpsuit,1E1uGhNdBe6Dddbgs2KqtZ,0.62,0.61,11,-8.329,0,0.0373,0.162,0.205,0.235,127.052,238560,4,Uday Kumbhar,Bath,Uday
+Sachin-Jigar,Shor in the City (Original Motion Picture Soundtrack),Saibo,6udC4b4jOSnHb9ItnXgKLR,0.619,0.429,2,-7.867,1,0.028,1.35e-05,0.136,0.545,90.058,195253,4,Uday Kumbhar,Bath,Uday
+Amit Trivedi,Celebrate Kai Po Che (Original Motion Picture Soundtrack),Manja,6X4uyM93rEjUIlGCQ7jZRh,0.774,0.472,2,-7.586,1,0.0276,0.00282,0.207,0.529,106.026,216760,3,Uday Kumbhar,Bath,Uday
+Pritam,Barfi! (Original Motion Picture Soundtrack),Main Kya Karoon,4GagsETs7qfR3cwQkRcXgb,0.784,0.454,9,-8.925,1,0.14,0.000502,0.102,0.668,91.013,270333,4,Uday Kumbhar,Bath,Uday
+Eminem,Relapse: Refill,Beautiful,1HR2CTi0ytRJIcik1QKdOa,0.727,0.696,5,-4.472,0,0.0706,0.0,0.0726,0.467,132.077,392827,4,Uday Kumbhar,Bath,Uday
+Plain White T's,All That We Needed,Hey There Delilah,4RCWB3V8V0dignt99LZ8vH,0.656,0.291,2,-10.572,1,0.0293,0.0,0.114,0.298,103.971,232533,4,Uday Kumbhar,Bath,Uday

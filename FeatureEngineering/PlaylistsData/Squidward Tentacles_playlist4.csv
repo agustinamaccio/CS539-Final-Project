@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Conor Albert,Moonlight,Moonlight,43XQxLhbUFqqCtRYiKCdCx,0.602,0.79,1,-6.298,0,0.21,6.58e-06,0.146,0.73,118.837,205429,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,Please Do Not Lean,Please Do Not Lean (feat. BADBADNOTGOOD),5uXO1sjZ7VbNKexKaFRna3,0.67,0.41,1,-13.444,1,0.0381,8.55e-06,0.167,0.46,127.972,240938,4,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,Love Language,Love Affair,4ZaRg5Sf4TKr0YcFRLh7QJ,0.613,0.488,8,-7.37,1,0.0964,2.13e-05,0.335,0.183,172.076,190960,4,Spotify,Daily Mix 4,Squidward Tentacles
+Mac Ayres,Drive Slow,Calvin's Joint,33VQJLL7QWS0LUuF7r39Rq,0.676,0.656,8,-7.653,1,0.211,0.0119,0.118,0.283,94.383,226299,4,Spotify,Daily Mix 4,Squidward Tentacles
+Gallant,Neptune,No More Tries.,7DYBlv4qljrdUbN276ygOn,0.417,0.625,7,-7.141,1,0.0935,0.0,0.374,0.368,129.878,196427,4,Spotify,Daily Mix 4,Squidward Tentacles
+Christian Kuria,Borderline,Too Good,3GP7l2bmXT6T2FNAzERwBr,0.69,0.406,5,-9.41,0,0.106,1.88e-06,0.145,0.507,160.14,277500,4,Spotify,Daily Mix 4,Squidward Tentacles
+Jenevieve,Division,Baby Powder,4Nw7kywWurWS6ceinn1cHK,0.799,0.452,1,-7.641,0,0.0466,0.000133,0.0878,0.732,78.461,176760,3,Spotify,Daily Mix 4,Squidward Tentacles
+Conor Albert,Crescent Moon,Crescent Moon,2mC6CRPtuIZ97WZh4rJ2Pq,0.699,0.506,6,-3.811,1,0.0442,6.29e-06,0.457,0.512,64.001,199042,4,Spotify,Daily Mix 4,Squidward Tentacles
+Sam Wills,Breathe,Traingazing,0edtKj1oW6rJ9f4wRtLPPH,0.848,0.364,11,-10.058,1,0.0637,0.00529,0.14,0.569,137.541,214160,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,Get You - Single,Japanese Denim,1boXOL0ua7N2iCOUVI1p9F,0.707,0.238,3,-8.818,1,0.0379,2.42e-06,0.0842,0.345,124.156,270847,3,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,Love Language,Sukidakara,6Mvcq6hzXQvDyruJZYdDJm,0.744,0.475,2,-9.449,0,0.0283,0.00345,0.107,0.22,86.992,159667,4,Spotify,Daily Mix 4,Squidward Tentacles
+Gallant,Sweet Insomnia,Céline,7qOlu9FO9p9gphX8hMnO7a,0.655,0.53,9,-6.821,1,0.0755,0.0,0.145,0.675,120.172,205120,4,Spotify,Daily Mix 4,Squidward Tentacles
+Christian Kuria,Toroka,Toroka,6RMltEudPPFoJuUoshxRBB,0.641,0.438,5,-7.029,1,0.132,0.000134,0.108,0.343,67.529,202075,4,Spotify,Daily Mix 4,Squidward Tentacles
+Jenevieve,Division,Résumé,2K2kujL7erU8ItCd2Tv5lh,0.82,0.447,0,-7.686,1,0.085,4.1e-05,0.0583,0.661,149.98,180357,4,Spotify,Daily Mix 4,Squidward Tentacles
+Omar Apollo,Ivory,Killing Me,5BhK8Mho223YLPQOLfzWNP,0.861,0.27,6,-9.515,0,0.0616,0.00288,0.124,0.608,84.004,165320,4,Spotify,Daily Mix 4,Squidward Tentacles
+Tim Atlas,Together Lonely,Tangerine,2EgfLUS0jNiujIWc3ZLEtn,0.776,0.378,0,-8.035,1,0.0322,0.00187,0.11,0.453,135.981,175861,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,Freudian,Get You (feat. Kali Uchis),7zFXmv6vqI4qOt4yGf3jYZ,0.658,0.294,4,-8.533,0,0.0321,5.2e-05,0.0749,0.358,74.038,278180,4,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,moonlit room,moonlit room,5KzBH7THRVKCCmkMp1tazw,0.609,0.286,9,-13.184,1,0.0469,0.000591,0.122,0.14,151.86,250680,3,Spotify,Daily Mix 4,Squidward Tentacles
+Bren Joy,Twenties,Henny in the Hamptons,19NKbRV1zevCIzePp88Wzh,0.631,0.634,1,-6.786,0,0.115,0.0,0.168,0.479,87.903,197375,4,Spotify,Daily Mix 4,Squidward Tentacles
+Christian Kuria,Borderline,Losing You,186AzR054q9nSWYSI3qr8D,0.674,0.455,0,-7.835,0,0.036,0.00196,0.176,0.885,80.023,248069,4,Spotify,Daily Mix 4,Squidward Tentacles
+Mac Ayres,Magic 8ball,Where U Goin' Tonight?,4Z5Bwienk09FUgwsMlsPwJ,0.67,0.721,10,-4.039,0,0.307,0.0,0.066,0.787,102.17,263555,4,Spotify,Daily Mix 4,Squidward Tentacles
+Omar Apollo,Apolonio,Want U Around (feat. Ruel),1Qu24vc8msUVLcMZWa4k1x,0.571,0.443,0,-6.76,1,0.0451,6.95e-06,0.101,0.621,143.923,247720,3,Spotify,Daily Mix 4,Squidward Tentacles
+slchld,camellia,camellia,7kpe2K0hdSssLj4G4YjxdU,0.714,0.56,10,-4.742,1,0.0662,0.0,0.157,0.945,109.934,151212,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,Pilgrim's Paradise,Streetcar,7Cu2COdH93MnuireuKNiS3,0.41,0.298,3,-11.796,1,0.0473,0.0,0.158,0.142,109.651,246972,3,Spotify,Daily Mix 4,Squidward Tentacles
+Gallant,Neptune,Julie.,6ywzdDgKmTBBvJzDA91XKJ,0.424,0.647,2,-6.593,0,0.156,0.0,0.209,0.571,147.681,231733,4,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,Balance,Down to Earth,5QzdYVqeAPnlBfbuJQ2AaO,0.609,0.335,0,-9.378,1,0.0372,0.0,0.0595,0.342,85.077,201933,4,Spotify,Daily Mix 4,Squidward Tentacles
+Christian Kuria,Sunbleach,Sunbleach,4B0tSOfzgqOv75WhlvoZjk,0.606,0.508,2,-7.123,1,0.0513,0.0848,0.101,0.377,87.051,237064,4,Spotify,Daily Mix 4,Squidward Tentacles
+Conor Albert,I Think You Should Know,I Think You Should Know,6Y8VFIzQVENqJzE2QhGcUy,0.774,0.611,2,-5.894,1,0.162,0.0,0.218,0.643,102.053,201681,4,Spotify,Daily Mix 4,Squidward Tentacles
+Sam Wills,Sweet Distraction,Sweet Distraction,6oYDza5APcRR4c8w1WEAml,0.814,0.33,11,-7.535,0,0.342,0.000197,0.106,0.685,85.057,171608,4,Spotify,Daily Mix 4,Squidward Tentacles
+Jenevieve,Division,Nxwhere,0qw6ZnTxdfS9fj648bN9A5,0.621,0.312,9,-10.032,0,0.0357,0.0529,0.0667,0.195,133.972,197000,4,Spotify,Daily Mix 4,Squidward Tentacles
+RINI,After the Sun,Meet Me in Amsterdam,3LRbalLzZcuvSR6jVnqclh,0.62,0.265,9,-10.409,0,0.0345,1.02e-05,0.114,0.169,106.022,301448,3,Spotify,Daily Mix 4,Squidward Tentacles
+Kyle Dion,SUGA,69 Camaro,70XkGdEfN4RM7bEwaNaBao,0.61,0.416,5,-7.357,1,0.0612,0.0,0.413,0.441,82.95,154818,4,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,Introspection Reimagined,Open Up Reimagined,69hBYwtZzy2tGJI6P4571F,0.467,0.553,9,-5.682,0,0.115,4.88e-06,0.12,0.465,94.201,220120,4,Spotify,Daily Mix 4,Squidward Tentacles
+Gareth Donkin,Dreaming,Dreaming,3vJgLX7Q0En7PgeFhchPiK,0.819,0.38,2,-13.6,1,0.0865,0.000648,0.258,0.634,119.965,266000,4,Spotify,Daily Mix 4,Squidward Tentacles
+Christian Kuria,Borderline,Tell Me When,4IrukTHhqJsr8SEpqz2Zx4,0.415,0.589,7,-9.035,0,0.132,8.84e-05,0.0942,0.396,81.834,266824,4,Spotify,Daily Mix 4,Squidward Tentacles
+Omar Apollo,Stereo,Ugotme,5Ju9aLa212eAILfl5sWkjc,0.782,0.494,0,-1.458,1,0.0337,6.1e-05,0.134,0.402,65.832,127273,4,Spotify,Daily Mix 4,Squidward Tentacles
+maye,Yours,Yours,0gmStTUTuiU807EB4KafOX,0.67,0.707,11,-9.726,0,0.0358,0.065,0.0634,0.799,89.008,220887,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,Freudian,Best Part (feat. H.E.R.),1RMJOxR6GRPsBHL8qeC2ux,0.524,0.364,7,-10.209,1,0.0367,0.0,0.1,0.436,75.24,209831,4,Spotify,Daily Mix 4,Squidward Tentacles
+Colette Lush,Seven-One,Don't,5ngJKkOmjkN460b2ApBnLk,0.738,0.288,2,-8.721,0,0.0332,0.0,0.107,0.311,79.975,208125,3,Spotify,Daily Mix 4,Squidward Tentacles
+UMI,Forest in the City,wish that i could,5w4q9Es264UdYYr2AjnPhU,0.786,0.536,0,-7.955,0,0.0526,0.000172,0.183,0.375,119.043,207880,4,Spotify,Daily Mix 4,Squidward Tentacles
+Jenevieve,Division,Midnight Charm,1Oe8VE21hBf5kcmGJ9ZgXL,0.695,0.698,0,-6.333,1,0.0328,0.117,0.141,0.763,159.906,177667,4,Spotify,Daily Mix 4,Squidward Tentacles
+Mac Ayres,Drive Slow,Slow Down,3XstzgzP0rp3bzElEnRVHv,0.729,0.338,5,-12.816,1,0.116,0.000295,0.118,0.184,119.345,234595,4,Spotify,Daily Mix 4,Squidward Tentacles
+Tiffany Day,IF I DON'T TEXT YOU FIRST,IF I DON'T TEXT YOU FIRST,2lNb0SzyOEHizMxlpT9HM6,0.76,0.492,9,-6.802,1,0.0824,0.0,0.305,0.677,104.987,133547,4,Spotify,Daily Mix 4,Squidward Tentacles
+maye,Tú,Tú,1jecO8NeYLsVWVptITz4c1,0.732,0.555,5,-7.973,1,0.0326,0.0,0.112,0.73,114.982,206612,4,Spotify,Daily Mix 4,Squidward Tentacles
+Daniel Caesar,CASE STUDY 01,CYANIDE,3uouaAVXpQR3X8RYkJyitQ,0.589,0.652,10,-7.498,1,0.373,0.00055,0.125,0.486,158.49,194960,4,Spotify,Daily Mix 4,Squidward Tentacles
+Aaron Taylor,ICARUS,Icarus,2KzpsnZztszanilxkAQBTh,0.432,0.329,1,-8.745,1,0.0296,0.000557,0.217,0.322,140.105,298400,3,Spotify,Daily Mix 4,Squidward Tentacles
+Souly Had,Maybe Not (with Mac Ayres),Maybe Not (with Mac Ayres),7fhFr1lYnxm3XyprL3Wnv8,0.686,0.658,7,-5.405,1,0.117,0.000117,0.0758,0.409,142.056,230044,4,Spotify,Daily Mix 4,Squidward Tentacles
+Sam Wills,Breathe,Undercover,7tikx9omLv0S7HNbIFv6Lj,0.923,0.43,8,-5.161,0,0.0869,0.137,0.0549,0.792,104.022,198667,4,Spotify,Daily Mix 4,Squidward Tentacles
+Mac Ayres,Drive Slow,Easy,58dSdjfEYNSxte1aNVxuNf,0.722,0.282,5,-7.484,1,0.106,0.00557,0.147,0.217,91.367,314358,4,Spotify,Daily Mix 4,Squidward Tentacles
+Omar Apollo,Ivory (Marfil),Endlessly,4VUXAoJESfRV3ceUYtzfpQ,0.59,0.687,1,-7.725,1,0.101,0.00016,0.117,0.843,192.123,154120,4,Spotify,Daily Mix 4,Squidward Tentacles

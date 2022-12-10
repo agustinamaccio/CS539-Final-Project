@@ -1,0 +1,81 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+"Earth, Wind & Fire","The Best Of Earth, Wind & Fire Vol. 1",September,2grjqo0Frpf2okIBiifQKs,0.697,0.832,9,-7.264,1,0.0298,0.00131,0.269,0.979,125.926,215093,4,Spotify,Funk & Soul Classics,Public 19
+Marvin Gaye,United,Ain't No Mountain High Enough,7tqhbajSfrz2F7E1Z75ASX,0.663,0.6,7,-10.87,1,0.032,0,0.184,0.8,129.991,151667,4,Spotify,Funk & Soul Classics,Public 19
+Bill Withers,Just As I Am,Ain't No Sunshine,1k1Bqnv2R0uJXQN4u6LKYt,0.527,0.415,4,-11.451,0,0.122,1.72e-05,0.117,0.515,78.169,125093,4,Spotify,Funk & Soul Classics,Public 19
+Rick James,Street Songs (Deluxe Edition),Super Freak,2dCmGcEOQrMQhMMS8Vj7Ca,0.838,0.794,9,-8.245,0,0.0531,0,0.0575,0.962,132.446,205467,4,Spotify,Funk & Soul Classics,Public 19
+Stevie Wonder,The Definitive Collection,Superstition - Single Version,1h2xVEoJORqrg71HocgqXd,0.633,0.634,8,-12.115,1,0.0725,0.0064,0.0385,0.872,100.499,245493,4,Spotify,Funk & Soul Classics,Public 19
+Otis Redding,The Dock of the Bay (Mono),(Sittin' On) the Dock of the Bay,3zBhihYUHBmGd2bcQIobrF,0.769,0.367,2,-11.226,1,0.0312,1.62e-05,0.081,0.535,103.621,163756,4,Spotify,Funk & Soul Classics,Public 19
+Etta James,At Last!,At Last,4Hhv2vrOTy89HFRcjU3QOx,0.274,0.348,5,-8.631,1,0.0293,0.0133,0.334,0.328,87.43,179693,3,Spotify,Funk & Soul Classics,Public 19
+Bill Withers,Menagerie,Lovely Day,0bRXwKfigvpKZUurwqAlEh,0.692,0.651,9,-8.267,1,0.0324,0.00241,0.105,0.706,97.923,254560,4,Spotify,Funk & Soul Classics,Public 19
+"Earth, Wind & Fire",I Am,Boogie Wonderland,6ztstiyZL6FXzh4aG46ZPD,0.802,0.756,2,-10.791,0,0.0349,0.00765,0.0521,0.963,131.715,288293,4,Spotify,Funk & Soul Classics,Public 19
+The Supremes,The Supremes A' Go-Go (Expanded Edition),You Can't Hurry Love,1OppEieGNdItZbE14gLBEv,0.63,0.711,10,-9.34,1,0.0472,0,0.0813,0.659,96.912,167933,4,Spotify,Funk & Soul Classics,Public 19
+Four Tops,Four Tops Second Album,"I Can't Help Myself (Sugar Pie, Honey Bunch)",6b6IMqP565TbtFFZg9iFf3,0.667,0.599,0,-8.894,1,0.0291,0,0.107,0.971,127.935,160280,4,Spotify,Funk & Soul Classics,Public 19
+Natalie Cole,Inseparable,This Will Be (An Everlasting Love),0PDCewmZCp0P5s00bptcdd,0.685,0.623,8,-11.146,1,0.042,0.00234,0.0295,0.896,126.739,171960,4,Spotify,Funk & Soul Classics,Public 19
+Frank Sinatra,The World We Knew,Somethin' Stupid,4feXcsElKIVsGwkbnTHAfV,0.257,0.338,4,-12.902,1,0.0357,0,0.252,0.544,207.356,162493,4,Spotify,Funk & Soul Classics,Public 19
+Stevie Wonder,"Signed, Sealed And Delivered","Signed, Sealed, Delivered (I'm Yours)",2eF8pWbiivYsYRpbntYsnc,0.675,0.597,5,-11.329,1,0.0337,0,0.0986,0.828,108.875,161160,4,Spotify,Funk & Soul Classics,Public 19
+Jackie Wilson,Higher And Higher,(Your Love Keeps Lifting Me) Higher & Higher,5qyq1H5OPMlfuvZQ1wQNo7,0.634,0.677,2,-7.19,1,0.0448,0,0.0902,0.939,95.792,179120,4,Spotify,Funk & Soul Classics,Public 19
+Marvin Gaye,In The Groove,I Heard It Through The Grapevine,1tqT6DhmsrtQgyCKUwotiw,0.711,0.362,3,-10.851,0,0.0381,0,0.127,0.616,117.287,194293,4,Spotify,Funk & Soul Classics,Public 19
+Etta James,Tell Mama,I'd Rather Go Blind,1kPBT8S2wJFNAyBMnGVZgL,0.477,0.433,11,-6.473,0,0.0247,0.000195,0.151,0.611,82.52,156653,3,Spotify,Funk & Soul Classics,Public 19
+Gladys Knight & The Pips,Imagination (Expanded Edition),Midnight Train to Georgia,7MF7QAodbGzNYav5ZfIhAY,0.595,0.379,10,-12.058,0,0.0454,2.81e-05,0.1,0.448,92.006,279333,4,Spotify,Funk & Soul Classics,Public 19
+Stevie Wonder,Songs In The Key Of Life,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,0.588,0.568,6,-9.766,1,0.0672,0,0.0792,0.952,106.938,232760,4,Spotify,Funk & Soul Classics,Public 19
+Bill Withers,Still Bill,Lean on Me,3M8FzayQWtkvOhqMn2V4T2,0.619,0.22,0,-13.843,1,0.0672,1.19e-05,0.124,0.426,75.143,258835,4,Spotify,Funk & Soul Classics,Public 19
+Booker T. & the M.G.'s,Green Onions,Green Onions,4fQMGlCawbTkH9yPPZ49kP,0.816,0.514,10,-8.741,1,0.0339,0.949,0.0899,0.912,136.837,176333,4,Spotify,Funk & Soul Classics,Public 19
+Sharon Jones & The Dap-Kings,Naturally,How Long Do I Have to Wait for You?,113bLFbp3F9MVN0w2KJ1ma,0.674,0.909,10,-3.369,0,0.0464,0.0131,0.105,0.969,103.942,243760,4,Spotify,Funk & Soul Classics,Public 19
+Marvin Gaye,Midnight Love,Sexual Healing,3VZmChrnVW8JK6ano4gSED,0.805,0.602,0,-9.7,0,0.0579,0.000122,0.0581,0.744,94.382,238600,4,Spotify,Funk & Soul Classics,Public 19
+Fontella Bass,The New Look,Rescue Me,1GY8zOFi8rC39xXnD0tKO8,0.678,0.544,4,-9.468,0,0.0326,9.62e-06,0.103,0.963,122.735,171027,4,Spotify,Funk & Soul Classics,Public 19
+Sam & Dave,"Hold On, I'm Comin'","Hold On, I'm Comin'",6PgVDY8GTkxF3GmhVGPzoB,0.803,0.338,6,-14.029,1,0.0349,0.038,0.097,0.912,106.841,155707,4,Spotify,Funk & Soul Classics,Public 19
+The Staple Singers,The Very Best Of The Staple Singers,I'll Take You There,5YLnfy7R2kueN0BRPkjiEG,0.846,0.595,0,-8.372,1,0.0439,1.96e-06,0.063,0.78,101.632,196827,4,Spotify,Funk & Soul Classics,Public 19
+Sly & The Family Stone,Fresh,If You Want Me to Stay,2BydLQAh7CUIFvSEqAMc4x,0.843,0.48,11,-11.574,0,0.0492,0.000782,0.108,0.762,101.993,180493,4,Spotify,Funk & Soul Classics,Public 19
+Al Green,Gets Next to You,Tired of Being Alone,10vkYRKw6Jjr7try1ir50G,0.772,0.397,7,-8.585,1,0.0391,0.00541,0.0753,0.617,97.964,172320,4,Spotify,Funk & Soul Classics,Public 19
+"Earth, Wind & Fire","The Best Of Earth, Wind & Fire Vol. 1",Fantasy - Single Version,0Eq4BMgsdV6DkLSJfX8eBt,0.666,0.714,4,-9.448,0,0.0617,0.0212,0.128,0.69,89.018,226213,4,Spotify,Funk & Soul Classics,Public 19
+Martha Reeves & The Vandellas,Dance Party,Dancing In The Street - Stereo,6rLqjzGV5VMLDWEnuUqi8q,0.556,0.57,2,-9.472,1,0.0393,0.000526,0.198,0.304,126.01,165227,4,Spotify,Funk & Soul Classics,Public 19
+Bobby Womack,Fly Me To The Moon,California Dreamin',6G7MHIvSDR3ehXPkuDFAlM,0.47,0.385,6,-13.159,0,0.0296,0.0653,0.179,0.694,112.377,200973,4,Spotify,Funk & Soul Classics,Public 19
+The Supremes,Where Did Our Love Go,Baby Love,5uES1C2NgkdrNHiCwf9jRr,0.595,0.643,5,-9.275,1,0.0365,0,0.538,0.73,135.633,158040,4,Spotify,Funk & Soul Classics,Public 19
+Marvin Gaye,What's Going On,What's Going On,3Um9toULmYFGCpvaIPFw7l,0.283,0.716,1,-9.632,0,0.0986,0,0.399,0.828,201.96,233000,4,Spotify,Funk & Soul Classics,Public 19
+Sam & Dave,Soul Men,Soul Man,4eGHlplaq1ME8oetnTuFFf,0.79,0.41,0,-13.241,1,0.0343,0.00314,0.174,0.815,112.345,159000,4,Spotify,Funk & Soul Classics,Public 19
+Chaka Khan,Chaka,I'm Every Woman,1oFiPGBafH9Woo9AMwgBSl,0.603,0.886,0,-7.301,0,0.0465,0.000171,0.295,0.727,114.045,249600,4,Spotify,Funk & Soul Classics,Public 19
+Sly & The Family Stone,Stand,Everyday People,4ZVZBc5xvMyV3WzWktn8i7,0.807,0.497,7,-10.656,1,0.0297,0.0327,0.043,0.765,114.524,141507,4,Spotify,Funk & Soul Classics,Public 19
+The Spinners,2nd Time Around (Expanded Edition),It's A Shame,1l1YTy9nJ0trwhsCGcimly,0.372,0.642,11,-11.955,1,0.0594,0,0.117,0.705,198.731,190058,4,Spotify,Funk & Soul Classics,Public 19
+Stevie Wonder,Songs In The Key Of Life,Isn't She Lovely,6RANU8AS5ICU5PEHh8BYtH,0.481,0.826,1,-6.974,0,0.0851,0.00352,0.324,0.819,118.679,394267,4,Spotify,Funk & Soul Classics,Public 19
+Jean Knight,Mr. Big Stuff,Mr. Big Stuff,2Bls0igCm79XQQ95IoUbhq,0.886,0.491,8,-12.589,1,0.171,2.46e-06,0.229,0.971,93.236,164560,4,Spotify,Funk & Soul Classics,Public 19
+The Isley Brothers,This Old Heart Of Mine,This Old Heart Of Mine (Is Weak For You),5c33j1xFVOL4G24zxYhssB,0.632,0.59,5,-10.206,1,0.0305,0,0.24,0.953,130.287,172733,4,Spotify,Funk & Soul Classics,Public 19
+Marlena Shaw,The Spice Of Life,California Soul,0OwvrdjaJOypNsNQHyBWE5,0.513,0.826,8,-8.407,0,0.0574,3.48e-05,0.366,0.539,94.582,177227,4,Spotify,Funk & Soul Classics,Public 19
+Cheryl Lynn,Cheryl Lynn (Expanded Edition),Got to Be Real,58r4JuwHhXLAkttkaUZfLw,0.836,0.626,9,-10.143,0,0.0335,0.742,0.153,0.898,114.657,307947,4,Spotify,Funk & Soul Classics,Public 19
+Wilson Pickett,The Exciting Wilson Pickett,Land of 1000 Dances,76ICmoJ4PcoMWoooaTxnQs,0.618,0.588,2,-11.624,1,0.0735,0.0266,0.351,0.768,86.903,146973,4,Spotify,Funk & Soul Classics,Public 19
+Bill Withers,Still Bill,Use Me,4gRA0i5sxx3jAhHaVjPnUN,0.758,0.586,11,-13.461,0,0.056,0.0028,0.0743,0.947,154.629,228327,4,Spotify,Funk & Soul Classics,Public 19
+Dusty Springfield,Dusty In Memphis [Deluxe Edition],Son of a Preacher Man,7odHgoLFi3GQ90E9PeraI3,0.401,0.498,4,-10.682,1,0.0757,0,0.13,0.816,181.701,149160,4,Spotify,Funk & Soul Classics,Public 19
+Smokey Robinson & The Miracles,The 35th Anniversary Collection,I Second That Emotion,6Hd8mrDwBQ8rLo70FwFG5C,0.711,0.663,2,-9.262,1,0.0308,1.23e-06,0.0291,0.896,96.812,161227,4,Spotify,Funk & Soul Classics,Public 19
+Otis Redding,Dock of the Bay Sessions,Hard to Handle,7FXuCkl1kfxwS5icDjTwbM,0.666,0.55,10,-8.672,1,0.0612,1.84e-06,0.122,0.961,95.552,141000,4,Spotify,Funk & Soul Classics,Public 19
+Rufus,Stompin' At The Savoy,Ain't Nobody,53Za5vyGc1x7GxgJVRjRKc,0.825,0.811,10,-9.226,0,0.0524,0.000276,0.132,0.789,104.28,285253,4,Spotify,Funk & Soul Classics,Public 19
+The Marvelettes,Please Mr. Postman,Please Mr. Postman - Single Version / Mono,6jX5mso4x00c1EiNMrTU9U,0.785,0.776,2,-5.259,1,0.0312,0,0.181,0.967,121.505,148040,4,Spotify,Funk & Soul Classics,Public 19
+Commodores,Commodores,Brick House,5VJjhHyG8NZ5xdgG6uTb3P,0.831,0.782,4,-10.48,0,0.0595,0.0171,0.032,0.631,107.877,208893,4,Spotify,Funk & Soul Classics,Public 19
+Four Tops,Four Tops,Baby I Need Your Loving,3aCbwWCYCT3MJjZeUnlcp4,0.632,0.686,0,-6.116,0,0.0395,0,0.193,0.65,121.414,166027,4,Spotify,Funk & Soul Classics,Public 19
+Wilson Pickett,In the Midnight Hour,In the Midnight Hour,4NRQwaks9r58tTDvr4iEyv,0.75,0.444,4,-8.63,1,0.0403,3.69e-06,0.118,0.849,111.919,157160,4,Spotify,Funk & Soul Classics,Public 19
+Kool & The Gang,The Very Best Of Kool & The Gang (Reissue),Get Down On It - Single Version,4yKZACkuudvfd600H2dQie,0.879,0.626,7,-6.344,1,0.0604,6.07e-05,0.056,0.968,110.864,212907,4,Spotify,Funk & Soul Classics,Public 19
+Bill Withers,Just As I Am,Grandma's Hands,1qfDfZAvrkSAFrAR2FTQDv,0.731,0.312,4,-14.939,0,0.0878,1.69e-06,0.111,0.578,82.366,121080,4,Spotify,Funk & Soul Classics,Public 19
+Funkadelic,Maggot Brain,Can You Get To That,5lc9L9FeLBwlJPgEbq9uEw,0.681,0.897,8,-5.44,1,0.0874,0,0.1,0.852,140.803,169856,4,Spotify,Funk & Soul Classics,Public 19
+Al Green,Al Green Explores Your Mind,Take Me to the River,62r1CS9zL1FL5Ilb7hLX7n,0.786,0.418,9,-11.115,1,0.0432,0.000158,0.134,0.94,119.101,225373,4,Spotify,Funk & Soul Classics,Public 19
+Rick James,Come Get It! (Expanded Edition),Mary Jane,5hWLHFSmomXmeTXEE478My,0.537,0.82,11,-7.011,0,0.127,1.93e-06,0.432,0.881,94.429,297347,4,Spotify,Funk & Soul Classics,Public 19
+The Brothers Johnson,Right On Time,Strawberry Letter 23,00kvKlIvfzQLSi6T2zwXuS,0.73,0.622,7,-11.7,0,0.0532,0.00874,0.111,0.752,90.973,299067,4,Spotify,Funk & Soul Classics,Public 19
+Martha Reeves & The Vandellas,Dance Party,Nowhere To Run,1WPqawIF9HCKfSOt7mN6X0,0.606,0.815,2,-9.377,0,0.0485,0.00566,0.0515,0.877,129.34,181640,4,Spotify,Funk & Soul Classics,Public 19
+Marvin Gaye,Take Two,It Takes Two,0UERoCKd24PKovd4BwRzBQ,0.523,0.48,3,-10.923,1,0.0492,0,0.0751,0.81,151.4,177667,4,Spotify,Funk & Soul Classics,Public 19
+Kool & The Gang,Wild And Peaceful,Jungle Boogie,3K0SJUQNbOkUprTFcwwAKN,0.808,0.85,5,-8.772,1,0.0868,0.000109,0.316,0.717,106.855,186533,4,Spotify,Funk & Soul Classics,Public 19
+Eddie Floyd,Knock On Wood,Knock on Wood,3YJx77Xx8JSwEoxqrkQO5c,0.864,0.346,4,-12.918,1,0.0365,0.00521,0.0514,0.964,105.164,189840,4,Spotify,Funk & Soul Classics,Public 19
+The Brothers Johnson,Strawberry Letter 23: The Very Best Of The Brothers Johnson,Stomp! - Single Version,3EG65y2LtxWjfydabHdItb,0.859,0.782,10,-8.344,1,0.0369,0.0297,0.0693,0.931,119.518,247133,4,Spotify,Funk & Soul Classics,Public 19
+Lionel Richie,Back To Front,All Night Long - Single Version,4giIdAr7Plyu5LQzBOR4FP,0.744,0.583,1,-12.595,1,0.0427,8.54e-05,0.0248,0.851,108.794,260493,4,Spotify,Funk & Soul Classics,Public 19
+The Meters,The Meters,Cissy Strut,0WSlOSMLJWoWUpWci9nnRb,0.507,0.763,0,-12.732,1,0.0945,0.886,0.324,0.708,176.193,186853,4,Spotify,Funk & Soul Classics,Public 19
+James Brown,Motherlode,People Get Up And Drive Your Funky Soul - Remix,5U3i59kbTLrxo46TU1FRnF,0.8,0.802,0,-5.439,1,0.166,0.00379,0.0971,0.82,97.586,544640,4,Spotify,Funk & Soul Classics,Public 19
+Curtis Mayfield,Curtis (Expanded Edition),Move on Up - Extended Version,01gDLZsi0j5fWC28FLPNO8,0.584,0.975,11,-6.534,0,0.0651,0.501,0.101,0.876,138.341,535333,4,Spotify,Funk & Soul Classics,Public 19
+The Supremes,More Hits By The Supremes,Stop! In The Name Of Love - Single Version,52FlwUMMDnTK8TGkCag9Jd,0.612,0.444,0,-12.752,1,0.0293,0,0.126,0.503,114.961,172907,4,Spotify,Funk & Soul Classics,Public 19
+Nina Simone,Baltimore,Baltimore,39CyGKIFqMzSuynOR8uilD,0.638,0.28,9,-16.516,1,0.0673,0.439,0.0611,0.734,154.955,278867,4,Spotify,Funk & Soul Classics,Public 19
+Ike & Tina Turner,Workin' Together,Proud Mary,4ppxp8rJB8eOhM9TFm6dK2,0.599,0.46,2,-10.729,1,0.152,3.65e-05,0.15,0.715,96.429,297613,4,Spotify,Funk & Soul Classics,Public 19
+The First Edition,The First Edition,Just Dropped In (To See What Condition My Condition Was In),4Wrc3Jz4POj0ibPj5iuq0r,0.58,0.551,9,-9.898,0,0.0582,0.00719,0.15,0.516,115.896,201213,4,Spotify,Funk & Soul Classics,Public 19
+James Brown,Black Caesar,The Boss,6LzjgzpVl0hB3YrBU1b8Z1,0.736,0.354,1,-14.709,1,0.0475,0.0103,0.0757,0.62,97.924,194867,4,Spotify,Funk & Soul Classics,Public 19
+Dr. John,In The Right Place,Right Place Wrong Time,0I2ELF6uHlL4ABu9aFiou7,0.789,0.494,1,-13.702,1,0.0456,0.000408,0.144,0.826,104.593,175240,4,Spotify,Funk & Soul Classics,Public 19
+Bobby Womack,Midnight Mover: The Bobby Womack Story,Across 110th Street,2zyTP97uGsIc1C4KNNEkyn,0.476,0.585,11,-14.211,0,0.0478,1.43e-05,0.149,0.523,110.275,230507,4,Spotify,Funk & Soul Classics,Public 19
+Charles Wright & The Watts 103rd Street Rhythm Band,Express Yourself,Express Yourself,4pW3aTX3kAmOaPJfc9UM12,0.789,0.683,8,-8.835,1,0.086,0,0.35,0.882,92.311,233613,4,Spotify,Funk & Soul Classics,Public 19
+Various Artists,"Atlantic 60th: Soul, Sweat And Strut",Respect - 2003 Remaster,5AoTuHE5P5bvC7BBppYnja,0.744,0.611,0,-6.386,1,0.0333,0.000532,0.0692,0.961,114.991,142187,4,Spotify,Funk & Soul Classics,Public 19
+Sharon Jones & The Dap-Kings,Naturally,How Do I Let a Good Man Down?,30lSYnB1aJjmxuJFXhJuhD,0.654,0.965,7,-3.85,1,0.0559,0.333,0.0825,0.848,122.911,182827,4,Spotify,Funk & Soul Classics,Public 19
+Ann Peebles,I Can't Stand the Rain,I Can't Stand the Rain,0CcL4kSHKIEwF3IW0BGgb6,0.727,0.387,1,-12.333,1,0.0412,0.0102,0.0625,0.966,160.395,150400,4,Spotify,Funk & Soul Classics,Public 19
+Them,Complete Them (1964-1967) (feat. Van Morrison),"Baby, Please Don't Go (feat. Van Morrison)",5WUgOOaTk00PnksDekcgcg,0.72,0.705,5,-6.82,1,0.0408,1.12e-06,0.147,0.775,106.332,162293,4,Spotify,Funk & Soul Classics,Public 19
+Otis Redding,The Soul Album,Cigarettes and Coffee,4PFiLGx8jAzcAJxwPLUeZ9,0.483,0.275,0,-13.609,1,0.0418,0,0.125,0.31,138.063,240800,3,Spotify,Funk & Soul Classics,Public 19

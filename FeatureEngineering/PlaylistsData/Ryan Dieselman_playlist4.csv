@@ -1,0 +1,94 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Matoma,One in a Million,One in a Million,4JNmKxqZaTwwYoruiZTQMm,0.662,0.678,0,-5.976,1,0.0323,0,0.159,0.355,122.076,230164,3,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Matoma,One in a Million,I Don't Dance (Without You) [with Enrique Iglesias],3UEpGfsS1groLlFFt9s13K,0.644,0.733,9,-6.87,0,0.121,7.73e-05,0.507,0.336,104.99,177825,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Post Malone,beerbongs & bentleys,Better Now,7dt6x5M1jzdTEt8oCbisTK,0.68,0.578,10,-5.804,1,0.04,0,0.135,0.341,145.038,231267,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Avicii,Stories,Talk To Myself,5IZg7Ngm3CTOj9l00YSrt9,0.722,0.799,10,-4.336,0,0.0613,0.00435,0.0462,0.886,122.012,235800,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Avicii,Stories,Sunset Jesus,3Q95VQL8yWRO8mkF6VoDzi,0.61,0.788,7,-3.599,1,0.0646,1.06e-06,0.13,0.687,104.934,264733,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Avicii,Stories,Gonna Love Ya,1rDETmcizen79JghAEm1Se,0.718,0.666,3,-6.624,0,0.0489,0.0994,0.129,0.699,100.014,215813,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Jonas Blue,Blue,Drink To You,1qrqzZJcdo6EHybjc9VzgT,0.742,0.813,1,-5.103,1,0.0574,0,0.0607,0.702,120.01,210120,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Jonas Blue,Blue,Wild,1kefJuoRQ1cSCTH7Y7ZHhX,0.73,0.8,8,-3.956,1,0.0847,0,0.112,0.642,104.857,212640,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lost Frequencies,Less Is More,Beautiful Life (feat. Sandro Cavazza),5QdB0HJmTHkPvyJhKfQLM1,0.725,0.523,2,-6.494,0,0.0373,0.034,0.162,0.326,120.0,161907,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lost Frequencies,Less Is More,Sky Is The Limit (feat. Jake Reese),0qPcC3dWb5PV9xaK5p2JUd,0.743,0.507,11,-8.273,0,0.0354,0,0.175,0.622,115.986,147133,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lost Frequencies,Less Is More,Reality (feat. Janieck Devy) - Radio Edit,0cOBMETjhxublnnwhbnzJO,0.714,0.697,1,-7.887,0,0.032,2e-06,0.0697,0.602,122.145,159480,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lost Frequencies,Less Is More,Dance With Me,7wcmS6Z8XldFrXOVH6hUpU,0.704,0.65,2,-7.023,0,0.036,5.76e-06,0.0732,0.346,109.007,237907,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Post Malone,beerbongs & bentleys,Paranoid,3fpVWegR6YOS1Yk5HSMYIq,0.625,0.536,0,-5.428,1,0.0776,2.31e-05,0.167,0.253,159.914,221787,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Post Malone,beerbongs & bentleys,Spoil My Night (feat. Swae Lee),5VuxWXbt7XENQCtE9TzpTv,0.672,0.717,1,-2.714,1,0.034,2.4e-05,0.106,0.225,160.981,194560,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Post Malone,beerbongs & bentleys,Ball For Me (feat. Nicki Minaj),6IaieqiCVvsNvEt6Y7yOFa,0.797,0.55,9,-4.166,1,0.24,0,0.0786,0.543,134.206,206267,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Charlie Puth,Voicenotes,Attention,5cF0dROlMOK5uNZtivgu50,0.775,0.613,3,-4.586,0,0.0542,2.33e-05,0.134,0.797,100.066,208787,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Felix Jaehn,I,Hot2Touch,0m6M0TRGs7dOqZAryYcwiH,0.751,0.718,1,-5.289,0,0.0404,3.23e-05,0.155,0.854,121.993,160826,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Felix Jaehn,I,"Jennie (feat. R. City, Bori)",7uM7YZwNZqdDMG0NfGhmux,0.799,0.798,11,-5.407,1,0.183,0,0.0808,0.594,118.071,184231,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Jonas Brothers,Happiness Begins,Only Human,0DiDStADDVh3SvAsoJAFMk,0.795,0.496,0,-5.883,1,0.0722,0,0.0645,0.874,94.01,183000,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Jonas Brothers,Happiness Begins,Every Single Time,76F54HHrw84yqAYqrAJkbr,0.756,0.685,11,-5.176,0,0.0446,0,0.123,0.91,151.988,212093,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Various Artists,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Sunflower - Spider-Man: Into the Spider-Verse,3KkXRkHbMCARz0aVfEt68P,0.76,0.479,2,-5.574,1,0.0466,0,0.0703,0.913,89.911,158040,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,Suncity,Better,6zeeWid2sgw4lap2jV61PZ,0.596,0.552,0,-10.278,0,0.097,0.334,0.104,0.112,97.949,229320,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+The Weeknd,Heartless,Heartless,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0,0.111,7.6e-05,0.117,0.198,169.954,200080,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,Up All Night,Up All Night,1mpD5Q8IM32I4bF6eCpU74,0.665,0.712,1,-7.536,1,0.0527,0.00333,0.102,0.669,93.992,157220,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Post Malone,Hollywood's Bleeding,Take What You Want (feat. Ozzy Osbourne & Travis Scott),4Yq3XUNfWrAPWuB94qkC09,0.499,0.8,1,-2.665,0,0.0502,0,0.147,0.272,139.919,229573,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Drake,The Best In The World Pack,Money In The Grave (Drake ft. Rick Ross),5ry2OE6R2zPQFDO85XkgRb,0.831,0.502,10,-4.045,0,0.046,0,0.122,0.101,100.541,205427,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Ed Sheeran,No.6 Collaborations Project,Remember The Name (feat. Eminem & 50 Cent),0AtP8EkGPn6SwxKDaUuXec,0.852,0.666,11,-6.923,0,0.184,0,0.798,0.726,91.046,207760,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],Hot (Remix) [feat. Gunna and Travis Scott],56AMYGJzxBO6p8v0wEe9de,0.845,0.631,7,-8.206,0,0.216,0,0.0806,0.545,111.983,279907,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Various Artists,SHADYXV,Lose Yourself,77Ft1RJngppZlq59B6uP0z,0.689,0.735,2,-4.545,1,0.267,0.00072,0.365,0.059,171.403,320627,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+The Weeknd,Blinding Lights,Blinding Lights,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,1,0.0629,0.000209,0.0938,0.345,171.017,201573,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+DaBaby,KIRK,REALLY (feat. Stunna 4 Vegas),7vxGCUPJhe0fXfBkwVPFcP,0.943,0.654,1,-5.175,1,0.274,0,0.0893,0.608,100.091,139500,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+DaBaby,KIRK,"GOSPEL (feat. Chance The Rapper, Gucci Mane & YK Osiris)",0WoAkdHmgPmEXfiBox1flk,0.676,0.664,8,-4.435,1,0.343,0,0.0475,0.838,161.867,214893,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+DaBaby,KIRK,POP STAR (feat. Kevin Gates),2TsD9kSbgYx5fSNRsoNURE,0.815,0.76,6,-4.632,1,0.331,0,0.203,0.729,81.537,183145,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Eminem,Kamikaze,Greatest,2XTquzYQAdT1Hk78bOUwsv,0.809,0.737,1,-5.186,1,0.108,0,0.341,0.367,80.025,226938,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Eminem,Kamikaze,Stepping Stone,60Z57Wdrn0pEVpHI7d7GAX,0.616,0.684,7,-6.032,1,0.311,0,0.376,0.312,179.503,309638,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,Free Spirit,My Bad,2XKFnwB6djxrJCjR3PdeRb,0.577,0.578,0,-9.146,0,0.0907,0.59,0.264,0.367,84.963,163973,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Travis Scott,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,3eekarcy7kvN4yt5ZFzltW,0.598,0.427,7,-8.764,0,0.0317,5.83e-06,0.21,0.0605,76.469,175721,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,Free Spirit,Paradise,6fOOKqQWcSy33ApU1wqkkW,0.581,0.452,11,-9.558,1,0.15,0.00329,0.0881,0.523,75.046,173653,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,All Day Long,1g3ErLqysBJ5EIGdYYMWFZ,0.767,0.884,2,-3.674,1,0.161,0,0.103,0.717,123.01,208238,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,Do You Remember,67xBtV07CC73eFw7z5oCvU,0.606,0.655,6,-6.328,1,0.402,0,0.103,0.696,159.824,236686,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,Eternal,5LeStoyvjAHpM52IYogOq0,0.793,0.524,5,-6.229,0,0.148,0,0.0803,0.631,95.044,243915,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,We Go High,01GmGxOPy22EdAZGC0X6q1,0.657,0.644,5,-5.698,0,0.363,0,0.101,0.567,85.283,299168,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,I Got You (Always and Forever),333OkWOgbV6C8I5wRLfuSx,0.751,0.856,7,-3.29,1,0.267,0,0.12,0.574,101.932,281182,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Kanye West,My Beautiful Dark Twisted Fantasy,Dark Fantasy,7yNK27ZTpHew0c55VvIJgm,0.599,0.587,5,-5.919,1,0.0423,0,0.167,0.373,87.998,280787,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Kanye West,My Beautiful Dark Twisted Fantasy,Gorgeous,23SZWX2IaDnxmhFsSLvkG2,0.598,0.713,6,-3.625,0,0.0326,0.000175,0.431,0.118,91.964,357653,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Kanye West,My Beautiful Dark Twisted Fantasy,POWER,2gZUPNdnz5Y45eiGxpHGSc,0.542,0.914,0,-4.747,0,0.113,0,0.744,0.576,153.993,292093,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Juice WRLD,Bandit (with YoungBoy Never Broke Again),Bandit (with YoungBoy Never Broke Again),6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0,0.343,0,0.132,0.425,180.051,189323,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,Let's Go On The Run,4LvRT9c5IKxC8GHVPAAaHb,0.78,0.708,9,-5.111,1,0.405,0,0.046,0.66,164.979,221272,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Future,Life Is Good (feat. Drake),Life Is Good (feat. Drake),5yY9lUy8nbvjM1Uyo1Uqoc,0.676,0.609,2,-5.831,0,0.481,0,0.152,0.508,142.037,237735,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+G-Eazy,Still Be Friends (feat. Tory Lanez & Tyga),Still Be Friends (feat. Tory Lanez & Tyga),0JjM9bKm4wrwohMslcm892,0.803,0.759,7,-4.692,0,0.0494,0,0.0921,0.284,104.0,213308,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Russ,SHAKE THE SNOW GLOBE,GUESS WHAT (feat. Rick Ross),40FUPlp2KJvdHY5ABnK100,0.738,0.785,1,-10.035,1,0.272,1.59e-05,0.117,0.357,92.008,206013,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Eminem,The Marshall Mathers LP2 (Deluxe),Rap God,6or1bKJiZ06IlK0vFvY75k,0.708,0.843,7,-2.66,1,0.314,0,0.799,0.625,148.14,363521,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Ruel,Free Time,Painkiller,1YlulsUKDduOmC7WxvXYPW,0.683,0.42,5,-6.51,1,0.0542,0,0.225,0.469,128.621,213507,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+DaBaby,FIND MY WAY,FIND MY WAY,1lGHa2pwYzxQHFBUynhLtO,0.836,0.624,4,-6.75,0,0.184,0,0.138,0.7,103.0,139890,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+DaBaby,BLAME IT ON BABY,ROCKSTAR (feat. Roddy Ricch),7ytR5pFWmSjzHJIeQkgog4,0.746,0.69,11,-7.956,1,0.164,0,0.101,0.497,89.977,181733,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,American Teen,American Teen,312WNtMs3F28cUukaPY9bo,0.658,0.623,0,-6.934,1,0.0398,0,0.321,0.207,100.436,250747,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,American Teen,Location,152lZdxL1OR0ZMW6KquMif,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Khalid,American Teen,8TEEN,5bgwqaRSS3M8WHWruHgSL5,0.83,0.585,1,-5.802,1,0.0366,0.00209,0.0576,0.642,105.03,228600,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Jack Harlow,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",2MbdDtCv5LUVjYy9RuGTgC,0.904,0.723,11,-5.224,0,0.26,0,0.185,0.835,145.013,227478,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Ruel,Dazed & Confused,Dazed & Confused,2pyjbGTpJCPjMYwCbdymiF,0.688,0.5,2,-7.411,1,0.138,0,0.355,0.418,127.906,189608,3,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Joel Corry,Head & Heart (feat. MNEK),Head & Heart (feat. MNEK),4wosxLl0mAqhneDzya2MfY,0.732,0.874,8,-3.158,1,0.0662,1.17e-05,0.0489,0.905,122.961,166028,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Christian French,head first,head first,1nDOeWBfRKA5YNQ8bKWzMM,0.909,0.392,6,-6.221,0,0.0652,1.77e-06,0.106,0.61,127.052,154961,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Niall Horan,Heartbreak Weather,Nice To Meet Ya,0DrFTaAX2srXPkuag35djb,0.591,0.841,4,-4.351,0,0.0304,0,0.395,0.392,109.034,158805,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Ruel,Free Time,Face To Face,2QdVcmVPIxW826rRJDf58l,0.711,0.634,9,-4.351,1,0.0668,0,0.103,0.356,90.04,203747,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Calvin Harris,Over Now (with The Weeknd),Over Now (with The Weeknd),58AGoOGbwsQMhBbH0eFLRR,0.612,0.884,4,-4.113,0,0.0454,0.00132,0.247,0.679,178.043,210795,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,The Big Day,Get A Bag,3NEjuId3qYDT482ykUBbeI,0.698,0.715,11,-5.17,1,0.0841,0,0.0887,0.679,153.981,201079,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Samm Henshaw,Broke,Broke,1JqcZQCnxjDOfZZwQidb1H,0.751,0.684,1,-4.325,1,0.303,5.92e-06,0.18,0.864,89.984,207722,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Donnie Trumpet & The Social Experiment,Surf,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,0.511,0.596,0,-6.56,1,0.224,0,0.0798,0.554,158.063,226014,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Pop Smoke,Shoot For The Stars Aim For The Moon,What You Know Bout Love,1tkg4EHVoqnhR6iFEXb60y,0.709,0.548,10,-8.493,1,0.353,1.59e-06,0.133,0.543,83.995,160000,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Alexander Lewis,OMNI.,Pearl Magnolia,4tH7y3blkt051mLmvdXQbC,0.781,0.802,6,-5.889,1,0.279,0,0.0683,0.192,112.913,241540,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Robotaki,Brooklyn '95,Brooklyn '95,1KxLWCQJG4RSeymZdHhDOV,0.691,0.664,7,-5.445,0,0.388,7.56e-05,0.275,0.53,95.923,217500,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Towkio,.WAV Theory,Heaven Only Knows,4XseX48eNHfBNRzyCoBc9K,0.628,0.734,5,-6.035,0,0.13,0,0.54,0.665,87.062,224082,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Dua Lipa,Future Nostalgia,Levitating (feat. DaBaby),5nujrmhLynf4yMoMtj8AQF,0.702,0.825,6,-3.787,0,0.0601,0,0.0674,0.915,102.977,203064,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lil Nas X,MONTERO (Call Me By Your Name),MONTERO (Call Me By Your Name),3BZEcbdtXQSo7OrvKRJ6mb,0.61,0.508,8,-6.682,0,0.152,0,0.384,0.758,178.818,137876,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Justin Bieber,Justice,Peaches (feat. Daniel Caesar & Giveon),4iJyoBOLtHqaGxP12qzhQI,0.677,0.696,0,-6.181,1,0.119,0,0.42,0.464,90.03,198082,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),5iUQMwxUPdJBFeGkePtM66,0.836,0.67,5,-6.907,0,0.23,0.000355,0.0837,0.556,107.018,305350,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Aminé,Good For You,Heebiejeebies - Bonus,32xx0fAv3CIeGmNaWTHvEF,0.765,0.5,1,-7.626,1,0.152,0,0.108,0.495,107.043,220160,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Chance the Rapper,Coloring Book,"Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",2AgnbuzvnfPvq1sAYNB4pj,0.456,0.609,7,-6.439,0,0.377,0,0.0724,0.41,86.368,406983,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,The Bird,5wWbp6br0ziiy6OZ9iPVz6,0.508,0.556,11,-10.471,1,0.448,0.000297,0.0824,0.64,149.474,225503,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Heart Don't Stand a Chance,2WizYk0YTQtap38SPYImqB,0.679,0.396,7,-11.717,1,0.051,7.98e-06,0.0669,0.537,93.949,316204,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,The Waters (feat. BJ the Chicago Kid),5VeJ6TMOv4T4pIGv5TY1hd,0.751,0.633,6,-6.327,1,0.322,0,0.0903,0.661,91.274,161771,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,The Season | Carry Me,4JfEtJUQGO6nl7lzfAmHyo,0.382,0.713,1,-7.66,1,0.381,0,0.28,0.587,78.914,324796,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Put Me Thru,3Hn7FUkvciiwbnxQTUMyjf,0.733,0.756,5,-4.819,0,0.0579,5.06e-05,0.127,0.665,107.939,164444,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Am I Wrong (feat. ScHoolboy Q),2kDL9xAqKwvbLvB0SzPOQL,0.761,0.734,11,-8.665,0,0.0765,0.00378,0.117,0.624,115.001,256696,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Parking Lot,4RXsO52NE8cpOZs1cl6ggA,0.639,0.877,9,-8.541,1,0.0398,0.326,0.547,0.683,97.022,244634,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Lite Weight (feat. The Free Nationals United Fellowship Choir),1dSRAXcO3kxrThimhkzRhx,0.67,0.693,8,-13.034,0,0.236,0.000589,0.102,0.366,120.045,203996,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Come Down,7qsF31mlCOvFDDZpEiS0Sk,0.835,0.902,10,-7.178,0,0.0984,0.0199,0.262,0.911,98.393,169727,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,Silicon Valley,4VNOte89ayUbJWUyYCNW73,0.568,0.422,6,-9.951,1,0.165,0,0.0468,0.474,119.023,248733,3,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Anderson .Paak,Malibu,The Dreamer (feat. Talib Kweli & Timan Family Choir),7dR1He5QpBIpYPmcuzif9j,0.577,0.767,9,-4.143,1,0.252,0,0.518,0.413,164.597,333237,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Rex Orange County,Pony,Never Had The Balls,5h68UTytwmTJDwoGbqLwzV,0.696,0.677,5,-7.812,1,0.0369,0.000273,0.0508,0.351,150.034,236893,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Sniper Gang,Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies,Super Gremlin,4A8cWXxKfIL3lAyUDzXbCF,0.825,0.414,2,-6.634,1,0.144,0,0.357,0.106,72.993,200548,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Lil Nas X,MONTERO,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,0.741,0.691,10,-7.395,0,0.0672,0,0.0476,0.892,150.087,212353,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman
+Eminem,The Marshall Mathers LP,The Real Slim Shady,3yfqSUWxFvZELEM4PmlwIR,0.949,0.661,5,-4.244,0,0.0572,0,0.0454,0.76,104.504,284200,4,Ryan Dieselman,Pop / Rap,Ryan Dieselman

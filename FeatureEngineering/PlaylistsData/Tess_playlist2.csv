@@ -1,0 +1,28 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Various Artists,2000s R&B Hits,Peaches and Cream,0w4Gr1WRPTG6f3o3sfBcU5,0.677,0.52,4,-6.255,0,0.334,0,0.0532,0.768,203.862,193093,4,tessvictoria,I should have been cast in step up,Tess
+112,Part III,Dance With Me,6uRH1qMz30ZBwwUG0IYE5s,0.912,0.511,9,-6.365,1,0.203,0,0.0442,0.611,101.628,231800,4,tessvictoria,I should have been cast in step up,Tess
+Cassie,Cassie (U.S. Version),Me & U,7k6IzwMGpxnRghE7YosnXT,0.803,0.454,8,-4.802,0,0.0294,0,0.0655,0.739,99.99,192213,4,tessvictoria,I should have been cast in step up,Tess
+Christina Aguilera,Stripped,Fighter,7nXq1vaZiz7PdbfojpPjW5,0.435,0.92,4,-1.357,0,0.201,0.000353,0.552,0.45,188.899,245960,4,tessvictoria,I should have been cast in step up,Tess
+Destiny's Child,The Writing's On The Wall,Say My Name,7H6ev70Weq6DdpZyyTmUXk,0.713,0.678,5,-3.525,0,0.102,0,0.149,0.734,138.009,271333,4,tessvictoria,I should have been cast in step up,Tess
+Various Artists,R&B: From Doo-Wop To Hip-Hop,Pony,6mz1fBdKATx6qP4oP1I65G,0.749,0.605,8,-9.359,0,0.086,0.0381,0.115,0.966,142.024,251733,4,tessvictoria,I should have been cast in step up,Tess
+Omarion,21,Ice Box,5qhlC4Rzals34zxovrPzKp,0.775,0.731,8,-5.446,1,0.134,0,0.129,0.821,131.105,256427,4,tessvictoria,I should have been cast in step up,Tess
+Various Artists,Step Up Soundtrack,Show Me The Money,6lob8yGQuretKACtogsaQL,0.863,0.772,0,-2.278,1,0.114,0,0.206,0.83,110.514,224680,4,tessvictoria,I should have been cast in step up,Tess
+Various Artists,Step Up Soundtrack,(When You Gonna) Give It Up To Me (feat. Keyshia Cole),0BATGJ28ZHGukmxjV2EWOW,0.552,0.759,8,-3.019,1,0.269,0,0.0425,0.676,96.002,243773,4,tessvictoria,I should have been cast in step up,Tess
+T-Pain,Epiphany,Church (feat. Teddy Verseti),4OpjzcmQ7rIJ5XNjWJfCnG,0.79,0.807,1,-5.56,1,0.14,3.05e-05,0.34,0.964,80.019,241773,4,tessvictoria,I should have been cast in step up,Tess
+Timbaland,Shock Value,Bounce,4ymByZAPRqTlyJASAoJ921,0.57,0.774,1,-3.677,0,0.25,0.000332,0.199,0.229,65.964,244293,4,tessvictoria,I should have been cast in step up,Tess
+Trey Songz,Trey Day,Can't Help but Wait,5k3VjTwIsOjQ2woGz3Yx71,0.699,0.699,8,-5.564,0,0.0737,0,0.0912,0.611,94.977,206413,4,tessvictoria,I should have been cast in step up,Tess
+Cupid,Time for a Change,369 (feat. B.o.B.),6hRxkub3GwimKCrH8MJ3y2,0.624,0.898,4,-3.756,0,0.276,1.03e-06,0.319,0.441,166.074,211347,4,tessvictoria,I should have been cast in step up,Tess
+Kevin Michael,Kevin Michael,We All Want the Same Thing (feat. Lupe Fiasco & Akil Dasan) - Acoustic Version,1Vf3T6AkuIZJZVjK2p3dkx,0.772,0.625,10,-7.029,0,0.158,0,0.102,0.797,93.988,243293,4,tessvictoria,I should have been cast in step up,Tess
+Usher,My Way,You Make Me Wanna...,47TqCCnEliDp8NRDyIQoQq,0.761,0.639,5,-7.577,0,0.0539,0,0.0945,0.922,164.088,219120,4,tessvictoria,I should have been cast in step up,Tess
+Blackstreet,Another Level,No Diggity,6MdqqkQ8sSC0WB4i8PyRuQ,0.867,0.646,1,-4.674,0,0.288,0,0.279,0.67,88.634,304600,4,tessvictoria,I should have been cast in step up,Tess
+Usher,8701,U Remind Me,2QsZVnbWVSjKMXK6K3uRBL,0.657,0.629,6,-4.938,1,0.0782,0,0.254,0.726,93.985,266893,4,tessvictoria,I should have been cast in step up,Tess
+Ashanti,Chapter II,Rock Wit U (Awww Baby),6pWzCKTrKrwbUPzY8RLCoP,0.71,0.797,4,-3.006,0,0.0582,0,0.16,0.849,94.998,209120,4,tessvictoria,I should have been cast in step up,Tess
+Beyoncé,B'Day,Get Me Bodied,6fmeXejj4CNkAQ78yao7oE,0.865,0.829,0,-6.981,0,0.315,0,0.253,0.651,96.511,205813,4,tessvictoria,I should have been cast in step up,Tess
+Beyoncé,B'Day,Upgrade U (feat. Jay-Z),6V1nOgkrGmr6Wx1x4RQ6Bc,0.474,0.683,7,-5.585,1,0.397,0.000123,0.309,0.509,169.51,272707,4,tessvictoria,I should have been cast in step up,Tess
+Beyoncé,B'Day,Ring The Alarm,63THThIOBNIl93zs8JuAfk,0.456,0.742,2,-8.39,1,0.481,0.000223,0.0837,0.428,168.507,203200,4,tessvictoria,I should have been cast in step up,Tess
+Beyoncé,B'Day,Green Light,5fJZwKCPUicgfqkmh1R8ES,0.796,0.568,10,-7.071,0,0.0631,1.11e-05,0.256,0.729,107.034,209107,4,tessvictoria,I should have been cast in step up,Tess
+Beyoncé,B'Day,Irreplaceable,1G7DcLzPnopdZjLkev0K4e,0.576,0.697,10,-4.192,1,0.326,1.15e-06,0.167,0.501,175.906,227667,4,tessvictoria,I should have been cast in step up,Tess
+Chali 2na,Fish Outta Water,International,5XvWxzn5JYdrCsfPR9KPu3,0.842,0.745,8,-4.835,1,0.349,0.000127,0.428,0.725,107.143,211667,4,tessvictoria,I should have been cast in step up,Tess
+Muni Long,Public Displays Of Affection,Hrs & Hrs,3M5azWqeZbfoVkGXygatlb,0.523,0.521,6,-4.746,1,0.159,0,0.107,0.661,133.953,204317,3,tessvictoria,I should have been cast in step up,Tess
+BAYNK,What You Need,What You Need,7j1Q7Xx6Ozn5mUJfrqaSjp,0.805,0.658,6,-6.137,1,0.0702,0.0133,0.124,0.305,114.972,218087,4,tessvictoria,I should have been cast in step up,Tess
+Missy Elliott,WTF (Where They From) [feat. Pharrell Williams],WTF (Where They From) [feat. Pharrell Williams],7IAa7vUJ11STN7le8XaxsH,0.932,0.819,8,-3.484,0,0.203,6.81e-06,0.0577,0.556,119.941,192773,4,tessvictoria,I should have been cast in step up,Tess

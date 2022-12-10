@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Ed Sheeran,x (Deluxe Edition),One,5TvFfDlVoUWZvfqrhTJzD7,0.464,0.321,2,-11.12,1,0.0418,0,0.0789,0.306,93.528,252760,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lizzy McAlpine,Give Me A Minute,Apple Pie,5FKNq0lLJnP3iZzBTD0PZj,0.518,0.208,10,-12.273,1,0.0363,5.15e-06,0.12,0.42,179.836,259167,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,papá,5NLb6mslMMlS5idM7VNhBh,0.747,0.488,2,-9.424,1,0.0788,0.000365,0.183,0.58,103.964,116000,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,x (Deluxe Edition),I'm a Mess,0xCA70t1ZA4fa9UOE0lIJm,0.697,0.377,3,-7.755,1,0.0397,0,0.0999,0.336,138.754,244573,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Taylor Swift,Red (Taylor's Version),Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),7qEUFOVcxRI19tbT68JcYK,0.498,0.61,6,-5.098,1,0.0363,0,0.223,0.474,79.918,245427,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Harry Styles,Harry's House,Matilda,6uvh0In7u1Xn4HgxOfAn8O,0.507,0.294,2,-10.0,1,0.04,1.97e-05,0.0966,0.386,114.199,245964,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,Places We Won't Walk,0wfnEetPwlLHmnzhRXvPuk,0.392,0.0894,3,-16.046,1,0.0476,6.06e-05,0.108,0.195,87.641,169410,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Taylor Swift,evermore,champagne problems,0sY6ZUTh4yoctD8VIXz339,0.462,0.24,0,-12.077,1,0.0377,0,0.113,0.32,171.319,244000,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,x (Deluxe Edition),Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,0.614,0.379,4,-10.48,1,0.0476,0.000464,0.0986,0.201,107.989,258987,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,x (Deluxe Edition),Thinking out Loud,34gCuhDGsG4bRPIf9bb02f,0.781,0.445,2,-6.061,1,0.0295,0,0.184,0.591,78.998,281560,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+John Lennon,Imagine,Imagine - Remastered 2010,7pKfPomDEeI4TPT6EOYjn9,0.547,0.257,0,-12.358,1,0.0252,0.183,0.0935,0.169,75.752,187867,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,The First Thing You See,5jcZFcrp4Tmv3x5GkmZL88,0.648,0.525,2,-5.898,1,0.0516,0.063,0.104,0.245,88.602,231732,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,Just The Same,5hmjpbBTy8TxV9wDKifSub,0.426,0.295,5,-8.337,1,0.0764,0,0.0941,0.355,174.379,205029,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,There's Little Left,7Jpbi0eEG3WGUhScLt5BgA,0.514,0.278,2,-10.861,1,0.0517,0.00268,0.108,0.185,106.44,214622,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,Wouldn't Mean A Thing,2My7DsxhZodhsguIHCqAGm,0.567,0.196,6,-12.008,1,0.162,3.63e-05,0.112,0.455,121.316,174167,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lizzy McAlpine,Give Me A Minute,Nothing / Sad N Stuff,4VpSEwNbwZp2MldPAzrsad,0.328,0.158,4,-12.174,1,0.032,7.69e-06,0.121,0.192,72.959,267053,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Calum Scott,Only Human (Deluxe),You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,0.329,0.235,10,-7.699,1,0.0303,0,0.137,0.22,171.006,204326,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Chance the Rapper,The Big Day,We Go High,01GmGxOPy22EdAZGC0X6q1,0.657,0.644,5,-5.698,0,0.363,0,0.101,0.567,85.283,299168,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Powers,Tell Me Why,Tell Me Why,37cyP40dvksSlBoLLnaNec,0.38,0.593,7,-7.29,1,0.216,0,0.151,0.293,62.607,177426,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Greyson Chance,portraits,shut up,7m97u5zpSWqkDjN4uwY2LP,0.821,0.448,9,-4.33,1,0.0468,3.26e-06,0.0683,0.45,105.006,170364,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Jeremy Zucker,"summer,",comethru,18uwL0vNUanqZH0ro2QcOP,0.795,0.178,0,-11.991,1,0.0574,0,0.623,0.608,93.982,181613,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Joel Christopher,Directions,Directions,1pDNWd6hRhgbtJimXuaxYA,0.718,0.449,0,-8.986,1,0.0416,1.32e-06,0.18,0.277,100.012,188224,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+John Legend,Conversations in the Dark,Conversations in the Dark,6TYlDTa9AQDvjqwbxlvFyI,0.372,0.355,8,-8.436,0,0.03,0,0.167,0.142,126.705,237427,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Jordy Searcy,Just Like Autumn,Just Like Autumn,0bZZNwJasFbtNMXGeNeI98,0.566,0.237,2,-15.012,1,0.0704,0.0551,0.0881,0.137,92.445,215080,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Kevin Abstract,ARIZONA BABY,Peach,5JRMqkR82k2fdDEAim9SCN,0.646,0.682,7,-5.847,1,0.0759,4.84e-06,0.107,0.421,131.895,176732,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Khalid,Free Spirit,Paradise,6fOOKqQWcSy33ApU1wqkkW,0.581,0.452,11,-9.558,1,0.15,0.00329,0.0881,0.523,75.046,173653,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Kid Travis,Fly Me to the Moon,Fly Me to the Moon,5BO35TVJhmHiopIv0FVWpw,0.458,0.293,5,-12.748,1,0.0798,9.86e-05,0.119,0.408,116.835,128000,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lauv,Feelings,Feelings,0y675KDleCZEudjoeL1sQQ,0.694,0.466,9,-6.758,1,0.0384,0,0.098,0.246,103.018,189613,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Landon Austin,Best Part of Me,Best Part of Me,1TGc605tt6PcRthraCNlR8,0.527,0.578,2,-7.966,1,0.0355,0,0.074,0.386,81.116,197094,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Retty,Falling,Falling,6FVXqXsyZJa8HmWVkouYAt,0.594,0.443,5,-11.18,1,0.0313,0.000362,0.0929,0.4,129.974,217365,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Livingston,Lighthouse,Carnival,3lfkMiXGzdTgZIqzM2HE8i,0.75,0.466,0,-5.791,1,0.174,0,0.133,0.718,76.999,190130,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lukas Graham,Lukas Graham,7 Years,5kqIPrATaCc2LqxVWzQGbk,0.765,0.473,10,-5.829,1,0.0514,0,0.391,0.34,119.992,237300,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Maroon 5,It Won't Be Soon Before Long.,Better That We Break,1EQoBUXD7EApSye8jmJTTg,0.52,0.613,0,-3.238,1,0.0268,0,0.13,0.383,79.914,186307,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Maroon 5,Memories,Memories,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,1,0.0546,0,0.0822,0.575,91.019,189486,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Meghan Trainor,THE LOVE TRAIN,Marry Me,3FNhIlb1fONI20QrBa1QQK,0.66,0.274,0,-8.827,1,0.0309,0,0.167,0.579,135.791,215982,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Meghan Trainor,THE LOVE TRAIN,After You,1V6kjI8AMCH8paMeD2mkOu,0.499,0.344,1,-6.897,0,0.025,0,0.154,0.171,85.833,206355,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Michael McCormic Jr.,The Funnyman's Smile,The Funnyman's Smile,0rqyFEpD7i5UI8COo9AJnJ,0.428,0.27,2,-11.275,1,0.0387,0,0.101,0.455,169.794,393003,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Mikey Jose,Stay @ Home,Stay @ Home,20CTZXOtE2lZ3KuU3i76qk,0.77,0.487,11,-10.903,1,0.454,0,0.197,0.864,77.468,231871,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Passenger,All The Little Lights,Let Her Go,7DFNE7NO0raLIUbgzY2rzm,0.509,0.538,7,-7.335,1,0.0572,0,0.104,0.244,75.089,252867,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Pentatonix,PTX Vol. IV - Classics,Can't Help Falling In Love,1xKScU3i8ho0OIhNoC5YW9,0.272,0.16,9,-9.947,1,0.0323,0,0.18,0.142,98.612,178200,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Pentatonix,Pentatonix (Deluxe Version),Light In The Hallway,0NoKGLAnGN25F1QvHpazti,0.216,0.0672,6,-16.235,1,0.0348,0,0.132,0.153,102.328,254707,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Pentatonix,At Home,Dreams,6KDuMVPOs3eZOZFLskgaVR,0.488,0.184,4,-7.497,1,0.0344,0,0.0887,0.215,126.884,177964,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Pentatonix,"PTX, Vol. 2",Valentine,5djjmpqAOlne6d5RSHQmvu,0.677,0.437,8,-9.059,1,0.0478,3e-05,0.163,0.464,151.876,157027,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Mariposa,Mariposa,4ja2gzrNh9VNigzoXfmbwD,0.676,0.525,9,-5.88,1,0.028,0,0.356,0.421,112.011,210000,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ruel,Dazed & Confused,Dazed & Confused,2pyjbGTpJCPjMYwCbdymiF,0.688,0.5,2,-7.411,1,0.138,0,0.355,0.418,127.906,189608,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ruel,Free Time,Face To Face,2QdVcmVPIxW826rRJDf58l,0.711,0.634,9,-4.351,1,0.0668,0,0.103,0.356,90.04,203747,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ruel,Free Time,Painkiller,1YlulsUKDduOmC7WxvXYPW,0.683,0.42,5,-6.51,1,0.0542,0,0.225,0.469,128.621,213507,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Sam Smith,Diamonds,Diamonds,5hvwx5i67IwnCkjl9VHkNv,0.653,0.667,10,-6.764,0,0.0423,0,0.107,0.556,104.181,213869,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,To Let A Good Thing Die,The Most Beautiful Thing,5unXHHcSQLGO19RuVqZB6d,0.806,0.362,7,-10.381,1,0.0345,0.045,0.111,0.42,127.502,235427,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,To Let A Good Thing Die,Nothing,2IAR0DziHCjSu16gR4ihvy,0.555,0.27,2,-15.892,1,0.0884,0.536,0.103,0.274,139.691,162797,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,To Let A Good Thing Die,Figment Of My Mind,3eZS4TyX2KMvD621AD9MqY,0.365,0.134,5,-15.855,0,0.0389,0.0134,0.109,0.147,86.412,215867,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Whicher,Stormy Weather,Stormy Weather,7M5dDVwoizHbP4jzgps0Fp,0.713,0.444,1,-9.824,1,0.121,0,0.313,0.589,87.83,197727,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,To Let A Good Thing Die,Regent's Park,2lU8zMzPhEEDuiUUcUIZAL,0.651,0.33,1,-11.079,1,0.28,1.58e-05,0.108,0.374,63.251,177413,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Johnny Stimson,Flower,Flower,7fIFq5maHJBEPay9eyQTkp,0.488,0.361,0,-7.682,0,0.209,0,0.0989,0.5,196.813,173231,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,Easily,2k9N4caeCIJLOWwWwssrEM,0.772,0.256,7,-8.545,0,0.0481,0.00612,0.144,0.357,118.902,210240,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Bruno Major,A Song For Every Moon,Home,4OsBjrJQbPSMAqdjLBaGOt,0.479,0.446,11,-7.291,1,0.0377,2.49e-06,0.0926,0.118,130.63,200620,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,No.6 Collaborations Project,Best Part of Me (feat. YEBBA),0VsGaRXR5WAzpu51unJTis,0.565,0.243,2,-8.367,1,0.0317,8.82e-06,0.285,0.239,81.655,243267,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ben Rowley,Rain,Rain,3vd1kGy66qEnvWJHGLeiRe,0.164,0.124,8,-17.445,1,0.0429,0.0204,0.107,0.107,81.12,289500,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Stephen Day,Undergrad Romance and the Moses in Me,Hey Lady,005GaX6hvgeTFnR9FvejTE,0.782,0.341,3,-7.646,1,0.0311,0.000111,0.109,0.709,97.044,230103,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,Afterglow,Afterglow,0E4Y1XIbs8GrAT1YqVy6dq,0.641,0.324,11,-5.851,1,0.0299,0,0.328,0.273,110.184,185487,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,0.522,0.385,0,-7.355,1,0.0288,0,0.135,0.236,89.792,207520,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,÷ (Deluxe),Save Myself,6TIU9Ehmi6dMzZK73Ym4yj,0.552,0.29,10,-5.617,1,0.0448,0,0.227,0.481,78.842,247107,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,÷ (Deluxe),How Would You Feel (Paean),6PJ8FF6UR8FZXfEvpHkIVN,0.617,0.439,9,-5.63,1,0.0269,0,0.127,0.242,139.979,280533,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Seal,Seal,Kiss from a Rose,3YKptz29AsOlm7WAVnztBh,0.584,0.533,10,-7.11,0,0.0305,0,0.306,0.224,131.745,288427,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lord Huron,Strange Trails,The Night We Met,0QZ5yyl6B6utIWkxeBDxQN,0.545,0.366,2,-9.51,1,0.0378,0.267,0.641,0.1,86.997,208212,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Plain White T's,Wonders Of The Younger,Rhythm Of Love,6MDTpYxPFL0wtFd0pjfKws,0.531,0.542,8,-7.721,1,0.0432,0,0.119,0.726,171.878,200200,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lohai,Baby I Know You Will,Baby I Know You Will,7oGED5qgkLXDiCSwRrhJJV,0.674,0.439,4,-8.669,1,0.0708,4.23e-05,0.36,0.581,80.001,251089,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+The Tuesday Crew,Summer Lovin',Summer Lovin',3hqXUcu06ajELPBS3uhCD1,0.796,0.331,0,-9.903,1,0.0521,0,0.159,0.632,137.968,241244,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Johnny Stimson,Smile,Smile,2HbmLbfMj0m3gMd9E5c9iu,0.511,0.323,2,-10.225,1,0.227,0,0.0862,0.435,87.889,162784,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Annalis Chaves,Midnight Eyes,Midnight Eyes,0DOSb5vfqSbtnKhoYViafr,0.657,0.459,9,-7.837,1,0.0348,0,0.128,0.774,112.089,159311,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Lawrence,Hotel TV,Jet Lag,4RXiOM7Z540g4QeyjOcoUn,0.543,0.34,6,-7.235,1,0.0392,0.000324,0.112,0.268,67.04,226107,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Joey Dosik,Game Winner - EP (Deluxe Edition),Running Away,0wpjR48SjbwsHxd7CeaRse,0.574,0.591,10,-8.559,1,0.0762,0.00116,0.108,0.445,150.429,271368,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,=,First Times,5QYnNhTKsN3kE7OaqILA1U,0.587,0.267,8,-9.206,1,0.0349,0,0.121,0.352,98.845,185853,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,=,The Joker And The Queen,3NuLxTXowTRcguTh9RsPmM,0.567,0.211,0,-9.975,1,0.0315,5.24e-05,0.275,0.289,134.019,185587,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,=,Collide,5sv0WnUs74Orn6GoPmC5im,0.672,0.73,5,-4.77,1,0.0372,0,0.0612,0.559,123.969,210213,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,=,Love In Slow Motion,1i4F583d9v9RabcfOlKKVL,0.485,0.54,1,-5.4,1,0.0253,0,0.0849,0.426,62.631,190933,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Ed Sheeran,=,Visiting Hours,0rt63HYAAIzUZo5O2D0uA6,0.471,0.396,8,-6.654,1,0.0336,0,0.0729,0.263,149.609,215507,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,Waiting,6MFGjyBoxQILWCh86eIeiz,0.509,0.561,4,-5.702,1,0.0269,3.16e-05,0.391,0.143,149.857,328027,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,Fading Marks,7ltRMmOyqUPTiqaN0tFTBo,0.664,0.561,1,-7.708,0,0.0331,0.000104,0.17,0.19,111.043,276280,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Pluto,Haunted House,0ocxWlAjg3R6lCQrTtDHv9,0.535,0.618,8,-5.762,0,0.0343,0.00932,0.0996,0.375,77.014,291867,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+DAP The Contract,Everybody Falls in the Summer (Radio Edit),Nobody Like You,5kX95xAwtGRyaUZ7tA8667,0.677,0.366,9,-10.376,1,0.0397,0,0.206,0.646,95.956,202528,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Rex Orange County,Pony,Every Way,7HOsPWfUoMjc2tcC4hVyQV,0.416,0.0994,1,-15.182,1,0.0789,1.26e-06,0.1,0.428,76.664,133440,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Rex Orange County,Pony,It's Not The Same Anymore,7vRia9rlEuTDQxkfXIKySi,0.666,0.317,5,-10.644,1,0.0327,3.74e-05,0.111,0.359,117.676,386200,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Josh Gilligan,Absent Mind,Absent Mind,76H4U0NraH8rXvGpOEMy99,0.752,0.438,2,-11.39,1,0.0758,2.85e-05,0.104,0.788,154.034,228468,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,Doing Fine,2U7nIFWDRQQ3egW7Xlxzec,0.75,0.588,1,-6.633,1,0.0819,6.1e-05,0.0898,0.2,136.03,160000,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,LEAVE ME,3R3GAY8nB2Joou8PinyRXy,0.751,0.673,9,-4.942,1,0.0338,1.65e-06,0.108,0.631,97.976,134194,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,JoJo,2e7Wr9ggNfiOvMYGtsODCb,0.736,0.463,6,-8.449,1,0.133,2.06e-05,0.166,0.533,131.933,163039,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,Change My Mind,1ZfxcTixSOyekIujxr1fa0,0.7,0.64,1,-5.53,1,0.209,0,0.352,0.742,177.854,121358,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,Pockets,1QThcGWkbWNbS4G3g6yz7J,0.452,0.425,6,-10.713,1,0.0297,0.124,0.148,0.739,156.321,180930,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Peach Tree Rascals,Camp Nowhere,Oh Honey! (I Love You),6WJX8lUtURDN1r15t4cAUE,0.769,0.386,11,-7.82,1,0.0425,1.29e-05,0.172,0.431,125.012,189993,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Burg,"One, Violet",Lovesong (The Way) [feat. Bluets],4JkKXuKp2RdbE5M7L4z19Z,0.555,0.468,9,-7.64,1,0.0592,0,0.172,0.41,113.345,239523,3,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Burg,"One, Violet",Warm Rain Clap,3Aso1tGon7CgxvJvKJ1nVS,0.626,0.42,10,-10.538,1,0.124,0.0481,0.129,0.183,84.996,176781,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Burg,"One, Violet",Intentions,6fLlIJberJNX45w4xlvRUL,0.564,0.484,8,-9.201,1,0.345,0,0.36,0.495,116.332,222836,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Walker Burroughs,The Moon Song,The Moon Song,0PjfFGGmQtlypD5LL4iv3m,0.456,0.138,5,-15.506,1,0.0326,3.19e-06,0.101,0.152,106.162,287714,5,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Burg,"One, Violet",Sky Blue,7LBfw9lwRsYeOmkvWUiybQ,0.734,0.589,6,-8.614,0,0.326,2.86e-05,0.23,0.688,94.814,198469,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Charlie Burg,"One, Violet","Art History, Pt. 1",0i10RVC3V0TZREaG8DNVTP,0.675,0.206,5,-11.891,1,0.0841,0,0.103,0.394,96.841,182625,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Anderson .Paak,Malibu,The Bird,5wWbp6br0ziiy6OZ9iPVz6,0.508,0.556,11,-10.471,1,0.448,0.000297,0.0824,0.64,149.474,225503,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Rex Orange County,Pony,10/10,4tVphly4D1PB8tJC9gHMcJ,0.487,0.909,10,-4.092,1,0.0993,3.01e-05,0.0781,0.293,187.826,146093,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Rex Orange County,Pony,Pluto Projector,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,Ryan Dieselman,Chill Feels,Ryan Dieselman
+Stephen Day,Guess I’m Grown Now,"For Life (Take You out, Treat You Right)",1dulvrK6yMIbklTAwYX95q,0.749,0.428,6,-7.36,1,0.0416,5.86e-06,0.306,0.741,100.028,196387,4,Ryan Dieselman,Chill Feels,Ryan Dieselman

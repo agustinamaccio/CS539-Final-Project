@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Sammy Rae & The Friends,The Good Life,The Feeling,1aVedqqfdBKK0XsrjNJerA,0.716,0.709,5,-4.978,1,0.0719,0,0.0886,0.763,127.059,236213,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,The Good Life,Good Life,0qiNlQTetHl0Xw7Wjdx5Sj,0.429,0.798,3,-5.361,0,0.0836,0,0.0676,0.393,99.481,236000,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,The Good Life,Flesh & Bone,0awxPw2WkYJVzcSKWvJZAh,0.631,0.534,2,-6.783,0,0.0848,0,0.077,0.824,145.808,267677,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,The Good Life,Talk It Up,32jOQyOqRdxSEiQJTjvZM2,0.524,0.733,7,-4.668,1,0.0937,0,0.0931,0.674,112.706,238480,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,The Good Life,Kick It to Me,5omukHtcJduzkSfOlze4iB,0.596,0.675,2,-6.43,1,0.0582,1.51e-05,0.168,0.82,160.05,387600,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,In Motion,In Motion,3iDnfEHmYDrrB8FjBQIgVL,0.406,0.55,9,-7.025,0,0.166,3.67e-05,0.133,0.571,75.108,327691,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Luther Vandross,Never Too Much,Don't You Know That?,5RooV1JApOOviPiQcho9xx,0.611,0.568,9,-11.681,0,0.0882,0,0.0419,0.626,92.018,242680,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Luther Vandross,Never Too Much,Sugar and Spice (I Found Me a Girl),3IQENjEErvPxbEukFDjebv,0.689,0.649,5,-10.802,1,0.0665,0,0.161,0.8,110.508,297880,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Luther Vandross,Never Too Much,Never Too Much,3nFJbZCHP4d9vduKjJLdBL,0.734,0.586,2,-11.866,1,0.129,0,0.0367,0.762,109.933,230467,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Michael Jackson,Thriller,P.Y.T. (Pretty Young Thing),1CgmY8fVN7kstVDZmsdM5k,0.894,0.67,11,-9.406,0,0.0474,0.000363,0.0691,0.961,127.209,239027,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Michael Jackson,Thriller,Billie Jean,7J1uxwnxfQLu4APicE5Rnj,0.932,0.457,11,-9.62,0,0.0541,0.0436,0.0414,0.884,117.002,294227,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Michael Jackson,Thriller,Beat It,3BovdzfaX4jb5KFQwoPfAw,0.776,0.711,3,-9.03,0,0.0473,0.000353,0.234,0.901,138.728,258400,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Michael Jackson,Thriller,Thriller,2LlQb7Uoj1kKyGhlkBf9aC,0.771,0.687,11,-9.814,1,0.0693,0.000225,0.89,0.783,118.392,357800,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Scary Pockets,Nu Funk,If I Ain’t Got You,2pIVtQtYOsSptesL6eTMms,0.733,0.752,0,-3.825,1,0.143,0,0.0701,0.848,87.6,174000,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Scary Pockets,Nu Funk,Killing Me Softly,33JtNLiczBlcVTAzxRqXEv,0.61,0.655,0,-4.245,1,0.105,0,0.202,0.801,97.874,200000,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Scary Pockets,Nu Funk,2 Become 1,2gZy7i4tsLifnsR0VHP1D7,0.606,0.63,1,-4.008,1,0.209,0,0.0614,0.705,85.088,173571,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,Let's Throw a Party,Let's Throw a Party!,4YP1P8UXu1hodrssrhIXSu,0.463,0.719,0,-7.541,1,0.15,6.1e-06,0.817,0.36,137.747,304053,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,Let's Throw a Party,Whatever We Feel,65vP7L4UF4tFjWYTWcajyM,0.562,0.715,2,-7.852,1,0.103,0,0.75,0.744,107.426,208966,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Corinne Bailey Rae,Corinne Bailey Rae,Put Your Records On,2nGFzvICaeEWjIrBrL2RAx,0.739,0.511,9,-7.844,1,0.0362,1.34e-06,0.133,0.542,96.038,215360,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Shy,Shy,3LSvUUHgNf8oDlTmDxKTv2,0.615,0.495,7,-7.717,1,0.0661,0,0.118,0.534,135.871,280540,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lawrence,Breakfast,Do You Wanna Do Nothing with Me?,2M7UdnD0fEaryh8TnCvqFX,0.548,0.611,1,-9.0,0,0.131,0.00247,0.0762,0.725,201.985,251853,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Kyle Thornton & The Company,"Space to Move, Pt. I",Read Receipts,4NFIAz3mPVBIoVwlAqe1jj,0.493,0.77,0,-6.18,1,0.235,0,0.619,0.628,88.208,247302,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Samm Henshaw,Broke,Broke,1JqcZQCnxjDOfZZwQidb1H,0.751,0.684,1,-4.325,1,0.303,5.92e-06,0.18,0.864,89.984,207722,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+CeeLo Green,The Lady Killer,Forget You,7AqISujIaWcY3h5zrOqt5v,0.696,0.875,0,-3.682,1,0.0649,0,0.159,0.772,127.39,222733,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+The Jacksons,Destiny,Blame It on the Boogie,3qI94hINNNeb4S7xQi18lS,0.774,0.641,1,-10.193,1,0.0799,0,0.0867,0.875,113.256,214200,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,"Signed, Sealed And Delivered","Signed, Sealed, Delivered (I'm Yours)",2eF8pWbiivYsYRpbntYsnc,0.675,0.597,5,-11.329,1,0.0337,0,0.0986,0.828,108.875,161160,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,For Once In My Life,For Once In My Life,4kP69y3GKHi9tXckfgp4bK,0.524,0.519,6,-11.903,1,0.043,0,0.523,0.847,110.121,169800,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,At The Close Of A Century,I Just Called To Say I Love You,6RNDeRnWsRMjPdNVgupZCs,0.748,0.551,1,-9.054,1,0.0239,1.57e-06,0.0943,0.65,113.535,262240,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,Songs In The Key Of Life,I Wish,687YZan9Gol1UVvbpUSO6Y,0.821,0.721,10,-10.401,0,0.0515,7.37e-06,0.0664,0.885,105.866,252373,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,Fulfillingness' First Finale,You Haven't Done Nothin',1inwt0v9a4ib9yS6Y4KsdM,0.749,0.641,10,-10.06,0,0.0356,0.000104,0.501,0.841,101.467,202707,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,Denim Jacket,Denim Jacket,1IDnFozF1yTHxw922yLzAz,0.751,0.653,5,-10.013,0,0.206,0,0.105,0.798,118.013,247519,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Can't I?,Can't I?,4NiTEZwqCWYtaVpTH2tSRU,0.779,0.746,3,-8.051,0,0.0705,0.0097,0.148,0.74,115.083,282641,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Graham Louis,Honey Life,Darlin',5XZ069yBImKvio2x9sKs8y,0.668,0.75,7,-4.818,0,0.0282,3.78e-05,0.083,0.736,96.002,243921,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Alexander Lewis,OMNI.,Pearl Magnolia,4tH7y3blkt051mLmvdXQbC,0.781,0.802,6,-5.889,1,0.279,0,0.0683,0.192,112.913,241540,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Five in the Morning,Five in the Morning,1L5Jd46CLTKNcfq0HHolCF,0.754,0.75,4,-6.349,0,0.0519,0.396,0.0665,0.809,114.968,190027,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,Songs In The Key Of Life,Sir Duke,4pNiE4LCVV74vfIBaUHm1b,0.588,0.568,6,-9.766,1,0.0672,0,0.0792,0.952,106.938,232760,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+George Ezra,Staying at Tamara's,Shotgun,4ofwffwvvnbSkrMSCKQDaC,0.673,0.735,5,-4.733,1,0.0457,0,0.242,0.754,115.744,201287,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Matt Duncan,Beacon,Beacon,6lv5xJNWI2fYwjrPG4KFSe,0.714,0.457,8,-7.376,1,0.0392,0.000176,0.0785,0.509,86.004,214373,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stephen Day,Guess I’m Grown Now,"For Life (Take You out, Treat You Right)",1dulvrK6yMIbklTAwYX95q,0.749,0.428,6,-7.36,1,0.0416,5.86e-06,0.306,0.741,100.028,196387,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Prince of Something,Prince of Something,3yy9S3K7gg6alDpkjrwJcI,0.709,0.674,7,-5.62,0,0.0649,0.0186,0.121,0.864,114.99,221404,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Joy in the Wild Unknown,Little Lighter,5lN4zYDwWMTAtBvQRFtCSF,0.786,0.871,0,-5.583,1,0.105,9.45e-05,0.06,0.513,116.964,229621,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Joy in the Wild Unknown,Stanky,4vz1qOq4qkT5NifgeYI7uB,0.682,0.828,7,-4.661,1,0.0579,0.234,0.131,0.774,91.025,276872,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Joy in the Wild Unknown,Passerby,20H4W2B60xSQF2R1XpIg54,0.68,0.63,7,-5.867,1,0.041,3.76e-06,0.0856,0.594,112.045,242878,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Rex Orange County,Sunflower,Sunflower,4EpZ4eYuZOwPSSwyqpdHnJ,0.384,0.765,6,-4.463,1,0.0579,0.00352,0.522,0.567,129.903,252231,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Cannon,Water Glass,Water Glass,4P5d7lMNGqMPcVBn994Lbp,0.75,0.475,5,-7.574,0,0.153,1.69e-06,0.0726,0.642,74.972,204000,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Little Less Polite,Little Less Polite,74qveXO6QQiYVqBx9J2nrZ,0.778,0.736,9,-6.295,0,0.0593,0.000315,0.0835,0.537,119.992,262409,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stevie Wonder,Talking Book,Superstition,4N0TP4Rmj6QQezWV88ARNJ,0.611,0.578,1,-14.171,1,0.0676,0.0219,0.0983,0.884,100.625,266133,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Scary Pockets,Nu Funk,Rocky Raccoon,0sdQ5hPULJilp0gpAXGq8E,0.822,0.391,7,-10.865,1,0.263,4.57e-06,0.177,0.811,115.261,158000,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lawrence,Living Room,Probably Up,13HalBseZHAT19C6jWs1Ma,0.735,0.609,10,-5.574,1,0.0557,3.11e-05,0.381,0.704,95.489,254653,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joey Dosik,Inside Voice,In Heaven,6AIDr8Pj1vhOmM0uMJTome,0.798,0.611,8,-7.733,1,0.0344,0,0.253,0.895,118.379,219200,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Vulfpeck,The Beautiful Game,Animal Spirits,1SHA4IJyiyNobDOrQzFFXy,0.751,0.713,1,-7.333,1,0.0544,9.59e-05,0.0508,0.906,100.856,190802,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Cory Wong,Elevator Music for an Elevated Mood,Golden,7wjmwD5nIYWVnHiR3X3PTO,0.692,0.711,5,-5.202,1,0.121,2.92e-05,0.387,0.894,132.062,212933,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lawrence,Living Room,The Heartburn Song,5kuABYhjUZDGilU3H5hQJv,0.672,0.823,10,-5.404,0,0.0896,2.23e-06,0.0692,0.729,93.014,251293,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Produce the Juice,Pretty Dirty (In the Fading Light),2eAtxc1L97UPkxDf4LFtrK,0.682,0.466,9,-7.751,1,0.0353,0,0.0809,0.639,90.989,343405,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Fat Night,Honest Man,Honest Man,6yPfoOEeB6F7lvmzkV5oTK,0.75,0.563,4,-7.271,1,0.0354,0,0.171,0.8,103.051,325145,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Cory Henry,Something to Say,Happy Days,0XXgkLA2n6wpTlMG3V3VDm,0.71,0.595,1,-7.267,1,0.0346,0.00888,0.114,0.616,97.981,232041,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Busty and the Bass,Uncommon Good,Up Top,5hG8gvQ2d80Qoly4vfGOkH,0.829,0.726,7,-5.9,1,0.0583,6.2e-05,0.398,0.759,115.045,277547,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Couch,Easy to Love,Easy to Love,6ditxim8H91c4d9WfGruK4,0.596,0.582,0,-4.151,1,0.0349,3.47e-05,0.15,0.57,95.189,186842,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Melt,Sour Candy,Sour Candy,5gRCBF8BbbQA4M7wRFjqxg,0.488,0.538,5,-8.084,1,0.15,0.000183,0.093,0.617,178.408,295707,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Cory Wong,The Optimist,Juke on Jelly,3kl2pnS9QTFOP7HgIe3G7K,0.728,0.738,0,-7.196,1,0.0604,0.0147,0.118,0.8,109.988,224293,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Stephen Day,Guess I’m Grown Now,Dancing in the Street,1KYxDnYjz2ThA4qjo6prho,0.643,0.678,11,-8.109,1,0.0903,1.14e-05,0.0923,0.496,119.752,199027,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Couch,Fall Into Place,Fall Into Place,7aKEKEyC00307wqmwmvRh3,0.716,0.447,8,-5.561,1,0.0405,9.88e-06,0.0921,0.69,140.06,267426,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Cory Wong,The Optimist,Light As Anything,0Y8kxAuBh8Oc8n6cyDTQ8Q,0.76,0.631,9,-5.661,1,0.0447,0.000281,0.0819,0.644,93.992,291133,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+The Tuesday Crew,Summer Lovin',Summer Lovin',3hqXUcu06ajELPBS3uhCD1,0.796,0.331,0,-9.903,1,0.0521,0,0.159,0.632,137.968,241244,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Joy in the Wild Unknown,Flipside,6wcckVJclK7eZVpr4il6vj,0.754,0.732,11,-5.0,0,0.0296,0,0.113,0.722,95.98,218965,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lawrence,Hotel TV,Hotel TV,2sVxymal8uQ64UDn5aAoOZ,0.53,0.855,5,-2.764,1,0.0614,0,0.157,0.503,81.95,217160,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lawrence,Hotel TV,It's Not All About You,1oRACEX7ci9IrxsbxfvAsw,0.717,0.795,2,-2.469,1,0.0825,0,0.261,0.792,104.005,151320,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Vulfpeck,Hill Climber,Half of the Way,3uFp6gGgNMtSEmzx1cHTG4,0.688,0.731,2,-6.387,1,0.0766,0,0.085,0.728,107.195,196905,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Reliably Bad,Really?,Really?,55we9aKrINrFskSrYkMZ4B,0.774,0.682,11,-8.673,0,0.0535,2.81e-06,0.0767,0.928,127.922,216643,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,Underwater,08DKaoHjJm9zAMBJwnLJ4V,0.622,0.78,5,-5.192,1,0.0404,0.0016,0.382,0.747,78.005,323200,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,This Is the Future,4fI0eoTqacDsIQkhP0RU9f,0.446,0.674,2,-4.348,0,0.0768,3.14e-05,0.209,0.411,121.102,250187,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,Evening Coffee,53qpVd2xZYAjciuhQeWHde,0.719,0.87,1,-4.508,1,0.032,2.68e-05,0.131,0.395,112.993,246307,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Paper Castle,Beautiful Day,3m3ly9VxEzJPY7WolX7LkU,0.706,0.71,7,-5.25,1,0.0452,0,0.134,0.779,99.977,206240,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Pluto,Old Love,3EPpKCB54rifBhV1J0eWXQ,0.799,0.846,9,-5.602,1,0.0462,0.00306,0.111,0.869,109.988,257413,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Pluto,Find Me,6YJYuwpOtIXSuyLrzub1Kr,0.593,0.606,0,-5.435,1,0.0429,2.24e-05,0.163,0.564,93.758,257787,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Shockley,Dance with Me,Dance with Me,2Stb2uttnnhuOfHla6ZIRr,0.519,0.766,10,-5.991,1,0.0688,6.19e-06,0.119,0.44,102.093,246459,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Ripe,Joy in the Wild Unknown,Downward,00KiXBZT9vf1XhcqkFrzug,0.729,0.641,1,-5.871,1,0.038,0,0.114,0.714,120.002,224412,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Sweet Pea,Sweet Pea,3bdJIzlbpf6QU6CypY8MBR,0.624,0.455,7,-7.102,1,0.0461,0,0.37,0.455,119.966,262144,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Joe Hertler & The Rainbow Seekers,Pluto,Lonely,6T8akRiTLYVjfceJE0AatI,0.596,0.832,7,-4.355,1,0.0711,1.11e-05,0.169,0.597,105.049,204453,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Orange Guava Passion,TJ,TJ,3TNWABKm4Xgcl2WMYbPoBm,0.616,0.562,4,-8.016,0,0.0608,0.00303,0.677,0.677,94.868,245496,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Christopher Bill,"Half Man, Half Machine",Power Down,3of1jfQZQhNzbbBvq1vnOj,0.66,0.891,0,-4.059,1,0.0633,0.0002,0.0671,0.535,120.152,275333,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+The Altogether,Silo,Ladybug,4TxA1IRXDzjmZpeGQhfXGF,0.615,0.723,2,-6.33,1,0.0647,5.56e-06,0.605,0.8,178.017,173959,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Sammy Rae & The Friends,Follow Me Like the Moon,Follow Me Like the Moon,1lExr2fRER9uMrpIBqArSO,0.629,0.853,11,-5.043,0,0.0729,6.78e-05,0.176,0.679,108.119,261903,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Scary Pockets,deja vu,deja vu,2bEXOHFrtExHDsoZP3onfs,0.748,0.668,7,-7.272,1,0.202,1.19e-06,0.145,0.924,100.584,235499,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Look Who's Talking,Mylah,5F2VlnYmmEyT7ccr7nZJ07,0.629,0.486,2,-7.101,1,0.0337,0,0.113,0.432,94.043,290221,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Look Who's Talking,Knock It Off,2Ac9MDeJlTQEvBCpPRdFOU,0.467,0.584,11,-6.729,0,0.0796,1.1e-06,0.0875,0.746,175.697,229250,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Look Who's Talking,Fritters,0DERb3PZx39a78aev2sSMl,0.485,0.367,4,-9.166,1,0.0319,2.23e-05,0.112,0.571,117.069,264821,3,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Jank Setup,Look Who's Talking,Morning Song,20V4RBsBLeDv7REUYrFQpz,0.426,0.439,1,-7.252,0,0.0371,3.02e-06,0.357,0.347,105.876,194539,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Hypotheticals,5lE2EFXt4muvLFMGQg4hZN,0.69,0.664,1,-6.488,1,0.0562,0.00762,0.0496,0.383,164.145,230178,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Hush Money,2sA5szzJViCyKsqeXZFuzz,0.682,0.739,1,-4.369,1,0.0455,0.0314,0.113,0.563,80.965,168354,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Same Old News,0juDkd1zAXxKwrUdnF1WPb,0.76,0.816,1,-4.644,1,0.0582,0.002,0.0947,0.476,98.076,276623,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Being a Woman,3LQASjzUVNkquf6sCxax7i,0.808,0.411,9,-8.17,1,0.0598,1.73e-05,0.102,0.542,141.971,169856,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Making Do,1ID7FIrnDFtAoRebVRBhlO,0.749,0.439,5,-6.838,1,0.0422,0.000389,0.103,0.288,176.002,214150,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Nobody's Stopping You Now,0j1ldNL5THYosPxuhYZ5NY,0.482,0.517,11,-5.807,1,0.0305,0.00437,0.201,0.106,159.735,227812,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Know That I Know,4XHYJpbZL8ytyoZ5olW4nP,0.718,0.638,2,-4.64,1,0.0356,0.000358,0.132,0.423,93.994,242810,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Lackluster Lover,5YrsZNKb28ejX20pYmZgQ3,0.762,0.439,5,-6.914,1,0.0431,6.54e-06,0.401,0.565,130.02,209663,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Anymore,11uDkfcnZnSINxQfdLyYfm,0.739,0.28,0,-9.235,1,0.0347,0.000192,0.115,0.229,141.935,250934,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Feels Like the Last Time,5b6TkuGbeaimxaJB9Vu2BD,0.649,0.676,0,-7.191,1,0.0606,2.46e-05,0.356,0.622,136.875,199304,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Sarah,78ntnDHyR77wxv1DJycua4,0.241,0.119,2,-10.629,1,0.0357,0,0.103,0.176,88.244,158074,3,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman
+Lake Street Dive,Obviously,Hypotheticals - Edit,1x05ZRPr2FprwUP7MjWefh,0.703,0.691,1,-6.121,1,0.0417,0.0914,0.23,0.715,164.101,190648,4,Ryan Dieselman,Funk/R&B Stuff,Ryan Dieselman

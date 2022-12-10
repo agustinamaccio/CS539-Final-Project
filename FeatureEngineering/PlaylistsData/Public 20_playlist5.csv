@@ -1,0 +1,76 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Stevie Bill,Messy,Poison,5StQDoFQTDElQjMnfk8qIy,0.681,0.608,2,-6.55,0,0.0373,0.000798,0.129,0.47,119.881,124000,4,Spotify,SALT,Public 20
+Kailee Morgue,Girl Next Door,Falling from the Sky,58vqgltwYoOCSPIyqNiBaU,0.531,0.693,6,-5.203,0,0.0374,2.98e-06,0.119,0.555,157.96,164453,4,Spotify,SALT,Public 20
+Emei,End of an Era,End of an Era,2nQY9jprTEWOVMIAdN0o48,0.676,0.656,2,-3.943,1,0.0993,0,0.169,0.838,176.039,133986,4,Spotify,SALT,Public 20
+Dove Cameron,Bad Idea,Bad Idea,6azVi5ToFHo6KfKs6SstAC,0.802,0.628,7,-6.576,0,0.122,0.000232,0.262,0.625,96.97,155681,4,Spotify,SALT,Public 20
+Alexa Cappelli,Lose Lose,Lose Lose,47AcRzodwvcQlnS6BjNZBQ,0.695,0.724,7,-4.737,1,0.0319,3.62e-05,0.071,0.731,99.974,190225,4,Spotify,SALT,Public 20
+Leah Kate,Alive and Unwell,Alive and Unwell,7ffThXwGKRO4KRM1rVyXGJ,0.645,0.859,1,-3.675,0,0.044,0,0.257,0.791,99.961,121675,4,Spotify,SALT,Public 20
+Mae Muller,I Just Came To Dance,I Just Came To Dance,2LQ3i7FKz0i2mrkcjWGeIg,0.876,0.678,2,-4.806,1,0.161,0.00015,0.0671,0.764,115.986,144951,4,Spotify,SALT,Public 20
+Taylor Swift,Midnights,Vigilante Shit,1xwAWUI6Dj0WGC3KiUPN0O,0.798,0.277,4,-11.096,0,0.39,5.25e-05,0.121,0.163,79.846,164801,4,Spotify,SALT,Public 20
+UPSAHL,Into My Body,Into My Body,40HSFJpsSRNDkuxA0IaL34,0.74,0.596,1,-6.245,0,0.0777,0,0.101,0.82,121.936,144280,4,Spotify,SALT,Public 20
+Maisie Peters,Not Another Rockstar,Not Another Rockstar,43pulC9QdGwabXUtVHYnjY,0.658,0.815,3,-2.141,0,0.14,1.24e-06,0.126,0.818,91.041,149053,4,Spotify,SALT,Public 20
+dee holt,Sober,Sober,577ctFaEJqAL9gdo2Gx63x,0.652,0.534,1,-6.272,0,0.108,4.42e-05,0.0918,0.638,169.956,146824,4,Spotify,SALT,Public 20
+Nessa Barrett,young forever,too hot to cry,3RhPFIqJ9waaB5FTg8wugv,0.328,0.692,8,-6.927,0,0.366,0,0.094,0.293,179.627,188360,4,Spotify,SALT,Public 20
+TAELA,Life's A Bitch,Good In Bed,3nceiixhkjFwEpFITqy3f0,0.595,0.434,0,-4.747,0,0.0358,0,0.0999,0.169,79.001,158347,4,Spotify,SALT,Public 20
+Dylan Conrique,ugly,ugly,6BzSgXgzHxqPbGEb7aKAXb,0.675,0.85,11,-4.849,0,0.0526,0,0.311,0.842,136.96,180627,4,Spotify,SALT,Public 20
+(G)I-DLE,I love,Nxde,6NnCWIWV740gP7DQ8kqdIE,0.726,0.91,4,-1.948,0,0.179,7.81e-06,0.479,0.648,135.966,178453,4,Spotify,SALT,Public 20
+Ellise,Black Balloons,Black Balloons,3CrmsiGWaLpFVltY6BiXOq,0.643,0.572,9,-4.727,1,0.0329,0,0.179,0.678,90.534,146154,3,Spotify,SALT,Public 20
+Bella Poarch,Dolls EP,Villain,6y0VIRo9CyIIHBdlPklTl0,0.745,0.636,11,-4.7,0,0.0448,6.74e-05,0.107,0.834,108.955,145387,4,Spotify,SALT,Public 20
+Ūla,gold star,gold star,61BvDWK5JRzPhdn0qWqtvR,0.615,0.724,2,-5.736,1,0.0386,0,0.57,0.531,95.068,186947,4,Spotify,SALT,Public 20
+Isabel LaRosa,i'm yours,i'm yours,37vVp2sWHuuIBOSl1NswP6,0.398,0.705,5,-7.07,0,0.0756,5.13e-05,0.443,0.635,111.487,145668,4,Spotify,SALT,Public 20
+emlyn,girl’s girl - Spotify Singles,girl’s girl - Spotify Singles,3L3R5F6V6Nx4u1LAftG763,0.726,0.62,2,-7.196,1,0.0798,5.34e-06,0.0955,0.392,92.961,197042,4,Spotify,SALT,Public 20
+Chandler Leighton,Witch Hunt,Witch Hunt,4TFXmB2WOm1G5CnVcejVQb,0.832,0.4,4,-7.438,1,0.048,9.64e-05,0.104,0.264,103.057,126990,4,Spotify,SALT,Public 20
+ari hicks,Sad Ghost,Sad Ghost,45fNZIKK6NYTLq5nNvTTyx,0.616,0.252,9,-10.735,0,0.0364,0.000256,0.113,0.319,147.976,187591,4,Spotify,SALT,Public 20
+Chloe Adams,Take Me To Hell,Take Me To Hell,2rmTtv5xWuqHiKzM4i0QjQ,0.7,0.6,8,-6.613,1,0.0457,1.58e-06,0.162,0.199,120.033,132803,4,Spotify,SALT,Public 20
+EMELINE,STRUT,STRUT,749rod7GCmj0OVdumGfzVq,0.842,0.715,11,-5.906,0,0.0696,2.58e-05,0.112,0.326,107.952,117727,3,Spotify,SALT,Public 20
+Indy,Killer,Killer,3MKBHqQ5EtXnChdVF4P3ji,0.792,0.521,6,-4.826,0,0.0347,7.13e-05,0.0985,0.565,102.031,180987,4,Spotify,SALT,Public 20
+KiNG MALA,honey catching season,martyr,4BaYa88YtE0WBDVKfTeUTP,0.721,0.514,5,-9.629,0,0.163,0.000601,0.155,0.693,126.061,145789,4,Spotify,SALT,Public 20
+margø,MONSTERS IN MY MIND,MONSTERS IN MY MIND,1OFpHG8xgfp7NnmJRjpNsK,0.646,0.64,7,-7.358,0,0.0869,1.11e-05,0.075,0.341,120.065,124000,4,Spotify,SALT,Public 20
+Fae,devil may care,devil may care,1Oui21vilndzO9nUABZYlp,0.545,0.878,0,-4.078,1,0.0993,0,0.281,0.59,97.505,160000,4,Spotify,SALT,Public 20
+Tegan and Sara,Smoking Weed Alone,Smoking Weed Alone,6P4SXtGwb04qA2gaUosaRK,0.683,0.55,2,-8.669,1,0.0786,0,0.307,0.353,140.019,191027,4,Spotify,SALT,Public 20
+LEX,Feel What I'm Feeling,Feel What I'm Feeling,0SJmLC2S4RN2AbYcJWo0oK,0.679,0.742,9,-4.859,0,0.0681,0,0.181,0.632,116.998,174546,4,Spotify,SALT,Public 20
+noelle,Cold Killer,Cold Killer,0lwCIykH3nebbJevHiJRhf,0.498,0.912,6,-4.448,0,0.118,0,0.214,0.851,169.879,159112,4,Spotify,SALT,Public 20
+salem ilese,(MORE) Unsponsored Content,ExBox,2fwC1bsAd5GrTwvGBRep0p,0.839,0.559,11,-8.485,0,0.0656,0,0.395,0.887,121.932,129344,4,Spotify,SALT,Public 20
+Nessa Barrett,tired of california,tired of california,02xRKYZ1jY4B6utPa59qSf,0.712,0.731,6,-6.313,0,0.0402,0,0.372,0.638,92.014,190800,4,Spotify,SALT,Public 20
+girli,I Really F**ked It Up,I Really F**ked It Up,4MTPjzLzoi4HiR5fRAQ2Hx,0.619,0.673,10,-6.801,0,0.0506,0.00106,0.146,0.421,164.961,165747,4,Spotify,SALT,Public 20
+Torine,bitches get lonely,bitches get lonely,5cRaRnMOAogPowDitqkMKL,0.675,0.424,6,-6.719,1,0.0416,0,0.126,0.474,93.04,151818,4,Spotify,SALT,Public 20
+Chloe Adams,Dead To Me,Dead To Me,6tPLIurCFf9MAGYvba94ub,0.859,0.405,4,-6.359,0,0.133,0.126,0.108,0.646,134.937,153223,4,Spotify,SALT,Public 20
+Zolita,20 Questions,20 Questions,3lSrMxJwwGawtXZflUa1iN,0.657,0.739,2,-6.415,1,0.0507,0,0.0817,0.743,139.924,179227,4,Spotify,SALT,Public 20
+Ari Abdul,Fallen Angel,HUSH,0Njbfdqov90zIfAXZl7hIf,0.48,0.718,10,-3.956,0,0.0407,7.96e-05,0.31,0.442,180.012,190947,4,Spotify,SALT,Public 20
+Ceara Cavalieri,Liar Liar,Liar Liar,3Or3mHW0EXc2AyJyWKn5h0,0.514,0.804,6,-3.853,0,0.118,0,0.192,0.645,170.097,168088,4,Spotify,SALT,Public 20
+Julia Wolf,Get Off My,Get Off My,6YmV89ReuPTBeHGelmTbca,0.857,0.499,0,-8.195,1,0.123,0,0.195,0.544,105.999,184181,4,Spotify,SALT,Public 20
+Devon Cole,W.I.T.C.H.,W.I.T.C.H.,5XemvyG79fcKPl5lgbhplq,0.868,0.66,7,-3.834,1,0.0526,0,0.0755,0.963,121.925,132133,4,Spotify,SALT,Public 20
+Sam Short,Naked,Naked,7bI5GpjLRkil6k42fuFfAH,0.863,0.504,8,-8.593,1,0.0996,0,0.444,0.823,124.094,133972,4,Spotify,SALT,Public 20
+Natalie Jane,Seven,Seven,0YrwiodQd07LE9vpI0w3Iw,0.822,0.255,8,-9.83,1,0.349,0,0.128,0.377,136.024,124373,4,Spotify,SALT,Public 20
+emlyn,my best friend's ex,my best friend's ex,7zAET3CA2JHtQmvC5EtysA,0.679,0.849,9,-2.772,1,0.134,0,0.449,0.744,105.059,175026,4,Spotify,SALT,Public 20
+Leah Kate,Monster,Monster,1PRA8nmdhUV7dOF6pNqsdz,0.53,0.746,11,-5.761,1,0.0576,0,0.103,0.392,159.916,160385,4,Spotify,SALT,Public 20
+UPSAHL,Antsy,Antsy,2eDBWo7MfkdezN1FKxxQRb,0.428,0.402,2,-8.306,1,0.0518,0,0.099,0.345,167.113,150854,3,Spotify,SALT,Public 20
+Chelsea Collins,WHO MADE YOU GOD?,WHO MADE YOU GOD?,33RkgvfErKI9QLp3XwQXC3,0.44,0.598,4,-6.82,1,0.0346,0,0.404,0.292,180.083,207444,4,Spotify,SALT,Public 20
+Andi,Never Dated You,Never Dated You,2aXe6ng2bLrWDgS2ko7Rhv,0.68,0.677,11,-5.887,1,0.074,0,0.215,0.79,151.006,121183,4,Spotify,SALT,Public 20
+JXCKY,Ghost You,Ghost You,7pDhnvTXaAdsvpytclWlZh,0.616,0.367,6,-8.439,1,0.0535,0,0.764,0.585,134.911,189839,3,Spotify,SALT,Public 20
+mazie,menace,menace,1MiieWsKWwMrnwPK0NelAW,0.539,0.884,5,-5.819,1,0.108,5.35e-06,0.199,0.534,169.085,125810,4,Spotify,SALT,Public 20
+GAYLE,fmk (with blackbear),fmk (with blackbear),1hhMX7QQIhBsXjFmTK7owB,0.53,0.532,2,-5.957,1,0.0569,0,0.188,0.536,71.797,189075,4,Spotify,SALT,Public 20
+FLETCHER,Becky’s So Hot,Becky’s So Hot,6ehrvwZ8JHaLahNRpDGlkD,0.518,0.729,9,-4.133,0,0.039,0,0.08,0.271,78.012,162760,4,Spotify,SALT,Public 20
+NERIAH,Expiration Date,Expiration Date,4gSeTIoKhkvGoebMtohlNC,0.743,0.682,8,-5.501,1,0.0428,0,0.0651,0.518,126.964,198425,4,Spotify,SALT,Public 20
+Chandler Leighton,When You Say My Name,When You Say My Name,3a8b6uo4vnQSJroGhaNhgG,0.793,0.536,1,-8.012,1,0.0413,0,0.129,0.576,92.961,148276,4,Spotify,SALT,Public 20
+OSTON,Melancholia,Mouthwash,0qkX92NooHlyyucGb0yaF5,0.614,0.654,9,-6.543,1,0.0745,0.000305,0.307,0.699,145.083,174147,5,Spotify,SALT,Public 20
+DEZI,BAD B!TCH,BAD B!TCH,1hQytzOArHdHZuFDRLLurh,0.562,0.801,10,-5.08,0,0.207,1.19e-06,0.0846,0.52,184.237,182772,4,Spotify,SALT,Public 20
+Zia Victoria,EVERYBODY'S GONNA DIE!,EVERYBODY'S GONNA DIE!,3YG44aJtUMUtT1OB85s4LK,0.593,0.668,5,-5.117,1,0.206,0,0.077,0.623,171.96,145026,4,Spotify,SALT,Public 20
+Emei,Trust Issues,Trust Issues,2z5uCpJamxXgs7GKa6qzPi,0.888,0.495,4,-6.747,0,0.0873,0,0.0512,0.868,96.004,140880,4,Spotify,SALT,Public 20
+Caroline Kole,headboard,headboard,45jIKjZDlMEarhjRTKYA9F,0.527,0.845,7,-5.734,1,0.218,0,0.187,0.598,170.027,160254,3,Spotify,SALT,Public 20
+Niko Rubio,Love Me Till U Hate Me,Love Me Till U Hate Me,0f72jNvO6UORzL8J51jPIW,0.66,0.839,4,-4.818,1,0.029,0.195,0.102,0.529,108.001,212520,4,Spotify,SALT,Public 20
+Xowie Jones,Bury Me Alive,Bury Me Alive,6vCsRxJAyCB75JQKZc8MHb,0.563,0.728,5,-5.696,0,0.0429,0.00497,0.312,0.55,170.036,117464,4,Spotify,SALT,Public 20
+AViVA,LOVE AND WAR,LOVE AND WAR,3YOPBDerQJorMfLrORcbsY,0.711,0.48,8,-10.216,0,0.0419,0.000405,0.207,0.401,119.925,160737,4,Spotify,SALT,Public 20
+Maisie Peters,Blonde,Blonde,6Tmj9k9HeZhP5CdLHcj81h,0.406,0.818,9,-3.977,1,0.119,0,0.308,0.632,179.846,181668,4,Spotify,SALT,Public 20
+Jake Daniels,Problems,Problems,0zPQx8X0MqfilG0dZIRXkN,0.712,0.526,8,-9.314,0,0.113,0.00117,0.498,0.676,117.908,170847,4,Spotify,SALT,Public 20
+Olivia O'Brien,Bitch Back,Bitch Back (feat. FLETCHER),2pDWMxjBf4xkIY4nRjVpZC,0.802,0.816,9,-2.78,1,0.147,0,0.0819,0.67,89.982,143795,4,Spotify,SALT,Public 20
+CATTY,Maybe All the Rumours Are True,Maybe All the Rumours Are True,5TOypkLxV6SDEIePb7lvox,0.544,0.92,9,-2.642,0,0.235,0,0.16,0.559,167.911,194549,4,Spotify,SALT,Public 20
+Tate McRae,what would you do?,what would you do?,3I1Smy5zhzNEc9grpjwY1s,0.8,0.627,11,-5.892,0,0.0633,0,0.0892,0.693,104.96,166948,4,Spotify,SALT,Public 20
+Cappa,Bad Bitch,Bad Bitch,4BSv6txtXIBg44D9EHpifH,0.323,0.433,4,-8.446,0,0.104,0,0.285,0.349,169.862,139059,4,Spotify,SALT,Public 20
+Rain Paris,Light Switch,Light Switch,5Lh7DFcEwboYBefjnDVGz5,0.651,0.661,10,-6.469,1,0.121,0,0.0712,0.867,91.989,184530,4,Spotify,SALT,Public 20
+Dylan,Girl Of Your Dreams,Girl Of Your Dreams,0TKw4XKCDwVlDK1DM7gUUg,0.585,0.746,11,-5.309,0,0.089,1.77e-06,0.0947,0.793,165.096,163928,4,Spotify,SALT,Public 20
+Lilyisthatyou,Gorgeous Gorgeous Girls,Gorgeous Gorgeous Girls,5Ev5bb32kDL4Bdb2deG0G6,0.883,0.698,9,-6.47,0,0.0474,5.33e-05,0.0799,0.684,127.024,116910,4,Spotify,SALT,Public 20
+Cloudy June,FU In My Head,FU In My Head,5ZSV1Y3Cq2HkGOYOwxpClP,0.819,0.487,11,-8.447,0,0.157,0.000144,0.0965,0.345,137.938,167248,4,Spotify,SALT,Public 20
+Amelia Moore,teaching a robot to love,i feel everything,110y35XBBoCyzv1jClu3Kv,0.618,0.495,0,-5.326,1,0.0376,0,0.704,0.389,85.924,138360,4,Spotify,SALT,Public 20
+Mad Tsai,killer queen,killer queen,0qo1JukfClmpHnUOJxpFXi,0.69,0.732,3,-5.352,0,0.0497,0.00114,0.168,0.636,107.977,178889,4,Spotify,SALT,Public 20
+EMELINE,this is how i learn to say no,this is how i learn to say no,4yb8suVmTLxvSb8hT6EmT6,0.378,0.587,10,-7.755,1,0.163,0,0.455,0.498,181.452,142966,3,Spotify,SALT,Public 20

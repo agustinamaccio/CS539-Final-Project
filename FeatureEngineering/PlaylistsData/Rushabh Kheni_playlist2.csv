@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Lord Huron,Strange Trails,The Night We Met,6mORGLOz79w6VsCRLWYYuK,0.443,0.369,9,-9.514,1,0.0441,0.277,0.638,0.0989,174.107,208212,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Hozier,Hozier,Take Me to Church,0aOluBqXYd0rFSCsgDyAWX,0.575,0.664,4,-5.303,0,0.0481,0.0,0.116,0.437,129.07,241693,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Labrinth,Jealous,Jealous,4L2K7JKseFCBoHMZEAszW0,0.439,0.153,1,-8.95,1,0.0479,0.0,0.107,0.104,116.76,287693,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James Arthur,James Arthur (Deluxe),Impossible,5yVIlYEHZxQVLyInCdldoS,0.376,0.695,0,-4.782,0,0.0933,0.0,0.11,0.302,169.533,209440,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tom Odell,Long Way Down (Deluxe),Another Love,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Labrinth,Electronic Earth (Expanded Edition),Beneath Your Beautiful (feat. Emeli Sandé),2EcsgXlxz99UMDSPg5T8RF,0.561,0.522,2,-5.857,1,0.0318,0.0,0.104,0.238,83.962,271813,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Bruises,Bruises,5KfSsgAJGrZc3VrcPLFVMo,0.575,0.323,1,-6.213,0,0.0717,0.0,0.169,0.357,118.641,218492,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Calum Scott,Dancing On My Own,Dancing On My Own,02WacdrRpm4zlP8H7X6bnQ,0.608,0.174,1,-8.796,1,0.0332,1.92e-05,0.0855,0.193,112.175,260004,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Sam Smith,The Thrill Of It All (Special Edition),Too Good At Goodbyes,1mXVgsBdtIVeCLJnSnmtdV,0.681,0.372,5,-8.237,1,0.0432,0.0,0.169,0.476,91.873,201000,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James Arthur,Say You Won't Let Go,Say You Won't Let Go,1Pw5C4N6Fn5E4mGCxmbbVa,0.4,0.564,10,-7.444,1,0.0523,0.0,0.0863,0.483,99.269,211240,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,0.522,0.385,0,-7.355,1,0.0288,0.0,0.135,0.236,89.792,207520,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Dean Lewis,Be Alright,Be Alright,3EPXxR3ImUwfayaurPi3cm,0.553,0.586,11,-6.319,1,0.0362,0.0,0.0813,0.443,126.684,196373,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Lost On You,Lost On You,5hn1VvnTKDUne8wGB4UfXB,0.563,0.261,10,-9.251,1,0.0709,0.0,0.0982,0.411,125.129,195579,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Billie Eilish,dont smile at me,ocean eyes,7hDVYcQq6MxkdJGweuCtl9,0.511,0.363,4,-7.65,0,0.041,0.0317,0.084,0.169,144.892,200379,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tom Walker,What a Time To Be Alive,Just You and I - Acoustic,1vkUmedJVhScV9MmRsLGSY,0.477,0.52,9,-7.582,1,0.395,4.34e-06,0.0978,0.383,171.895,198102,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James TW,First Impressions,When You Love Someone,1o6YK7phnXgsljfWSQQfWc,0.675,0.444,7,-6.067,1,0.028,0.0,0.0531,0.356,125.884,216373,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Sam Smith,Love Goes,Fire On Fire,7t3Xdbufg7q2onVsR8RBdY,0.584,0.408,1,-7.356,0,0.0461,0.0,0.18,0.333,115.129,246735,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Sleeping At Last,Atlas: II,Touch,4g2WiijzSKzH8PApKDbadN,0.415,0.104,0,-11.83,1,0.0426,3.79e-06,0.104,0.18,82.006,256300,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Kodaline,In A Perfect World (Expanded Edition),All I Want,0NlGoUyOJSuSHmngoibVAs,0.188,0.411,0,-9.733,1,0.0484,0.153,0.0843,0.159,187.376,305747,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James Arthur,Back from the Edge,Can I Be Him,0VhgEqMTNZwYL1ARDLLNCX,0.696,0.543,11,-6.164,1,0.0489,0.0,0.0939,0.479,107.969,246880,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tom Odell,Long Way Down (Deluxe),Heal,4KlL5Bwlm4yHYxr0B2rHci,0.445,0.179,1,-12.938,1,0.0396,0.00056,0.107,0.119,72.246,193080,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Hold Me While You Wait,60iSKGrGazRzICtMjADNSM,0.688,0.53,11,-5.507,1,0.0333,0.0,0.0995,0.162,106.958,205687,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Dean Lewis,A Place We Knew,Half A Man,1ugQtcwmKOXvKAYzhjncmv,0.507,0.204,0,-11.575,1,0.0504,0.0,0.143,0.343,77.765,179120,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Jeremy Zucker,brent,you were good to me,4CxFN5zON70B3VOPBYbd6P,0.561,0.0848,2,-15.099,1,0.0404,2.62e-05,0.112,0.206,102.128,219147,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Forever,12OLyHDxt6dqlAybSPFBK3,0.646,0.355,1,-7.119,1,0.0263,0.0,0.115,0.364,84.988,210863,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Christian Leave,Hope,Can't Help Falling in Love,6VrAgFXBbRX2PkT92lAoKK,0.608,0.269,0,-7.201,1,0.0329,1.96e-06,0.337,0.389,126.372,135714,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tate McRae,One Day,One Day,27r2uANqwK7XbsiAZnzf9e,0.52,0.119,0,-12.148,1,0.0407,0.0,0.0883,0.355,69.217,202496,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Jaymes Young,Happiest Year,Happiest Year,5kcvBnt6DPX3AMEsCx1qDh,0.501,0.167,1,-14.061,1,0.0484,0.0,0.111,0.356,112.275,228443,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tate McRae,all the things i never said,that way,7l97ElWmIdVHWUaOeeU5ZC,0.453,0.383,0,-11.015,1,0.163,0.0,0.387,0.333,105.029,175027,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lauren Spencer Smith,Flowers,Flowers,6Z165JvPnS8PYvGW8oLGLc,0.684,0.449,3,-9.738,1,0.611,0.0,0.0881,0.341,66.165,157373,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tate McRae,stupid,stupid,4k3uABcX9iaGlt5pRJhumi,0.673,0.58,0,-6.029,0,0.0416,8.52e-05,0.186,0.257,95.989,172916,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James Arthur,Back from the Edge,Train Wreck,55Am8neGJkdj2ADaM3aw5H,0.311,0.485,6,-5.726,0,0.0365,0.0,0.0726,0.225,77.355,208827,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Shawn Mendes,Handwritten,Never Be Alone,3BYyBzKGPOCHeginhe0F77,0.376,0.466,10,-6.927,1,0.0353,5.8e-05,0.0781,0.276,199.835,215813,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+BANNERS,Half Light,Half Light,1tYOB844iD7HxHvPtwDPNu,0.532,0.392,10,-7.502,1,0.0289,0.0,0.122,0.352,151.879,185947,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+X Ambassadors,VHS,Unsteady,7lGKEWMXVWWTt3X71Bv44I,0.389,0.665,0,-6.169,1,0.0644,0.000732,0.116,0.199,117.055,193547,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Andy Grammer,Naive,"Don't Give Up On Me - (From ""Five Feet Apart"")",5A3fPy30SN2wuzrahpcxvV,0.641,0.537,0,-5.452,0,0.0282,9.05e-06,0.115,0.0681,112.864,196188,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tate McRae,Teenage Mind,Teenage Mind,70vdb3Nf9sUaOax5c6phOT,0.671,0.337,4,-9.762,0,0.0605,1.38e-06,0.11,0.12,119.716,155205,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Hannah Ellis,If the World Was Ending,If the World Was Ending,5nzZGxQGfIc117nKyCQV8G,0.492,0.399,1,-9.255,1,0.0653,0.0,0.189,0.637,133.416,212000,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Duncan Laurence,Arcade,Arcade,1Xi84slp6FryDSCbzq4UCD,0.45,0.329,9,-12.603,0,0.0441,0.00109,0.135,0.266,71.884,183624,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Øystein Hegvik,Øystein Hegvik (Låtene Fra TV-Programmet “Idol 2018),"Berlin - Fra TV-Programmet ""Idol 2018""",6a8zx5ceSjkrh0WZ7p7Hh1,0.265,0.197,5,-11.783,1,0.031,0.0644,0.0932,0.0395,134.02,130345,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Kina,Get You The Moon (feat. Snøw),Get You The Moon (feat. Snøw),4ZLzoOkj0MPWrTLvooIuaa,0.498,0.235,1,-16.541,0,0.188,0.0,0.144,0.0895,118.917,179080,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Timmies,Passion & Confusion,Loosing Interest,2DIFiLjzVxSUc7YY2k7WDA,0.926,0.199,10,-13.635,0,0.0916,0.119,0.224,0.763,113.952,117917,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Billie Eilish,dont smile at me,hostage,1WsEgieHsWWndAzLkmV105,0.427,0.123,9,-15.228,0,0.0497,3.12e-05,0.0732,0.0394,129.565,229426,5,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Shawn Mendes,Illuminate (Deluxe),Mercy - Acoustic,0uZnF1sn2IcNCvnyAIKNMQ,0.458,0.347,11,-6.651,0,0.0381,0.0,0.11,0.431,78.928,219160,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,0.501,0.405,1,-5.679,1,0.0319,0.0,0.105,0.446,109.891,182161,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Amber Run,5AM (Expanded Edition),I Found,5zT5cMnMKoyruPj13TQXGx,0.567,0.303,7,-12.481,0,0.0351,0.00563,0.104,0.252,124.949,273000,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Céline Dion,"Ashes (from ""Deadpool 2"" Motion Picture Soundtrack)","Ashes - from ""Deadpool 2"" Motion Picture Soundtrack",7FihoA0WgTT21DkWR7wbYR,0.342,0.425,0,-9.064,0,0.0425,0.0,0.122,0.115,110.62,199507,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+The Cinematic Orchestra,Ma Fleur,To Build A Home,54KFQB6N4pn926IUUYZGzK,0.264,0.122,9,-15.399,1,0.0349,0.349,0.094,0.0735,148.658,371320,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Bruno Mars,Doo-Wops & Hooligans,Talking to the Moon,1wVuPmvt6AWvTL5W2GJnzZ,0.498,0.59,1,-4.721,0,0.032,0.0,0.107,0.0784,145.867,217867,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+XXXTENTACION,17,Everybody Dies In Their Nightmares,3GVkPk8mqxz0itaAriG1L7,0.734,0.57,7,-7.066,0,0.133,2.14e-05,0.112,0.689,129.953,95467,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+XXXTENTACION,?,the remedy for a broken heart (why am I so in love),4UKCKdYiLN6IMA5ZESUTL7,0.699,0.304,1,-11.192,1,0.0993,0.000993,0.137,0.271,119.705,160184,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+XXXTENTACION,17,Jocelyn Flores,7m9OqQk4RVRkw9JJdeAw96,0.872,0.391,0,-9.144,0,0.242,4.13e-06,0.297,0.437,134.021,119133,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Niall Horan,Flicker (Deluxe),This Town,0qvzXomUDJVaUboy2wMfiS,0.677,0.401,9,-8.467,1,0.0308,0.0,0.116,0.195,111.825,232852,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Ruth B.,Lost Boy,Lost Boy,4h0zU3O9R5xzuTmNO7dNDU,0.71,0.0565,7,-15.099,1,0.0534,0.0,0.0889,0.348,123.994,275280,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Grace Grundy,Capsize,Capsize,6ZevjRLgEEXYagcPRE1cxY,0.499,0.186,3,-7.117,1,0.118,0.0,0.0822,0.298,173.43,127713,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Passenger,All The Little Lights,Let Her Go,7DFNE7NO0raLIUbgzY2rzm,0.509,0.538,7,-7.335,1,0.0572,0.0,0.104,0.244,75.089,252867,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Post Malone,Stoney (Deluxe),Feeling Whitney,35r28RDot7nPE7y9K9H7l0,0.412,0.227,0,-12.696,1,0.0359,4.69e-06,0.282,0.226,80.111,257267,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+AURORA,All My Demons Greeting Me as a Friend,Runaway,6HdfSznwCYMh4F8sZMEOPg,0.327,0.285,11,-10.13,1,0.045,7.75e-05,0.104,0.133,172.527,248827,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Clinton Kane,hopeless,forget about us,1J5Vc7uzVstxzSt1A6LGzW,0.528,0.431,4,-7.09,1,0.0394,0.0,0.0999,0.549,108.939,184051,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tom Walker,Fly Away With Me,Fly Away With Me,05u81UgU27g8uL5twJ7ABz,0.421,0.499,5,-8.869,1,0.173,0.0,0.0875,0.297,78.621,211733,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Clinton Kane,CHICKEN TENDIES,CHICKEN TENDIES,0awuNCj9gwJEM0seER22DW,0.57,0.689,7,-6.242,1,0.147,0.0,0.0819,0.568,100.087,196844,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Rhys Lewis,When Was The Last Time?,When Was The Last Time?,42wOPjGSvkNBRI6kZA9XcV,0.658,0.306,9,-12.27,1,0.07,0.0,0.0916,0.32,119.76,216720,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Clinton Kane,I GUESS I'M IN LOVE,I GUESS I'M IN LOVE,1is8gU4RVcN4J8xItxWoOY,0.422,0.34,0,-6.577,1,0.0351,1.77e-05,0.149,0.223,77.213,204094,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Christian Leave,Hope,Please Notice,36seMHoyXmLUNxcwzwjdF7,0.55,0.271,2,-8.451,1,0.0297,3.21e-06,0.107,0.198,111.344,116667,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Aidan Martin,Punchline,Punchline,6suFxJLH4cAmi1UvHulsHu,0.412,0.622,2,-7.339,1,0.0511,0.0,0.0896,0.342,81.763,231018,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+We Three,Secrets,Secrets,6eEYCflHLRVPWskn8oGUPx,0.552,0.361,1,-8.963,1,0.0314,0.0,0.086,0.298,119.872,201441,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Matt Hansen,without you with me,without you with me,0WqHYUiGuqkC7koA2l5Ou1,0.475,0.476,2,-5.954,1,0.0283,0.0,0.0982,0.17,147.042,174828,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Birdy,Beautiful Lies,Deep End,555CH6CnGJRqO37pqA30vW,0.455,0.296,2,-8.513,1,0.0399,0.0,0.0783,0.31,171.744,208840,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Benson Boone,GHOST TOWN,GHOST TOWN,135Lf4Q0CzlMNfOxbEUsLH,0.391,0.335,0,-10.064,1,0.0763,0.0,0.102,0.116,174.185,193733,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Matt Schuster,From The Start,From The Start,3w2gnPLKAdSPcv7030bbGz,0.547,0.633,7,-6.474,0,0.0383,0.0,0.0975,0.377,133.125,237245,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Dean Lewis,Looks Like Me,Looks Like Me,6o8tRLnKNSVoBHCTfiFdBA,0.769,0.724,11,-5.12,1,0.0864,0.0,0.161,0.464,110.659,190528,5,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Sleeping At Last,Atlas: I,You Are Enough,1Wdj4wRDYS7aT4CoPS0mAH,0.593,0.5,1,-8.532,1,0.029,1.24e-05,0.0837,0.465,117.996,180087,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Daughter,If You Leave,Youth,2Ck6gblyk3UFCVPTh8o3TN,0.396,0.535,0,-11.09,1,0.0411,0.00678,0.116,0.435,146.416,253013,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+James TW,Heartbeat Changes (Part 1),Hopeless Romantics,0qsFFiJhF0H8NScDKb1ele,0.607,0.399,9,-6.864,0,0.032,0.0,0.108,0.454,114.24,179173,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Billie Eilish,dont smile at me,watch,7eB1V5LvAdxCc7brfGhRRo,0.441,0.599,0,-8.985,1,0.225,0.00198,0.103,0.35,165.212,177523,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+SYML,Where's My Love,Where's My Love - Acoustic,1eKvw144NYPlDjR0wQoGLW,0.554,0.225,3,-11.324,1,0.0281,0.0321,0.107,0.221,104.007,239880,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Adele,21,Someone Like You,3bNv3VuUOKgrf5hu3YcuRo,0.556,0.319,9,-8.251,1,0.0281,0.0,0.0996,0.294,135.187,285240,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Leroy Sanchez,STANDBY,Proud,3S8C2KmoSYExbma75ZdD5Q,0.65,0.173,9,-11.276,0,0.0416,0.0,0.101,0.185,119.65,177556,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Leroy Sanchez,Love In The Dark,Love In The Dark,6HM7pHJUWgvkA6dmx6mZQ7,0.254,0.341,8,-6.749,0,0.0302,0.0,0.107,0.155,80.115,285884,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Shawn Mendes,It'll Be Okay,It'll Be Okay,2KnLkZ3z7PO3kgVGHGqDpD,0.398,0.286,7,-11.881,1,0.033,0.000146,0.0912,0.0666,78.262,222800,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+David Kushner,Miserable Man,Miserable Man,6gPPoRYJwCsoB2VVdPJfmo,0.632,0.349,10,-10.289,1,0.0346,7.5e-05,0.294,0.307,109.981,232992,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Billie Eilish,Bored,Bored,04sN26COy28wTXYj3dMoiZ,0.614,0.318,7,-12.695,1,0.0478,0.00239,0.0795,0.112,119.959,180933,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lauren Spencer Smith,Fingers Crossed,Fingers Crossed,5S9Zs5g9lTWnLIboN1pdlU,0.603,0.473,5,-7.23,1,0.0511,0.0,0.31,0.446,109.494,175345,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+MKTO,MKTO,Wasted,5tajmvqHF6YW1iiUFzKpCB,0.313,0.429,6,-7.415,1,0.0343,0.0,0.0863,0.416,77.27,184213,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Noah Kahan,Hurt Somebody,Passenger,6wkVmLTBedKaAoeSj4xP6J,0.696,0.675,0,-6.769,1,0.0725,6.23e-06,0.114,0.254,126.901,238067,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Noah Kahan,I Was / I Am,Fear Of Water,3NGulWlwuwKJNdLJNe07qR,0.45,0.0774,7,-14.767,1,0.0355,0.0,0.0824,0.313,102.291,171760,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Ramón,ok jeg lover,ok jeg lover,6xb3ooLtkGkl4j1rGPmGKz,0.55,0.392,6,-9.524,1,0.0909,1.41e-06,0.149,0.484,80.076,155971,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Tyler Shaw,Love You Still (abcdefu romantic version),Love You Still (abcdefu romantic version),31fMJwgrgNdk1IbWZEchX2,0.712,0.0784,4,-19.067,1,0.0544,0.0,0.107,0.642,121.443,150174,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Rhys Lewis,No Right To Love You (Acoustic),No Right To Love You - Acoustic,5UqivtkoiPTXrJu6GIt1mh,0.531,0.269,1,-10.6,1,0.0406,0.0,0.116,0.52,84.186,229557,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Rhys Lewis,Things I Chose To Remember,Be Your Man,1lmj5fAjOFDVzlCRg6QLMF,0.517,0.506,9,-8.242,0,0.0437,0.0,0.0749,0.499,169.934,240347,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Matt Hansen,better off without me,better off without me,1Ip5p31SowqjJLo2ss1afJ,0.62,0.468,0,-7.492,1,0.04,0.0,0.322,0.646,149.855,170212,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+David Kushner,Mr. Forgettable,Mr. Forgettable,39ZVkOVxjG8ypNdUSVNkxU,0.56,0.41,8,-9.227,0,0.0276,0.0,0.151,0.28,144.727,187293,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Cat Burns,go (Lower & Slower),go - Lower & Slower,31wphZxsLDQSmqep0cG9c5,0.514,0.313,2,-10.306,0,0.0558,0.0,0.119,0.564,112.544,224000,5,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Bruno Mars,The Grenade Sessions,Grenade - Acoustic,7Cj2tT0m2SBeIO1PsGfk8A,0.639,0.393,2,-6.314,0,0.0309,0.0,0.0891,0.363,97.917,249535,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Ruben,Melancholic,Lay By Me,5xQ1yxKzTuPcSNO9FP0lNS,0.461,0.195,10,-7.301,1,0.0352,0.0,0.11,0.381,110.193,170831,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Divinely Uninspired To A Hellish Extent,Don't Get Me Wrong,4QGHin0gSqzPrPJhPU5gWn,0.57,0.324,4,-7.866,1,0.0374,0.0,0.109,0.137,79.858,213091,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Lewis Capaldi,Spotify Singles,when the party's over - Recorded at Spotify Studios NYC,6H7fWtwEUHVfTyZD7zeG4w,0.509,0.183,10,-10.27,1,0.0377,0.0,0.0914,0.258,117.354,232837,3,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Dean Lewis,Hurtless,Hurtless,6HJizCbaqaEQG1eLjn341Z,0.37,0.559,0,-5.589,1,0.0526,0.0,0.121,0.316,162.816,180274,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni
+Matt Schuster,Ophelia,Ophelia,6HP5W6QE7lNjmQAY6jXNQI,0.59,0.177,5,-10.789,1,0.0309,1.72e-06,0.0921,0.234,131.709,168636,4,thomasloevstad,goosebumps🙏🏼,Rushabh Kheni

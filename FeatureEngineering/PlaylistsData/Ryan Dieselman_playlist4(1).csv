@@ -1,0 +1,101 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Pentatonix,"PTX Presents: Top Pop, Vol. I",Attention,5P40YyCrdZRsoj2vTbSyVI,0.524,0.61,7,-7.037,1,0.107,0,0.225,0.731,204.19,171520,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX Presents: Top Pop, Vol. I",Despacito x Shape Of You,5cj54CVe4pQZ9cUKgbsZrG,0.691,0.631,5,-7.239,1,0.0377,0,0.169,0.577,93.985,198947,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX Presents: Top Pop, Vol. I",Feel It Still,4Ry81RnXmSSmSyqtjGlMkk,0.742,0.726,11,-5.755,1,0.0582,0,0.0803,0.93,77.48,180680,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,"Music Video Hits, Vol. 1",Danny Boy (Arr. McKay Crockett),0QgnC7nWce7btVxB5y5f9Y,0.253,0.201,2,-12.875,1,0.0343,0,0.0915,0.106,128.329,286817,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,"Music Video Hits, Vol. 1",I Lived,75GcMRc5blaxgf2FxT0ALd,0.584,0.566,9,-6.267,1,0.0312,0,0.284,0.295,116.973,242300,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,"Music Video Hits, Vol. 1",Homeward Bound (feat. The All-American Boys Chorus),1xOXZGI4Q9MzFWHZkZdNdi,0.14,0.19,5,-9.647,1,0.0357,4.49e-06,0.0749,0.139,72.118,250975,3,Ryan Dieselman,A cappella,Ryan Dieselman
+SoCal VoCals,V,Hammer,1OyuFWXf7vPwSd5QEpQTBF,0.547,0.569,11,-5.552,1,0.0414,0,0.0865,0.346,100.146,185911,4,Ryan Dieselman,A cappella,Ryan Dieselman
+SoCal VoCals,V,Pure Imagination,4MMVxrd1nkwW5mMMAGJKvM,0.289,0.193,5,-9.831,1,0.0323,0,0.115,0.118,141.389,208376,3,Ryan Dieselman,A cappella,Ryan Dieselman
+SoCal VoCals,V,Finesse - Remix,6hKURb6RkJoGTWPMsMhQSc,0.483,0.83,6,-4.735,1,0.0912,0,0.0733,0.563,105.039,242138,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pitch Slapped,Complexion,Back Pocket,7uZyaPY8LRJ2Ww9Z0kG5TQ,0.688,0.624,0,-6.335,1,0.0328,0,0.163,0.717,94.939,173960,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Nor'easters,Equilibrium,Don't You Worry Child,36tphaZxBpQouFhUWFi8sZ,0.407,0.724,4,-6.718,1,0.0514,0.00103,0.148,0.0906,129.812,206791,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Nor'easters,Equilibrium,As Long as You Love Me,4ZoRSyPtF4J9D8yoPRgfUb,0.409,0.675,0,-5.741,0,0.0513,0,0.0739,0.384,140.571,195302,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Nor'easters,Equilibrium,Sweet Nothing,5557ycX28HfHK7Fb2cXfrK,0.466,0.718,8,-4.906,0,0.0395,0.000326,0.0919,0.293,130.087,207019,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Nor'easters,Equilibrium,Spectrum,6yT4chq69Wjfa3kIcZEoRv,0.468,0.729,10,-5.915,0,0.055,2.19e-06,0.516,0.143,122.994,256454,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Timeless,Life is a Highway,7yVkqN7BOp9ZoXinmXlkRj,0.677,0.775,8,-5.578,1,0.0392,0,0.276,0.654,103.029,200960,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Timeless,Castle on the Hill,2Jv2SmVIJ2v8TwiqnIz2jM,0.565,0.61,2,-7.181,1,0.0371,2.46e-06,0.133,0.212,135.016,261333,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Timeless,Man of Constant Sorrow,2cCbLVs1UlYPmvRjj666Uu,0.431,0.544,5,-8.796,1,0.031,0.000111,0.529,0.409,87.995,221440,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Timeless,Blue Ain't Your Color,6ZM7m09zpuFZC2BrlqtXGv,0.654,0.504,7,-8.466,1,0.0268,0,0.106,0.402,82.515,215000,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Spectrum,Beat It (A cappella tribute to Michael Jackson),0pbMwNdkIZiv0hG32nIT4v,0.725,0.812,1,-5.311,0,0.0526,0,0.0742,0.512,144.043,164125,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Spectrum,Happy (A cappella tribute to Pharrell Williams),0OBoLrAAHXGeIvM7qfM3jg,0.457,0.687,4,-5.207,0,0.051,0,0.15,0.584,82.219,173458,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Nonstop,Superstition (A cappella Tribute to Stevie Wonder),0jGA9It7WNBXy2zqjspqqJ,0.809,0.538,1,-9.44,1,0.0472,0,0.103,0.854,100.024,172934,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Nonstop,Sunshine Medley: Walking on Sunshine / Ain’t No Sunshine / Let the Sunshine In (A cappella Tribute),6lorOFmpZd73AZd6xQ7Fb5,0.431,0.544,4,-9.96,0,0.0806,0,0.0903,0.437,158.726,360327,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Nonstop,Thriller (A cappella Tribute to Michael Jackson),4Z3Fr126NGq9ZA7PYqPPtY,0.765,0.522,8,-10.749,0,0.0314,4.27e-05,0.326,0.514,120.003,231075,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Cornell Class Notes,Full Disclosure,Set Fire to the Rain,0h5d8MMKGBk0ljzWdGiIdq,0.561,0.605,6,-7.371,1,0.033,0,0.113,0.377,109.898,236708,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Virginia Sil'hooettes,1989,Wings,2wzxw45aJ1Eje93o9q8ISq,0.732,0.692,11,-6.192,1,0.0427,0,0.0667,0.633,115.067,221160,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Cornell Class Notes,Black Tie Optional,Bottle It Up,7ymdyCLGj8WmlAtayA9n1f,0.678,0.62,0,-7.828,1,0.0632,0,0.564,0.771,128.907,181040,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Loreleis,Where the Secret Lies,Daddy Lessons,2GmUvhbLEly5ERfknrW3sb,0.648,0.59,9,-4.399,0,0.0293,1.46e-06,0.088,0.302,79.98,297541,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Clef Hangers,Pray,Pray,3HUsmE6j4afm7zWM3bprkW,0.303,0.444,4,-9.1,0,0.0432,0,0.134,0.0901,172.447,234812,3,Ryan Dieselman,A cappella,Ryan Dieselman
+On The Rocks,Sunset Blush,Love On Top,4hImkAx2pusr4un300V8eK,0.685,0.639,7,-6.055,1,0.0247,0,0.03,0.695,95.018,268107,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. 2",Hey Momma / Hit the Road Jack,2wUZek0zWyw5mGKoT8mRcG,0.569,0.767,7,-7.235,1,0.433,1.74e-05,0.0747,0.659,203.068,181333,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. 2",Daft Punk,6ukvsBzq4d1vBsAUmz7ZVt,0.717,0.621,11,-7.588,0,0.0605,0,0.144,0.72,133.014,248560,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. 2",Save the World / Don't Worry Child,1k69KJ5AsFwkbK5MOOxLHx,0.563,0.735,9,-7.305,0,0.0579,0,0.123,0.356,128.01,227760,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. 2",Run to You,1bukNCD9JEwNp235Ov0iZH,0.24,0.0622,0,-10.022,1,0.0327,0,0.104,0.176,85.495,265893,1,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. 1",Aha!,5AspukpHyZuTciR17YPSrS,0.527,0.761,3,-6.942,0,0.0437,4.3e-06,0.32,0.652,172.015,157840,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. III",Problem (Ariana Grande Cover),45h4cCw7ccsRXb0Orle2an,0.721,0.632,11,-8.721,0,0.0785,5.92e-06,0.106,0.722,108.099,148747,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,"PTX, Vol. III",La La Latch (Sam Smith/Disclosure/Naughty Boy Mashup),6fOqEAXCwboCO4BdzbZG1K,0.694,0.512,6,-8.719,0,0.0451,1.23e-06,0.152,0.394,121.999,221493,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,Pentatonix (Deluxe Version),Can't Sleep Love,1klGbW5a9qTBFUjFfddbmU,0.73,0.433,2,-7.05,1,0.0455,0,0.169,0.572,94.596,173053,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,Pentatonix (Deluxe Version),If I Ever Fall In Love (feat. Jason Derulo),3vaWsG3oKZt0bSra2p5c5R,0.403,0.477,10,-6.723,0,0.0384,0,0.314,0.399,141.719,194053,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,PTX Vol. IV - Classics,Imagine,1UaTmLT3nB1sNBfv1hkqU1,0.243,0.287,11,-9.429,1,0.0308,0,0.104,0.161,142.124,260400,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,PTX Vol. IV - Classics,Over The Rainbow,7MefjVBQqdV6XRXBlWejTQ,0.266,0.155,4,-11.253,0,0.0292,0,0.147,0.24,83.736,234213,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Straight No Chaser,Christmas Cheers (Deluxe),I'm Yours / Somewhere over the Rainbow - EP Version,1dlvJVzqW8BKVQauN8d3o5,0.426,0.313,0,-7.774,1,0.0429,0,0.097,0.416,77.483,214893,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Straight No Chaser,The New Old Fashioned (Deluxe),Shut up and Dance,4Q4G6wehDTKF8iHFC7L5pT,0.713,0.589,1,-5.972,1,0.0281,0,0.0407,0.681,126.872,167933,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Straight No Chaser,Christmas Cheers (Deluxe),The 12 Days of Christmas,5f5wlkRHWhYxOdp1hOUsTb,0.588,0.293,6,-12.385,1,0.316,0,0.378,0.482,107.991,178707,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Straight No Chaser,The New Old Fashioned (Deluxe),All About That Bass (No Tenors),5dPP4RkWKJIW7ituwdexB7,0.853,0.646,9,-8.354,1,0.104,0.000575,0.408,0.885,134.968,174720,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Straight No Chaser,Under the Influence (Ultimate Edition),Rolling in the Deep,2G75IkIY1hP4dBWAJUF9fZ,0.674,0.486,1,-7.004,1,0.0315,0,0.264,0.494,104.95,203960,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,Voices Only 2009 College A Cappella (Disc 2),Long Train Runnin',7fMtzz9biJEIa6jmwvFzKg,0.618,0.727,0,-6.584,0,0.0565,4.33e-05,0.0855,0.877,116.851,189027,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Audiophiles,Ain't No Rest for the Wicked,Ain't No Rest for the Wicked,54EgKOmELOsfZOYKfEGGjW,0.691,0.701,7,-3.956,0,0.135,0,0.348,0.575,149.977,214000,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Tufts Beelzebubs,In The Book,"Honey, I'm Good.",2pXwjXFHcX7S7gCLSU91zi,0.787,0.631,9,-6.978,1,0.0477,0,0.12,0.618,122.03,186280,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Overboard,Over and Over,Counting Stars,0v6Yxt1YqzFoEXalecTmwk,0.652,0.506,1,-7.998,0,0.0486,0,0.0877,0.338,124.067,244355,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Varsity Vocals,BOCA 1997-1998: Best Of College A Cappella,Man in the Mirror,6Mjv4gyD2ssn5puFaHAZAH,0.681,0.426,7,-10.738,1,0.037,0,0.102,0.387,101.74,271000,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Varsity Vocals,BOCA 1997-1998: Best Of College A Cappella,For What It's Worth,1Jw8UNPXouzkSJUles8nLn,0.608,0.447,5,-10.085,1,0.0294,0,0.144,0.889,110.673,145747,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Varsity Vocals,BOCA 1997-1998: Best Of College A Cappella,All I Want,5y8qIbNqO1LMC88i03AXGP,0.437,0.248,0,-13.877,1,0.0394,2.21e-05,0.056,0.7,130.521,197000,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Varsity Vocals,BOCA 2014: Best Of College A Cappella,Everybody Talks,4uJ9zT1WIdRQXY0cd71Pki,0.557,0.715,3,-5.549,1,0.0909,0,0.086,0.769,160.597,163141,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA: Best of College A Cappella 2013,Cherry Pie,2R1y1zdlsEOpzX13MEPiGD,0.531,0.908,7,-3.241,1,0.233,0,0.212,0.548,184.114,184430,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Exit 245,BOCA 2016: Best Of College A Cappella,Bang Bang,41O5Dh0QQF7x8djeNhCHzK,0.588,0.809,6,-4.098,1,0.11,0,0.17,0.803,151.134,201813,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA 2012: Best Of College A Cappella,The Fear,0zYVgkA8pqvX2mDKdzeowx,0.491,0.656,10,-7.262,1,0.0284,0.00011,0.123,0.222,134.965,204987,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA 2001: Best Of College A Cappella,Happy Together,3mBBUbZz7mEqLuav6GA0jL,0.581,0.496,5,-8.808,0,0.0375,0,0.123,0.555,121.293,170133,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Princeton Footnotes,It's Always Like This,Royals,4Oa9yfXEIrpTpztNjvUQNv,0.548,0.553,3,-8.089,1,0.0489,0,0.0792,0.665,169.613,194427,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Princeton Footnotes,It's Always Like This,Seven Bridges Road,2BhOSvtoIDZY7CovmfKm93,0.417,0.234,7,-9.236,1,0.0413,0,0.116,0.19,122.224,167533,3,Ryan Dieselman,A cappella,Ryan Dieselman
+Princeton Footnotes,It's Always Like This,Attention,1iF7QFvrvsDCEeLJAL5NB3,0.648,0.53,4,-7.758,0,0.0528,0,0.137,0.482,99.949,193400,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Princeton Footnotes,It's Always Like This,Stitches,5tDB6de3et0cQv7K7C2qhN,0.605,0.628,1,-7.414,1,0.0389,0,0.0961,0.501,151.011,204080,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA 2002: Best Of College A Cappella,Billie Jean/No Diggity (EP Remix),1kLBhDPlxjHBViatkKGfke,0.879,0.674,6,-9.047,0,0.0998,0,0.308,0.947,97.096,264600,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Dive Bar Saints,Cross That Bridge,60yZZFnGxacJhh7n0mTlYF,0.653,0.748,11,-5.849,1,0.041,6.78e-06,0.14,0.453,119.976,226099,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Juxtaposition,BOCA 2015: Best Of College A Cappella,Sweater Weather,1cV1Q5LrLF4NdLgp1XuRvw,0.62,0.72,0,-5.389,0,0.0336,6.46e-06,0.085,0.405,124.017,213733,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Hullabahoos,Derobed,Ain't No Mountain High Enough,4jgIfGP6C6KwA9Rwj4LMfW,0.647,0.602,7,-5.96,0,0.0272,0,0.0947,0.652,128.029,152587,4,Ryan Dieselman,A cappella,Ryan Dieselman
+UNC Achordants,Burnin' Up,Burnin' Up,0fEzD9JuCAuep1dh3wAUDv,0.622,0.922,11,-5.494,0,0.0714,0,0.322,0.658,114.979,174266,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Mind the Gap,Genesis,Rise / The Weekend,09SPPVAoMFnzBgd0rbTtlM,0.518,0.494,1,-7.444,0,0.0504,0,0.104,0.525,104.847,208260,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Brown Derbies,To Be Determined,Happier,2Cmk4vcKvob9OFwrEOTgwR,0.678,0.619,2,-7.382,0,0.032,0,0.187,0.382,101.029,188500,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Toccatatones,Ovation,Sober Up,1sJyuZFjT2PTogNgBg9r15,0.672,0.364,5,-9.721,1,0.0273,0,0.0717,0.588,92.99,221379,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Voices in Your Head,Begin Again,How Long,2HRGban9LXXVot0OtHEdld,0.241,0.447,0,-6.673,0,0.0334,0,0.197,0.145,98.939,293907,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The MIT Logarhythms,Do You Have This Room Reserved?,Never Too Much,7BJ7OliLAYtwlVhAikWh5N,0.754,0.456,11,-11.793,0,0.0502,3.45e-05,0.131,0.794,110.036,249106,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Tufts Beelzebubs,Full Rally,Never Give up on Me,37jqnwCcR13xvm6tPwjnWd,0.703,0.636,0,-7.575,1,0.0565,0,0.0427,0.7,111.086,176081,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Tufts Beelzebubs,Reboot,Who Do You Love,5H8R0llXeLDKXol9LHK1uD,0.707,0.549,1,-6.996,1,0.0383,0,0.0648,0.531,106.967,232292,4,Ryan Dieselman,A cappella,Ryan Dieselman
+VoicePlay,Mr. Blue Sky,Mr. Blue Sky,09TWprOiBQyzCqCeAhEY23,0.462,0.459,5,-9.972,1,0.0691,0,0.0964,0.794,203.639,156440,4,Ryan Dieselman,A cappella,Ryan Dieselman
+University Of Wisconsin MadHatters,All Nighter,Don't Stop Me Now,25lq3gto2ejIorTTOS0SFi,0.623,0.687,5,-5.809,1,0.0898,0,0.284,0.816,156.036,193280,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA 2011: Best Of College A Cappella,Sing A Song,4Rd5BlmkEVIL4vb2Zcr3ft,0.69,0.837,10,-5.63,0,0.0446,0,0.27,0.948,122.983,220107,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA 2011: Best Of College A Cappella,Awake,4zb4XtSzIP5kUqJUIKJu9u,0.23,0.198,8,-10.524,1,0.035,0,0.143,0.127,149.915,230333,3,Ryan Dieselman,A cappella,Ryan Dieselman
+Voices in Your Head,The Singles: In My Mind,We Found Love,5Kn4J8NqVJbV5Go1Th49xn,0.288,0.37,6,-10.148,1,0.0378,0.0001,0.0876,0.0759,134.016,225917,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Clef Hangers,Time Out,Don't Stop Believin',4nMMsOkmjoRAOCGASEDlCE,0.543,0.793,3,-3.979,1,0.0312,0,0.169,0.484,121.974,245413,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,"Voices Only 2013 College A Cappella, Vol. 1",Waka Waka (This Time for Africa),37x7PLzv5rAxTZAgfCInUx,0.725,0.742,1,-6.354,1,0.161,0,0.113,0.811,127.014,200562,4,Ryan Dieselman,A cappella,Ryan Dieselman
+On The Rocks,A Fifth,Bad Romance,1Gdq70zftwyR7AicLQ4lBY,0.666,0.721,9,-5.848,0,0.0407,0,0.0982,0.492,120.081,277547,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Voices in Your Head,The Singles: In My Mind,Titanium,65pNt1GsAUNVwCvsMXz976,0.654,0.503,0,-6.515,0,0.0358,6.49e-05,0.132,0.455,126.005,237166,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Virginia Gentlemen,Guys in Ties,Without You,1jY6wbLqCcKK8kY6sd2o6z,0.602,0.582,2,-4.629,1,0.0291,0,0.124,0.199,127.889,210867,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,BOCA: Best of College A Cappella 2013,Smooth Criminal,1VM7U86h178lOgV52BNzlJ,0.732,0.891,9,-5.859,0,0.0498,0,0.285,0.676,120.037,220711,4,Ryan Dieselman,A cappella,Ryan Dieselman
+The Dartmouth Aires,Extraordinaire,Crazy,6ij0QnFnUDGsXvHKn8txSp,0.769,0.52,10,-7.581,0,0.032,2.75e-05,0.0988,0.779,110.99,181547,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Acoustikats,The Acoustikats,Timber (feat. Emoni Wilkins),3rFhrvzer3WhYvEr23abuJ,0.617,0.799,8,-6.519,0,0.0676,0,0.142,0.675,129.905,211693,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Various Artists,Voices Only 2011 College A Cappella (Volume 1),Halo,5Qm8Ll86HwwH6U2ZLWOINf,0.405,0.655,7,-6.676,1,0.0389,0,0.0977,0.267,74.805,278200,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Voices in Your Head,Burn,Burn,7cTclbi0dv8VBIef7tdF2U,0.469,0.5,1,-8.678,1,0.0442,8.59e-05,0.119,0.272,130.09,274833,5,Ryan Dieselman,A cappella,Ryan Dieselman
+University of Rochester YellowJackets,Bad Bromance,You Belong With Me,2Z0NPlFmEVzBBjVaBu0R2T,0.683,0.707,2,-5.255,1,0.0276,2.98e-06,0.132,0.413,138.0,203693,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Academical Village People,Sorry for the Noise,Domino,5xaO0X7lb1YOUkA1yaYpvf,0.712,0.67,1,-7.559,1,0.0638,0,0.229,0.834,127.023,234104,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Back in Blue: Maximum A Cappella,"It Had Better Be Tonight ""Meglio stasera"" (A cappella Tribute to Michael Bublé)",4MMeitHscuLZcv5mzINIU1,0.788,0.615,1,-9.261,1,0.0454,0,0.333,0.462,109.017,206967,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pitch Slapped,Pitch Slapped - EP,Breakeven,6VXLQHs49KvnSQXaPrCBQh,0.617,0.621,10,-5.895,1,0.0303,0,0.131,0.591,92.019,197441,4,Ryan Dieselman,A cappella,Ryan Dieselman
+DCappella,Ev'rybody Wants to Be a Cat,Ev'rybody Wants to Be a Cat,3ONN78JiWa5GXa1KNKlpMu,0.683,0.388,5,-5.675,0,0.0324,0,0.111,0.714,107.754,160627,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,"Ultimate A Cappella Mashup: 25 Hits, 25 Years - Single","Ultimate A Cappella Mashup: 25 Hits, 25 Years",2ZGw2hi8B11APAU6v7rt5K,0.4,0.452,0,-9.465,1,0.076,0,0.129,0.534,150.036,223174,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Crazy Life,Wake Me Up,60Q0ZSKKBea7otGijFgrQI,0.712,0.554,3,-6.672,1,0.0337,0,0.19,0.369,116.91,193733,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Hyannis Sound,Over the Bridge,Call Me Maybe / What Makes You Beautiful,2qeGhGYTC0quepUOceljDH,0.466,0.647,2,-8.398,1,0.0954,0,0.288,0.575,124.537,240666,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Home Free,Crazy Life,Ring of Fire (feat. Avi Kaplan),5i9A1n1s82jh53IGLldPG6,0.714,0.503,7,-8.053,1,0.039,2.07e-05,0.124,0.339,104.882,141707,4,Ryan Dieselman,A cappella,Ryan Dieselman
+BYU Vocal Point,Spectrum,Just the Way You Are (A cappella tribute to Bruno Mars),0RcSZ53JAQhYsZF33mxYd0,0.56,0.592,7,-7.149,1,0.0295,0,0.069,0.206,109.995,212400,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Juxtaposition,The Juxta EP,Pompeii,5ZOQhiUTt4UtjME5GhtYeA,0.587,0.766,9,-4.901,1,0.0405,0,0.075,0.606,127.46,202498,4,Ryan Dieselman,A cappella,Ryan Dieselman
+Pentatonix,PTX,Rather Be (Clean Bandit Cover),05MiHFmBWu81TQ1gLz7AzB,0.8,0.536,11,-7.487,1,0.0432,1.2e-06,0.0762,0.677,122.031,212693,4,Ryan Dieselman,A cappella,Ryan Dieselman

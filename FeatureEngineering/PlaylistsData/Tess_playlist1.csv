@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Metallica,Metallica,Enter Sandman,5sICkBXVmaCQk5aISGR3x1,0.577,0.828,6,-8.691,0,0.0298,0.0114,0.0581,0.604,123.257,331267,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Remastered),Master Of Puppets,2MuWTIM3b0YEAskbeeFE1i,0.543,0.836,4,-9.11,0,0.0353,0.431,0.153,0.56,105.173,515387,4,Spotify,This Is Metallica,Tess
+Metallica,Garage Inc.,Whiskey In The Jar,2R6UrJ8uWbSIiHWmvRQvN8,0.511,0.97,10,-3.72,1,0.0414,0.00136,0.18,0.566,132.986,304693,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Remastered),For Whom The Bell Tolls - Remastered,2dXsILW8gzkosqleHAvl0v,0.518,0.858,0,-6.147,1,0.0672,0.00349,0.0598,0.249,117.897,309973,4,Spotify,This Is Metallica,Tess
+Metallica,Metallica,Nothing Else Matters,0nLiqZ6A27jJri2VCalIUs,0.553,0.362,4,-11.218,0,0.0263,6.01e-06,0.075,0.158,142.352,388267,3,Spotify,This Is Metallica,Tess
+Metallica,...And Justice For All,One,5IX4TbIR5mMHGE4wiWwKW0,0.437,0.695,7,-9.447,1,0.0617,0.0857,0.124,0.413,102.178,447440,3,Spotify,This Is Metallica,Tess
+Metallica,Reload,Fuel,6FUwPb4mGlUDbx42uspXaZ,0.49,0.951,1,-3.777,1,0.0477,0.0027,0.0314,0.589,106.946,269800,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Deluxe / Remastered),Fade To Black - Remastered,5nekfiTN45vlxG0eNJQQye,0.256,0.924,7,-6.685,1,0.113,0.234,0.114,0.28,113.574,417227,4,Spotify,This Is Metallica,Tess
+Metallica,Metallica,The Unforgiven,4aYLAF6ckQ5ooGGGM7sWAa,0.54,0.584,7,-9.579,1,0.0254,0.00296,0.253,0.244,139.261,386493,4,Spotify,This Is Metallica,Tess
+Metallica,Kill 'Em All (Remastered),Seek & Destroy - Remastered,28WmNsclKsrVmdv3tDmoYU,0.445,0.964,9,-5.493,1,0.282,0.0132,0.0773,0.448,140.817,414720,4,Spotify,This Is Metallica,Tess
+Metallica,Reload,The Unforgiven II,6nswV1Lz3OZkaiCJfmVUOa,0.497,0.89,8,-4.559,0,0.0445,0.00129,0.255,0.249,133.047,396440,4,Spotify,This Is Metallica,Tess
+Metallica,Garage Inc.,Turn The Page,1aXFBWnnPFRKUN7vuIA5h0,0.426,0.813,8,-3.963,1,0.0318,0.022,0.0937,0.228,149.013,366467,4,Spotify,This Is Metallica,Tess
+Metallica,Metallica,Sad But True,1PhLYngBKbeDtdmDzCg3Pb,0.633,0.846,7,-6.347,1,0.0337,0.00139,0.0762,0.448,89.23,323933,4,Spotify,This Is Metallica,Tess
+Metallica,Hardwired…To Self-Destruct (Deluxe),Hardwired,0QV3swr7L8MZr72lL2izV1,0.128,0.991,11,-3.289,1,0.0582,0.00362,0.219,0.53,186.124,189347,4,Spotify,This Is Metallica,Tess
+Metallica,Death Magnetic,The Day That Never Comes,13Uvqll8OQDjw3wDweIK9y,0.334,0.982,4,-2.293,0,0.0619,0.149,0.106,0.501,126.883,476267,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Remastered),Battery,6UB9mShVLbMm0W4e6vud4C,0.481,0.928,11,-8.799,0,0.0672,0.558,0.106,0.427,96.699,312360,4,Spotify,This Is Metallica,Tess
+Metallica,Metallica,Wherever I May Roam,22GbAGb80ZZNgm2yrBMnpR,0.55,0.824,9,-7.848,0,0.0347,0.00115,0.0865,0.332,131.387,403867,4,Spotify,This Is Metallica,Tess
+Metallica,Reload,The Memory Remains,6RbC38oDCIXD8V2AOU1Tjr,0.435,0.901,10,-3.694,0,0.0429,0.0072,0.185,0.547,143.646,279173,4,Spotify,This Is Metallica,Tess
+Metallica,Load,Until It Sleeps,2Iv4HSoMX2fDeXFcOJWyWX,0.568,0.92,8,-4.434,0,0.0297,0.0714,0.149,0.719,113.394,267933,4,Spotify,This Is Metallica,Tess
+Metallica,Garage Inc.,"Die, Die My Darling",0t7LcUic4qolMCysPrKeAd,0.438,0.976,10,-2.757,0,0.0576,0.0,0.194,0.791,178.03,146560,3,Spotify,This Is Metallica,Tess
+Metallica,Kill 'Em All (Remastered),Whiplash - Remastered,38fIaph07Kd8ZIN6l17ZJs,0.384,0.916,4,-6.468,0,0.0983,0.422,0.14,0.192,158.042,248547,4,Spotify,This Is Metallica,Tess
+Metallica,I Disappear,I Disappear,46tSt69Xw10Ej8Rn7wJmFt,0.536,0.928,1,-3.64,1,0.0498,6.56e-05,0.0411,0.46,122.655,266240,4,Spotify,This Is Metallica,Tess
+Metallica,Load,Mama Said,3dWNUqrgkQakv9fj5epwPK,0.448,0.504,8,-7.749,0,0.0317,0.000849,0.38,0.391,135.254,319693,4,Spotify,This Is Metallica,Tess
+Metallica,Metallica,Don't Tread On Me,2b7r6fN91KiHnp00aqHZ7x,0.677,0.835,4,-7.627,0,0.0411,0.00538,0.297,0.689,108.003,240333,4,Spotify,This Is Metallica,Tess
+Metallica,St. Anger,St. Anger,5JAnXx5BBES4FEf4d4t4CC,0.396,0.947,2,-2.652,0,0.0477,0.0179,0.089,0.443,93.043,441132,4,Spotify,This Is Metallica,Tess
+Metallica,Death Magnetic,All Nightmare Long,3e7wv9TChjWrnXHrk5NyBU,0.268,0.974,9,-2.948,1,0.114,0.00106,0.0772,0.342,182.095,477027,4,Spotify,This Is Metallica,Tess
+Metallica,Load,King Nothing,30RKGpKHqr7ytcTljw436k,0.527,0.907,8,-5.772,1,0.0377,0.00755,0.0891,0.364,112.089,329760,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Deluxe Box Set / Remastered),Welcome Home (Sanitarium) - Remastered,1FPSkRkDlthbAceSIIWc4C,0.306,0.766,0,-9.693,1,0.0329,0.101,0.102,0.42,96.668,387147,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Remastered),Fight Fire With Fire - Remastered,6ckozbGmOusAnLT2LEbERy,0.283,0.988,0,-7.017,1,0.111,0.728,0.0712,0.133,90.791,284507,4,Spotify,This Is Metallica,Tess
+Metallica,Death Magnetic,The Unforgiven III,0qbV4e18lWrTTxlswVoLbI,0.297,0.692,4,-5.625,0,0.0344,3.75e-06,0.115,0.103,121.52,466587,4,Spotify,This Is Metallica,Tess
+Metallica,...And Justice For All,Blackened,0Tp7uSZK21LZTbZRBNb9ud,0.445,0.802,4,-8.965,0,0.123,0.00202,0.112,0.499,129.037,400613,4,Spotify,This Is Metallica,Tess
+Metallica,Kill 'Em All (Deluxe / Remastered),The Four Horsemen - Remastered,2YTwVDQOSGclX2N3AKetOP,0.224,0.938,0,-6.907,1,0.408,0.0765,0.106,0.327,203.79,432547,4,Spotify,This Is Metallica,Tess
+James Newton Howard,Jungle Cruise (Original Motion Picture Soundtrack),Nothing Else Matters - Jungle Cruise Version Part 1,4PGBgDZAcUpAapDtfdX5Np,0.439,0.278,4,-20.265,0,0.0303,0.929,0.116,0.191,150.176,86907,3,Spotify,This Is Metallica,Tess
+Metallica,Load,Hero Of The Day,0rDPQzWWmLTv9deHn4ulG7,0.35,0.902,8,-7.125,1,0.0357,0.0425,0.111,0.78,115.909,261907,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Deluxe Remaster),Creeping Death (Remastered),4q9QVIaLqjbcoqeCfM2zan,0.31,0.977,6,-5.478,0,0.164,0.273,0.0785,0.179,100.626,395707,4,Spotify,This Is Metallica,Tess
+Metallica,Kill 'Em All (Remastered),Motorbreath - Remastered,6RqEJvpEzzlwj8g0wKG1ln,0.289,0.934,1,-6.085,1,0.157,0.0515,0.086,0.347,173.872,187840,4,Spotify,This Is Metallica,Tess
+Metallica,S&M,No Leaf Clover - Live,2UIuYNBg8r5pkoG2MjdLZT,0.246,0.95,3,-5.034,0,0.107,0.00166,0.959,0.359,151.568,343200,4,Spotify,This Is Metallica,Tess
+Metallica,Hardwired…To Self-Destruct,Moth Into Flame,3JjZq20Kv6UphyyirAaY9A,0.163,0.977,4,-3.585,0,0.0591,0.0052,0.0555,0.369,178.44,350644,4,Spotify,This Is Metallica,Tess
+J Balvin,Wherever I May Roam,Wherever I May Roam,7qCHqtiSiX3T09ErW718yQ,0.685,0.731,5,-6.121,1,0.033,0.0,0.372,0.171,128.968,158573,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Deluxe Remaster),Ride The Lightning (Remastered),36DLF96pjKydN0MZtsahQz,0.265,0.973,9,-6.129,1,0.173,0.0942,0.205,0.27,148.506,396987,4,Spotify,This Is Metallica,Tess
+Metallica,...And Justice For All,Harvester Of Sorrow,1V3wAgMB4ESaN4rStlrUNz,0.658,0.842,4,-8.851,0,0.0397,0.0771,0.316,0.643,93.115,345707,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Remastered),Leper Messiah,6XN00D9ejjEt1cW1sY44Gu,0.379,0.808,4,-8.605,1,0.0684,0.794,0.322,0.557,138.694,339880,4,Spotify,This Is Metallica,Tess
+Metallica,Ride The Lightning (Remastered),Trapped Under Ice - Remastered,3J8jTThxk8GtxyoupHtyrb,0.252,0.988,9,-5.291,1,0.203,0.0451,0.0516,0.0529,162.945,244067,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Deluxe Box Set / Remastered),Orion - Remastered,3z9e5b0P7zoIeV6I3iyX8O,0.365,0.67,9,-10.014,1,0.0386,0.892,0.111,0.4,128.488,507227,4,Spotify,This Is Metallica,Tess
+Metallica,...And Justice For All,...And Justice For All,0eXz8pS25MoeUguNPR9VvD,0.547,0.799,9,-7.47,1,0.128,0.0955,0.0612,0.409,86.634,586507,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Remastered),The Thing That Should Not Be,7vFC68CBMKu99p4tIz6yzx,0.679,0.719,9,-10.134,1,0.032,0.354,0.128,0.445,111.792,396107,4,Spotify,This Is Metallica,Tess
+Metallica,Reload,Devil's Dance,3IHyDrQOASm7R0WBamMJO8,0.611,0.792,0,-4.836,0,0.0327,0.146,0.0587,0.477,92.609,318960,4,Spotify,This Is Metallica,Tess
+Metallica,Kill 'Em All (Remastered),Jump In The Fire - Remastered,4fVBFyglBhMf0erfF7pBJp,0.29,0.908,5,-5.677,0,0.106,0.0118,0.33,0.659,178.359,281293,4,Spotify,This Is Metallica,Tess
+Metallica,...And Justice For All,Eye Of The Beholder,7p2yIOf8YXJUSmUnG3TAWr,0.65,0.798,2,-9.242,1,0.0434,0.00306,0.0988,0.584,122.024,390027,4,Spotify,This Is Metallica,Tess
+Metallica,Master Of Puppets (Remastered),Disposable Heroes,4tPHBRIPsB55nssjvKDbjj,0.292,0.931,4,-7.618,0,0.0919,0.468,0.0901,0.427,90.61,496627,4,Spotify,This Is Metallica,Tess

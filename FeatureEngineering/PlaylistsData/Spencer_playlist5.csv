@@ -1,0 +1,97 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+Kings of Leon,Only By The Night,Sex on Fire,0ntQJM78wzOLVeCUAW7Y45,0.542,0.905,9,-5.653,1,0.054,0.0104,0.136,0.374,153.398,203347,4,Mako,BOTB,Spencer
+Shinedown,Threat to Survival,Asking for It,3Tp7y0bLogDQsIO5tTTOH4,0.449,0.971,10,-3.66,1,0.0476,0.0,0.141,0.414,144.031,210707,4,Mako,BOTB,Spencer
+Quiet Riot,Quiet Riot - Greatest Hits,Cum on Feel the Noize,6FBmHx1FuaSnTnnnaThgbF,0.441,0.908,11,-4.627,0,0.115,0.00328,0.0612,0.632,145.439,287400,4,Mako,BOTB,Spencer
+Volbeat,Seal The Deal & Let's Boogie,The Devil's Bleeding Crown,79M3Eq1q61lkeQJ1OCVEdZ,0.32,0.909,7,-4.612,1,0.0412,0.139,0.0443,0.21,109.649,238653,3,Mako,BOTB,Spencer
+Pop Evil,UP,Footsteps,47StfXJOnGLhYfMEWgoTiX,0.641,0.732,5,-7.57,1,0.0795,2.61e-06,0.062,0.763,92.057,262107,4,Mako,BOTB,Spencer
+Green Day,Revolution Radio,Bang Bang,278Ao6KQDxWGGszv24uvhI,0.499,0.958,9,-5.417,1,0.0898,2.19e-06,0.432,0.359,127.491,205440,4,Mako,BOTB,Spencer
+Ghost,Meliora (Deluxe Edition),Square Hammer,2XgTw2co6xv95TmKpMcL70,0.53,0.903,2,-4.396,0,0.0483,0.182,0.259,0.747,129.983,239293,4,Mako,BOTB,Spencer
+Dinosaur Pile-Up,Eleven Eleven,11:11,5AmRSaXNKncfz6IgjFbuHx,0.572,0.803,1,-6.469,1,0.0616,0.66,0.49,0.841,94.972,244678,4,Mako,BOTB,Spencer
+Spacehog,Resident Alien,In the Meantime,02lTDOxHeXTHsdwXoz6lpC,0.269,0.895,9,-6.382,1,0.118,0.00266,0.153,0.16,168.479,299507,4,Mako,BOTB,Spencer
+Rise Against,Appeal To Reason,Savior,3asFGFY3uLjMDmML1p0tYm,0.339,0.931,5,-3.425,0,0.062,0.000142,0.425,0.467,112.548,242280,4,Mako,BOTB,Spencer
+Papa Roach,Infest,Last Resort,5eek2X5459T1HoYJk2CKXv,0.581,0.887,4,-3.659,0,0.0624,0.00111,0.268,0.724,90.578,199893,4,Mako,BOTB,Spencer
+Lit,A Place In The Sun,My Own Worst Enemy,33iv3wnGMrrDugd7GBso1z,0.494,0.946,4,-2.757,1,0.0637,0.0,0.398,0.741,103.408,169027,4,Mako,BOTB,Spencer
+Disturbed,Immortalized,Open Your Eyes,34bimdZj8GMHEt8BiKVmie,0.579,0.973,5,-2.152,0,0.09,0.0567,0.226,0.677,116.025,237347,4,Mako,BOTB,Spencer
+blink-182,California,Bored To Death,44TuSOP6xIAEeJmZsN3nXO,0.502,0.966,0,-3.876,1,0.0946,1.56e-06,0.117,0.638,159.948,235613,4,Mako,BOTB,Spencer
+Jimmy Eat World,Bleed American,Sweetness,18IqyOGs1pRNZfbMo93r57,0.491,0.888,5,-4.412,1,0.038,0.0,0.286,0.656,135.253,220027,4,Mako,BOTB,Spencer
+Green Day,American Idiot,Holiday / Boulevard of Broken Dreams,0MsrWnxQZxPAcov7c74sSo,0.29,0.827,8,-3.451,1,0.0362,2.55e-06,0.301,0.45,167.086,493400,4,Mako,BOTB,Spencer
+Eve 6,Eve 6,Inside Out,4GiVcDqNQI0fc0yYuRGH9m,0.483,0.818,11,-7.666,1,0.0444,0.0,0.367,0.691,175.668,219467,4,Mako,BOTB,Spencer
+Cracker,Get On With It: The Best Of,Low,3zOvCNuRh0hX0Bua4eWJbs,0.437,0.676,7,-5.607,1,0.0253,0.00456,0.145,0.444,86.832,274573,4,Mako,BOTB,Spencer
+Collective Soul,"Hints, Allegations & Things Left Unsaid",Shine,1HZ3cUZUw5htSFmah1V8Ko,0.54,0.423,6,-8.799,1,0.0283,0.0884,0.152,0.353,150.135,306040,4,Mako,BOTB,Spencer
+Aerosmith,Aerosmith's Greatest Hits,Come Together,08yfTLT6ei3j15382V1foN,0.409,0.512,9,-12.215,0,0.0291,7.67e-05,0.493,0.652,172.424,224600,4,Mako,BOTB,Spencer
+The Smashing Pumpkins,Mellon Collie And The Infinite Sadness (Remastered),1979 - Remastered 2012,3Y8Ff1nH44jFywAtpgmleZ,0.767,0.787,3,-9.897,1,0.0331,0.583,0.0513,0.964,126.879,266200,4,Mako,BOTB,Spencer
+Everclear,So Much For The Afterglow,Everything To Everyone,1ehYgygYqN9SRpTMYT1zYV,0.646,0.945,0,-5.689,1,0.0473,1.53e-05,0.0599,0.796,100.027,200267,4,Mako,BOTB,Spencer
+Queens of the Stone Age,Songs For The Deaf,No One Knows,6NvRxjfYkkT2SpirAlmsjH,0.507,0.588,0,-4.881,1,0.0641,0.000129,0.373,0.637,170.889,278707,4,Mako,BOTB,Spencer
+Puddle Of Mudd,Come Clean,She Hates Me,1uwTmwkjv7wFImfzegvdI6,0.575,0.746,4,-5.393,1,0.0326,0.0,0.768,0.607,109.789,216640,4,Mako,BOTB,Spencer
+Beastie Boys,Licensed To Ill,Girls,5h40ovzXu7rF7Giwb9oXYy,0.873,0.808,0,-6.729,0,0.0466,0.0,0.357,0.933,139.676,132707,4,Mako,BOTB,Spencer
+Three Days Grace,One-X,Animal I Have Become,56sk7jBpZV0CD31G9hEU3b,0.553,0.853,8,-3.668,1,0.0339,0.0,0.126,0.506,122.023,231400,4,Mako,BOTB,Spencer
+Rise Against,The Black Market,I Don’t Want To Be Here Anymore,6qtg4gz3DhqOHL5BHtSQw8,0.236,0.971,6,-3.98,0,0.0987,3.87e-05,0.172,0.403,159.001,239960,4,Mako,BOTB,Spencer
+Blur,Blur: The Best Of,Song 2,3GfOAdcoc3X5GPiiXmpBjK,0.658,0.709,8,-6.736,1,0.0904,0.00447,0.0657,0.855,129.701,121880,4,Mako,BOTB,Spencer
+Taproot,Welcome,Poem,7mQwxVogsnpR3h6AJLQLlR,0.364,0.912,7,-2.968,1,0.107,0.0025,0.086,0.666,105.368,189200,4,Mako,BOTB,Spencer
+Green Day,Insomniac,Brain Stew,1nLnpLXvl68RZCSjfkyiaa,0.559,0.543,1,-5.429,1,0.302,2e-05,0.0577,0.337,75.958,193000,4,Mako,BOTB,Spencer
+AFI,DECEMBERUNDERGROUND,Miss Murder,0Ti2dlF2xLjXblvdU5fCxM,0.308,0.873,8,-4.542,1,0.0533,0.000729,0.0974,0.686,143.519,206587,4,Mako,BOTB,Spencer
+My Chemical Romance,The Black Parade,Welcome to the Black Parade,5wQnmLuC1W7ATsArWACrgW,0.217,0.905,2,-4.103,1,0.0752,0.00011,0.222,0.236,96.95,311107,4,Mako,BOTB,Spencer
+Puddle Of Mudd,Best Of,Psycho,4raMVghwcPZLE95KYSVAss,0.578,0.894,1,-3.56,1,0.0586,0.0,0.282,0.454,126.026,210653,4,Mako,BOTB,Spencer
+Highly Suspect,The Boy Who Died Wolf,Little One,5y1jgbDNgTfxoWXv3FhH2Q,0.474,0.351,7,-7.533,1,0.0292,7.35e-06,0.112,0.104,139.827,241533,3,Mako,BOTB,Spencer
+Orgy,Candyass,Blue Monday,5267gVdYWrLoz6ClOhlqmE,0.589,0.696,8,-8.109,1,0.034,3.43e-05,0.0779,0.938,129.833,267000,4,Mako,BOTB,Spencer
+Powerman 5000,Tonight The Stars Revolt,When Worlds Collide,6aF5JtQSrh7wNrkDE9B0My,0.56,0.903,11,-4.77,1,0.0754,0.0,0.291,0.581,143.821,177960,4,Mako,BOTB,Spencer
+Seether,Finding Beauty In Negative Spaces (Bonus Track Version),Fake It,4eAwB5pnKFTmsgc3zWoYO0,0.611,0.95,8,-3.509,1,0.0518,1.59e-06,0.0543,0.607,132.078,193893,4,Mako,BOTB,Spencer
+Tonic,A Casual Affair - The Best Of Tonic,If You Could Only See,7H5OQN4iv3cKE3ZNP5Mbct,0.408,0.941,10,-4.122,0,0.0521,0.0,0.152,0.48,95.323,263280,4,Mako,BOTB,Spencer
+Korn,Follow The Leader,Freak On a Leash,7B9S4RiRczdw1B9ddjpFe8,0.339,0.891,2,-6.527,1,0.0522,0.115,0.388,0.542,102.925,255333,4,Mako,BOTB,Spencer
+Korn,The Serenity of Suffering,Take Me,3cdaqIaPz4QMr8lTu4PYrv,0.371,0.851,2,-3.712,1,0.125,4e-05,0.0951,0.515,104.033,180160,4,Mako,BOTB,Spencer
+Marilyn Manson,Lest We Forget - The Best Of,The Beautiful People,3Kw4KEYQg6JaqUD8ZgAwz6,0.609,0.95,9,-4.898,1,0.116,0.06,0.0433,0.771,144.017,222773,4,Mako,BOTB,Spencer
+Alien Ant Farm,Anthology,Smooth Criminal,5z6xHjCZr7a7AIcy8sPBKy,0.653,0.964,9,-4.261,0,0.0582,0.00512,0.144,0.87,126.928,209267,4,Mako,BOTB,Spencer
+Bush,The Science Of Things (Remastered),The Chemicals Between Us,4PMfVdotyZYRi0CMwjOAvS,0.511,0.959,7,-3.945,1,0.145,0.0287,0.296,0.436,97.666,217493,4,Mako,BOTB,Spencer
+Radiohead,Creep,Creep,5ah63mDLedBAPJrPCxhtt5,0.532,0.344,7,-13.057,1,0.035,0.000473,0.115,0.126,91.834,235667,4,Mako,BOTB,Spencer
+Rise Against,Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness,Prayer Of The Refugee,3wTyLh0vhP3dN5yv0Mti17,0.198,0.977,3,-3.499,0,0.173,4.62e-05,0.23,0.351,195.795,199387,4,Mako,BOTB,Spencer
+Pantera,Vulgar Display of Power,Walk,7fcfNW0XxTWlwVlftzfDOR,0.43,0.704,1,-8.008,0,0.0804,0.00221,0.0933,0.703,118.242,315120,4,Mako,BOTB,Spencer
+Beastie Boys,Licensed To Ill,Fight For Your Right,5NLuC70kZQv8q34QyQa1DP,0.503,0.858,8,-6.296,1,0.0657,0.00234,0.0803,0.419,133.615,208653,5,Mako,BOTB,Spencer
+Rob Zombie,Best Of/20th Century,Dragula,4JaJuGSfhcA7kavdgS3yn6,0.568,0.95,0,-6.187,0,0.0639,5.92e-06,0.0754,0.572,125.046,222987,4,Mako,BOTB,Spencer
+Nirvana,Nevermind (Remastered),Smells Like Teen Spirit,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,1,0.0564,0.000173,0.106,0.72,116.761,301920,4,Mako,BOTB,Spencer
+Seether,Isolate And Medicate,Same Damn Life,5tkcQeBaeM1ZoNs2YUOmnz,0.595,0.949,5,-4.327,1,0.0476,4.24e-05,0.306,0.772,117.97,199707,4,Mako,BOTB,Spencer
+Live,Throwing Copper,I Alone,3LpnzPxkMI6XS4JCbhNeek,0.396,0.817,6,-7.282,1,0.045,0.00417,0.372,0.0992,90.264,231133,4,Mako,BOTB,Spencer
+Nine Inch Nails,With Teeth,The Hand That Feeds,5ugzDiilhy6ILKmKfhEzd7,0.587,0.99,0,-4.496,1,0.0783,0.000668,0.104,0.486,127.992,211680,4,Mako,BOTB,Spencer
+Thrice,Black Honey,Black Honey,4FX7dhugVxsKsyC4DgwJyM,0.442,0.892,9,-6.431,0,0.086,7.92e-06,0.0758,0.237,151.914,239451,4,Mako,BOTB,Spencer
+Rise Against,Endgame,Satellite,5sG3G54H21hNfd5etlheoe,0.387,0.94,5,-4.16,0,0.0528,0.0,0.0759,0.444,134.876,238573,4,Mako,BOTB,Spencer
+Metallica,Reload,Fuel,0NdidkH0EQwG7mx6F6SDkI,0.491,0.951,1,-3.775,1,0.0465,0.00354,0.0424,0.555,106.948,269733,4,Mako,BOTB,Spencer
+Sublime,Sublime Greatest Hits,Doin' Time,4mAqG6KNWZQiekSthr2QtL,0.711,0.724,7,-5.97,1,0.0851,3.81e-06,0.141,0.482,80.975,251120,4,Mako,BOTB,Spencer
+Rise Against,The Sufferer & The Witness,The Good Left Undone,3Effll2C7OnP2isgbVPJje,0.179,0.979,1,-3.803,0,0.145,1.72e-06,0.131,0.524,197.022,181453,5,Mako,BOTB,Spencer
+Beastie Boys,Licensed To Ill,No Sleep Till Brooklyn,5qxChyzKLEyoPJ5qGrdurN,0.712,0.691,8,-8.157,1,0.128,0.0,0.0538,0.742,97.022,246933,4,Mako,BOTB,Spencer
+Papa Roach,To Be Loved: The Best Of Papa Roach (Edited Version),Getting Away With Murder,02MjAy2BTPTdqO19O5VtHO,0.557,0.959,1,-4.632,1,0.0547,8.04e-05,0.233,0.331,103.887,190587,4,Mako,BOTB,Spencer
+Disturbed,The Sickness (10th Anniversary Edition),Down with the Sickness,4ImIJRZNJhNQLLdUFSYJoS,0.649,0.896,10,-2.704,0,0.056,1.19e-05,0.102,0.924,90.009,278707,4,Mako,BOTB,Spencer
+Highly Suspect,The Boy Who Died Wolf,My Name Is Human,1euszbbvkUzQzIhZUWFmXG,0.515,0.698,2,-5.572,0,0.0279,8.64e-05,0.0827,0.194,139.96,258773,4,Mako,BOTB,Spencer
+Stone Sour,Come What(ever) May [Special Edition],Through Glass,76aadnUFFANRNDs6L3aqxw,0.545,0.753,3,-4.618,0,0.036,0.0,0.389,0.434,105.754,282947,4,Mako,BOTB,Spencer
+The Offspring,Americana,Pretty Fly (For a White Guy),15HadeuRG9THazDGzLH8ZU,0.72,0.898,11,-3.701,0,0.0997,0.0,0.0675,0.964,143.431,188107,4,Mako,BOTB,Spencer
+Metallica,...And Justice For All,One,64Ret7Tf2M8pDE4aqbW2tX,0.444,0.703,7,-9.443,1,0.0641,0.0761,0.127,0.419,106.228,447440,4,Mako,BOTB,Spencer
+Rise Against,Wolves,The Violence,12C6ufD5zOWsQGHQY7aXRM,0.294,0.92,10,-2.471,0,0.0635,0.000232,0.0804,0.582,184.007,228720,4,Mako,BOTB,Spencer
+Nine Inch Nails,The Downward Spiral,Closer,39tLc4Xp58Lu4KcWHggeE2,0.559,0.725,10,-8.631,0,0.0426,0.553,0.112,0.501,90.012,373307,4,Mako,BOTB,Spencer
+Sublime,Sublime Greatest Hits,Wrong Way,6uUqBB6wXrcIJWssTRfIYE,0.663,0.671,9,-6.103,1,0.0395,0.0,0.107,0.955,74.453,136360,4,Mako,BOTB,Spencer
+Rage Against The Machine,Renegades,Renegades Of Funk,5YBVDvTSSSiqv7KZDeUlXA,0.651,0.908,2,-4.019,1,0.0577,0.000579,0.384,0.769,123.851,274160,4,Mako,BOTB,Spencer
+Live,Throwing Copper,Selling The Drama,5y9ivD2g37FSCEJpfhG7d5,0.451,0.907,6,-6.705,1,0.0647,0.000338,0.14,0.366,124.375,205693,4,Mako,BOTB,Spencer
+Marcy Playground,Marcy Playground,Sex & Candy,5mkGfmJGFZpwK9nA5amOhv,0.67,0.558,2,-9.159,1,0.0251,0.0,0.106,0.63,80.511,173493,4,Mako,BOTB,Spencer
+Five Finger Death Punch,Got Your Six (Deluxe),Wash It All Away,1CFnHmGq4pZFadNvh9PSir,0.491,0.987,4,-3.063,1,0.0786,0.0,0.254,0.32,123.477,224906,4,Mako,BOTB,Spencer
+Shinedown,Threat to Survival,Cut the Cord,4LFBVDJV0xpayUvquQVzhS,0.447,0.966,7,-2.966,1,0.089,0.000198,0.312,0.533,178.105,224597,4,Mako,BOTB,Spencer
+Avenged Sevenfold,City of Evil,Bat Country,3sHH7lklbfpcraDDvYnjo7,0.541,0.968,0,-4.129,1,0.0396,8.28e-06,0.423,0.505,125.04,311813,4,Mako,BOTB,Spencer
+Alien Ant Farm,Anthology,Movies,0DVxWV6V1nWa7Ml68Frd3D,0.55,0.934,9,-5.076,1,0.0595,0.000736,0.18,0.527,112.846,195707,4,Mako,BOTB,Spencer
+CAKE,Fashion Nugget,The Distance,0xMEF2WiqKWTIG7Krjungw,0.463,0.749,11,-8.118,0,0.0894,0.00221,0.0558,0.888,183.054,179653,4,Mako,BOTB,Spencer
+Bush,Sixteen Stone (Remastered),Glycerine,0l9l90a1zB3wUObtwWbqHy,0.447,0.337,5,-11.402,1,0.0325,0.00124,0.0945,0.0827,114.422,266493,4,Mako,BOTB,Spencer
+Limp Bizkit,Significant Other,Nookie,1TEZWG1FdjzDdercCguTwj,0.573,0.929,11,-5.996,1,0.082,0.0723,0.718,0.284,97.57,289560,4,Mako,BOTB,Spencer
+Local H,Best Of Local H – The Island Years,Bound For The Floor,7izsUQjOYXVWkmFvEpTakb,0.627,0.489,6,-7.52,1,0.0557,0.00283,0.0537,0.543,119.201,223213,4,Mako,BOTB,Spencer
+System Of A Down,Toxicity,Chop Suey!,2DlHlPMa4M17kufBvI2lEN,0.417,0.934,7,-3.908,0,0.119,0.0015,0.132,0.287,127.066,210240,4,Mako,BOTB,Spencer
+The White Stripes,Elephant,Seven Nation Army,3ctoHckjyd13eBi2IDw2Ip,0.75,0.462,0,-7.664,1,0.0779,0.545,0.307,0.309,123.865,231800,4,Mako,BOTB,Spencer
+311,Transistor,Beautiful Disaster,0LtsuNRz3IMRrHCYO9fKRk,0.576,0.738,11,-8.122,1,0.0353,0.00131,0.13,0.675,168.132,238400,4,Mako,BOTB,Spencer
+Red Hot Chili Peppers,By the Way (Deluxe Edition),The Zephyr Song,1ndGB6rvxKYN9seCYO1dTF,0.725,0.803,2,-4.083,1,0.0337,3.66e-05,0.0891,0.403,117.391,231933,4,Mako,BOTB,Spencer
+Linkin Park,Hybrid Theory (Bonus Edition),One Step Closer,3K4HG9evC7dg3N0R9cYqk4,0.492,0.969,9,-4.419,1,0.0491,1.32e-06,0.0787,0.538,95.136,157333,4,Mako,BOTB,Spencer
+311,311 (Deluxe Version),Down,1zBFEYEwHKCahttaE2mhg7,0.44,0.935,6,-6.304,0,0.0692,1.77e-06,0.32,0.578,175.253,172053,4,Mako,BOTB,Spencer
+Chevelle,The North Corridor,Joyride (Omen),3uJpLFPywddM2hhqgcgzfN,0.45,0.937,0,-4.471,0,0.0786,0.714,0.102,0.27,91.011,217507,4,Mako,BOTB,Spencer
+Red Hot Chili Peppers,Californication (Deluxe Edition),Californication,48UPSzbZjgc449aqz8bxox,0.592,0.767,9,-2.788,0,0.027,0.00165,0.127,0.328,96.483,329733,4,Mako,BOTB,Spencer
+Red Hot Chili Peppers,Stadium Arcadium,Dani California,10Nmj3JCNoMeBQ87uw5j8k,0.556,0.913,0,-2.36,1,0.0437,8.59e-06,0.346,0.73,96.184,282160,4,Mako,BOTB,Spencer
+Red Hot Chili Peppers,Californication (Deluxe Edition),Otherside,64BbK9SFKH2jk86U3dGj2P,0.458,0.795,0,-3.265,1,0.0574,0.000202,0.0756,0.513,123.229,255373,4,Mako,BOTB,Spencer
+Red Hot Chili Peppers,Californication (Deluxe Edition),Scar Tissue,1G391cbiT3v3Cywg8T7DM1,0.595,0.717,0,-4.803,1,0.0295,0.00274,0.108,0.547,88.969,215907,4,Mako,BOTB,Spencer
+Trapt,Trapt,Still Frame,114bGIxUrj6vnZwWEfEdMP,0.445,0.932,4,-4.739,1,0.316,0.0,0.108,0.51,113.945,271093,4,Mako,BOTB,Spencer
+Butthole Surfers,Electriclarryland,Pepper,1ng36571Iyov4HBxUClySn,0.631,0.804,7,-5.492,1,0.166,0.00116,0.16,0.671,79.898,297267,4,Mako,BOTB,Spencer
+The Presidents Of The United States Of America,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,Lump,2JdzB67NvIa90K4gEZPLeX,0.499,0.873,6,-3.902,1,0.0386,0.0,0.165,0.864,142.726,134200,4,Mako,BOTB,Spencer
+Sublime,Sublime (Deluxe Edition),Santeria,70rXTQgWnZAvgptmoJnFWo,0.663,0.735,1,-5.14,0,0.0395,2.17e-06,0.124,0.566,90.101,183173,4,Mako,BOTB,Spencer
+Everclear,Sparkle And Fade,Santa Monica,37EJtTS7jT5WUyXGZzrwnI,0.491,0.942,7,-5.333,1,0.132,0.0,0.367,0.387,100.446,191507,4,Mako,BOTB,Spencer
+311,From Chaos,Amber,6Fe3Flc9SjE03pqwD6PVQl,0.663,0.697,0,-9.442,1,0.0473,0.0224,0.0663,0.744,166.001,206973,4,Mako,BOTB,Spencer
+Three Days Grace,Three Days Grace,I Hate Everything About You,0M955bMOoilikPXwKLYpoi,0.498,0.83,6,-5.157,0,0.0421,0.0,0.139,0.453,89.342,231480,4,Mako,BOTB,Spencer

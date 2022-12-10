@@ -1,0 +1,34 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,owner,playlist_name,user
+ford.,GOOD COMPANY,Intro,5cIJPBB0eP28YTGk1KKk3J,0.268,0.22,1,-17.55,1,0.0347,0.895,0.103,0.296,100.686,86400,4,Alaskan Tapes,Songs To Get Lost In,Uday
+marine eyes,idyll,idyll,0iSCObVRvtiWewp98bnxOb,0.104,0.166,6,-18.539,1,0.0431,0.962,0.0975,0.0347,91.709,369989,4,Alaskan Tapes,Songs To Get Lost In,Uday
+r beny,Saudade,Saudade,7qFCLh5oDqyENpEJatOQgT,0.252,0.2,3,-18.629,0,0.036,0.939,0.122,0.0419,70.736,228760,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Florist,If Blue Could Be Happiness,Instrumental 3,4GBsaLck5U9CaK8RveCNrb,0.319,0.0893,9,-25.075,1,0.0377,0.878,0.0725,0.0389,136.669,87809,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Gia Margaret,Mia Gargaret,apathy,2KDXCctJkNx43Z4b8pE6pS,0.326,0.0953,0,-25.197,1,0.0397,0.814,0.116,0.0382,79.087,189321,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Alaskan Tapes,Who Tends a Garden,Who Tends a Garden,2Lt0bFZb8rudzv6DYt5voS,0.187,0.22,4,-24.877,1,0.0449,0.908,0.0741,0.0899,129.855,280625,4,Alaskan Tapes,Songs To Get Lost In,Uday
+yes/and,yes/and,In My Heaven All Faucets Are Fountains,0oHzFMKbgcfYo0DKskooT8,0.327,0.14,0,-16.81,1,0.0325,0.936,0.105,0.0397,140.66,92664,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Emily A. Sprague,Water Memory,Water Memory 1,7x1ct7s9fVqkIWwbah9NO1,0.0657,0.0608,7,-28.669,0,0.0422,0.963,0.107,0.0699,66.706,448133,5,Alaskan Tapes,Songs To Get Lost In,Uday
+Sachi Kobayashi,Moon and Sea,Moonlight,2trN1TVJYCRDbwmL9jzauY,0.0751,0.0863,2,-25.063,1,0.0455,0.831,0.0478,0.0322,79.072,259715,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Yumiko Morioka,Resonance,Moon Road,6HIXHWmCdv0ZBLE0vmeh7P,0.39,0.096,5,-24.096,1,0.048,0.837,0.352,0.0725,128.293,319407,4,Alaskan Tapes,Songs To Get Lost In,Uday
+North Americans,Roped In,Memory of Lunch,2Hyr1HS16seL5t1oQymyIC,0.281,0.322,11,-12.94,1,0.0375,0.869,0.103,0.0855,106.837,153472,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Kaitlyn Aurelia Smith,EARS,Stratus,0DuKfzPUyHNS92DuruNqpK,0.49,0.0696,6,-21.54,0,0.0354,0.972,0.0635,0.0403,120.093,184587,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Marisa Anderson,Into the Light,Into the Light,2pppOI1nBYWiBAucgFsMX4,0.44,0.193,9,-17.316,0,0.0349,0.82,0.115,0.173,110.466,220143,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Chuck Johnson,Balsams,Riga Black,4miineBX8oWAros8wgRz3Y,0.07,0.0977,6,-16.551,0,0.0435,0.815,0.104,0.04,74.285,398080,4,Alaskan Tapes,Songs To Get Lost In,Uday
+The Album Leaf,In a Safe Place,Window,2aagSHemkQPt1MuBCkdXUc,0.232,0.0751,2,-18.418,1,0.053,0.959,0.0604,0.0345,74.647,224107,5,Alaskan Tapes,Songs To Get Lost In,Uday
+Various Artists,Breathing Instruments,Circulations,6pVKlg2YU7eu1uwHgOE3ZL,0.183,0.281,1,-18.891,1,0.0476,0.804,0.117,0.0793,124.132,348560,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Hollie Kenniff,The Quiet Drift,Sunset Chant,6xrr4uKP7SIUvYnTUs7ogU,0.0923,0.179,9,-14.459,0,0.0362,0.848,0.111,0.0335,88.229,199393,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Joe Hisaishi,Princess Mononoke Soundtrack,The Legend of Ashitaka,6JqEDCqvAQx4F1D8TuQMw1,0.105,0.0948,5,-15.682,0,0.0387,0.915,0.209,0.0471,80.378,99627,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Blithe Field,Face Always Toward the Sun,Milkshakes in the Rain,7onmk66snBIolREi7NDpbY,0.168,0.173,5,-13.457,1,0.0277,0.93,0.201,0.0633,78.036,219000,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Steve Kimock,Last Danger of Frost,Invariant,4O3aOJxH3YfhJGOKKln4HS,0.717,0.353,9,-10.144,1,0.0589,0.822,0.101,0.503,120.442,42947,4,Alaskan Tapes,Songs To Get Lost In,Uday
+William Tyler,Modern Country,Kingdom of Jones,5LVCkaTDTSNKATiOMdXNFJ,0.315,0.231,0,-12.781,1,0.0329,0.935,0.123,0.207,94.479,212455,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Hayden Pedigo,Letting Go,Carthage,5T2rPvGAbs5Z6CLXXbh3jX,0.392,0.223,3,-16.574,1,0.0343,0.679,0.09,0.0351,120.099,330000,4,Alaskan Tapes,Songs To Get Lost In,Uday
+John Fahey,"Death Chants, Breakdowns And Military Waltzes",Sunflower River Blues,1PAMHTdOQAmB7oxhVq2jUA,0.454,0.314,0,-13.838,1,0.0319,0.922,0.143,0.252,95.901,155600,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,By Morning,56ZcpuLIvcXjNzElV0E44Y,0.247,0.331,4,-19.136,1,0.0336,0.795,0.122,0.0453,67.998,133921,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Hazel Creek,353NsB5dTQG2GBPF9MIR29,0.161,0.103,4,-24.621,1,0.0497,0.905,0.377,0.0614,131.529,197652,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Mt. Angel,3pNQwzcCCBiUv54Pdox7yS,0.232,0.154,2,-18.884,1,0.039,0.795,0.258,0.0737,108.978,94267,3,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Late Afternooon,1fkyiw3r7ZZYLueLJmDejy,0.238,0.449,0,-15.043,1,0.0498,0.881,0.369,0.191,77.167,133505,5,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Riverside,5OKyjQUzCo9UZiEoU3oLwF,0.451,0.399,7,-14.154,1,0.059,0.827,0.118,0.115,80.971,96384,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Wandering,5NadpT2sGqe4xMimD1fa3g,0.117,0.354,5,-17.575,0,0.0399,0.9,0.111,0.0613,90.424,218166,5,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,So Well - Instrumental,1WDJAmqysSe2OrG98FmQXH,0.283,0.252,0,-18.496,1,0.0376,0.91,0.0995,0.122,75.989,188534,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Lake Flora,0H0UtI60bsgzNMplq4Qv06,0.169,0.489,4,-15.316,1,0.0492,0.923,0.185,0.114,131.848,67729,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,In Evenings,6dOmTilyPlZ7C6bIxbbdJw,0.226,0.127,4,-19.824,1,0.0416,0.922,0.165,0.035,56.666,152608,4,Alaskan Tapes,Songs To Get Lost In,Uday
+Ann Annie,By Morning,Memoir (Reprise),7tc8fvPfEdXaSH8SJK7rAB,0.355,0.145,0,-15.258,1,0.0442,0.908,0.153,0.0383,66.73,145878,3,Alaskan Tapes,Songs To Get Lost In,Uday
