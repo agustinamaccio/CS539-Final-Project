@@ -1,6 +1,6 @@
 Readme
 CS539 Machine Learning Project Website Fall 2022 (By Gabrielle Cabebe, Agustina Maccio, Tess Royds, Adityavikram Gurao, Uday Kumbhar)
-You can lookup the website :
+You can check the website :
 http://ady24kxy10.pythonanywhere.com/
 
 This is our project website for Machine Learning CS539 (Fall 2022). In this project, 
